@@ -1,0 +1,17 @@
+:root {
+  --ff-display: "Playfair Display", serif;
+  --ff-body: Inter, sans-serif;
+  --color-background: light-dark(#c9cacc, #354545);
+  --color-border: light-dark(#212929, #f2f2f2); 
+  --color-text: light-dark(#212929, #f2f2f2); 
+
+  color-scheme: light dark;
+
+  @media (prefers-color-scheme: dark) {
+    color-scheme: dark;
+  }
+
+  @media (prefers-color-scheme: light) {
+    color-scheme: light;
+  }
+}

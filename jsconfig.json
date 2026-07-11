@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "node16",
+    "moduleResolution": "node16",
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    "types": ["bun-types"]
+  },
+  "exclude": ["node_modules", "dist"]
+}
