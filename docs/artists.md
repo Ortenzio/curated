@@ -41,13 +41,13 @@
 [Landscape](https://www.pafa.org/museum/collection/item/landscape-17)
 
 ### José Jiménez Aranda
-[$$ A Slave for sale](https://www.museodelprado.es/en/the-collection/art-work/a-slave-for-sale/b3518d0b-99c8-4955-9fdf-a9ad2ac19f7b)
+[# A Slave for sale](https://www.museodelprado.es/en/the-collection/art-work/a-slave-for-sale/b3518d0b-99c8-4955-9fdf-a9ad2ac19f7b)
 
 ### Matland Armstrong
 [The Bar, Bar Harbor, Mt. Desert](https://collection.mam.org/details.php?id=18392)
 
 ### Gioacchino Assereto
-[$$ Saint Augustine and Saint Monica](https://collections.artsmia.org/art/18347/saint-augustine-and-saint-monica-gioacchino-assereto)
+[# Saint Augustine and Saint Monica](https://collections.artsmia.org/art/18347/saint-augustine-and-saint-monica-gioacchino-assereto)
 [$ The Angel appears to Hagar and Ishmael](https://www.nationalgallery.org.uk/paintings/gioacchino-assereto-the-angel-appears-to-hagar-and-ishmael)
 
 ### Teodor Axentowicz
@@ -1325,8 +1325,8 @@
 [Two Children and Cats](https://hoodmuseum.dartmouth.edu/objects/2011.53)
 
 ### John Sloan
+[# Dolly with a Black Bow](https://whitney.org/collection/works/815)
 [A Young Boy](https://collection.mam.org/details.php?id=29612)
-[Dolly with a Black Bow](https://whitney.org/collection/works/815)
 [Iolanthe](https://emuseum.delart.org/objects/2413/iolanthe?ctx=d88897dcf59c8da3b23882ff77028d31b8b1e857&idx=26)
 [Katherine Sehon (Rose Feather Hat)](https://collection.mam.org/details.php?id=1388)
 
@@ -1340,7 +1340,7 @@
 [The Town Crier](https://collection.mam.org/details.php?id=10795)
 
 ### Louis Mayer
-[$$ Lady in Black](https://collection.mam.org/details.php?id=16172)
+[# Lady in Black](https://collection.mam.org/details.php?id=16172)
 
 ### Frank Blackwell Mayer
 [Lesiure and Labor](https://www.nga.gov/artworks/166461-leisure-and-labor)
@@ -1349,17 +1349,17 @@
 [Horizontal Horse's or Mule's Skull with Feather](https://collection.mam.org/details.php?id=5232)
 
 ### Max Pietschmann
-[$$ Study of a Model](https://collection.mam.org/details.php?id=38470)
+[# Study of a Model](https://collection.mam.org/details.php?id=38470)
 
 ### Richard Mayhew
 [Morning Bush](https://whitney.org/collection/works/1634)
 
-### Manuel Domínguez Sánchez
+### Manuel Domínguez Sánchez y Vela
 [$$ Antonio del Val](https://www.museodelprado.es/en/the-collection/art-work/antonio-del-val/c61d8469-dde0-4dbd-b4ab-d9005cdd04d4)
 [$ The Death of Seneca](https://www.museodelprado.es/en/the-collection/art-work/the-death-of-seneca/7a5faebf-1111-4d01-bc18-c47c771533c0)
 
 ### Diego Velázquez
-[$$ Juan de Pareja](https://www.metmuseum.org/art/collection/search/437869)
+[# Juan de Pareja](https://www.metmuseum.org/art/collection/search/437869)
 
 ### Follower of Diego Velázquez
 [Pope Innocent X](https://www.nga.gov/artworks/87-pope-innocent-x)
@@ -1368,7 +1368,7 @@
 [Richard Humphreys, the Boxer](https://www.metmuseum.org/art/collection/search/436691)
 
 ### Edward Hopper
-[$$ Jo Painting](https://whitney.org/collection/works/5905)
+[# Jo Painting](https://whitney.org/collection/works/5905)
 [$ Portrait of Model, Jimmy Corsi](https://whitney.org/collection/works/6014)
 [Portrait of Hettie Duryea Meade](https://whitney.org/collection/works/6038)
 [Portrait of an Old Woman](https://whitney.org/collection/works/6035)
@@ -1414,7 +1414,7 @@
 [The British Fleet Forming a Line off Algiers](https://collections.mfa.org/objects/32602/the-british-fleet-forming-a-line-off-algiers?ctx=4e36dcde-6935-4c98-940b-4cfc60f8c657&idx=4)
 
 ### Léon-François-Antoine Fleury
-[$$ The Tomb of Caecilia Metella](https://www.nga.gov/artworks/130898-tomb-caecilia-metella)
+[# The Tomb of Caecilia Metella](https://www.nga.gov/artworks/130898-tomb-caecilia-metella)
 
 ### Norman Rockwell
 [Portrait of Ruth Pine Furniss](https://high.org/collection/portrait-of-ruth-pine-furniss/)
@@ -1430,7 +1430,7 @@
 [Portait of a Man](https://www.artic.edu/artworks/31176/portrait-of-a-man)
 
 ### James R. Hopkins
-[$# Kentucky Mountaineer](https://www.artic.edu/artworks/71575/kentucky-mountaineer)
+[# Kentucky Mountaineer](https://www.artic.edu/artworks/71575/kentucky-mountaineer)
 
 ### William Morris Hunt
 [# Priscilla](https://collections.mfa.org/objects/33903/priscilla?ctx=7d7d823e-6ab0-4386-8549-e9939fefebd8&idx=1080)
@@ -1754,18 +1754,16 @@
 ### Giovanni Serodine
 [Head of Bearded Man](https://www.metmuseum.org/art/collection/search/338788)
 
-### Simon Vouet
-[Saint John](https://www.philamuseum.org/objects/83656)
-
 ### John Frederick Peto
 [Still Life with a Hat, an Umbrella, and a Bag](https://www.philamuseum.org/objects/69331)
 
 ### Willem Maris
+[# Meadow with Cows](https://www.rijksmuseum.nl/en/collection/object/Meadow-with-Cows--988b9de24db26ccdceb1f202948e4b06)
 [$ Ducks alighting on a Pool](https://www.nationalgallery.org.uk/paintings/willem-maris-ducks-alighting-on-a-pool)
-[$ Meadow with Cows](https://www.rijksmuseum.nl/en/collection/object/Meadow-with-Cows--988b9de24db26ccdceb1f202948e4b06)
 [Cow beside a Ditch](https://www.rijksmuseum.nl/en/collection/object/Cow-beside-a-Ditch--0c41db5fa904146a3146a0f60ec20c42)
 
 ### Jacob Maris
+[# Praying Monk](https://www.rijksmuseum.nl/en/collection/object/Praying-Monk-Monk-at-his-Devotions--cf112d6cc3e53dcac931b5efd2ca583b)
 [$ A Young Woman nursing a Baby](https://www.nationalgallery.org.uk/paintings/jacob-maris-a-young-woman-nursing-a-baby)
 [A Windmill and Houses beside Water: Stormy Sky](https://www.nationalgallery.org.uk/paintings/jacob-maris-a-windmill-and-houses-beside-water-stormy-sky)
 [Bluff-bowed Fishing Boat on the Beach at Scheveningen](https://www.rijksmuseum.nl/en/collection/object/Bluff-bowed-Fishing-Boat-on-the-Beach-at-Scheveningen--c06b334c0053a14cffe4f2338bceba6c)
@@ -1773,7 +1771,6 @@
 [Girl with a Peacock Feather](https://www.rijksmuseum.nl/en/collection/object/Girl-with-a-Peacock-Feather--fc119c7f8647e575b0fe3786779a0fb9)
 [Houses on the Prins Hendrikkade, Amsterdam, on a Misty Day](https://www.rijksmuseum.nl/en/collection/object/Houses-on-the-Prins-Hendrikkade-Amsterdam-on-a-Misty-Day--5d7cbeb6c0c93de05061c4a9ec9c68a9)
 [Meisje bij een deuropening](https://www.rijksmuseum.nl/en/collection/object/Meisje-bij-een-deuropening--ba5cea446385ebffcf71c37095880731)
-[Praying Monk](https://www.rijksmuseum.nl/en/collection/object/Praying-Monk-Monk-at-his-Devotions--cf112d6cc3e53dcac931b5efd2ca583b)
 [The Windmill](https://www.rijksmuseum.nl/en/collection/object/The-Windmill--abca35953e3a7554a3bbf4bf9da96d46)
 [View of Amsterdam](https://www.famsf.org/artworks/view-of-amsterdam)
 [Villagers](https://www.rijksmuseum.nl/en/collection/object/Villagers--57271430e9c279c5db738ffdb4c1168d)
@@ -1808,8 +1805,8 @@
 [The Listener (Woman at the Theatre)](https://collection.farnsworthmuseum.org/objects/6417/the-listener-woman-at-the-theatre)
 
 ### Jean-Baptiste Carpeaux
-[$$ Autoportrait](https://www.musee-orsay.fr/en/artworks/autoportrait-986)
 [# Portrait of Bruno Cherier](https://high.org/collection/portrait-of-bruno-cherier/)
+[$$ Autoportrait](https://www.musee-orsay.fr/en/artworks/autoportrait-986)
 [$ Portrait d'homme](https://www.musee-orsay.fr/en/artworks/portrait-dhomme-1466)
 [Autoportrait 2](https://www.musee-orsay.fr/en/artworks/autoportrait-2355)
 
@@ -1829,7 +1826,7 @@
 [Poplar Trees](https://collections.mfa.org/objects/30991/poplar-trees?ctx=6d6bf212-693a-428c-b487-5f7ac26a5c23&idx=56)
 
 ### Stanisław Grocholski
-[$ Praying Jew](https://cyfrowe.mnw.art.pl/en/catalog/444752)
+[# Praying Jew](https://cyfrowe.mnw.art.pl/en/catalog/444752)
 
 ### Nikolai Dmitrievich Kuznetsov
 [# Portrait of a Young Girl](https://cyfrowe.mnw.art.pl/en/catalog/443623)
@@ -2234,7 +2231,7 @@
 [Portrait of Frederick William MacMonnies](https://collections.si.edu/search/detail/edanmdm:npg_NPG.70.44?fq=data_source%3A%22National+Portrait+Gallery%22&fq=online_media_type%3A%22Images%22&fq=object_type%3A%22Paintings%22&record=1137&hlterm=&inline=true)
 
 ### Gerrit Dou
-[Portrait of a Man](https://www.nationalgallery.org.uk/paintings/gerrit-dou-portrait-of-a-man)
+[# Portrait of a Man](https://www.nationalgallery.org.uk/paintings/gerrit-dou-portrait-of-a-man)
 
 ### Albert Neuhuys
 [# Vissersvrijage](https://www.rijksmuseum.nl/en/collection/object/Vissersvrijage--d6fa1a69d00264c4ef2b6f099b7064df)
@@ -2249,7 +2246,7 @@
 [Zelfportret](https://www.stedelijk.nl/en/collection/4905-august-allebe-zelfportret-1862)
 
 ### Bernardus Johannes Blommers
-[$$ Girl with Cherries](https://www.rijksmuseum.nl/en/collection/object/Girl-with-Cherries--740cd62b7be0b8feb936c4b3266220a3)
+[# Girl with Cherries](https://www.rijksmuseum.nl/en/collection/object/Girl-with-Cherries--740cd62b7be0b8feb936c4b3266220a3)
 
 ### Bramine Hubrecht
 [Professor Franciscus Donders](https://www.rijksmuseum.nl/en/collection/object/Professor-Franciscus-Donders-1818-1889-Physiologist-and-Opthalmologist--369c43f414d508399bd52aff10cefce2)
@@ -2293,7 +2290,7 @@
 [Thomas Couture](https://www.musee-orsay.fr/en/artworks/thomas-couture-21214)
 
 ### Marcellin Desboutin
-[$$ Portrait de l'artiste](https://www.musee-orsay.fr/en/artworks/portrait-de-lartiste-16930)
+[# Portrait de l'artiste](https://www.musee-orsay.fr/en/artworks/portrait-de-lartiste-16930)
 [$$ Portrait de l'artiste-2](https://www.musee-orsay.fr/en/artworks/portrait-de-lartiste-70304)
 [Madame Cornereau](https://www.musee-orsay.fr/en/artworks/madame-cornereau-16929)
 
@@ -2302,7 +2299,7 @@
 
 ### George Hendrik Breitner
 [# Hussars](https://www.rijksmuseum.nl/en/collection/object/Hussars--ea38d07573899d6664796c2b326d304c)
-[$$ The Yellow Riders](https://www.rijksmuseum.nl/en/collection/object/The-Yellow-Riders--ca80fe396099a6b215dcde3d9ab94e66)
+[# The Yellow Riders](https://www.rijksmuseum.nl/en/collection/object/The-Yellow-Riders--ca80fe396099a6b215dcde3d9ab94e66)
 [$ Girl in a White Kimono](https://www.rijksmuseum.nl/en/collection/object/Girl-in-a-White-Kimono--40fc3390d77e969fabd1189b1770fd5a$)
 [A Brown and a White Horse in Scheveningen](https://www.rijksmuseum.nl/en/collection/object/A-Brown-and-a-White-Horse-in-Scheveningen--f12e399bc9f02161b20032a320346c8f)
 [Cavalry at Repose](https://www.rijksmuseum.nl/en/collection/object/Cavalry-at-Repose--df9724ce69cedd44c7eba887af1ac9a2)

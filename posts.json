@@ -72,6 +72,21 @@
     "source": "https://www.clevelandart.org/art/1921.1239"
   },
   {
+    "slug": "necklace",
+    "title": "The Necklace",
+    "image": "/images/barney__the-necklace.jpg",
+    "artist": "Alice Pike Barney",
+    "date": 1898,
+    "height": 46.6,
+    "width": 41.1,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "1951.14.77",
+    "location": "Smithsonian Art Museum",
+    "source": "https://americanart.si.edu/artwork/necklace-1289",
+    "copyright": "CC0"
+  },
+  {
     "slug": "self-portrait-of-lazar-raditz",
     "title": "Self-Portrait",
     "image": "/images/raditz__self-portrait-of-lazar-raditz.jpg",
@@ -199,7 +214,7 @@
     "accession": "P007546",
     "location": "Museo Del Prado",
     "source": "https://www.museodelprado.es/en/the-collection/art-work/maria-semprun-y-pombo/7a043b69-e106-4d65-8c59-181c87f0cc7d",
-    "copyright": "Copyright © Museo Nacional del Prado"
+    "copyright": "Museo Nacional del Prado"
   },
   {
     "slug": "windmill",
@@ -315,7 +330,7 @@
     "accession": "P004582",
     "location": "Museo Del Prado",
     "source": "https://www.museodelprado.es/en/the-collection/art-work/self-portrait/c2b5ef3d-d3fc-45b3-9a95-cbce43b9704a",
-    "copyright": "Copyright © Museo Nacional del Prado"
+    "copyright": "Museo Nacional del Prado"
   },
   {
     "slug": "portrait-study-of-a-young-woman",
@@ -388,7 +403,7 @@
     "accession": "P004502",
     "location": "Museo Del Prado",
     "source": "https://www.museodelprado.es/en/the-collection/art-work/oriental/5dc1d1d8-a53b-4deb-af9c-461e59f68878",
-    "copyright": "Copyright © Museo Nacional del Prado"
+    "copyright": "Museo Nacional del Prado"
   },
   {
     "slug": "pere-et-fille",
@@ -605,7 +620,8 @@
     "support": "Cardboard",
     "accession": "M1970.116",
     "location": "Milwaukee Art Museum",
-    "source": "https://collection.mam.org/details.php?id=7571"
+    "source": "https://collection.mam.org/details.php?id=7571",
+    "copyright": "Milwaukee Art Museum"
   },
   {
     "slug": "smoke-of-ambergris",
@@ -749,7 +765,8 @@
     "support": "Canvas",
     "accession": "L120",
     "location": "Milwaukee Art Museum",
-    "source": "https://collection.mam.org/details.php?id=17911"
+    "source": "https://collection.mam.org/details.php?id=17911",
+    "copyright": "Milwaukee Art Museum"
   },
   {
     "slug": "portrait-of-charles-bregler",
@@ -808,6 +825,21 @@
     "location": "Fine Arts Museum of San Francisco",
     "source": "https://www.famsf.org/artworks/the-lone-scout",
     "copyright": ""
+  },
+  {
+    "slug": "slave-for-sale",
+    "title": "A Slave For Sale",
+    "image": "/images/aranda__slave-for-sale.jpg",
+    "artist": "José Jiménez Aranda",
+    "date": "Ca. 1897",
+    "height": 100.0,
+    "width": 81.0,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "P006450",
+    "location": "Museo Del Prado",
+    "source": "https://www.museodelprado.es/en/the-collection/art-work/a-slave-for-sale/b3518d0b-99c8-4955-9fdf-a9ad2ac19f7b",
+    "copyright": "Museo Nacional del Prado"
   },
   {
     "slug": "stag-at-sharkeys",
@@ -934,6 +966,21 @@
     "accession": "SK-A-1181",
     "location": "Rijksmuseum",
     "source": "https://id.rijksmuseum.nl/20027279",
+    "copyright": "Public Domain"
+  },
+    {
+    "slug": "yellow-riders",
+    "title": "The Yellow Riders",
+    "image": "/images/breitner__yellow-riders.webp",
+    "artist": "George Hendrik Breitner",
+    "date": "1885 - 1886",
+    "height": 115.0,
+    "width": 77.5,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "SK-A-1328",
+    "location": "Rijksmuseum",
+    "source": "https://id.rijksmuseum.nl/200108302",
     "copyright": "Public Domain"
   },
   {
@@ -1080,6 +1127,36 @@
     "copyright": "Public Domain"
   },
   {
+    "slug": "marcellin-desboutin",
+    "title": "Self Portrait of Marcellin Desboutin",
+    "image": "/images/desboutin__marcellin-desboutin.jpg",
+    "artist": "Marcellin Desboutin",
+    "date": "between 1823 and 1902",
+    "height": 77.5,
+    "width": 68.5,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "RF 1945 14",
+    "location": "Musée d'Orsay",
+    "source": "https://www.musee-orsay.fr/en/artworks/portrait-de-lartiste-16930",
+    "copyright": "RMN-Grand Palais (Musée d'Orsay) / Hervé Lewandowski"
+  },
+  {
+    "slug": "tomb-of-caecilia-metella",
+    "title": "The Tomb of Caecilia Metella",
+    "image": "/images/fleury__tomb-of-caecilia-metella.jpg",
+    "artist": "Léon-François-Antoine Fleury",
+    "date": "c. 1830",
+    "height": 27.9,
+    "width": 33.0,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "2004.166.16",
+    "location": "National Gallery of Art",
+    "source": "https://www.nga.gov/artworks/130898-tomb-caecilia-metella",
+    "copyright": "CC0 1.0"
+  },
+  {
     "slug": "a-young-woman",
     "title": "A Young Woman",
     "image": "/images/allebe__a-young-woman.webp",
@@ -1107,7 +1184,7 @@
     "accession": "P007293",
     "location": "Museo Del Prado",
     "source": "https://www.museodelprado.es/en/the-collection/art-work/a-lamb/795b841a-ec81-4d10-bd8b-0c7a870e327b",
-    "copyright": "Copyright © Museo Nacional del Prado"
+    "copyright": "Museo Nacional del Prado"
   },
   {
     "slug": "waterside-landscape",
@@ -1285,6 +1362,96 @@
     "copyright": "CC BY-NC-ND 4.0"
   },
   {
+    "slug": "juan-de-pareja",
+    "title": "Juan de Pareja",
+    "image": "/images/velazquez__juan-de-pareja.jpg",
+    "artist": "Velázquez (Diego Rodríguez de Silva y Velázquez)",
+    "date": "1650",
+    "height": 81.3,
+    "width": 69.9,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "1971.86",
+    "location": "Metropolitan Museum of Art",
+    "source": "https://www.metmuseum.org/art/collection/search/437869",
+    "copyright": ""
+  },
+  {
+    "slug": "study-of-a-model",
+    "title": "Study of a Model",
+    "image": "/images/pietschmann__study-of-a-model.jpg",
+    "artist": "Max Pietschmann",
+    "date": "1885",
+    "height": 105.4,
+    "width": 80.0,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "M2020.39",
+    "location": "Milwaukee Art Museum",
+    "source": "https://collection.mam.org/details.php?id=38470",
+    "copyright": "Milwaukee Art Museum"
+  },
+  {
+    "slug": "lady-in-black",
+    "title": "Lady in Black",
+    "image": "/images/mayer__lady-in-black.jpg",
+    "artist": "Louis Mayer",
+    "date": "1900",
+    "height": 78.5,
+    "width": 91.9,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "M1913.1",
+    "location": "Milwaukee Art Museum",
+    "source": "https://collection.mam.org/details.php?id=16172",
+    "copyright": "Milwaukee Art Museum"
+  },
+  {
+    "slug": "praying-monk",
+    "title": "Praying Monk (Monk at his Devotions)",
+    "image": "/images/maris__praying-monk.webp",
+    "artist": "Jacob Maris",
+    "date": "1864",
+    "height": 21.5,
+    "width": 15.5,
+    "medium": "Oil",
+    "support": "Copper",
+    "accession": "SK-A-2473",
+    "location": "Rijksmuseum",
+    "source": "https://id.rijksmuseum.nl/20028246",
+    "copyright": "Public Domain"
+  },
+  {
+    "slug": "praying-jew",
+    "title": "Praying Jew",
+    "image": "/images/grocholski__praying-jew.jpg",
+    "artist": "Stanisław Grocholski",
+    "date": "1892",
+    "height": 21.5,
+    "width": 15.5,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "MP 128 MNW",
+    "location": "National Museum in Warsaw",
+    "source": "https://cyfrowe.mnw.art.pl/en/catalog/444752",
+    "copyright": "Public Domain"
+  },
+  {
+    "slug": "meadow-with-cows",
+    "title": "Meadow with Cows",
+    "image": "/images/marris__meadow-with-cows.webp",
+    "artist": "Willem Marris",
+    "date": "c. 1880 - c. 1910",
+    "height": 87.2,
+    "width": 107.7,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "SK-A-2994",
+    "location": "Rijksmuseum",
+    "source": "https://id.rijksmuseum.nl/20028276",
+    "copyright": "Public Domain"
+  },
+  {
     "slug": "painter-francisco-pradilla",
     "title": "The painter Francisco Pradilla",
     "image": "/images/ferrant__painter-francisco-pradilla.jpg",
@@ -1297,7 +1464,22 @@
     "accession": "P004315",
     "location": "Museo Del Prado",
     "source": "https://www.museodelprado.es/en/the-collection/art-work/the-painter-francisco-pradilla/7c387da2-d748-466d-8075-10bff1e9af2a",
-    "copyright": "Copyright ©Museo Nacional del Prado"
+    "copyright": "Museo Nacional del Prado"
+  },
+  {
+    "slug": "st-augustine-and-st-monica",
+    "title": "Saint Augustine and Saint Monica",
+    "image": "/images/assereto__st-augustine-and-st-monica.jpg",
+    "artist": "Gioacchino Assereto",
+    "date": "c. 1645–48",
+    "height": 99.7,
+    "width": 123.2,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "60.35",
+    "location": "Minneapolis Institute of Art",
+    "source": "https://collections.artsmia.org/art/18347/saint-augustine-and-saint-monica-gioacchino-assereto",
+    "copyright": "Public Domain"
   },
   {
     "slug": "female-semi-nude-dancer",
@@ -1373,13 +1555,43 @@
     "source": "https://www.pafa.org/museum/collection/item/seated-girl-long-black-dress-verso-figure-biblical-dress"
   },
   {
+    "slug": "dolly-with-a-black-bow",
+    "title": "Dolly with a Black Bow",
+    "image": "/images/sloan__dolly-with-a-black-bow.jpg",
+    "artist": "John Sloan",
+    "date": 1909,
+    "height": 81.4,
+    "width": 66.4,
+    "medium": "Oil",
+    "support": "Linen",
+    "accession": "59.28",
+    "location": "Whitney Museum of American Art",
+    "source": "https://whitney.org/collection/works/815",
+    "copyright": "Delaware Art Museum / Artists Rights Society (ARS), New York"
+  },
+  {
+    "slug": "jo-painting",
+    "title": "Jo Painting",
+    "image": "/images/hopper__jo-painting.jpg",
+    "artist": "Edward Hopper",
+    "date": 1936,
+    "height": 46.2,
+    "width": 41.1,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "70.1171",
+    "location": "Whitney Museum of American Art",
+    "source": "https://whitney.org/collection/works/5905",
+    "copyright": "Heirs of Josephine N. Hopper/Licensed by Artists Rights Society (ARS), New York"
+  },
+  {
     "slug": "girl-with-the-red-ribbon",
     "title": "The girl with the red ribbon",
     "image": "/images/makovsky__the-girl-with-the-red-ribbon.jpg",
     "artist": "Konstantin Makovsky",
     "date": 1900,
-    "height": 29,
-    "width": 19,
+    "height": 29.0,
+    "width": 19.0,
     "medium": "Oil",
     "support": "Canvas",
     "accession": null,
@@ -1626,7 +1838,7 @@
     "accession": "P004268",
     "location": "Museo Del Prado",
     "source": "https://www.museodelprado.es/en/the-collection/art-work/self-portrait/6fcc9147-2674-4880-a308-094a4cbc4115",
-    "copyright": "Copyright © Museo Nacional del Prado"
+    "copyright": "Museo Nacional del Prado"
   },
   {
     "slug": "portrait-of-a-young-girl",
@@ -1655,7 +1867,7 @@
     "accession": "M1919.6",
     "location": "Milwaukee Art Museum",
     "source": "https://collection.mam.org/details.php?id=6669",
-    "copyright": ""
+    "copyright": "Milwaukee Art Museum"
   },
   {
     "slug": "artist-mourning-her-father",
@@ -1685,7 +1897,7 @@
     "accession": "P001084",
     "location": "Museo Del Prado",
     "source": "https://www.museodelprado.es/en/the-collection/art-work/saint-thomas/6cb0a2c8-ecf1-4702-8e8d-19c819c53ac2",
-    "copyright": "Copyright © Museo Nacional del Prado"
+    "copyright": "Museo Nacional del Prado"
   },
   {
     "slug": "self-portrait-of-david-leffel",
@@ -1740,6 +1952,21 @@
     "width": 79.1,
     "medium": "Oil",
     "support": "Canvas",
+    "accession": "SK-A-2974",
+    "location": "Rijksmuseum",
+    "source": "https://id.rijksmuseum.nl/20026662",
+    "copyright": "Public Domain"
+  },
+  {
+    "slug": "girl-with-cherries-",
+    "title": "Girl With Cherries",
+    "image": "/images/blommers__girl-with-cherries.webp",
+    "artist": "Bernardus Johannes Blommers",
+    "date": "c. 1860 - c. 1914",
+    "height": 31.0,
+    "width": 22.5,
+    "medium": "Oil",
+    "support": "Panel",
     "accession": "Cat. 992",
     "location": "Philadelphia Museum of Art",
     "source": "https://www.philamuseum.org/objects/102835"
@@ -1771,7 +1998,7 @@
     "accession": "P007561",
     "location": "Museo Del Prado",
     "source": "https://www.museodelprado.es/en/the-collection/art-work/fernando-de-los-villares-amor/7906404d-f473-4304-97de-787226f28460",
-    "copyright": "Copyright © Museo Nacional del Prado"
+    "copyright": "Museo Nacional del Prado"
   },
   {
     "slug": "madeleine-lerolle-and-her-daughter-yvonne",
@@ -1929,21 +2156,6 @@
     "location": "National Gallery of Canada",
     "source": "https://www.gallery.ca/collection/artwork/afternoon-venice",
     "copyright": "Open Access"
-  },
-  {
-    "slug": "necklace",
-    "title": "The Necklace",
-    "image": "/images/barney__the-necklace.jpg",
-    "artist": "Alice Pike Barney",
-    "date": 1898,
-    "height": 46.6,
-    "width": 41.1,
-    "medium": "Oil",
-    "support": "Canvas",
-    "accession": "1951.14.77",
-    "location": "Smithsonian Art Museum",
-    "source": "https://americanart.si.edu/artwork/necklace-1289",
-    "copyright": "CC0"
   },
   {
     "slug": "cracked-watermelon",
