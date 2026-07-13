@@ -33,9 +33,12 @@
 - [Mississippi Museum of Art](https://mma.emuseum.com/objects/images)
 - [Montclair Art Museum](https://www.montclairartmuseum.org/)
 - [Museo Del Prado](https://www.museodelprado.es)
-- [Musee d'Orsay](https://www.musee-orsay.fr/en/collections)
+- [Museo Renia Sofia](https://www.museoreinasofia.es/en)
+- [Musée d'Orsay](https://www.musee-orsay.fr/en/collections)
+- [Musée des Beaux-Arts de Lyon](https://www.mba-lyon.fr/en)
 - [Museum Angewandte Kunst](https://sammlung-digital.museumangewandtekunst.de/home)
 - [Museum Fur Moderne Kunst](https://www.mmk.art/)
+- [Museum of Contemporary Art in Krakow](https://en.mocak.pl)
 - [Museum of Fine Arts Ghent](https://www.mskgent.be/en/)
 - [Museum of Fine Arts Houston](https://www.mfah.org/)
 - [National Gallery Britian](https://www.nationalgallery.org.uk)
@@ -54,8 +57,37 @@
 - [Rhode Island School of Design](https://risdmuseum.org/)
 - [Staatliche Museen zu Berlin](https://recherche.smb.museum/)
 - [Staedel Museum](https://www.staedelmuseum.de/en)
+- [Stedelijk Museum of modern and contemporary art and design](https://www.stedelijk.nl/en)
 - [State Hermitage Museum](https://www.hermitagemuseum.org/explore/artworks)
 - [Utah Museum of Contemporary Art](https://utahmoca.org/)
 - [Virginia Museum of Fine Arts](https://www.vmfa.museum/)
 - [Whitney Museum of American Art](https://whitney.org/collection/works)
 - [Wikiart](https://www.wikiart.org/)
+
+
+
+[National Museum Of Krakow](https://zbiory.mnk.pl/en/search-result/advance/catalog/388266)
+[Bellas Artes](https://www.bellasartes.gob.ar/)
+[Musée Fabre](https://www.museefabre.fr)
+[Musées de Reims](https://musees-reims.fr/)
+[National Museum Sweden](https://www.nationalmuseum.se/)
+https://tomaselli-collection.com/
+www.madrenapoli.it
+https://manchesterartgallery.org/
+https://thewhiteleyclinic.co.uk/clinics/the-whiteley-clinic-manchester/
+https://www.tate.org.uk/visit/tate-liverpool
+https://www.macba.cat/en/
+https://www.cccb.org/en
+https://www.museunacional.cat/en/museum
+https://www.centraalmuseum.nl/
+https://www.kunsthal.nl/en/#tijdlijn-2025-08
+https://www.boijmans.nl
+https://www.museumgeorgschaefer.de/Homepage
+
+MUSEU NACIONAL DO AZULEJO
+SVANETI HISTORY & ETHNOGRAPHY MUSEUM – MESTIA, GEORGIA
+PERGAMON MUSEUM – BERLIN, GERMANY
+VATICAN MUSEUMS – ROME, ITALY
+NATIONAL MUSEUM OF FINLAND – HELSINKI
+BELVEDERE – VIENNA, AUSTRIA
+VAN GOGH MUSEUM – AMSTERDAM, NETHERLANDS
