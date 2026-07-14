@@ -8,14 +8,39 @@
 [Rosita](https://www.mskgent.be/en/collection/1952-b)
 
 ### Tadeusz Ajdukiewicz
+[$$ Portrait of Kazimierz Alchimowicz](https://cyfrowe.mnw.art.pl/en/catalog/440413)
 [$ Study of a Hunter](https://cyfrowe.mnw.art.pl/en/catalog/452999)
 
 ### Adam Emory Albright
 [Quoits](https://www.pafa.org/museum/collection/item/quoits)
 [Supper Call on the Farm](https://www.pafa.org/museum/collection/item/supper-call-farm)
 
+### Jan Chełmiński
+[$$ Oriental rider on a white horse](https://cyfrowe.mnw.art.pl/en/catalog/453047)
+
+### Ernesto de la Cárcova
+[Without Bread and Without Work](https://www.bellasartes.gob.ar/en/collection/work/1777/)
+
+### Stanisław Batowski-Kaczor
+[$$ Woman in Reverie](https://cyfrowe.mnw.art.pl/en/catalog/453568)
+
+## Stanisław Lentz
+[Worker](https://cyfrowe.mnw.art.pl/en/catalog/440457)
+
+### Kazimierz Alchimowicz
+[Study of an Old Man's Head](https://cyfrowe.mnw.art.pl/en/catalog/453029)
+
+### Maurycy Sztencel
+[Portrait of a Brunette](https://cyfrowe.mnw.art.pl/en/catalog/438773)
+
+### Pantaleon Szyndler
+[$$ Portrait of a philosopher](https://cyfrowe.mnw.art.pl/en/catalog/438858)
+
 ### Francis Alexander
 [Madam Powel](https://collections.mfa.org/objects/31943/madam-powel-elizabeth-willing?ctx=aca67666-ef10-470c-9f27-a70a9feef6c6&idx=299)
+
+### Eugenio Daneri
+[$ The Loss of the Child](https://www.bellasartes.gob.ar/en/collection/work/6675/)
 
 ### John White Alexander
 [# Repose](https://www.metmuseum.org/art/collection/search/10065)
@@ -30,6 +55,9 @@
 
 ### Friedrich Amerling
 [The Young Eastern Woman](https://www.clevelandart.org/art/1991.163)
+
+### Tiziano Vecellio
+[Secretario](https://www.bellasartes.gob.ar/en/collection/work/7820/)
 
 ### Heinrich von Angeli
 [Portrait of Mrs. Christian Wahl](https://collection.mam.org/details.php?id=14096)
@@ -58,6 +86,9 @@
 
 ### Ludolf Bakhuizen
 [A View across a River near Dordrecht](https://www.nationalgallery.org.uk/paintings/ludolf-bakhuizen-a-view-across-a-river-near-dordrecht)
+
+### Robert Crozier
+[The Patriot](https://collections.manchesterartgallery.org/collections/item/7cf51c25-d094-3176-b6cc-85fa03a28955/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D12&pos=111)
 
 ### Burt Barnes
 [An Interesting Book](https://collection.mam.org/details.php?id=15500)
@@ -111,6 +142,12 @@
 ### Joseph Greenleaf Cole
 [$ Off the North Shore](https://collection.farnsworthmuseum.org/objects/186/off-the-north-shore)
 [Nathan Lord](https://hoodmuseum.dartmouth.edu/objects/p.939.16.2)
+
+### Annie Louisa Swynnerton A.R.A.
+[$$ S. Isabel Dacre](https://collections.manchesterartgallery.org/collections/item/d96f824a-0a2d-37b8-8d51-28ad6f8ce7d4/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D26&pos=273)
+
+### Fanny Sugars
+[$ My Mother](https://collections.manchesterartgallery.org/collections/item/cf8f340e-a1ff-3815-bf8f-e8192838caf6/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D30&pos=310)
 
 ### William Collins
 [Study for the Morning Lesson](https://high.org/collection/study-for-the-morning-lesson/)
@@ -267,12 +304,36 @@
 ### Roderic O'Conor
 [Flowers](https://www.artsbma.org/collection/flowers/)
 
+### Wojciech Gerson
+[$ Self-portrait](https://cyfrowe.mnw.art.pl/en/catalog/447305)
+
 ### John George Brown
 [Three for Five](https://www.artsbma.org/collection/three-for-five/)
 [A Builder of Boats](https://www.clevelandart.org/art/1972.905)
 
+### Ford Madox Brown
+[F.H.S. Pendleton](https://collections.manchesterartgallery.org/collections/item/320e981e-b58d-3fca-be73-5504e5bd9ac4/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting&pos=33)
+
 ### Jean-Baptiste Perronneau
 [Portrait of a Gentleman](https://www.artsbma.org/collection/portrait-of-a-gentleman-self-portrait/)
+
+### Karl Larisch
+[$$ Autoportret](https://cyfrowe.mnw.art.pl/en/catalog/450312)
+
+### Włodzimierz Terlikowski
+[Portrait of a Lady](https://cyfrowe.mnw.art.pl/en/catalog/449638)
+
+### Olga Boznańska
+[$$ Japanese Woman](https://cyfrowe.mnw.art.pl/en/catalog/441352)
+
+### Z. Sękowski
+[$ Does the Kabbalah tell the truth?](https://cyfrowe.mnw.art.pl/en/catalog/440620)
+
+### Edward Mateusz Römer
+[$$ Amazon Woman](https://cyfrowe.mnw.art.pl/en/catalog/447436)
+
+### Stanisław Rostworowski
+[Portrait of Wacław Szymanowski](https://cyfrowe.mnw.art.pl/en/catalog/447412)
 
 ### William Willard
 [Rufus Choate](https://hoodmuseum.dartmouth.edu/objects/p.947.15)
@@ -368,6 +429,9 @@
 [Still life with fish](https://high.org/collection/still-life-with-fish/)
 [The Artist's Daughter Alice](https://collection.ncartmuseum.org/objects/263/the-artists-daughter-alice;jsessionid=497EEFB22C5D7A53851BE2DEF39FD56D?ctx=206e276633723379a7f95d42570f2135ef094442&idx=5)
 
+### Frank Dicksee
+[$ One of Our Conquerors](https://collections.manchesterartgallery.org/collections/item/af26c8a6-7a1f-34f6-9d99-dfd350944969/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D32&pos=328)
+
 ### Camille Pissarro
 [Portrait de l'artiste](https://www.musee-orsay.fr/en/artworks/portrait-de-lartiste-366)
 
@@ -415,6 +479,9 @@
 
 ### William Bradford
 [Abandoned in the Arctic Ice Fields](https://high.org/collection/abandoned-in-the-arctic-ice-fields/)
+
+### William Bradley
+[Charles Swain](https://collections.manchesterartgallery.org/collections/item/f9866e9d-eef6-3b91-adf5-c301a7cb7e43/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D36&pos=384)
 
 ### Paul Trebilcock
 [Miss Mary Elizabeth Haverty](https://high.org/collection/portrait-of-miss-mary-elizabeth-haverty/)
@@ -489,6 +556,12 @@
 [$ Feeding Doves](https://commons.wikimedia.org/wiki/File:Chaplin-Feeding_Doves.jpg)
 [Souvenirs](https://www.musee-orsay.fr/en/artworks/souvenirs-69713)
 [The Pearl Necklace](https://commons.wikimedia.org/wiki/File:The_Pearl-necklace,_1870s,_by_Charles_Chaplin._Nationalmuseum,_Stockholm,_Sweden.jpg)
+
+### Conrad Kiesel
+[Marguerites](https://collections.manchesterartgallery.org/collections/item/b643a5b4-ea63-32b7-8c95-131338e77ebb/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D3&pos=48)
+
+### Luke Fildes
+[$ A Devotee](https://collections.manchesterartgallery.org/collections/item/c9b79ae4-e6b7-3c5a-9cdf-b37cf21b0e26/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D2&pos=24)
 
 ### Paul Baudry
 [$ Charles Garnier](https://www.musee-orsay.fr/en/artworks/charles-garnier-9535)
@@ -574,6 +647,9 @@
 [Portrait of the Marquis of Lorne](https://www.gallery.ca/collection/artwork/portrait-of-the-marquis-of-lorne)
 [Portrait of Homer Watson](https://www.gallery.ca/collection/artwork/portrait-of-homer-watson)
 
+### George Frederick Watts
+[The Coquette](https://collections.manchesterartgallery.org/collections/item/a83bfb5f-f81f-382c-a997-b37ef5d104e9/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D34&pos=349)
+
 ### Ferdinand Roybet
 [The Burgomaster](https://www.gallery.ca/collection/artwork/the-burgomaster)
 [A Lord in Waiting](https://collection.mam.org/details.php?id=16662)
@@ -635,6 +711,9 @@
 ### Piet Verhaert
 [The Seal of the Sailor](https://www.kmska.be/en/masterpiece/the-seal-of-the-sailor)
 
+### Franciszek Ejsmond
+[Self Portrait](https://cyfrowe.mnw.art.pl/en/catalog/453120)
+
 ### Willem Drost
 [Old man with a book](https://cyfrowe.mnw.art.pl/en/catalog/442676)
 
@@ -659,9 +738,39 @@
 ### Leopold Horowitz
 [$ Self Portrait](https://cyfrowe.mnw.art.pl/en/catalog/445366)
 [Portrait of count Friedrich Berg (1790–1874), Russian general, viceroy of the Kingdom of Poland](https://cyfrowe.mnw.art.pl/en/catalog/453425)
+[Portrait of a Jew](https://cyfrowe.mnw.art.pl/en/catalog/445370)
 
 ### Czesław Pełczyński
 [$ Portrait of a man in a Hat](https://cyfrowe.mnw.art.pl/en/catalog/445367)
+
+### Maurycy Trębacz
+[$ Portrait of Lucjan Wrotnowski](https://cyfrowe.mnw.art.pl/en/catalog/446324)
+
+### Maria Gażycz
+[$ Self-portrait with palette](https://cyfrowe.mnw.art.pl/en/catalog/446462)
+
+### Ignacy Marek
+[Self Portrait](https://cyfrowe.mnw.art.pl/en/catalog/446328)
+
+### Nieznany Malarz Polski
+[Head of a dark-haired girl](https://cyfrowe.mnw.art.pl/en/catalog/454200)
+[Portrait of a Man](https://cyfrowe.mnw.art.pl/en/catalog/454133)
+
+### Stanisław Heyman
+[Self Portrait](https://cyfrowe.mnw.art.pl/en/catalog/446326)
+
+### Daniel Penther
+[Self Portrait](https://cyfrowe.mnw.art.pl/en/catalog/445423)
+
+### Wandalin Strzałecki
+[Portrait of K. Marczewski](https://cyfrowe.mnw.art.pl/en/catalog/445426)
+[Self Portrait](https://cyfrowe.mnw.art.pl/en/catalog/445440)
+
+### Leon Wyczółkowski
+[Self Portrait](https://cyfrowe.mnw.art.pl/en/catalog/445474)
+
+### Edmund Perle
+[Self-portrait in the 16th-century costume](https://cyfrowe.mnw.art.pl/en/catalog/445374)
 
 ### Bolesław Szańkowski
 [# Portrait study of a young woman](https://cyfrowe.mnw.art.pl/en/catalog/445386)
@@ -715,8 +824,24 @@
 ### Maksymilian Gierymski
 [# Head of a woman](https://cyfrowe.mnw.art.pl/en/catalog/453217)
 
+### Aleksander Gierymski
+[Study of an Old Man](https://cyfrowe.mnw.art.pl/en/catalog/453202)
+
+### Kazimierz Pułaski
+[Portrait of Wojciech Pułaski](https://cyfrowe.mnw.art.pl/en/catalog/446514)
+
+### Zygmunt Sidorowicz
+[$ Self Portrait](https://cyfrowe.mnw.art.pl/en/catalog/446547)
+
+### Jan Stanisławski
+[$$ St. Michael’s Church in Kiev](https://cyfrowe.mnw.art.pl/en/catalog/447157)
+
 ### Tytus Pilecki
 [Portrait of a Young Woman](https://cyfrowe.mnw.art.pl/en/catalog/448152)
+[Portrait of a Man](https://cyfrowe.mnw.art.pl/en/catalog/445526)
+
+### Henryk Siemiradzki
+[$ Portrait of Aleksander Stankiewicz](https://cyfrowe.mnw.art.pl/en/catalog/445629)
 
 ### Elisabeth Louise Vigée-LeBrun
 [$ Portrait of Jean-Baptiste Lemoyne the Younger](https://www.clevelandart.org/art/2011.49)
@@ -729,6 +854,13 @@
 
 ### Harriet Blackstone
 [Portrait of Charles Underwood](https://collection.mam.org/details.php?id=19391)
+
+### Marcus Stone R.A.
+[The Lost Bird](https://collections.manchesterartgallery.org/collections/item/7fcd04f0-dd94-36ee-b5ef-c41fcbf59e59/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D6&pos=72)
+[A Girl in a Garden](https://collections.manchesterartgallery.org/collections/item/00debc4b-688a-394e-ac89-8234a4cc9f24/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D7&pos=63)
+
+### Francis Campbell Boileau Cadell
+[$$ Lady in a Black Hat](https://collections.manchesterartgallery.org/collections/item/f91e8212-5be1-3979-8e77-50c5dbfccea5/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D7&pos=100)
 
 ### Jan Kazimierz Kauzik
 [Male portrait in profile, study](https://cyfrowe.mnw.art.pl/en/catalog/444700)
@@ -1028,7 +1160,8 @@
 [Self Portrait](https://www.kmska.be/en/masterpiece/self-portrait-3)
 [Self Portrait](https://www.nga.gov/artworks/46500-self-portrait)
 [Self Portrait](https://www.nga.gov/artworks/92996-self-portrait)
-[Self-Portrait](https://www.metmuseum.org/art/collection/search/436297)
+[Self Portrait](https://www.metmuseum.org/art/collection/search/436297)
+[Self Portrait](https://collections.manchesterartgallery.org/collections/item/e89b8fa9-ebef-331c-83ce-6aae411e697e/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D3&pos=55)
 [Still Life with Flowers](https://www.artic.edu/artworks/72180/still-life-with-flowers)
 [Still Life with Imperial Delphiniums](https://www.philamuseum.org/objects/72086)
 [Still Life with Roses in a Fluted Vase](https://www.philamuseum.org/objects/72074)
@@ -1039,6 +1172,8 @@
 [Esquisse pour l'Hommage à Delacroix](https://www.rijksmuseum.nl/en/collection/object/Esquisse-pour-lHommage-a-Delacroix--4d8a164c22701f094c3f40b566ac55fe)
 [Antoine Vollon](https://www.musee-orsay.fr/en/artworks/antoine-vollon-20354)
 [Victoria Dubourg](https://www.musee-orsay.fr/en/artworks/victoria-dubourg-20356)
+[White Roses](https://www.bellasartes.gob.ar/en/collection/work/8601/)
+
 
 ### Alexandre Falguière
 [Eventail et poignard](https://www.musee-orsay.fr/en/artworks/eventail-et-poignard-20506)
@@ -1075,6 +1210,9 @@
 ### François Flameng
 [Madame Flameng](https://www.musee-orsay.fr/en/artworks/madame-flameng-20511)
 
+### Auguste Charles Mengin
+[$ Sappho](https://collections.manchesterartgallery.org/collections/item/de3c584a-23ba-37df-a9cf-d2044ec3e2b6/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D14&pos=171)
+
 ### Théobald Chartran
 [$ Portrait d'homme](https://www.musee-orsay.fr/en/artworks/portrait-dhomme-16599)
 
@@ -1097,6 +1235,9 @@
 [Meditation](https://www.rijksmuseum.nl/en/collection/object/Meditation--7d4de799b9f44d0bcd1b02c0b01b0385)
 [Study of Sijtje van Bemmel](https://www.rijksmuseum.nl/en/collection/object/Study-of-Sijtje-van-Bemmel-1880-1963--74d7a4efd1c410afab723a270d61ff52)
 [Malancholy](https://www.rijksmuseum.nl/en/collection/object/Malancholy--c9502c8942c08d7cca0b8bae34fe6097)
+
+### William Hilton II
+[Phaeton](https://collections.manchesterartgallery.org/collections/item/99c88fab-ac7e-3f89-99b6-73478fc7fedc/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D5&pos=87)
 
 ### Isaac Israëls
 [Portrait of a Woman](https://www.rijksmuseum.nl/en/collection/object/Portrait-of-a-Woman--0735bc9198c59abd6a22afa254ccc2cb)
@@ -1313,6 +1454,9 @@
 ### Margaret Eakins Crowell
 [# Portrait of William J. Crowell](https://hoodmuseum.dartmouth.edu/objects/p.2004.40)
 
+### Eugenie Marie Salanson
+[Head of a Girl](https://collections.manchesterartgallery.org/collections/item/94ca44f5-cf3f-3630-aa0d-0e6e748607f6/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D36&pos=359)
+
 ### Emilio Sala Francés
 [# María Semprún y Pombo](https://www.museodelprado.es/en/the-collection/art-work/maria-semprun-y-pombo/7a043b69-e106-4d65-8c59-181c87f0cc7d)
 [Octavia Bouchet](https://www.museodelprado.es/en/the-collection/art-work/octavia-bouchet/8dfd14b3-6741-4e06-a632-3b269c4f9b79)
@@ -1518,6 +1662,7 @@
 ### Alphonse Legros
 [# Portrait of an Old Man](https://www.nga.gov/artworks/34163-portrait-old-man)
 [Memory Copy of Holbein's Erasmus](https://www.nga.gov/artworks/43643-memory-copy-holbeins-erasmus)
+[Study of a Head](https://collections.manchesterartgallery.org/collections/item/0bc65655-4b87-358e-994c-b8e43f228d41/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D12&pos=137)
 
 ### Thomas Sully
 [Andrew Jackson](https://www.nga.gov/artworks/1128-andrew-jackson)
@@ -1609,6 +1754,9 @@
 [Seated Woman](https://www.nga.gov/artworks/195586-seated-woman)
 [Stilleven met vissen en een kreeft](https://www.rijksmuseum.nl/en/collection/object/Stilleven-met-vissen-en-een-kreeft--0f592a879da7a55f5122b413441648cc)
 
+### Adolphe Valette
+[Self Portrait Study](https://collections.manchesterartgallery.org/collections/item/a159b9c7-3c75-3204-b233-2f8c49da5fd0/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D31&pos=330)
+
 ### Lucy Hayward-Barker
 [Male Nude Leaning](https://www.pafa.org/museum/collection/item/male-nude-leaning)
 [Woman with Tilted Head](https://www.pafa.org/museum/collection/item/woman-tilted-head)
@@ -1658,6 +1806,9 @@
 
 ### Eduardo Rosales Gallinas
 [The Violinist Ettore Pinelli](https://www.museodelprado.es/en/the-collection/art-work/the-violinist-ettore-pinelli/6873e156-f112-426b-9259-fed04f213d28)
+
+### Eduardo Sívori
+[The maid awakens](https://www.bellasartes.gob.ar/en/collection/work/1894/)
 
 ### Léon Cogniet
 [The Artist in His Room at the Villa Medici, Rome](https://www.clevelandart.org/art/1978.51)
@@ -2157,6 +2308,7 @@
 ### Luca Giordano
 [The Martyrdom of Saint Januarius](https://www.nationalgallery.org.uk/paintings/luca-giordano-the-martyrdom-of-saint-januarius)
 [Saint Peter Weeping](https://www.museodelprado.es/en/the-collection/art-work/saint-peter-weeping/97796404-dcdf-484e-9e98-ee0245387244)
+[A mathematician](https://www.bellasartes.gob.ar/en/collection/work/2858/)
 
 ### Andrea Sacchi
 [The Painter Francesco Albani](https://www.museodelprado.es/en/the-collection/art-work/the-painter-francesco-albani/9cc7f7d9-1c11-4bb1-8ea2-280778c72bdb)
@@ -2178,6 +2330,10 @@
 
 ### George A Reid
 [# Adiago](https://www.gallery.ca/collection/artwork/adagio)
+[The Reverend Alexander McLaren](https://collections.manchesterartgallery.org/collections/item/e31bcb1d-6b15-3585-85ce-e34df181636b/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D12&pos=124)
+
+### Flora Macdonald Reid
+[$$ A Doubtful Customer](https://collections.manchesterartgallery.org/collections/item/fa225c52-f701-37b9-8600-da50aa2ef44e/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D15&pos=144)
 
 ### Louis Mettling
 [# The Peasant](https://www.gallery.ca/collection/artwork/the-peasant)
@@ -2338,6 +2494,14 @@
 ### Jan Vonck 
 [Still Life with a Haddock and Gurnard](https://www.rijksmuseum.nl/en/collection/object/Still-Life-with-a-Haddock-and-Gurnard--2e39e7e0106c431d62fbc6b4409193a0)
 
+### Susan Isabel Dacre
+[$$ Colonel Volbert](https://collections.manchesterartgallery.org/collections/item/b74be95a-aa49-368e-8681-98288e62c60b/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting&pos=3)
+[$ A Girl (Bertha Edgar)](https://collections.manchesterartgallery.org/collections/item/23f0c0f3-7712-30cc-b5e0-66aa48acd674/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D20&pos=198)
+[$ Italian Girl with Necklace](https://collections.manchesterartgallery.org/collections/item/c030d730-c2f5-390c-9059-dac797cd1740/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D20&pos=194)
+[$ The Artist's Mother](https://collections.manchesterartgallery.org/collections/item/0f8f9e6e-1a88-38ed-8c9c-bf0c4a27543f/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D20&pos=202)
+[$ Italian Women in Church](https://collections.manchesterartgallery.org/collections/item/6e33a975-5b34-3f87-8e4d-0c35211f5a4a/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D34&pos=354)
+[Lydia Becker](https://collections.manchesterartgallery.org/collections/item/6d0083de-3e96-3624-a52d-d0568647db8d/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D10&pos=107)
+
 ### John Macallan Swan
 [$ Polar Bears](https://www.rijksmuseum.nl/en/collection/object/Polar-Bears--8aac569aca5b16ecdac85916a5e71cbc)
 
@@ -2356,6 +2520,9 @@
 
 ### Matthijs Maris
 [$ Study of an Old Woman](https://www.rijksmuseum.nl/en/collection/object/Study-of-an-old-woman--2ee7b96e97197fec1af3dba2bcc10e9f)
+
+### George Elgar Hicks
+[Mother and Child](https://collections.manchesterartgallery.org/collections/item/ec986edc-e21f-3043-b0e5-766e9c3c0206/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D20&pos=199)
 
 ### Niccolò Cassana
 [Portrait of a Man](https://www.rijksmuseum.nl/en/collection/object/Portrait-of-a-Man--8c94fc1131db898b8c28e742d829d70f)
@@ -2410,6 +2577,9 @@
 
 ### Alfred Sisley
 [Paysage de bords de Seine](https://www.musee-orsay.fr/en/artworks/paysage-de-bords-de-seine-71057)
+
+### Alfred Seifert
+[$ Devotion](https://collections.manchesterartgallery.org/collections/item/2b0c340b-bb13-3d5b-ab78-5cf0e693fb6e/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D22&pos=218)
 
 ### Paul Huet
 [Ciel rose](https://www.musee-orsay.fr/en/artworks/ciel-rose-1061)

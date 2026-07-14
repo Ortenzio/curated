@@ -1,13 +1,11 @@
 # Museums
 
-- [Musee d'Orsay: Page 20](https://www.musee-orsay.fr/en/collections/search?artist_function_1=&artist_function_2=&artist_function_3=&artist_gender=&artist_nationality=&artwork_acq_date=&artwork_acq_date_range%5Bmax%5D=&artwork_acq_date_range%5Bmin%5D=&artwork_conservation_name=&artwork_expositions=&artwork_history_title=&artwork_history_tms_id=&artwork_icono_artwork=&artwork_icono_figure=&artwork_icono_place=&artwork_icono_subject=&artwork_icono_tms_id=&artwork_inventory_number=&artwork_materials=&artwork_room=&artwork_start_date=&artwork_start_date_range%5Bmax%5D=&artwork_start_date_range%5Bmin%5D=&display_type=grid&domain_kind_checkboxes%5B276575%5D=276575&items_per_page=100&search=&search_type=simple_search&sort_by=search_api_relevance&union_artist_names=&union_artwork_titles=&page=19)
-
-- [National Museum in Warsaw: Page 50](https://cyfrowe.mnw.art.pl/en/catalog?filter=JTdCJTIyc2VhcmNoVHlwZSUyMjolN0IlMjJuYW1lJTIyOiUyMnNlYXJjaFR5cGUlMjIsJTIydmFsdWUlMjI6JTIycGhyYXNlJTIyLCUyMmRlc2MlMjI6JTIyY2F0YWxvZy5yYWRpby1zZWFyY2guZnVsbHRleHQlMjIsJTIyYWN0aXZlJTIyOnRydWUlN0QsJTIydHlwZXMlMjI6JTdCJTIybmFtZSUyMjolMjJ0eXBlcyUyMiwlMjJ2YWx1ZSUyMjolNUIlN0IlMjJpZCUyMjolMjIxMTcwMDglMjIsJTIyZWxlbWVudCUyMjolN0IlN0QsJTIyZGlzYWJsZWQlMjI6ZmFsc2UsJTIyc2VsZWN0ZWQlMjI6ZmFsc2UsJTIydGV4dCUyMjolMjJwYWludGluZyUyMCg5NjY3KSUyMiwlMjJ0aXRsZSUyMjolMjJwYWludGluZyUyMiwlMjJfcmVzdWx0SWQlMjI6JTIyc2VsZWN0Mi14OWo1LXJlc3VsdC1ubzZhLTExNzAwOCUyMiU3RCU1RCwlMjJkZXNjJTIyOiU1QiU3QiUyMmlkJTIyOiUyMjExNzAwOCUyMiwlMjJlbGVtZW50JTIyOiU3QiU3RCwlMjJkaXNhYmxlZCUyMjpmYWxzZSwlMjJzZWxlY3RlZCUyMjpmYWxzZSwlMjJ0ZXh0JTIyOiUyMnBhaW50aW5nJTIwKDk2NjcpJTIyLCUyMnRpdGxlJTIyOiUyMnBhaW50aW5nJTIyLCUyMl9yZXN1bHRJZCUyMjolMjJzZWxlY3QyLXg5ajUtcmVzdWx0LW5vNmEtMTE3MDA4JTIyJTdEJTVELCUyMmFjdGl2ZSUyMjp0cnVlJTdELCUyMnRlY2huaXF1ZXMlMjI6JTdCJTIybmFtZSUyMjolMjJ0ZWNobmlxdWVzJTIyLCUyMnZhbHVlJTIyOiU1QiU3QiUyMmlkJTIyOiUyMjExMzk5OCUyMiwlMjJlbGVtZW50JTIyOiU3QiU3RCwlMjJkaXNhYmxlZCUyMjpmYWxzZSwlMjJzZWxlY3RlZCUyMjpmYWxzZSwlMjJ0ZXh0JTIyOiUyMm9pbCUyMCg4MTg3KSUyMiwlMjJ0aXRsZSUyMjolMjJvaWwlMjIsJTIyX3Jlc3VsdElkJTIyOiUyMnNlbGVjdDItbnB2ai1yZXN1bHQtc29maS0xMTM5OTglMjIlN0QlNUQsJTIyZGVzYyUyMjolNUIlN0IlMjJpZCUyMjolMjIxMTM5OTglMjIsJTIyZWxlbWVudCUyMjolN0IlN0QsJTIyZGlzYWJsZWQlMjI6ZmFsc2UsJTIyc2VsZWN0ZWQlMjI6ZmFsc2UsJTIydGV4dCUyMjolMjJvaWwlMjAoODE4NyklMjIsJTIydGl0bGUlMjI6JTIyb2lsJTIyLCUyMl9yZXN1bHRJZCUyMjolMjJzZWxlY3QyLW5wdmotcmVzdWx0LXNvZmktMTEzOTk4JTIyJTdEJTVELCUyMmFjdGl2ZSUyMjp0cnVlJTdEJTdE&limit=80&page=50)
-- https://en.wikipedia.org/wiki/List_of_art_museums
+- [List of Art Museums](https://en.wikipedia.org/wiki/List_of_art_museums)
 
 - [Arc Museum](https://www.artrenewal.org/Museum/Search)
 - [Art Institute of Chicago](https://www.artic.edu/)
 - [Barnes](https://collection.barnesfoundation.org)
+- [Bellas Artes](https://www.bellasartes.gob.ar/)
 - [Birmingham Museum of Art](https://www.artsbma.org/collection/)
 - [Boston MFA](https://collections.mfa.org/)
 - [British Museum](https://www.britishmuseum.org/)
@@ -26,6 +24,7 @@
 - [KMSKA](https://www.kmska.be/en/overview/the-collection?type=1445&page=100)
 - [Le Gallerie Degli Uffizi](https://www.uffizi.it/)
 - [Louvre](https://collections.louvre.fr/en/recherche?typology%5B0%5D=22)
+- [Manchester Art Gallery](https://manchesterartgallery.org/)
 - [Metropolitan Museum of Art](https://www.metmuseum.org/)
 - [Milwaukee Art Museum](https://collection.mam.org/object-type/painting.php)
 - [Minneapolis Institute of Art](https://new.artsmia.org/)
@@ -36,6 +35,8 @@
 - [Museo Renia Sofia](https://www.museoreinasofia.es/en)
 - [Musée d'Orsay](https://www.musee-orsay.fr/en/collections)
 - [Musée des Beaux-Arts de Lyon](https://www.mba-lyon.fr/en)
+- [Museo Madre Napoli](www.madrenapoli.it)
+- [Museu Nacional do Azulejo](https://museunacionaldoazulejo.gov.pt/)
 - [Museum Angewandte Kunst](https://sammlung-digital.museumangewandtekunst.de/home)
 - [Museum Fur Moderne Kunst](https://www.mmk.art/)
 - [Museum of Contemporary Art in Krakow](https://en.mocak.pl)
@@ -66,14 +67,13 @@
 
 
 
+
+
 [National Museum Of Krakow](https://zbiory.mnk.pl/en/search-result/advance/catalog/388266)
-[Bellas Artes](https://www.bellasartes.gob.ar/)
 [Musée Fabre](https://www.museefabre.fr)
 [Musées de Reims](https://musees-reims.fr/)
 [National Museum Sweden](https://www.nationalmuseum.se/)
 https://tomaselli-collection.com/
-www.madrenapoli.it
-https://manchesterartgallery.org/
 https://thewhiteleyclinic.co.uk/clinics/the-whiteley-clinic-manchester/
 https://www.tate.org.uk/visit/tate-liverpool
 https://www.macba.cat/en/
@@ -84,7 +84,6 @@ https://www.kunsthal.nl/en/#tijdlijn-2025-08
 https://www.boijmans.nl
 https://www.museumgeorgschaefer.de/Homepage
 
-MUSEU NACIONAL DO AZULEJO
 SVANETI HISTORY & ETHNOGRAPHY MUSEUM – MESTIA, GEORGIA
 PERGAMON MUSEUM – BERLIN, GERMANY
 VATICAN MUSEUMS – ROME, ITALY
