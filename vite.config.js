@@ -18,6 +18,7 @@ export default defineConfig({
     }),
     vitePluginPosts({
       posts,
+      host: "https://curated.ortenz.io",
       baseUrl: '',
       postTemplate: resolve(import.meta.dirname, 'post.html'),
       indexTemplate: resolve(import.meta.dirname, 'index.html')

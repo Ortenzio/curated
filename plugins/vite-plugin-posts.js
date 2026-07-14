@@ -4,6 +4,7 @@ import { resolve } from 'node:path'
 /**
  * @param {object} presets 
  * @param {string} presets.baseUrl
+ * @param {string} presets.host
  * @param {string} presets.posts
  * @param {string} presets.postTemplate
  * @param {string} presets.indexTemplate
@@ -13,7 +14,7 @@ export default async function vitePluginPosts (presets) {
 
   const name = 'vite-plugin-posts'
   const enforce = 'pre'
-  const { baseUrl, postTemplate, indexTemplate, posts } = presets;
+  const { baseUrl, postTemplate, indexTemplate, posts, host } = presets;
   const entries = new Map()
   const postHtml = await readFile(postTemplate, 'utf8')
   const indexHtml = await readFile(indexTemplate, 'utf8')
@@ -133,17 +134,34 @@ export default async function vitePluginPosts (presets) {
 
   function getPostHtml (html, post) {
 
-    const script = [
-      '<script id="post-data"></script>',
-      `<script id="post-data">window.CURATED = ${JSON.stringify({ post })}</script>`
+    const tags = [
+      [
+        '<script id="post-data"></script>',
+        `<script id="post-data">window.CURATED = ${JSON.stringify({ post })}</script>`
+      ],
+      [
+        '<meta property="og:title" />',
+        `<meta property="og:title" content=${JSON.stringify(post.title.replaceAll('"', "'"))} />`
+      ],
+      [
+        '<meta property="og:url" />',
+        `<meta property="og:url" content="${host}/post/${post.slug}/" />`
+      ],
+      [
+        '<meta property="og:image" />',
+        `<meta property="og:image" content="${host}${post.image}" />`
+      ],
+      [
+        '<title></title>',
+        `<title>${post.title} - Curated</title>`
+      ]
     ]
 
-    const title = [
-      '<title></title>',
-      `<title>${post.title} - Curated</title>`
-    ]
+    const result = tags.reduce((acc, tag) => {
+      return acc.replace(...tag)
+    }, html)
 
-    return html.replace(...script).replace(...title);
+    return result;
   }
 
   return ({
