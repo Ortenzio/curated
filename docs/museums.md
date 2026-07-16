@@ -36,22 +36,24 @@
 - [Montclair Art Museum](https://www.montclairartmuseum.org/)
 - [Musée d'Orsay](https://www.musee-orsay.fr/en/collections)
 - [Musée des Beaux-Arts de Lyon](https://www.mba-lyon.fr/en)
+- [Musei Vaticani](https://www.museivaticani.va/content/museivaticani/en.html)
 - [Museo Del Prado](https://www.museodelprado.es)
 - [Museo Madre Napoli](www.madrenapoli.it)
 - [Museo Renia Sofia](https://www.museoreinasofia.es/en)
 - [Museu Nacional do Azulejo](https://museunacionaldoazulejo.gov.pt/)
 - [Museum Angewandte Kunst](https://sammlung-digital.museumangewandtekunst.de/home)
+- [Museum Boijmans](https://www.boijmans.nl)
 - [Museum Fur Moderne Kunst](https://www.mmk.art/)
 - [Museum Georg Schäfer](https://www.museumgeorgschaefer.de/Homepage)
 - [Museum of Contemporary Art in Krakow](https://en.mocak.pl)
 - [Museum of Fine Arts Ghent](https://www.mskgent.be/en/)
 - [Museum of Fine Arts Houston](https://www.mfah.org/)
-- [Musei Vaticani](https://www.museivaticani.va/content/museivaticani/en.html)
 - [National Gallery Britian](https://www.nationalgallery.org.uk)
 - [National Gallery of Art](https://www.nga.gov)
-- [National Museum Finland](https://www.kansallismuseo.fi/en/kansallismuseo)
 - [National Gallery of Canada](https://www.gallery.ca/)
+- [National Museum Finland](https://www.kansallismuseo.fi/en/kansallismuseo)
 - [National Museum of Korea](https://www.museum.go.kr/)
+- [National Museum Of Krakow](https://zbiory.mnk.pl/en/search-result/)
 - [National Museum of Poland](https://cyfrowe.mnw.art.pl/en/home)
 - [National Museum Sweden](https://www.nationalmuseum.se/)
 - [National Portrait Gallery](https://collections.si.edu/)
@@ -73,15 +75,3 @@
 - [Virginia Museum of Fine Arts](https://www.vmfa.museum/)
 - [Whitney Museum of American Art](https://whitney.org/collection/works)
 - [Wikiart](https://www.wikiart.org/)
-- [Museum Boijmans](https://www.boijmans.nl)
-
-
-
-
-[Pergamonmuseum](https://www.smb.museum/en/museums-institutions/pergamonmuseum/home/)
-[National Museum Of Krakow](https://zbiory.mnk.pl/en/search-result/advance/catalog/388266)
-[Musée Fabre](https://www.museefabre.fr)
-[Musées de Reims](https://musees-reims.fr/)
-
-
-https://collection.nationalmuseum.se/en/collection/?ff=%7B%22new_material_tech_en_ss%22%3A%5B%22%23Painting%23%22%5D%2C%22new_material_mat_en_ss%22%3A%5B%22%23Oil%20paint%23%22%5D%7D&om=548&q=&s=person_name_en_sml%20asc
