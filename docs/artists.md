@@ -8,7 +8,7 @@
 [Rosita](https://www.mskgent.be/en/collection/1952-b)
 
 ## Tadeusz Ajdukiewicz
-[$$ Portrait of Kazimierz Alchimowicz](https://cyfrowe.mnw.art.pl/en/catalog/440413)
+[# Portrait of Kazimierz Alchimowicz](https://cyfrowe.mnw.art.pl/en/catalog/440413)
 [$ Study of a Hunter](https://cyfrowe.mnw.art.pl/en/catalog/452999)
 [Portrait of Helena Modrzejewska](https://zbiory.mnk.pl/en/search-result/advance/catalog/274367)
 
@@ -20,13 +20,13 @@
 [Supper Call on the Farm](https://www.pafa.org/museum/collection/item/supper-call-farm)
 
 ## Jan Chełmiński
-[$$ Oriental rider on a white horse](https://cyfrowe.mnw.art.pl/en/catalog/453047)
+[# Oriental rider on a white horse](https://cyfrowe.mnw.art.pl/en/catalog/453047)
 
 ## Ernesto de la Cárcova
 [Without Bread and Without Work](https://www.bellasartes.gob.ar/en/collection/work/1777/)
 
 ## Stanisław Batowski-Kaczor
-[$$ Woman in Reverie](https://cyfrowe.mnw.art.pl/en/catalog/453568)
+[# Woman in Reverie](https://cyfrowe.mnw.art.pl/en/catalog/453568)
 
 ## Stanisław Lentz
 [Worker](https://cyfrowe.mnw.art.pl/en/catalog/440457)
@@ -86,7 +86,7 @@
 [Portrait of a Man](https://sammlung.belvedere.at/objects/55547/mannliches-bildnis?)
 
 ## Mihály von Munkácsy
-[$$ Self Portrait](https://sammlung.belvedere.at/objects/553/selbstportrat?)
+[# Self Portrait](https://sammlung.belvedere.at/objects/553/selbstportrat?)
 
 ## Tiziano Vecellio
 [Secretario](https://www.bellasartes.gob.ar/en/collection/work/7820/)
@@ -186,7 +186,7 @@
 [Nathan Lord](https://hoodmuseum.dartmouth.edu/objects/p.939.16.2)
 
 ## Annie Louisa Swynnerton A.R.A.
-[$$ S. Isabel Dacre](https://collections.manchesterartgallery.org/collections/item/d96f824a-0a2d-37b8-8d51-28ad6f8ce7d4/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D26&pos=273)
+[# S. Isabel Dacre](https://collections.manchesterartgallery.org/collections/item/d96f824a-0a2d-37b8-8d51-28ad6f8ce7d4/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D26&pos=273)
 
 ## Norman Garstin
 [$ A Woman Reading a Newspaper](https://www.tate.org.uk/art/artworks/garstin-a-woman-reading-a-newspaper-n04234)
@@ -265,7 +265,7 @@
 [Sunrise](https://collection.farnsworthmuseum.org/objects/323/sunrise)
 
 ## Lucien Doucet
-[$$ Portrait d'homme](https://www.musee-orsay.fr/en/artworks/portrait-dhomme-16951)
+[$ Portrait d'homme](https://www.musee-orsay.fr/en/artworks/portrait-dhomme-16951)
 
 ## Antonio Mancini
 [# Old Woman Drinking Tea](https://www.philamuseum.org/objects/283511)
@@ -314,7 +314,7 @@
 [Portrait du père de l'artiste](https://www.musee-orsay.fr/en/artworks/portrait-du-pere-de-lartiste-78063)
 
 ## Jules Bastien-Lepage
-[$$ The Actress Sarah Bernhardt](https://collection.nationalmuseum.se/en/collection/item/21150/)
+[# The Actress Sarah Bernhardt](https://collection.nationalmuseum.se/en/collection/item/21150/)
 [Portrait de l'artiste](https://www.musee-orsay.fr/en/artworks/portrait-de-lartiste-9173)
 
 ## Adolphe Déchenaud
@@ -379,13 +379,13 @@
 [Portrait of a Gentleman](https://www.artsbma.org/collection/portrait-of-a-gentleman-self-portrait/)
 
 ## Karl Larisch
-[$$ Autoportret](https://cyfrowe.mnw.art.pl/en/catalog/450312)
+[$ Autoportret](https://cyfrowe.mnw.art.pl/en/catalog/450312)
 
 ## Włodzimierz Terlikowski
 [Portrait of a Lady](https://cyfrowe.mnw.art.pl/en/catalog/449638)
 
 ## Olga Boznańska
-[$$ Japanese Woman](https://cyfrowe.mnw.art.pl/en/catalog/441352)
+[# Japanese Woman](https://cyfrowe.mnw.art.pl/en/catalog/441352)
 [$ Portrait of Paul Nauen](https://zbiory.mnk.pl/en/search-result/advance/catalog/35369)
 [$ study of a nun](https://zbiory.mnk.pl/en/search-result/advance/catalog/155802)
 [$ Portrait of a Girl – Zofia Sokołowska](https://zbiory.mnk.pl/en/search-result/advance/catalog/241368)
@@ -426,7 +426,7 @@
 
 ## Jean Baptiste Cammile Carot
 [# Goatherd of Terni](https://www.philamuseum.org/objects/72244)
-[$$ Homme en armure](https://www.musee-orsay.fr/en/artworks/homme-en-armure-40)
+[$ Homme en armure](https://www.musee-orsay.fr/en/artworks/homme-en-armure-40)
 [$ Italian Woman](https://www.nationalgallery.org.uk/paintings/jean-baptiste-camille-corot-italian-woman)
 [$ The Wood Gatherer](https://www.nationalgallery.org.uk/paintings/jean-baptiste-camille-corot-the-wood-gatherer)
 [A Torrent at Romagnes](https://collections.artsmia.org/art/2243/a-torrent-at-romagnes-jean-baptiste-camille-corot)
@@ -1953,7 +1953,7 @@
 [The British Fleet Forming a Line off Algiers](https://collections.mfa.org/objects/32602/the-british-fleet-forming-a-line-off-algiers?ctx=4e36dcde-6935-4c98-940b-4cfc60f8c657&idx=4)
 
 ## Hugo Salmson
-[$$ A parisian lady](https://collection.nationalmuseum.se/en/collection/item/19022/)
+[$ A parisian lady](https://collection.nationalmuseum.se/en/collection/item/19022/)
 [$ Mademoiselle Pourtalès](https://collection.nationalmuseum.se/en/collection/item/18907/)
 [french peasant girl](https://collection.nationalmuseum.se/en/collection/item/21957/)
 
@@ -2349,7 +2349,7 @@
 [Portrait of Tieleman Roosterman](https://www.clevelandart.org/art/1999.173)
 
 ## Bernhard Österman
-[$$ Gustav V](https://collection.nationalmuseum.se/en/collection/item/39875/)
+[# Gustav V](https://collection.nationalmuseum.se/en/collection/item/39875/)
 
 ## Allan Österlind
 [Självporträtt](https://collection.nationalmuseum.se/en/collection/item/35144/)
@@ -2500,7 +2500,8 @@
 [Poplar Trees](https://collections.mfa.org/objects/30991/poplar-trees?ctx=6d6bf212-693a-428c-b487-5f7ac26a5c23&idx=56)
 
 ## Carl Probst
-[$$ Head study](https://sammlung.belvedere.at/objects/4059/kopfstudie?)
+[# Head study](https://sammlung.belvedere.at/objects/4059/kopfstudie?)
+[# Townhall in Rothenburg](https://sammlung.belvedere.at/objects/6098/rathaus-in-rothenburg)
 
 ## Stanisław Grocholski
 [# Praying Jew](https://cyfrowe.mnw.art.pl/en/catalog/444752)
@@ -2661,7 +2662,7 @@
 [$ Study](https://www.pafa.org/museum/collection/item/study-0)
 
 ## William Sartain
-[$$ Portrait de chef nubien](https://www.musee-orsay.fr/en/artworks/portrait-de-chef-nubien-78560)
+[Portrait de chef nubien](https://www.musee-orsay.fr/en/artworks/portrait-de-chef-nubien-78560)
 
 ## Robert Koehler
 [# Head of an Old Woman](https://collections.artsmia.org/art/10507/head-of-an-old-woman-robert-koehler)
@@ -2755,7 +2756,7 @@
 [$ Portrait of a Girl](https://www.boijmans.nl/en/collection/artworks/3601/portrait-of-a-girl)
 
 ## Edvard Perséus
-[$$ Erik XIV and Karin Månsdotter in Prison. Sketch](https://collection.nationalmuseum.se/en/collection/item/20746/)
+[# Erik XIV and Karin Månsdotter in Prison. Sketch](https://collection.nationalmuseum.se/en/collection/item/20746/)
 [$ Självporträtt med hustrun Maria Agnes Claesson](https://collection.nationalmuseum.se/en/collection/item/154256/)
 [Okänd kvinna med okänd man](https://collection.nationalmuseum.se/en/collection/item/129602/)
 
@@ -2921,7 +2922,7 @@
 [The Reverend Alexander McLaren](https://collections.manchesterartgallery.org/collections/item/e31bcb1d-6b15-3585-85ce-e34df181636b/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D12&pos=124)
 
 ## Flora Macdonald Reid
-[$$ A Doubtful Customer](https://collections.manchesterartgallery.org/collections/item/fa225c52-f701-37b9-8600-da50aa2ef44e/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D15&pos=144)
+[# A Doubtful Customer](https://collections.manchesterartgallery.org/collections/item/fa225c52-f701-37b9-8600-da50aa2ef44e/)
 
 ## Louis Mettling
 [# The Peasant](https://www.gallery.ca/collection/artwork/the-peasant)
@@ -3057,7 +3058,7 @@
 
 ## Marcellin Desboutin
 [# Portrait de l'artiste](https://www.musee-orsay.fr/en/artworks/portrait-de-lartiste-16930)
-[$$ Portrait de l'artiste-2](https://www.musee-orsay.fr/en/artworks/portrait-de-lartiste-70304)
+[$ Portrait de l'artiste-2](https://www.musee-orsay.fr/en/artworks/portrait-de-lartiste-70304)
 [Madame Cornereau](https://www.musee-orsay.fr/en/artworks/madame-cornereau-16929)
 
 ## Emile Friant
@@ -3105,7 +3106,7 @@
 [Portret van Ds Petrus Hermannus Hugenholtz](https://www.rijksmuseum.nl/en/collection/object/Portret-van-Ds-Petrus-Hermannus-Hugenholtz-1834-1911-oprichter-van-de-Vrije-Gemeente--a8dff271f023754f79bc36370a47d341)
 
 ## Edouard Frédéric Wilhelm Richter
-[$$ Oriental Woman](https://sammlung.belvedere.at/objects/5251/orientalin?)
+[# Oriental Woman](https://sammlung.belvedere.at/objects/5251/orientalin?)
 
 ## August Rieger
 [Self-Portrait](https://sammlung.belvedere.at/objects/5057/selbstbildnis?)
@@ -3117,8 +3118,7 @@
 [Still Life with a Haddock and Gurnard](https://www.rijksmuseum.nl/en/collection/object/Still-Life-with-a-Haddock-and-Gurnard--2e39e7e0106c431d62fbc6b4409193a0)
 
 ## Susan Isabel Dacre
-[$$ Colonel Volbert](https://collections.manchesterartgallery.org/collections/item/b74be95a-aa49-368e-8681-98288e62c60b/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting&pos=3)
-[$ A Girl (Bertha Edgar)](https://collections.manchesterartgallery.org/collections/item/23f0c0f3-7712-30cc-b5e0-66aa48acd674/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D20&pos=198)
+[# Colonel Volbert](https://collections.manchesterartgallery.org/collections/item/b74be95a-aa49-368e-8681-98288e62c60b)
 [$ Italian Girl with Necklace](https://collections.manchesterartgallery.org/collections/item/c030d730-c2f5-390c-9059-dac797cd1740/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D20&pos=194)
 [$ The Artist's Mother](https://collections.manchesterartgallery.org/collections/item/0f8f9e6e-1a88-38ed-8c9c-bf0c4a27543f/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D20&pos=202)
 [$ Italian Women in Church](https://collections.manchesterartgallery.org/collections/item/6e33a975-5b34-3f87-8e4d-0c35211f5a4a/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D34&pos=354)
