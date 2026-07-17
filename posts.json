@@ -105,6 +105,21 @@
     "copyright": "Public Domain"
   },
   {
+    "slug": "dining-room",
+    "title": "The Dining Room",
+    "image": "/images/lundegard__dining-room.png",
+    "artist": "Justus Lundegård",
+    "date": "Sign. 1919",
+    "height": 63.5,
+    "width": 50.5,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "NM 4722",
+    "location": "National Gallery of Sweeden",
+    "source": "https://collection.nationalmuseum.se/en/collection/item/21772/",
+    "copyright": "Public Domain"
+  },
+  {
     "slug": "amanda-sidvall",
     "title": "Self-portrait of Amanda Sidvall",
     "image": "/images/sidvall__amanda-sidvall.png",
@@ -359,6 +374,21 @@
     "copyright": "Public Domain"
   },
   {
+    "slug": "amazon-woman",
+    "title": "Amazon Woman",
+    "image": "/images/romer__amazon-woman.jpg",
+    "artist": "Edward Mateusz Römer",
+    "date": "end of the 19th c.",
+    "height": 96,
+    "width": 73.5,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "MP 4778 MNW",
+    "location": "National Museum in Warsaw",
+    "source": "https://cyfrowe.mnw.art.pl/en/catalog/447436",
+    "copyright": "Public Domain"
+  },
+  {
     "slug": "theresita",
     "title": "Portrait of Maria Krzymuska called ‘Theresita’",
     "image": "/images/krzyzanowski__theresita.jpg",
@@ -401,6 +431,21 @@
     "accession": "868.1.18",
     "location": "Musée Fabre",
     "source": "https://www.museefabre.fr/recherche/musee%3AMUS_BIEN%3A3649",
+    "copyright": "Musée Fabre de Montpellier Méditerranée Métropole - photograph by Frédéric Jaulmes"
+  },
+  {
+    "slug": "portrait-of-robert-stevens",
+    "title": "Portrait de Robert Stevens en costume flamand du 17e siècle",
+    "image": "/images/roybet__portrait-of-robert-stevens.jpg",
+    "artist": "Ferdinand Roybet",
+    "date": "19th century",
+    "height": 66,
+    "width": 54,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "01.1.1",
+    "location": "Musée Fabre",
+    "source": "  https://www.museefabre.fr/recherche/musee:MUS_BIEN:11",
     "copyright": "Musée Fabre de Montpellier Méditerranée Métropole - photograph by Frédéric Jaulmes"
   },
   {
@@ -507,6 +552,21 @@
     "copyright": "Public Domain"
   },
   {
+    "slug": "mimmi-zetterstrom",
+    "title": "Self-Portrait of Mimmi Zetterström",
+    "image": "/images/zetterstrom__mimmi-zetterstrom.png",
+    "artist": "Mimmi Zetterström",
+    "date": "Signed 1876",
+    "height": 40.0,
+    "width": 32.0,
+    "medium": "Oil",
+    "support": "Wood",
+    "accession": "NM 3344",
+    "location": "National Gallery of Sweeden",
+    "source": "https://collection.nationalmuseum.se/en/collection/item/20397/",
+    "copyright": "Public Domain"
+  },
+  {
     "slug": "hans-heyerdahl",
     "title": "Hans Heyerdahl",
     "image": "/images/peterssen__hans-heyerdahl.jpg",
@@ -522,7 +582,7 @@
     "copyright": "CC BY-NC-ND 4.0"
   },
   {
-    "slug": "oriental-woman.jpg",
+    "slug": "oriental-woman",
     "title": "Oriental Woman",
     "image": "/images/richter__oriental-woman.jpg",
     "artist": "Edouard Frédéric Wilhelm Richter",
@@ -536,9 +596,23 @@
     "source": "https://sammlung.belvedere.at/objects/5251/orientalin"
   },
   {
-    "slug": "a-rose",
+    "slug": "kopf-einer-alten-frau-mit-der-hand-am-mund",
+    "title": "Kopf Einer Alten Frau Mit Der Hand Am Mund",
+    "image": "/images/kubin__kopf-einer-alten-frau-mit-der-hand-am-mund.jpg",
+    "artist": "Karoline Kubin",
+    "date": "c 1890",
+    "height": 45,
+    "width": 28.5,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": 4064,
+    "location": "Österreichische Galerie Belvedere",
+    "source": "https://sammlung.belvedere.at/objects/2858/kopf-einer-alten-frau-mit-der-hand-am-mund"
+  },
+  {
+    "slug": "rose",
     "title": "A Rose",
-    "image": "/images/anshutz__a-rose.jpg",
+    "image": "/images/anshutz__rose.jpg",
     "artist": "Thomas Anshutz",
     "date": 1907,
     "height": 147.3,
@@ -652,6 +726,36 @@
     "copyright": "Public Domain"
   },
   {
+    "slug": "un-reitre",
+    "title": "Un Reitre",
+    "image": "/images/roybet__un-reitre.jpg",
+    "artist": "Ferdinand Roybet",
+    "date": "1910",
+    "height": 55,
+    "width": 45.8,
+    "medium": "Oil",
+    "support": "Panel",
+    "accession": "5442",
+    "location": "Bellas Artes",
+    "source": "https://www.bellasartes.gob.ar/coleccion/obra/5442/",
+    "copyright": "Public Domain"
+  },
+  {
+    "slug": "retrato-de-juana-romani",
+    "title": "Retrato de Juana Romani",
+    "image": "/images/roybet__retrato-de-juana-romani.jpg",
+    "artist": "Ferdinand Roybet",
+    "date": "ca.1890",
+    "height": 55,
+    "width": 45.5,
+    "medium": "Oil",
+    "support": "Panel",
+    "accession": "5898",
+    "location": "Bellas Artes",
+    "source": "https://www.bellasartes.gob.ar/coleccion/obra/5898/",
+    "copyright": "Public Domain"
+  },
+  {
     "slug": "an-alter-boy-practices-his-singing",
     "title": "An altar boy practices his singing",
     "image": "/images/camarlench__an-altar-boy-practices-his-singing.jpg",
@@ -693,6 +797,51 @@
     "accession": "MNK II-a-1049",
     "location": "The National Museum in Krakow",
     "source": "https://zbiory.mnk.pl/en/search-result/advance/catalog/489678",
+    "copyright": "CC0 - Public domain"
+  },
+  {
+    "slug": "portrait-of-feliks-jasienski-dressed-as-a-bedouin",
+    "title": "Portrait of Feliks Jasieński Dressed as a Bedouin",
+    "image": "/images/wyczilkowski__portrait-of-feliks-jasienski-dressed-as-a-bedouin.jpg",
+    "artist": "Leon Wyczółkowski",
+    "date": "około 1908 roku",
+    "height": 133.0,
+    "width": 60.0,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "MNK II-b-919",
+    "location": "The National Museum in Krakow",
+    "source": "https://zbiory.mnk.pl/en/search-result/advance/catalog/147903",
+    "copyright": "CC0 - Public domain"
+  },
+  {
+    "slug": "portrait-of-erazm-baracz",
+    "title": "Portrait of Erazm Barącz",
+    "image": "/images/wyczilkowski__portrait-of-erazm-baracz.jpg",
+    "artist": "Leon Wyczółkowski",
+    "date": "1908",
+    "height": 76.0,
+    "width": 80.0,
+    "medium": "Oil",
+    "support": "Cardboard",
+    "accession": "MNK II-b-71",
+    "location": "The National Museum in Krakow",
+    "source": "https://zbiory.mnk.pl/en/search-result/advance/catalog/42925",
+    "copyright": "CC0 - Public domain"
+  },
+  {
+    "slug": "kosciuszko-on-horseback",
+    "title": "Kościuszko on Horseback",
+    "image": "/images/kossak__kosciuszko-on-horseback.jpg",
+    "artist": "Wojciech Kossak",
+    "date": "1893",
+    "height": 121.0,
+    "width": 90.0,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "MNK II-b-1726",
+    "location": "The National Museum in Krakow",
+    "source": "https://zbiory.mnk.pl/en/search-result/advance/catalog/245118",
     "copyright": "CC0 - Public domain"
   },
   {
@@ -1123,7 +1272,7 @@
     "slug": "nymphs-and-satyr",
     "title": "Nymphs and Satyr",
     "image": "/images/bouguereau__nymphs-and-satyr.jpg",
-    "artist": "William Adolphe Bouguereau",
+    "artist": "William-Adolphe Bouguereau",
     "date": 1873,
     "height": 260,
     "width": 180,
@@ -1803,7 +1952,7 @@
   {
     "slug": "lamb",
     "title": "A Lamb",
-    "image": "/images/zurbaran__a-lamb.jpg",
+    "image": "/images/zurbaran__lamb.jpg",
     "artist": "Francisco de Zurbarán",
     "date": "1635 - 1640",
     "height": 37.3,
@@ -2721,7 +2870,7 @@
   {
     "slug": "student",
     "title": "The Student",
-    "image": "/images/wiles__the-student.jpg",
+    "image": "/images/wiles__student.jpg",
     "artist": "Irving Ramsay Wiles",
     "date": 1910,
     "height": 77.7,

@@ -386,20 +386,20 @@
 
 ## Olga Boznańska
 [# Japanese Woman](https://cyfrowe.mnw.art.pl/en/catalog/441352)
-[$ Portrait of Paul Nauen](https://zbiory.mnk.pl/en/search-result/advance/catalog/35369)
-[$ study of a nun](https://zbiory.mnk.pl/en/search-result/advance/catalog/155802)
-[$ Portrait of a Girl – Zofia Sokołowska](https://zbiory.mnk.pl/en/search-result/advance/catalog/241368)
-[Portrait of a Man – two-sided painting](https://zbiory.mnk.pl/en/search-result/advance/catalog/197428)
-[Portrait of Professor Jerzy Mycielski](https://zbiory.mnk.pl/en/search-result/advance/catalog/197815)
-[$ Self portrait with flowers](https://zbiory.mnk.pl/en/search-result/advance/catalog/290506)
-[Portrait of Jadwiga Sapieżyna née Sanguszko](https://zbiory.mnk.pl/en/search-result/advance/catalog/314545)
 [$ Portrait of a French Lady-Writer Gabrielle Réval](https://zbiory.mnk.pl/en/search-result/advance/catalog/198762)
+[$ Portrait of a Girl – Zofia Sokołowska](https://zbiory.mnk.pl/en/search-result/advance/catalog/241368)
+[$ Portrait of Paul Nauen](https://zbiory.mnk.pl/en/search-result/advance/catalog/35369)
+[$ Self portrait with flowers](https://zbiory.mnk.pl/en/search-result/advance/catalog/290506)
+[$ study of a nun](https://zbiory.mnk.pl/en/search-result/advance/catalog/155802)
+[Portrait of a Man – two-sided painting](https://zbiory.mnk.pl/en/search-result/advance/catalog/197428)
+[Portrait of Jadwiga Sapieżyna née Sanguszko](https://zbiory.mnk.pl/en/search-result/advance/catalog/314545)
+[Portrait of Professor Jerzy Mycielski](https://zbiory.mnk.pl/en/search-result/advance/catalog/197815)
 
 ## Z. Sękowski
 [$ Does the Kabbalah tell the truth?](https://cyfrowe.mnw.art.pl/en/catalog/440620)
 
 ## Edward Mateusz Römer
-[$$ Amazon Woman](https://cyfrowe.mnw.art.pl/en/catalog/447436)
+[# Amazon Woman](https://cyfrowe.mnw.art.pl/en/catalog/447436)
 
 ## Stanisław Rostworowski
 [Portrait of Wacław Szymanowski](https://cyfrowe.mnw.art.pl/en/catalog/447412)
@@ -679,7 +679,7 @@
 [Study of a nude](https://collection.nationalmuseum.se/en/collection/item/23725/)
 
 ## Mimmi Zetterström
-[$$ Self Portrait](https://collection.nationalmuseum.se/en/collection/item/20397/)
+[# Self Portrait](https://collection.nationalmuseum.se/en/collection/item/20397/)
 
 ## Ellen Emmet Rand
 [Woman Before the Mirror](https://www.artic.edu/artworks/249427/woman-before-the-mirror)
@@ -768,12 +768,12 @@
 [The Artists Monther](https://www.tate.org.uk/art/artworks/watt-the-artists-mother-n04541)
 
 ## Ferdinand Roybet
-[$$ Un Reitre](https://commons.wikimedia.org/wiki/File:Un_reitre_-_Ferdinand_Roybet.jpg)
-[$$ Retrato De Juana Romani](https://commons.wikimedia.org/wiki/File:Retrato_de_Juana_Romani_-_Ferdinand_Roybet.jpg)
-[$$ A Seated Cavalier](https://commons.wikimedia.org/wiki/File:A_SEATED_CAVALIER_by_Ferdinand_Roybet.jpg)
-[$$ Portrait of Robert Stevens in 17th-century Flemish costume](https://www.museefabre.fr/recherche/musee%3AMUS_BIEN%3A11?is_search_page=1&search=&currentPage=1)
-[The Burgomaster](https://www.gallery.ca/collection/artwork/the-burgomaster)
+[# Un Reitre](https://commons.wikimedia.org/wiki/File:Un_reitre_-_Ferdinand_Roybet.jpg)
+[# Retrato De Juana Romani](https://commons.wikimedia.org/wiki/File:Retrato_de_Juana_Romani_-_Ferdinand_Roybet.jpg)
+[# Portrait of Robert Stevens in 17th-century Flemish costume](https://www.museefabre.fr/recherche/musee%3AMUS_BIEN%3A11?is_search_page=1&search=&currentPage=1)
+[$ A Seated Cavalier](https://commons.wikimedia.org/wiki/File:A_SEATED_CAVALIER_by_Ferdinand_Roybet.jpg)
 [A Lord in Waiting](https://collection.mam.org/details.php?id=16662)
+[The Burgomaster](https://www.gallery.ca/collection/artwork/the-burgomaster)
 
 ## Henri Regnault
 [# A Chief of Abyssinia](https://www.nga.gov/artworks/168756-chief-abyssinia)
@@ -885,7 +885,7 @@
 [Self Portrait](https://sammlung.belvedere.at/objects/4722/selbstbildnis?)
 
 ## Karoline Kubin
-[$$ KOPF EINER ALTEN FRAU MIT DER HAND AM MUND](https://sammlung.belvedere.at/objects/2858/kopf-einer-alten-frau-mit-der-hand-am-mund?)
+[# Kopf Einer Alten Frau Mit Der Hand Am Mund](https://sammlung.belvedere.at/objects/2858/kopf-einer-alten-frau-mit-der-hand-am-mund?)
 
 ## Dobiesław Królikowski
 [$ Self Portrait](https://cyfrowe.mnw.art.pl/en/catalog/445344)
@@ -931,12 +931,12 @@
 [Self Portrait](https://cyfrowe.mnw.art.pl/en/catalog/445440)
 
 ## Leon Wyczółkowski
-[$$ Portrait of Erazm Barącz](https://zbiory.mnk.pl/en/search-result/advance/catalog/42925)
-[$$ Portrait of Feliks Jasieński Dressed as a Bedouin](https://zbiory.mnk.pl/en/search-result/advance/catalog/147903)
-[Self Portrait](https://cyfrowe.mnw.art.pl/en/catalog/445474)
-[Fisherman with a Net](https://zbiory.mnk.pl/en/search-result/advance/catalog/136102)
+[# Portrait of Feliks Jasieński Dressed as a Bedouin](https://zbiory.mnk.pl/en/search-result/advance/catalog/147903)
+[# Portrait of Erazm Barącz](https://zbiory.mnk.pl/en/search-result/advance/catalog/42925)
 [$ Self-Portrait](https://zbiory.mnk.pl/en/search-result/advance/catalog/130394)
+[Fisherman with a Net](https://zbiory.mnk.pl/en/search-result/advance/catalog/136102)
 [Portrait of Jan Kasprowicz](https://zbiory.mnk.pl/en/search-result/advance/catalog/146111)
+[Self Portrait](https://cyfrowe.mnw.art.pl/en/catalog/445474)
 
 ## Edmund Perle
 [Self-portrait in the 16th-century costume](https://cyfrowe.mnw.art.pl/en/catalog/445374)
@@ -960,7 +960,7 @@
 [Self Portrait](https://cyfrowe.mnw.art.pl/en/catalog/448054)
 
 ## Wojciech Kossak
-[$$ Kościuszko on Horseback](https://zbiory.mnk.pl/en/search-result/advance/catalog/245118)
+[# Kościuszko on Horseback](https://zbiory.mnk.pl/en/search-result/advance/catalog/245118)
 [Portrait of Marshal Józef Piłsudski](https://cyfrowe.mnw.art.pl/en/catalog/444956)
 [Lvov Eaglet](https://cyfrowe.mnw.art.pl/en/catalog/445011)
 
@@ -1282,8 +1282,8 @@
 [Fisherman Woman coming to Bath her Children](https://www.artrenewal.org/artworks/virginie-demont-breton/fisherman-woman-coming-to-bath-her-children/52884)
 
 ## Gerda Roosval Kallstenius
+[$ Astrid Setterwall Ångström](https://collection.nationalmuseum.se/en/collection/item/101585/)
 [A Blue Hyacinth in Paris](https://www.artrenewal.org/artworks/gerda-roosval-kallstenius/a-blue-hyacinth-in-paris/88159)
-[$$ Astrid Setterwall Ångström](https://collection.nationalmuseum.se/en/collection/item/101585/)
 
 ## Akseli Gallen-Kallela
 [$ Nude Study](https://collection.nationalmuseum.se/en/collection/item/231852/)
@@ -1747,7 +1747,7 @@
 [$ The Model](https://collection.nationalmuseum.se/en/collection/item/22443/)
 
 ## Robert Lundberg
-[$$ The Dinig room](https://collection.nationalmuseum.se/en/collection/item/21772/)
+[# The Dinig room](https://collection.nationalmuseum.se/en/collection/item/21772/)
 [Alley, Tanger](https://collection.nationalmuseum.se/en/collection/item/239374/)
 [the palace guard](https://collection.nationalmuseum.se/en/collection/item/18406/)
 
@@ -1895,7 +1895,7 @@
 [Morning Bush](https://whitney.org/collection/works/1634)
 
 ## Manuel Domínguez Sánchez y Vela
-[$$ Antonio del Val](https://www.museodelprado.es/en/the-collection/art-work/antonio-del-val/c61d8469-dde0-4dbd-b4ab-d9005cdd04d4)
+[$ Antonio del Val](https://www.museodelprado.es/en/the-collection/art-work/antonio-del-val/c61d8469-dde0-4dbd-b4ab-d9005cdd04d4)
 [$ The Death of Seneca](https://www.museodelprado.es/en/the-collection/art-work/the-death-of-seneca/7a5faebf-1111-4d01-bc18-c47c771533c0)
 
 ## Diego Velázquez
@@ -3228,7 +3228,7 @@
 [L'Enfant aux cerises](https://www.musee-orsay.fr/en/artworks/lenfant-aux-cerises-70038)
 
 ## Unknown
-[$$ Roman Woman](https://zbiory.mnk.pl/en/search-result/advance/catalog/452639)
+[$ Roman Woman](https://zbiory.mnk.pl/en/search-result/advance/catalog/452639)
 [$ Female Nude](https://cyfrowe.mnw.art.pl/en/catalog/436999)
 
 ## Bob Palevitz
