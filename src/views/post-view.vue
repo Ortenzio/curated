@@ -185,12 +185,11 @@ function handleReset (e) {
   font-family: var(--ff-display);
   font-size: 1.25rem;
   font-weight: 600;
-  letter-spacing: -1px;
   margin-block: 0;
   text-wrap: balance;
 
   @media (min-width: 50rem) {
-    font-size: 1.75rem;
+    font-size: 1.5rem;
     margin-block: 1rem;
   }
 }
