@@ -62,6 +62,12 @@ export default function vitePluginImages (settings) {
       
       const { data, info, outPath } = await transformImage(transformConfig)
 
+      if (!info) {
+        res.statusCode = 400;
+        res.end()
+        return;
+      }
+
       res.statusCode = 200;
       res.setHeader("Content-Type", mimeTypes[info.format])
       res.end(data)
@@ -92,14 +98,16 @@ export default function vitePluginImages (settings) {
         
         const { data, info, outPath } = await transformImage(transformConfig)
 
+        if (!data) {
+          return;
+        }
+
         const referenceId = this.emitFile({
           type: 'asset',
           name: transformConfig.outPath.slice(1),
           fileName: transformConfig.outPath.slice(1),
           source: data
         });
-        
-        // console.log('done', transformConfig.outPath);
 
       }
     }
@@ -150,11 +158,18 @@ export default function vitePluginImages (settings) {
 
   async function transformImage (transformConfig) {
 
+    let inputBuffer;
+
     const { preset } = transformConfig;
     const inPath = resolve(baseUrl, `.${transformConfig.inPath}`)
     const outPath = resolve(baseUrl, `.${transformConfig.outPath}`)
 
-    const inputBuffer = await readFile(inPath)
+    try {
+      inputBuffer = await readFile(inPath)
+    } catch (err) {
+      console.warn(`Error Reading file: ${inPath}`)
+      return {};
+    }
  
     let sharpImage = sharp(inputBuffer)
     
