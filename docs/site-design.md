@@ -25,3 +25,14 @@
 - https://preline.co/blocks/marketing/gallery-grids/
 - https://preline.co/blocks/data-display/description-lists/
 - https://preline.co/templates/websites/personal-portfolio/
+
+
+Search Wikidata for the artist’s full name:
+https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Albert%20Curtis%20Williamson&language=en&type=item&limit=10&format=json&origin=*
+Choose the correct QID using the label, description, aliases, and dates.
+Fetch that entity:
+https://www.wikidata.org/wiki/Special:EntityData/QID.json
+Check, in roughly this order:
+the commonswiki sitelink;
+property P373, the Commons category;
+optionally P1472, the Commons Creator page.

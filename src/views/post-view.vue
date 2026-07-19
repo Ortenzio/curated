@@ -9,8 +9,8 @@
 
       <div class="post__nav">
         <a href="/" class="post__link" data-dir="up" title="Home Page"><IconArrow alt="Home Page" /></a>
-        <a v-if="post.prev" :href="`/post/${post.prev}/`" class="post__link" data-dir="left" title="Previous Post"><IconArrow alt="Previous Post"/></a>
-        <a v-if="post.next" :href="`/post/${post.next}/`" class="post__link" data-dir="right" title="Next Post"><IconArrow alt="Next Post"/></a>
+        <a v-if="post.prev" :href="`/post/${post.prev}/`" rel="prev" class="post__link" data-dir="left" title="Previous Post"><IconArrow alt="Previous Post"/></a>
+        <a v-if="post.next" :href="`/post/${post.next}/`" rel="next" class="post__link" data-dir="right" title="Next Post"><IconArrow alt="Next Post"/></a>
       </div>
 
       <div class="post__title">
