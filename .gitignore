@@ -16,7 +16,9 @@ coverage
 *.local
 .env
 docs/image-test
-images
+docs/images
+.vscode/
+docs
 
 # Editor directories and files
 .vscode/*
