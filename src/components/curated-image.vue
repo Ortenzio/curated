@@ -8,6 +8,9 @@ const { src, preset } = defineProps({
   preset: { type: String }
 })
 
+// This should be done better
+const ext = (preset==='full') ? 'webp' : 'jpg';
+
 const regex = /(.*)(\.\w+)$/
-const loc = (import.meta.env.DEV) ? `${src}?p=${preset}` : src.replace(regex, `$1.${preset}.jpg`)
+const loc = (import.meta.env.DEV) ? `${src}?p=${preset}` : src.replace(regex, `$1.${preset}.${ext}`)
 </script>
