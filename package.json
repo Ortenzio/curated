@@ -6,10 +6,11 @@
   "scripts": {
     "dev": "vite dev",
     "build": "vite build",
-    "serve": "bun --hot run serve.js",
     "preview": "vite preview",
-    "deploy": "bun run build && gh-pages -d dist"
+    "serve": "bun --hot run serve.js",
+    "deploy": "gh-pages -d dist"
   },
+  "homepage": "https://ortenzio.github.io/curated",
   "dependencies": {
     "vue": "^3.5.39"
   },
