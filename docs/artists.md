@@ -1,7 +1,7 @@
 # Artists
 
 ## Wayman Adams
-[Joseph Pennell](https://www.artic.edu/artworks/74507/joseph-pennell)
+[# Joseph Pennell](https://www.artic.edu/artworks/74507/joseph-pennell)
 [Portrait of Charles H. Worcester](https://www.artic.edu/artworks/59836/portrait-of-charles-h-worcester)
 
 ## Edouard Agneessens
@@ -29,22 +29,22 @@
 [# Woman in Reverie](https://cyfrowe.mnw.art.pl/en/catalog/453568)
 
 ## Stanisław Lentz
-[Worker](https://cyfrowe.mnw.art.pl/en/catalog/440457)
+[# Worker](https://cyfrowe.mnw.art.pl/en/catalog/440457)
 
 ## Kazimierz Alchimowicz
 [Study of an Old Man's Head](https://cyfrowe.mnw.art.pl/en/catalog/453029)
 
 ## Maurycy Sztencel
-[Portrait of a Brunette](https://cyfrowe.mnw.art.pl/en/catalog/438773)
+[# Portrait of a Brunette](https://cyfrowe.mnw.art.pl/en/catalog/438773)
 
 ## Pantaleon Szyndler
 [# Portrait of a philosopher](https://cyfrowe.mnw.art.pl/en/catalog/438858)
 
 ## Francis Alexander
-[Madam Powel](https://collections.mfa.org/objects/31943/madam-powel-elizabeth-willing?ctx=aca67666-ef10-470c-9f27-a70a9feef6c6&idx=299)
+[# Madam Powel](https://collections.mfa.org/objects/31943/madam-powel-elizabeth-willing?ctx=aca67666-ef10-470c-9f27-a70a9feef6c6&idx=299)
 
 ## Eugenio Daneri
-[$ The Loss of the Child](https://www.bellasartes.gob.ar/en/collection/work/6675/)
+[# The Loss of the Child](https://www.bellasartes.gob.ar/en/collection/work/6675/)
 
 ## Sigmund L'Allemand
 [General der kavallerie alexander freiherr von koller](https://sammlung.belvedere.at/objects/5856/general-der-kavallerie-alexander-freiherr-von-koller?)
@@ -57,26 +57,27 @@
 [In the Laboratory](https://www.metmuseum.org/art/collection/search/10062)
 [Portrait of Judge Alexander: John White Alexander](https://collections.si.edu/search/detail/edanmdm:npg_NPG.2020.114?fq=data_source%3A%22National+Portrait+Gallery%22&fq=online_media_type%3A%22Images%22&fq=object_type%3A%22Paintings%22&record=28&hlterm=&inline=true)
 
-## José Casado del Alisal (del Alisal)
+## José Casado del Alisal (Casado del Alisal)
 [$ La Tirana](https://www.museodelprado.es/en/the-collection/art-work/la-tirana/6cbbe22a-6e17-42d7-9780-f3ee78d92c0c)
+[$ The Bell of Huesca (legend of the monk king)](https://www.museodelprado.es/en/the-collection/art-work/the-legend-of-the-monk-king/54cca3b9-3a81-4572-9bcf-9969271fac04)
 
 ## Sir William Allan
 [The Bashkirs](https://www.hermitagemuseum.org/digital-collection/40338?lng=en)
 
 ## Julius Victor Berger
-[DER HOFFOTOGRAF JOSEF LÖWY](https://sammlung.belvedere.at/objects/8503/der-hoffotograf-josef-lowy?)
+[# Der Hoffotograf Josef Löwy](https://sammlung.belvedere.at/objects/8503/der-hoffotograf-josef-lowy?)
 
 ## Friedrich von Amerling
-[$ SELBSTPORTRÄT MIT BLAUER HALSBINDE](https://sammlung.belvedere.at/objects/3786/selbstportrat-mit-blauer-halsbinde?)
-[The Young Eastern Woman](https://www.clevelandart.org/art/1991.163)
-[der maler johann nepomuk schödlberger](https://sammlung.belvedere.at/objects/192/der-maler-johann-nepomuk-schodlberger-17791853?)
-[luise pfeiffer-nathusius](https://sammlung.belvedere.at/objects/645/luise-pfeiffernathusius-18111891?)
-[der maler theodor alconière](https://sammlung.belvedere.at/objects/823/der-maler-theodor-alconiere-17981865?)
-[selbstporträt von unten gesehen](https://sammlung.belvedere.at/objects/825/selbstportrat-von-unten-gesehen?)
-[der bildhauer pompeo marchesi](https://sammlung.belvedere.at/objects/891/der-bildhauer-pompeo-marchesi-17831858?)
-[SELBSTPORTRÄT MIT PALETTE](https://sammlung.belvedere.at/objects/1417/selbstportrat-mit-palette?)
+[# Selbstporträt Mit Blauer Halsbinde](https://sammlung.belvedere.at/objects/3786/selbstportrat-mit-blauer-halsbinde?)
+[# DER KUPFERSTECHER FRANZ XAVER STÖBER](https://sammlung.belvedere.at/objects/7964/der-kupferstecher-franz-xaver-stober--17951858?)
+[Der bildhauer pompeo marchesi](https://sammlung.belvedere.at/objects/891/der-bildhauer-pompeo-marchesi-17831858?)
 [DER MALER CARL RAHL](https://sammlung.belvedere.at/objects/5305/der-maler-carl-rahl-18121865?)
-[DER KUPFERSTECHER FRANZ XAVER STÖBER](https://sammlung.belvedere.at/objects/7964/der-kupferstecher-franz-xaver-stober--17951858?)
+[Der maler johann nepomuk schödlberger](https://sammlung.belvedere.at/objects/192/der-maler-johann-nepomuk-schodlberger-17791853?)
+[Der maler theodor alconière](https://sammlung.belvedere.at/objects/823/der-maler-theodor-alconiere-17981865?)
+[Luise Pfeiffer-Nathusius](https://sammlung.belvedere.at/objects/645/luise-pfeiffernathusius-18111891?)
+[SELBSTPORTRÄT MIT PALETTE](https://sammlung.belvedere.at/objects/1417/selbstportrat-mit-palette?)
+[selbstporträt von unten gesehen](https://sammlung.belvedere.at/objects/825/selbstportrat-von-unten-gesehen?)
+[The Young Eastern Woman](https://www.clevelandart.org/art/1991.163)
 
 ## Carl Moll
 [DIE RÖMISCHE RUINE IN SCHÖNBRUNN](https://sammlung.belvedere.at/objects/2515/die-romische-ruine-in-schonbrunn?)
@@ -178,31 +179,31 @@
 [Self portrait](https://sammlung.belvedere.at/objects/8434/selbstportrat?)
 
 ## Adam Cleague
+[# Cara Cara Orange](https://claguefineart.com/products/cara-cara-orange)
 [A-Peel-ing Study](https://claguefineart.com/products/a-peel-ing-study)
 [Bagpiper](https://claguefineart.com/products/bagpiper)
 [Beloved](https://claguefineart.com/products/beloved)
-[Cadmium Cara Cara](https://claguefineart.com/products/cara-cara-orange)
 [Fissures of Fire](https://claguefineart.com/products/fissures-of-fire-1)
 [Sunny Citrus](https://claguefineart.com/products/lemergance)
 
 ## Joseph Greenleaf Cole
-[$ Off the North Shore](https://collection.farnsworthmuseum.org/objects/186/off-the-north-shore)
+[# Off the North Shore](https://collection.farnsworthmuseum.org/objects/186/off-the-north-shore)
 [Nathan Lord](https://hoodmuseum.dartmouth.edu/objects/p.939.16.2)
 
 ## Annie Louisa Swynnerton A.R.A.
-[# S. Isabel Dacre](https://collections.manchesterartgallery.org/collections/item/d96f824a-0a2d-37b8-8d51-28ad6f8ce7d4/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D26&pos=273)
+[# S. Isabel Dacre](https://collections.manchesterartgallery.org/collections/item/d96f824a-0a2d-37b8-8d51-28ad6f8ce7d4/)
 
 ## Norman Garstin
 [$ A Woman Reading a Newspaper](https://www.tate.org.uk/art/artworks/garstin-a-woman-reading-a-newspaper-n04234)
 
 ## Fanny Sugars
-[$ My Mother](https://collections.manchesterartgallery.org/collections/item/cf8f340e-a1ff-3815-bf8f-e8192838caf6/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D30&pos=310)
+[# My Mother](https://collections.manchesterartgallery.org/collections/item/cf8f340e-a1ff-3815-bf8f-e8192838caf6/)
 
 ## William Collins
 [Study for the Morning Lesson](https://high.org/collection/study-for-the-morning-lesson/)
 
 ## Ralph Wormeley Curtis
-[Costume Party](https://high.org/collection/costume-party/)
+[$ Costume Party](https://high.org/collection/costume-party/)
 
 ## Alexandre Gabriel Decamps
 [$ Study of Pigs](https://www.artic.edu/artworks/882/study-of-pigs)
@@ -239,7 +240,7 @@
 [$ Reverie](https://www.kmska.be/en/masterpiece/reverie)
 
 ## Théodore Géricault
-[Trumpeter of the Hussars](https://www.clarkart.edu/ArtPiece/Detail/Trumpeter-of-the-Hussars)
+[# Trumpeter of the Hussars](https://www.clarkart.edu/ArtPiece/Detail/Trumpeter-of-the-Hussars)
 
 ## Francesco Guardi
 [# Santa Maria Della Salute](https://www.metmuseum.org/art/collection/search/436598)
@@ -428,10 +429,10 @@
 [Rufus Choate](https://hoodmuseum.dartmouth.edu/objects/p.947.15)
 
 ## John Butler Yeats
-[Self-Portrait](https://hoodmuseum.dartmouth.edu/objects/p.952.37)
+[# Self-Portrait](https://hoodmuseum.dartmouth.edu/objects/p.952.37)
 
 ## Walter Dean
-[On the Deep Sea](https://collection.farnsworthmuseum.org/objects/242/on-the-deep-sea)
+[# On the Deep Sea](https://collection.farnsworthmuseum.org/objects/242/on-the-deep-sea)
 
 ## William Gilbert Gaul
 [$ Nearing the End](https://www.artsbma.org/collection/nearing-the-end/)
@@ -487,7 +488,7 @@
 [Midshipman George Cumberland](https://www.tate.org.uk/art/artworks/romney-midshipman-george-cumberland-t00065)
 
 ## Cesar de Cock
-[$ Landscape with Two Women](https://high.org/collection/landscape-with-two-women/)
+[# Landscape with Two Women](https://high.org/collection/landscape-with-two-women/)
 
 ## Jean Baptiste Edouard Detaille
 [# A Mounted Officer](https://www.artic.edu/artworks/885/a-mounted-officer)
