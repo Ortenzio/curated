@@ -45,6 +45,51 @@
     "copyright": "CC0 - Public domain"
   },
   {
+    "slug": "der-hoffotograf-josef-lowy",
+    "title": "Der Hoffotograf Josef Löwy",
+    "image": "/images/berger__der-hoffotograf-josef-lowy.jpg",
+    "artist": "Julius Victor Berger",
+    "date": "1902",
+    "height": 55,
+    "width": 30,
+    "medium": "Oil",
+    "support": "Wood",
+    "accession": "2704",
+    "location": "Österreichische Galerie Belvedere",
+    "source": "https://sammlung.belvedere.at/objects/8503/der-hoffotograf-josef-lowy",
+    "copyright": "Public Domain"
+  },
+  {
+    "slug": "selbstportrat-mit-blauer-halsbinde",
+    "title": "Selbstporträt Mit Blauer Halsbinde",
+    "image": "/images/amerling__selbstportrat-mit-blauer-halsbinde.jpg",
+    "artist": "Friedrich von Amerling",
+    "date": "1839",
+    "height": 48,
+    "width": 37.5,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "5035",
+    "location": "Österreichische Galerie Belvedere",
+    "source": "https://sammlung.belvedere.at/objects/3786/selbstportrat-mit-blauer-halsbinde",
+    "copyright": "Public Domain"
+  },
+  {
+    "slug": "der-kupferstecher-franz-xaver-stober",
+    "title": "Der Kupferstecher Franz Xaver Stöber",
+    "image": "/images/amerling__der-kupferstecher-franz-xaver-stober.jpg",
+    "artist": "Friedrich von Amerling",
+    "date": "c. 1830",
+    "height": 37,
+    "width": 30,
+    "medium": "Oil",
+    "support": "Cardboard",
+    "accession": "2164",
+    "location": "Österreichische Galerie Belvedere",
+    "source": "https://sammlung.belvedere.at/objects/7964/der-kupferstecher-franz-xaver-stober--17951858",
+    "copyright": "Public Domain"
+  },
+  {
     "slug": "mihaly-von-munkacsy",
     "title": "Self-Portrait of Mihály von Munkácsy",
     "image": "/images/munkacsy__mihaly-von-munkacsy.jpg",
@@ -208,6 +253,21 @@
     "location": "National Gallery of Sweeden",
     "source": "https://collection.nationalmuseum.se/en/collection/item/137843/",
     "copyright": "Public Domain"
+  },
+  {
+    "slug": "my-mother",
+    "title": "My Mother",
+    "image": "/images/sugars__my-mother.jpg",
+    "artist": "Fanny Sugars",
+    "date": "1871-1933",
+    "height": 36.2,
+    "width": 31.2,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "1933.17",
+    "location": "Manchester Art Gallery",
+    "source": "https://collections.manchesterartgallery.org/collections/item/cf8f340e-a1ff-3815-bf8f-e8192838caf6/",
+    "copyright": "Public Domain | Manchester Art Gallery"
   },
   {
     "slug": "one-of-our-conquerors",
@@ -567,6 +627,21 @@
     "copyright": "Hood Museum of Art, Dartmouth"
   },
   {
+    "slug": "john-butler-yeats",
+    "title": "Self-Portrait of John Butler Yeats",
+    "image": "/images/yeats__john-butler-yeats.jpg",
+    "artist": "John Butler Yeats",
+    "date": "1911",
+    "height": 81,
+    "width": 66,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "P.952.37",
+    "location": "Hood Muesum",
+    "source": "https://hoodmuseum.dartmouth.edu/objects/p.952.37",
+    "copyright": "Hood Museum of Art, Dartmouth"
+  },
+  {
     "slug": "hans-heyerdahl",
     "title": "Erik XIV and Karin Månsdotter in Prison. Sketch",
     "image": "/images/perseus__erik-xiv-and-karin-mansdotter-in-prison.jpg",
@@ -771,6 +846,21 @@
     "copyright": "Public Domain"
   },
   {
+    "slug": "loss-of-a-child",
+    "title": "The Loss of a Child (La pérdida del hijo)",
+    "image": "/images/daneri__loss-of-a-child.jpg",
+    "artist": "Eugenio Daneri",
+    "date": "1945",
+    "height": 101,
+    "width": 86,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "6675",
+    "location": "Bellas Artes",
+    "source": "https://www.bellasartes.gob.ar/en/collection/work/6675/",
+    "copyright": ""
+  },
+  {
     "slug": "un-reitre",
     "title": "Un Reitre",
     "image": "/images/roybet__un-reitre.jpg",
@@ -889,6 +979,36 @@
     "location": "Bellas Artes",
     "source": "https://www.bellasartes.gob.ar/coleccion/obra/5898/",
     "copyright": "Public Domain"
+  },
+  {
+    "slug": "tirana",
+    "title": "La Tirana",
+    "image": "/images/casado-del-alisal__tirana.jpg",
+    "artist": "José Casado del Alisal",
+    "date": "Ca. 1875",
+    "height": 83,
+    "width": 68,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "P004179",
+    "location": "Museo Del Prado",
+    "source": "https://www.museodelprado.es/en/the-collection/art-work/la-tirana/6cbbe22a-6e17-42d7-9780-f3ee78d92c0c",
+    "copyright": "Museo Nacional del Prado"
+  },
+  {
+    "slug": "bell-of-huesca",
+    "title": "The Bell of Huesca (The Legend of the Monk King)",
+    "image": "/images/casado-del-alisal__bell-of-huesca.jpg",
+    "artist": "José Casado del Alisal",
+    "date": "1880",
+    "height": 356,
+    "width": 474,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "P006751",
+    "location": "Museo Del Prado",
+    "source": "https://www.museodelprado.es/en/the-collection/art-work/the-legend-of-the-monk-king/54cca3b9-3a81-4572-9bcf-9969271fac04",
+    "copyright": "Museo Nacional del Prado"
   },
   {
     "slug": "an-alter-boy-practices-his-singing",
@@ -1185,6 +1305,21 @@
     "copyright": "Museum Terms of Use (Noncommercial)"
   },
   {
+    "slug": "landscape-with-two-women",
+    "title": "Landscape with Two Women",
+    "image": "/images/cock__landscape-with-two-women.jpg",
+    "artist": "Cesar de Cock",
+    "date": "1872",
+    "height": 49.26,
+    "width": 64.9,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "56.112",
+    "location": "High Museum of Art",
+    "source": "https://high.org/collection/landscape-with-two-women/",
+    "copyright": "Museum Terms of Use (Noncommercial)"
+  },
+  {
     "slug": "portrait-of-whistler-with-a-hat",
     "title": "Portrait of Whistler with a Hat",
     "image": "/images/whistler__portrait-of-whistler-with-a-hat.jpg",
@@ -1449,6 +1584,21 @@
     "copyright": "RMN-Grand Palais (Musée d'Orsay) / Hervé Lewandowski"
   },
   {
+    "slug": "trumpeter-of-the-hussars",
+    "title": "Trumpeter of the Hussars",
+    "image": "/images/gericault__trumpeter-of-the-hussars.jpg",
+    "artist": "Théodore Géricault",
+    "date": "c. 1815–20",
+    "height": 96,
+    "width": 71.8,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": 1955.959,
+    "location": "The Clark",
+    "source": "https://www.clarkart.edu/ArtPiece/Detail/Trumpeter-of-the-Hussars",
+    "copyright": "Open Access"
+  },
+  {
     "slug": "nymphs-and-satyr",
     "title": "Nymphs and Satyr",
     "image": "/images/bouguereau__nymphs-and-satyr.jpg",
@@ -1593,6 +1743,21 @@
     "accession": "84.18",
     "location": "Fransworth Art Museum",
     "source": "https://collection.farnsworthmuseum.org/objects/284/lady-in-a-red-dress-holding-a-cigarette",
+    "copyright": "Restricted"
+  },
+  {
+    "slug": "on-the-deep-sea",
+    "title": "On The Deep Sea",
+    "image": "/images/dean__on-the-dep-sea.jpg",
+    "artist": "Walter Dean",
+    "date": "1901",
+    "height": 101.9,
+    "width": 114.9,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "71.1807",
+    "location": "Fransworth Art Museum",
+    "source": "https://collection.farnsworthmuseum.org/objects/242/on-the-deep-sea",
     "copyright": "Restricted"
   },
   {
@@ -1968,6 +2133,21 @@
     "location": "Rijksmuseum",
     "source": "https://id.rijksmuseum.nl/200108302",
     "copyright": "Public Domain"
+  },
+  {
+    "slug": "cadmium-cara-cara",
+    "title": "Cadmium Cara Cara",
+    "image": "/images/cleague__cadmium-cara-cara.webp",
+    "artist": "Adam Cleague",
+    "date": "",
+    "height": 15.2,
+    "width": 15.2,
+    "medium": "Oil",
+    "support": "Panel",
+    "accession": "",
+    "location": "Private Collection",
+    "source": "https://claguefineart.com/products/cara-cara-orange",
+    "copyright": "Adam Cleague"
   },
   {
     "slug": "knitting-for-soldiers",
@@ -2614,6 +2794,21 @@
     "source": "https://www.wikiart.org/en/konstantin-makovsky/the-girl-with-the-red-ribbon"
   },
   {
+    "slug": "off-the-north-shore",
+    "title": "Off the North Shore",
+    "image": "/images/cole__off-the-north-shore.jpg",
+    "artist": "J. Foxcroft Cole",
+    "date": "19th century",
+    "height": 21.2,
+    "width": 27,
+    "medium": "Oil",
+    "support": "Cardboard Panel",
+    "accession": "45.458",
+    "location": "Fransworth Art Museum",
+    "source": "https://collection.farnsworthmuseum.org/objects/186/off-the-north-shore",
+    "copyright": "Restricted"
+  },
+  {
     "slug": "seascape",
     "title": "Seascape",
     "image": "/images/buhler__seascape.jpg",
@@ -2715,8 +2910,22 @@
     "source": "https://www.artic.edu/artworks/22121/mrs-martin-a-ryerson"
   },
   {
+    "slug": "joseph-pennell",
+    "title": "Joseph Pennell",
+    "image": "/images/adams__pennell.jpg",
+    "artist": "Wayman Adams",
+    "date": "1908-1918",
+    "height": 169.6,
+    "width": 93.4,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "1918.293",
+    "location": "Art Institute of Chicago",
+    "source": "https://www.artic.edu/artworks/74507/joseph-pennell"
+  },
+  {
     "slug": "maenad",
-    "title": "Maenad – female semi-nude",
+    "title": "Maenad - female semi-nude",
     "image": "/images/piatkowski__maenad.jpg",
     "artist": "Henryk Piątkowski",
     "date": "ok. 1876",
@@ -2727,6 +2936,34 @@
     "accession": "MP 1975 MNW",
     "location": "National Museum in Warsaw",
     "source": "https://cyfrowe.mnw.art.pl/en/catalog/445024"
+  },
+  {
+    "slug": "worker",
+    "title": "Worker",
+    "image": "/images/lentz__worker.jpg",
+    "artist": "Stanisław Lentz",
+    "date": "1911",
+    "height": 66.5,
+    "width": 49.5,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "35547 MNW",
+    "location": "National Museum in Warsaw",
+    "source": "https://cyfrowe.mnw.art.pl/en/catalog/440457"
+  },
+  {
+    "slug": "portrait-of-a-brunette",
+    "title": "Portrait of a Brunette",
+    "image": "/images/sztencel__portrait-of-a-brunette.jpg",
+    "artist": "Maurycy Sztencel",
+    "date": "ok. 1870 - 1880",
+    "height": 31,
+    "width": 23.5,
+    "medium": "Oil",
+    "support": "Cardboard",
+    "accession": "183655 MNW",
+    "location": "National Museum in Warsaw",
+    "source": "https://cyfrowe.mnw.art.pl/en/catalog/438773"
   },
   {
     "slug": "mrs-john-crosby-brown",
@@ -2898,6 +3135,20 @@
     "accession": "M.Ob.457 MNW",
     "location": "National Museum in Warsaw",
     "source": "https://cyfrowe.mnw.art.pl/en/catalog/443623"
+  },
+  {
+    "slug": "madam-powel",
+    "title": "Madam Powel",
+    "image": "/images/alexander__madam-powel.jpg",
+    "artist": "Francis Alexander",
+    "date": "about 1825",
+    "height": 76.5,
+    "width": 60.3,
+    "medium": "Oil",
+    "support": "Panel",
+    "accession": "22.7",
+    "location": "Museum of Fine Arts Boston",
+    "source": "https://collections.mfa.org/objects/31943/madam-powel-elizabeth-willing?ctx=aca67666-ef10-470c-9f27-a70a9feef6c6&idx=299"
   },
   {
     "slug": "golden-eyes",
