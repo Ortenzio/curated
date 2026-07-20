@@ -1,8 +1,8 @@
 import { resolve } from 'node:path';
 import { defineConfig } from 'vite';
 import vue from '@vitejs/plugin-vue';
-import vitePluginPosts from './plugins/vite-plugin-posts';
-import vitePluginImages from './plugins/vite-plugin-images';
+import vitePluginPosts from './plugins/vite-plugin-posts.js';
+import vitePluginImages from './plugins/vite-plugin-images.js';
 import posts from './posts.json' with { type: 'json' };
 
 export default defineConfig({
@@ -10,6 +10,7 @@ export default defineConfig({
     vue(),
     vitePluginImages({
       posts,
+      basePath: resolve(import.meta.dirname, './docs'),
       baseUrl: resolve(import.meta.dirname, './'),
       presets: {
         thumb: { resize: { width: 500 }, format: 'jpg', options: { quality: 80 } },

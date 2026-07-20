@@ -210,6 +210,21 @@
     "copyright": "Public Domain"
   },
   {
+    "slug": "one-of-our-conquerors",
+    "title": "One of Our Conquerors",
+    "image": "/images/dicksee__one-of-our-conquerors.jpg",
+    "artist": "Frank Dicksee",
+    "date": "1903",
+    "height": 154,
+    "width": 107.6,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "1917.192",
+    "location": "Manchester Art Gallery",
+    "source": "https://collections.manchesterartgallery.org/collections/item/f91e8212-5be1-3979-8e77-50c5dbfccea5/",
+    "copyright": "Public Domain | Manchester Art Gallery"
+  },
+  {
     "slug": "lady-in-a-black-hat",
     "title": "Lady in a Black Hat (Miss Don Wauchope of Edinburgh)",
     "image": "/images/cadell__lady-in-a-black-hat.jpg",
@@ -415,7 +430,22 @@
     "support": "Canvas",
     "accession": "49.22",
     "location": "High Museum of Art",
-    "source": "https://high.org/collection/meditation/#?c=&m=&cv=&xywh=-3451%2C-708%2C21407%2C21407",
+    "source": "https://high.org/collection/meditation/",
+    "copyright": ""
+  },
+  {
+    "slug": "snow-storm",
+    "title": "Snow Storm",
+    "image": "/images/la-farge__snow-storm.jpg",
+    "artist": "John La Farge",
+    "date": "1865",
+    "height": 41.9,
+    "width": 30.4,
+    "medium": "Oil",
+    "support": "Panel",
+    "accession": "2006.63",
+    "location": "High Museum of Art",
+    "source": "  https://high.org/collection/snow-storm/",
     "copyright": ""
   },
   {
@@ -726,6 +756,21 @@
     "copyright": "Public Domain"
   },
   {
+    "slug": "her-favourite-dog",
+    "title": "Her Favourite Dog",
+    "image": "/images/chaplin__her-favourite-dog.jpg",
+    "artist": "Charles Joshua Chaplin",
+    "date": "19th century",
+    "height": 46,
+    "width": 33,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "",
+    "location": "Private Collection",
+    "source": "https://commons.wikimedia.org/wiki/File:Chaplin-Her_Favourite_Dog.jpg",
+    "copyright": "Public Domain"
+  },
+  {
     "slug": "un-reitre",
     "title": "Un Reitre",
     "image": "/images/roybet__un-reitre.jpg",
@@ -738,6 +783,21 @@
     "accession": "5442",
     "location": "Bellas Artes",
     "source": "https://www.bellasartes.gob.ar/coleccion/obra/5442/",
+    "copyright": "Public Domain"
+  },
+  {
+    "slug": "secretario",
+    "title": "Secretario",
+    "image": "/images/vecellio__secretario.jpg",
+    "artist": "Tiziano Vecellio",
+    "date": "S. XVI",
+    "height": 76,
+    "width": 66,
+    "medium": "Oil",
+    "support": "Panel",
+    "accession": "7820",
+    "location": "Bellas Artes",
+    "source": "https://www.bellasartes.gob.ar/en/collection/work/7820/",
     "copyright": "Public Domain"
   },
   {
@@ -948,6 +1008,36 @@
     "location": "Digital Museum",
     "source": "https://digitaltmuseum.org/0210413598498/gammel-mann-olje-pa-lerret",
     "copyright": "CC BY-NC-ND 4.0"
+  },
+  {
+    "slug": "family-meal",
+    "title": "A Family Meal",
+    "image": "/images/pieters__family-meal.jpg",
+    "artist": "Evert Pieters",
+    "date": "1890s",
+    "height": 191,
+    "width": 90,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "1894.1050",
+    "location": "Art Institute of Chicago",
+    "source": "https://www.artic.edu/artworks/65847/a-family-meal",
+    "copyright": "Digital image courtesy of the Art Institute of Chicago"
+  },
+  {
+    "slug": "a-mounted-officer",
+    "title": "A Mounted Officer",
+    "image": "/images/detaille__a-mounted-officer.jpg",
+    "artist": "Jean Baptiste Edouard Detaille",
+    "date": "1877",
+    "height": 46.5,
+    "width": 38.2,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "1894.1050",
+    "location": "Art Institute of Chicago",
+    "source": "https://www.artic.edu/artworks/885/a-mounted-officer",
+    "copyright": "Digital image courtesy of the Art Institute of Chicago"
   },
   {
     "slug": "old-man-in-a-fur-cap",
@@ -1359,6 +1449,21 @@
     "copyright": "Open Access"
   },
   {
+    "slug": "victor-laloux",
+    "title": "Victor Laloux",
+    "image": "/images/dechenaud__victor-laloux.jpg",
+    "artist": "Adolphe Déchenaud",
+    "date": "Between 1902 et 1922",
+    "height": 55,
+    "width": 47,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "RF 1983 99",
+    "location": "Musée d'Orsay",
+    "source": "https://www.musee-orsay.fr/en/artworks/victor-laloux-2361",
+    "copyright": "RMN-Grand Palais (Musée d'Orsay) / Hervé Lewandowski"
+  },
+  {
     "slug": "nymphs-and-satyr",
     "title": "Nymphs and Satyr",
     "image": "/images/bouguereau__nymphs-and-satyr.jpg",
@@ -1401,6 +1506,20 @@
     "accession": "2024.12",
     "location": "Minneapolis Institute of Art",
     "source": "https://collections.artsmia.org/art/146651/the-harvest-ramon-tusquets-y-maignon"
+  },
+  {
+    "slug": "two-women-visiting",
+    "title": "Two Women Visiting",
+    "image": "/images/portielje__two-women-visiting.jpg",
+    "artist": "Edward Antoon Portielje",
+    "date": "c 1900",
+    "height": 79.3,
+    "width": 93.0,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "82.122",
+    "location": "Minneapolis Institute of Art",
+    "source": "https://collections.artsmia.org/art/23057/two-women-visiting-edward-antoon-portielje"
   },
   {
     "slug": "grapes",
@@ -1808,6 +1927,20 @@
     "source": "https://www.mskgent.be/en/collection/1944-c"
   },
   {
+    "slug": "rosita",
+    "title": "Rosita",
+    "image": "/images/agneessens__rosita.jpg",
+    "artist": "Edouard Agneessens",
+    "date": 1876,
+    "height": 50.6,
+    "width": 40.6,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "1952-B",
+    "location": "Museum of Fine Arts Ghent",
+    "source": "https://www.mskgent.be/en/collection/1952-b"
+  },
+  {
     "slug": "nude-girl",
     "title": "Nude Girl",
     "image": "/images/corinth__nude-girl.jpg",
@@ -1894,6 +2027,20 @@
     "location": "Metropolitan Museum of Art",
     "source": "https://www.metmuseum.org/art/collection/search/11145"
   },
+  {
+    "slug": "pink-azalea—chinese-vase",
+    "title": "Pink Azalea—Chinese Vase",
+    "image": "/images/chase__pink-azalea-chinese-vase.jpg",
+    "artist": "William Merritt Chase",
+    "date": "1880-90 (?)",
+    "height": 59.7,
+    "width": 42.1,
+    "medium": "Oil",
+    "support": "Wood",
+    "accession": "1979.490.5",
+    "location": "Metropolitan Museum of Art",
+    "source": "https://www.metmuseum.org/art/collection/search/10473"
+  },  
   {
     "slug": "tartar",
     "title": "Tartar – Crimea. From the journey to Crimea",
@@ -2668,6 +2815,20 @@
     "source": "https://www.gallery.ca/collection/artwork/adagio"
   },
   {
+    "slug": "portrait-of-bessie",
+    "title": "Portrait of Bessie (Miss Elizabeth Newton)",
+    "image": "/images/herter__portrait-of-bessie.jpg",
+    "artist": "Albert Herter",
+    "date": 1892,
+    "height": 149.8,
+    "width": 81.2,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "2000.162",
+    "location": "High Museum of Art",
+    "source": "https://high.org/collection/portrait-of-bessie-miss-elizabeth-newton/"
+  },
+  {
     "slug": "young-mother",
     "title": "The Young Mother, No. 1",
     "image": "/images/turner__young-mother.jpg",
@@ -2752,6 +2913,21 @@
     "accession": "M.Ob.457 MNW",
     "location": "National Museum in Warsaw",
     "source": "https://cyfrowe.mnw.art.pl/en/catalog/443623"
+  },
+  {
+    "slug": "golden-eyes",
+    "title": "Golden Eyes",
+    "image": "/images/gray__golden-eyes.jpg",
+    "artist": "Norah Neilson Gray",
+    "date": "1917",
+    "height": 99.0,
+    "width": 50.8,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "M2024.51",
+    "location": "Milwaukee Art Museum",
+    "source": "https://collection.mam.org/details.php?id=40803",
+    "copyright": "Milwaukee Art Museum"
   },
   {
     "slug": "in-the-boudoir",
@@ -2839,6 +3015,21 @@
     "accession": "1915.561",
     "location": "Art Institute of Chicago",
     "source": "https://www.artic.edu/artworks/71575/kentucky-mountaineer",
+    "copyright": ""
+  },
+  {
+    "slug": "nicolas-de-largilliere",
+    "title": "Self-Portrait of Nicolas de Largillière",
+    "image": "/images/largilliere__nicolas-de-largilliere.jpg",
+    "artist": "Nicolas de Largillière",
+    "date": "c. 1725",
+    "height": 81.1,
+    "width": 64.8,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "1987.57",
+    "location": "Art Institute of Chicago",
+    "source": "https://www.artic.edu/artworks/69003/self-portrait",
     "copyright": ""
   },
   {
@@ -3012,6 +3203,20 @@
     "accession": "71.120",
     "location": "Metropolitan Museum of Art",
     "source": "https://www.metmuseum.org/art/collection/search/436598"
+  },
+  {
+    "slug": "raphael-soyer",
+    "title": "Self-Portrait of Raphael Soyer",
+    "image": "/images/soyer__raphael-soyer.jpg",
+    "artist": "Raphael Soyer",
+    "date": "ca. 1930",
+    "height": 38.1,
+    "width": 30.5,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "1996.451",
+    "location": "Metropolitan Museum of Art",
+    "source": "https://www.metmuseum.org/art/collection/search/486772"
   },
   {
     "slug": "mademoiselle-malot",

@@ -34,7 +34,7 @@ const mimeTypes = {
 
 /**
  * @param {object} settings
- * @param {object[]} [settings.psots]
+ * @param {object[]} [settings.posts]
  * @param {string} [settings.baseUrl]
  * @param {VitePluginCuratedImageOptimizerOptions} [settings.presets]
  * 
@@ -46,7 +46,7 @@ export default function vitePluginImages (settings) {
   const name = 'vite-plugin-images';
   const enforce = 'pre';
 
-  const { posts, baseUrl, presets } = settings;
+  const { posts, baseUrl, basePath, presets } = settings;
 
   const entries = new Map(Object.entries(presets))
 
@@ -161,7 +161,7 @@ export default function vitePluginImages (settings) {
     let inputBuffer;
 
     const { preset } = transformConfig;
-    const inPath = resolve(baseUrl, `.${transformConfig.inPath}`)
+    const inPath = resolve(basePath, `.${transformConfig.inPath}`)
     const outPath = resolve(baseUrl, `.${transformConfig.outPath}`)
 
     try {

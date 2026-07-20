@@ -5,7 +5,7 @@
 [Portrait of Charles H. Worcester](https://www.artic.edu/artworks/59836/portrait-of-charles-h-worcester)
 
 ## Edouard Agneessens
-[Rosita](https://www.mskgent.be/en/collection/1952-b)
+[# Rosita](https://www.mskgent.be/en/collection/1952-b)
 
 ## Tadeusz Ajdukiewicz
 [# Portrait of Kazimierz Alchimowicz](https://cyfrowe.mnw.art.pl/en/catalog/440413)
@@ -91,7 +91,7 @@
 [# Self Portrait](https://sammlung.belvedere.at/objects/553/selbstportrat?)
 
 ## Tiziano Vecellio
-[Secretario](https://www.bellasartes.gob.ar/en/collection/work/7820/)
+[# Secretario](https://www.bellasartes.gob.ar/en/collection/work/7820/)
 
 ## August von Pettenkofen
 [$ Boy persued by dogs](https://sammlung.belvedere.at/objects/614/junge-von-hunden-verfolgt?)
@@ -338,7 +338,7 @@
 [Portrait de l'artiste](https://www.musee-orsay.fr/en/artworks/portrait-de-lartiste-9173)
 
 ## Adolphe Déchenaud
-[$ Victor Laloux](https://www.musee-orsay.fr/en/artworks/victor-laloux-2361)
+[# Victor Laloux](https://www.musee-orsay.fr/en/artworks/victor-laloux-2361)
 [Portrait de mon père](https://www.musee-orsay.fr/en/artworks/portrait-de-mon-pere-70285)
 
 ## Gustave Courtois
@@ -477,11 +477,11 @@
 [$ Young Girl Holding a Palette](https://collection.nationalmuseum.se/en/collection/item/21124/)
 
 ## Two Women Visiting
-[$ Edward Antoon Portielje](https://collections.artsmia.org/art/23057/two-women-visiting-edward-antoon-portielje)
+[# Edward Antoon Portielje](https://collections.artsmia.org/art/23057/two-women-visiting-edward-antoon-portielje)
 
 ## Raphael Soyer
+[# Self-Portrait](https://www.metmuseum.org/art/collection/search/486772)
 [Portrait of Mr. and Mrs. John Rewald](https://collections.artsmia.org/art/20204/portrait-of-mr-and-mrs-john-rewald-raphael-soyer)
-[Self-Portrait](https://www.metmuseum.org/art/collection/search/486772)
 
 ## George Romney
 [Midshipman George Cumberland](https://www.tate.org.uk/art/artworks/romney-midshipman-george-cumberland-t00065)
@@ -490,7 +490,7 @@
 [$ Landscape with Two Women](https://high.org/collection/landscape-with-two-women/)
 
 ## Jean Baptiste Edouard Detaille
-[A Mounted Officer](https://www.artic.edu/artworks/885/a-mounted-officer)
+[# A Mounted Officer](https://www.artic.edu/artworks/885/a-mounted-officer)
 
 ## William Stanley Haseltine
 [$ Marina Piccola, Capri](https://www.nga.gov/artworks/42853-marina-piccola-capri)
@@ -501,10 +501,10 @@
 ## William Merritt Chase
 [# Portrait of Dora Wheeler](https://www.clevelandart.org/art/1921.1239)
 [# Still life of Fish](https://www.metmuseum.org/art/collection/search/10476)
+[# Pink Azalea—Chinese Vase](https://www.metmuseum.org/art/collection/search/10473)
 [$$ Bessie Potter](https://www.metmuseum.org/art/collection/search/10472)
 [$$ For the Little One](https://www.metmuseum.org/art/collection/search/10468)
 [$$ Alice Gerson in Prospect Park](https://www.metmuseum.org/art/collection/search/10471)
-[$$ Pink Azalea—Chinese Vase](https://www.metmuseum.org/art/collection/search/10473)
 [$ Female Figure Study (side view)](https://www.pafa.org/museum/collection/item/female-figure-study-side-view)
 [$ James Abbott McNeill Whistler](https://www.metmuseum.org/art/collection/search/10469)
 [$ Portrait of a man](https://www.clarkart.edu/ArtPiece/Detail/Portrait-of-a-Man-(1))
@@ -532,19 +532,19 @@
 [The Artist's Daughter Alice](https://collection.ncartmuseum.org/objects/263/the-artists-daughter-alice;jsessionid=497EEFB22C5D7A53851BE2DEF39FD56D?ctx=206e276633723379a7f95d42570f2135ef094442&idx=5)
 
 ## Frank Dicksee
-[$ One of Our Conquerors](https://collections.manchesterartgallery.org/collections/item/af26c8a6-7a1f-34f6-9d99-dfd350944969/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D32&pos=328)
+[# One of Our Conquerors](https://collections.manchesterartgallery.org/collections/item/af26c8a6-7a1f-34f6-9d99-dfd350944969/)
 
 ## Camille Pissarro
 [Portrait de l'artiste](https://www.musee-orsay.fr/en/artworks/portrait-de-lartiste-366)
 
 ## John La Farge
-[Snow Storm](https://high.org/collection/snow-storm/)
+[# Snow Storm](https://high.org/collection/snow-storm/)
 
 ## Philip Little
 [Portrait of Robert Koehler](https://collections.artsmia.org/art/83269/portrait-of-robert-koehler-philip-little)
 
 ## Albert Herter
-[Portrait of Bessie](https://high.org/collection/portrait-of-bessie-miss-elizabeth-newton/)
+[# Portrait of Bessie](https://high.org/collection/portrait-of-bessie-miss-elizabeth-newton/)
 
 ## Lovis Corinth 
 [# Nude Girl](https://collections.artsmia.org/art/2240/nude-girl-lovis-corinth)
@@ -561,17 +561,17 @@
 [One at the Time](https://www.artic.edu/artworks/185070/one-at-the-time)
 
 ## Nora Neilson Gray
-[$ Golden Eyes](https://collection.mam.org/details.php?id=40803)
+[# Golden Eyes](https://collection.mam.org/details.php?id=40803)
 
 ## Louis Michel Eilshemius
-[$$ Delaware Water Gap Village](https://www.metmuseum.org/art/collection/search/19300)
+[$ Delaware Water Gap Village](https://www.metmuseum.org/art/collection/search/19300)
 [$ Landscape, Binghamton, New York](https://www.metmuseum.org/art/collection/search/19289)
 
 ## Ronald Gray
 [$ My Mother](https://www.tate.org.uk/art/artworks/gray-my-mother-n04098)
 
 ## Nicolas de Largillière
-[Self Portrait](https://www.artic.edu/artworks/69003/self-portrait)
+[# Self Portrait](https://www.artic.edu/artworks/69003/self-portrait)
 
 ## Clara Peeters
 [Still Life with Fish](https://www.kmska.be/en/masterpiece/still-life-with-fish)
@@ -680,8 +680,8 @@
 [A Boy Reading](https://www.tate.org.uk/art/artworks/reinagle-a-boy-reading-t01073)
 
 ## Charles Joshua Chaplin
+[# Her Favourite Dog](https://commons.wikimedia.org/wiki/File:Chaplin-Her_Favourite_Dog.jpg)
 [$ Reverie](https://musees-reims.fr/oeuvre/reverie)
-[$ Her Favorite Dog](https://commons.wikimedia.org/wiki/File:Chaplin-Her_Favourite_Dog.jpg)
 [$ La ragazza col nido](https://www.artrenewal.org/Artwork/Index/15097)
 [$ Feeding Doves](https://commons.wikimedia.org/wiki/File:Chaplin-Feeding_Doves.jpg)
 [Souvenirs](https://www.musee-orsay.fr/en/artworks/souvenirs-69713)
@@ -719,7 +719,7 @@
 [Woman Before the Mirror](https://www.artic.edu/artworks/249427/woman-before-the-mirror)
 
 ## Evert Pieters
-[$ A Family Meal](https://www.artic.edu/artworks/65847/a-family-meal)
+[# A Family Meal](https://www.artic.edu/artworks/65847/a-family-meal)
 
 ## Franz von Defreggere
 [# The Blacksmith](https://collections.artsmia.org/art/8705/the-blacksmith-franz-von-defregger)
@@ -799,7 +799,7 @@
 [Portrait of Homer Watson](https://www.gallery.ca/collection/artwork/portrait-of-homer-watson)
 
 ## George Frederick Watts
-[The Coquette](https://collections.manchesterartgallery.org/collections/item/a83bfb5f-f81f-382c-a997-b37ef5d104e9/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D34&pos=349)
+[The Coquette](https://collections.manchesterartgallery.org/collections/item/a83bfb5f-f81f-382c-a997-b37ef5d104e9/)
 
 ## George Fiddes Watt
 [The Artists Monther](https://www.tate.org.uk/art/artworks/watt-the-artists-mother-n04541)
