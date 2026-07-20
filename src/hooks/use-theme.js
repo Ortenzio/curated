@@ -17,7 +17,7 @@ const nextTheme = Object.freeze({
  *
  */
 function getThemeFromStorage () {
-  return themes[localStorage.getItem(storageKey)] || themes['light dark']
+  return themes[localStorage.getItem(storageKey)] || nextTheme['light dark']
 }
 
 export function useTheme () {
