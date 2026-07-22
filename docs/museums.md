@@ -67,6 +67,7 @@
 - [Pennsylvania Acadamy of Fine Art](https://www.pafa.org/)
 - [Philadelphia Museum of Fine Art](https://www.philamuseum.org/)
 - [Phillips Collection](https://www.phillipscollection.org/collection)
+- [Reykjavík Art Museum](https://listasafnreykjavikur.is/en)
 - [Rhode Island School of Design](https://risdmuseum.org/)
 - [Rijksmuseum](https://www.rijksmuseum.nl/en)
 - [Staatliche Museen zu Berlin](https://recherche.smb.museum/)
@@ -78,4 +79,15 @@
 - [Van Gogh Museum](https://www.vangoghmuseum.nl/en)
 - [Virginia Museum of Fine Arts](https://www.vmfa.museum/)
 - [Whitney Museum of American Art](https://whitney.org/collection/works)
+- [Museum of Fine Arts, Budapest](https://www.mfab.hu/)
 - [Wikiart](https://www.wikiart.org/)
+
+
+- [Hungarian National Gallery](https://en.mng.hu/)
+[page 40](https://en.mng.hu/artworks/?per_page=80&offset=3120&current_page=40&orderby=author&order=asc&artwork_type=painting&show_only=withimage)
+
+- [National Gallery of Ireland](http://www.nationalgallery.ie/)
+- [Gallerie dell'Accademia](https://www.gallerieaccademia.it/)
+- [Museo Correr](https://correr.visitmuve.it/en/)
+- [Ca' d'Oro](https://www.cadoro.org/)
+- [Ca' Rezzonico](https://carezzonico.visitmuve.it/en/home/)
