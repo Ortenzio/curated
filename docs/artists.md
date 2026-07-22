@@ -662,7 +662,9 @@
 [The Cardinal](https://collection.mam.org/details.php?id=6063)
 
 ## Wilhelm Leibl
+[$$ Johann Sperl Landscapist](https://en.mng.hu/artworks/519/)
 [$ Portrait of a Peasant](https://collection.mam.org/details.php?id=11496)
+[Portrait of Pál Szinyei Merse](https://en.mng.hu/artworks/518/)
 
 ## Govert Flinck
 [$ Bearded Man with a Velvet Cap](https://www.metmuseum.org/art/collection/search/436309)
@@ -1111,6 +1113,12 @@
 
 ## József Koszta
 [$$ At the window](https://en.mng.hu/artworks/53689/)
+[$$ Girl with an Apron](https://en.mng.hu/artworks/48649/)
+[$$ Girl with Black Hen](https://en.mng.hu/artworks/53679/)
+[$$ Self-Portrait](https://en.mng.hu/artworks/53699/)
+[Self-Portrait in Hat](https://en.mng.hu/artworks/53656/)
+[The Model](https://en.mng.hu/artworks/51677/)
+[Girl with Carnation](https://en.mng.hu/artworks/53885/)
 
 ## Mariano Fortuny y Carbó
 [# Arab Chief](https://www.philamuseum.org/objects/102835)
@@ -1181,9 +1189,16 @@
 [$$ Cornelia Lotz in Black](https://en.mng.hu/artworks/54386/)
 [Spring (Portrait of Ilona Koronghi Lippich)](https://en.mng.hu/artworks/54423/)
 [Bathing woman](https://en.mng.hu/artworks/54443/)
+[Portrait of a Woman](https://en.mng.hu/artworks/49230/)
 
 ## Baron László Mednyánszky
 [$$ Tramp with Cigar](https://en.mng.hu/artworks/53306/)
+
+## Carl Marr
+[The Landscapist](https://en.mng.hu/artworks/561/)
+
+## István Mácsai
+[The Artist’s Wife (Kati is Stitching)](https://en.mng.hu/artworks/38030/)
 
 ## Jean-François Millet
 [Self Portrait](https://sammlung.belvedere.at/objects/7736/selbstbildnis?)
@@ -1380,13 +1395,79 @@
 [Self-portrait](https://en.mng.hu/artworks/51915/)
 [Self-portrait (in the Atelier)](https://en.mng.hu/artworks/53181/)
 
-## Frigyes Frank
-[$$ Veiled Woman](https://en.mng.hu/artworks/48174/)
-
 ## Árpád Feszty
 [$ Judas](https://en.mng.hu/artworks/48272/)
 
-## William Adolphe Bouguereau
+## Frigyes Frank
+[$$ Veiled Woman](https://en.mng.hu/artworks/48174/)
+
+## Móric Gábor
+[Portrait of Bandi Büchler as a Child](https://en.mng.hu/artworks/48209/)
+
+## János Gál
+[Posterior Nude](https://en.mng.hu/artworks/48145/)
+
+## Arnold Gara
+[Self Portrait](https://en.mng.hu/artworks/48134/)
+
+## Alajos Gerhardt
+[Self Portrait](https://en.mng.hu/artworks/49485/)
+
+## Oszkár Glatz
+[$ Old Peasant](https://en.mng.hu/artworks/49214/)
+[Study of a Portrait](https://en.mng.hu/artworks/49288/)
+
+## Móric Góth
+[$$ Self-Portrait](https://en.mng.hu/artworks/48409/)
+[Horse Eating Fodder](https://en.mng.hu/artworks/45298/)
+[Horses with Shaft](https://en.mng.hu/artworks/45143/)
+[Woman in Lace Dress](https://en.mng.hu/artworks/48031/)
+
+## Béla Iványi Grünwald
+[Old Violinist](https://en.mng.hu/artworks/48183/)
+[Study of the Paintin “Among the Peaks”](https://en.mng.hu/artworks/47432/)
+
+## Jenő Gyárfás
+[$ portrait of a boy](https://en.mng.hu/artworks/49912/)
+[$ Study of a Man’s Head](https://en.mng.hu/artworks/50033/)
+
+## Jenő Jendrassik
+[$ Girl Sitting on the Couch](https://en.mng.hu/artworks/47434/)
+
+## László Hegedűs
+[$ Portrait of Mrs. László Zsigmond](https://en.mng.hu/artworks/47839/)
+[$ Double Portrait](https://en.mng.hu/artworks/51706/)
+
+## Charles Hermans
+[Roman Woman](https://en.mng.hu/artworks/327/)
+
+## Ludwig von Herterich
+[$ The Knight](https://en.mng.hu/artworks/331/)
+
+## Simon Hollósy
+[$ Laughing Girl](https://en.mng.hu/artworks/49545/)
+[Portrait of a Man](https://en.mng.hu/artworks/47642/)
+
+## Gyula Kardos
+[Study of a Head](https://en.mng.hu/artworks/47334/)
+
+## Bertalan Karlovszky
+[Self-portrait](https://en.mng.hu/artworks/49745/)
+[Portrait of Izidor Strasser](https://en.mng.hu/artworks/49771/)
+
+## Albert von Keller
+[Woman in a Blue Dress](https://en.mng.hu/artworks/380/)
+
+## Aladár Körösfői-Kriesch
+[Italian Girl](https://en.mng.hu/artworks/49761/)
+[Madonna](https://en.mng.hu/artworks/49762/)
+[Self Portrait Sketch](https://en.mng.hu/artworks/49763/)
+
+## Ferenc Klimkovics
+[$$ Study](https://en.mng.hu/artworks/47239/)
+
+
+## William-Adolphe Bouguereau
 [The Holy Women at the Tomb](https://www.kmska.be/en/masterpiece/the-holy-women-at-the-tomb)
 [Homer and His Guide](https://collection.mam.org/details.php?id=14910)
 

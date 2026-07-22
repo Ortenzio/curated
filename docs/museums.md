@@ -84,7 +84,8 @@
 
 
 - [Hungarian National Gallery](https://en.mng.hu/)
-[page 40](https://en.mng.hu/artworks/?per_page=80&offset=3120&current_page=40&orderby=author&order=asc&artwork_type=painting&show_only=withimage)
+
+[page 70](https://en.mng.hu/artworks/?per_page=80&offset=5520&current_page=70&orderby=author&order=asc&artwork_type=painting&show_only=withimage)
 
 - [National Gallery of Ireland](http://www.nationalgallery.ie/)
 - [Gallerie dell'Accademia](https://www.gallerieaccademia.it/)
