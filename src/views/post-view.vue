@@ -182,9 +182,8 @@ function handleReset (e) {
 .post__link[data-dir="right"] > svg { transform: rotate(0deg);}
 
 .post__title {
-  font-family: var(--ff-display);
   font-size: 1.25rem;
-  font-weight: 600;
+  font-weight: 700;
   margin-block: 0;
   text-wrap: balance;
 

@@ -131,7 +131,7 @@ export default function vitePluginImages (settings) {
     if (!fileRegex.test(inPath)) {
       return null
     }
-
+        
     if (!name) {
       name = new URLSearchParams(query).get('p')
     }

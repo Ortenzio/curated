@@ -1,5 +1,5 @@
 <template>
-  <img :src="loc" loading="lazy" />
+  <img :src="loc" fetchpriority="high" />
 </template>
 
 <script setup>

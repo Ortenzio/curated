@@ -132,35 +132,25 @@ export default async function vitePluginPosts (presets) {
     return html.replace(...script);
   }
 
+  function getFullImageUrl (src) {
+    return `${host}${src.replace(/(\.\w+)$/, '.full.webp')}`
+  }
+
   function getPostHtml (html, post) {
 
-    const tags = [
-      [
-        '<script id="post-data"></script>',
-        `<script id="post-data">window.CURATED = ${JSON.stringify({ post })}</script>`
-      ],
-      [
-        '<meta property="og:title" />',
-        `<meta property="og:title" content=${JSON.stringify(post.title.replaceAll('"', "'"))} />`
-      ],
-      [
-        '<meta property="og:url" />',
-        `<meta property="og:url" content="${host}/post/${post.slug}/" />`
-      ],
-      [
-        '<meta property="og:image" />',
-        `<meta property="og:image" content="${host}${post.image}" />`
-      ],
-      [
-        '<title></title>',
-        `<title>${post.title} - Curated</title>`
-      ]
-    ]
+    const imgSrc = getFullImageUrl(post.image)
 
-    const result = tags.reduce((acc, tag) => {
-      return acc.replace(...tag)
-    }, html)
+    const meta = `
+      <script id="post-data">window.CURATED = ${JSON.stringify({ post })}</script>
+      <meta property="og:url" content="${host}/post/${post.slug}/" />
+      <meta property="og:title" content=${JSON.stringify(post.title.replaceAll('"', "'"))} />
+      <meta property="og:image" content="${imgSrc}" />
+      <link rel="preload" as="image" href="${imgSrc}" />
+      <title>${post.title} - Curated</title>
+    </head>
+    `
 
+    const result = html.replace('</head>', meta)
     return result;
   }
 

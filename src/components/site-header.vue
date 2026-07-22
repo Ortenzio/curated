@@ -34,7 +34,7 @@ function handleThemeClick (e) {
 }
 
 .site-header__title {
-  font-weight: 600;
+  font-weight: 800;
   font-family: var(--ff-display);
   font-size: 2rem;
   letter-spacing: 0.05ch;
