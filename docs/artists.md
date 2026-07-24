@@ -95,18 +95,38 @@
 [Portrait of László Paál](https://en.mng.hu/artworks/53261/)
 [Self-portrait II](https://en.mng.hu/artworks/54609/)
 [The Pawnbroker’s Shop](https://en.mng.hu/artworks/44916/)
+[$ Male Study for the Pawnbroker’s Shop](https://en.mng.hu/artworks/44664/)
+[The Bibulous Husband](https://en.mng.hu/artworks/44662/)
+[Study for Golgotha](https://en.mng.hu/artworks/44656/)
+[$ Victim of Flowers](https://en.mng.hu/artworks/44925/)
+[Self Portrait](https://en.mng.hu/artworks/52321/)
+[The convict](https://en.mng.hu/artworks/52326/)
+[Male Study](https://en.mng.hu/artworks/52331/)
+[Milton](https://en.mng.hu/artworks/52356/)
 
 ## Zsófia Stróbl
 [Lady in Red](https://en.mng.hu/artworks/45297/)
 
+## Fülöp Szenes
+[$ study](https://en.mng.hu/artworks/45876/)
+
 ## Bertalan Székely
 [$$ Dancer](https://en.mng.hu/artworks/54332/)
+[$$ study of a peasant girl](https://en.mng.hu/artworks/52610/)
+[$ Study for 'The Venus of Murány'](https://en.mng.hu/artworks/52595/)
+[$ Women of Eger sketch](https://en.mng.hu/artworks/52643/)
+[$ study of two heads](https://en.mng.hu/artworks/52599/)
+[Study of a Woman’s Head](https://en.mng.hu/artworks/52601/)
 [Red haired girl](https://en.mng.hu/artworks/54492/)
+[portrait of his father](https://en.mng.hu/artworks/52495/)
+[Study of a Woman’s Head](https://en.mng.hu/artworks/52518/)
+[Portrait of a Woman in Black Veil](https://en.mng.hu/artworks/52550/)
 
 ## Tiziano Vecellio
 [# Secretario](https://www.bellasartes.gob.ar/en/collection/work/7820/)
 
 ## August von Pettenkofen
+[$$ Gypsies](https://en.mng.hu/artworks/668/)
 [$ Boy persued by dogs](https://sammlung.belvedere.at/objects/614/junge-von-hunden-verfolgt?)
 [Bathing Woman](https://sammlung.belvedere.at/objects/3983/badende?)
 [Half-length Portrait of a Rom](https://sammlung.belvedere.at/objects/6352/brustbild-eines-rom?)
@@ -249,6 +269,10 @@
 
 ## Norman Garstin
 [$ A Woman Reading a Newspaper](https://www.tate.org.uk/art/artworks/garstin-a-woman-reading-a-newspaper-n04234)
+
+## Henrik Pap
+[$ Little Girl](https://en.mng.hu/artworks/53997/)
+[The Empty Cradle](https://en.mng.hu/artworks/46385/)
 
 ## Fanny Sugars
 [# My Mother](https://collections.manchesterartgallery.org/collections/item/cf8f340e-a1ff-3815-bf8f-e8192838caf6/)
@@ -562,7 +586,12 @@
 [Fairy in Irises](https://www.metmuseum.org/art/collection/search/17468)
 
 ## János Vaszary
+[$$ old peasant woman](https://en.mng.hu/artworks/53398/)
+[$$ Study for the “Elders”](https://en.mng.hu/artworks/54258/)
+[$$ Little Girl in Yellow Hat](https://en.mng.hu/artworks/53378/)
 [Toilette](https://en.mng.hu/artworks/54224/)
+[Mourning Woman](https://en.mng.hu/artworks/53038/)
+[reclining nude](https://en.mng.hu/artworks/53397/)
 
 ## William Merritt Chase
 [# Portrait of Dora Wheeler](https://www.clevelandart.org/art/1921.1239)
@@ -621,6 +650,39 @@
 ## Albert Herter
 [# Portrait of Bessie](https://high.org/collection/portrait-of-bessie-miss-elizabeth-newton/)
 
+## Edmund Pick-Morino
+[In the Orangery](https://en.mng.hu/artworks/48376/)
+[Little girl with goose](https://en.mng.hu/artworks/48740/)
+
+## Frigyes Strobentz
+[$$ Girls from Chioggia](https://en.mng.hu/artworks/45899/)
+[Study of a Woman](https://en.mng.hu/artworks/45912/)
+[head of a boy](https://en.mng.hu/artworks/45922/)
+
+## Margit Pogány
+[still-left](https://en.mng.hu/artworks/46214/)
+
+## Gyula Rudnay
+[$$ Self Portrait](https://en.mng.hu/artworks/49749/)
+[$$ self portrait in painter cat](https://en.mng.hu/artworks/49964/)
+[$ Front: Portrait of a Man, Back: Portrait of a Gipsy Boy](https://en.mng.hu/artworks/49750/)
+[Riders](https://en.mng.hu/artworks/45245/)
+[Young Man from Gömör (Self-Portrait)](https://en.mng.hu/artworks/49825/)
+[Cossak](https://en.mng.hu/artworks/49870/)
+[Woman with lace scarf](https://en.mng.hu/artworks/49947/)
+[head of a coassak](https://en.mng.hu/artworks/53162/)
+
+## Bertalan Pór
+[$$ Self-portrait as a Young Man](https://en.mng.hu/artworks/49924/)
+[$$ Study of a Nude for 'The Kiss'](https://en.mng.hu/artworks/50031/)
+[Self Portrait](https://en.mng.hu/artworks/49872/)
+[Self Portrait in White Robe](https://en.mng.hu/artworks/49932/)
+[Portrait of My Father](https://en.mng.hu/artworks/49949/)
+[Self-portrait as a Young Man](https://en.mng.hu/artworks/49985/)
+[Old Woman Praying](https://en.mng.hu/artworks/50041/)
+[Portrait of a French Doctor](https://en.mng.hu/artworks/50105/)
+[$ Portrait Study (Mrs. Mór Pór)](https://en.mng.hu/artworks/51700/)
+
 ## Lovis Corinth 
 [# Nude Girl](https://collections.artsmia.org/art/2240/nude-girl-lovis-corinth)
 [$ Portrait of Dr. Karl Schwartz](https://collection.mam.org/details.php?id=10271)
@@ -665,6 +727,25 @@
 [$$ Johann Sperl Landscapist](https://en.mng.hu/artworks/519/)
 [$ Portrait of a Peasant](https://collection.mam.org/details.php?id=11496)
 [Portrait of Pál Szinyei Merse](https://en.mng.hu/artworks/518/)
+
+## Pál Szinyei Merse
+[$$ Two friends](https://en.mng.hu/artworks/50322/)
+
+## Péter Szüle
+[$$ In front of the Mirror](https://en.mng.hu/artworks/45681/)
+[Study of a Young Woman’s Head](https://en.mng.hu/artworks/45688/)
+[Young Wayfarer](https://en.mng.hu/artworks/45680/)
+
+## János Tornyai
+[$$ Woman in Dark Clothes Sitting on a Divan](https://en.mng.hu/artworks/50355/)
+[Peasant Kitchen](https://en.mng.hu/artworks/50359/)
+[Figure Study](https://en.mng.hu/artworks/50142/)
+
+## Gyula Tornai
+[$$ the artists mother](https://en.mng.hu/artworks/45585/)
+
+## Giorgio Szoldatics
+[$$ angel carrier](https://en.mng.hu/artworks/45787/)
 
 ## Govert Flinck
 [$ Bearded Man with a Velvet Cap](https://www.metmuseum.org/art/collection/search/436309)
@@ -941,6 +1022,19 @@
 [$ The Shoe Shop](https://www.artic.edu/artworks/30732/the-shoe-shop)
 [Shop Girls](https://www.artic.edu/artworks/68517/shop-girls)
 
+## László Paál
+[$$ Inside the Forst](https://en.mng.hu/artworks/52573/)
+[Confines of the Village](https://en.mng.hu/artworks/44654/)
+[Dawn in the Forest](https://en.mng.hu/artworks/50203/)
+[Forest Detail](https://en.mng.hu/artworks/50411/)
+[Inside the Forest](https://en.mng.hu/artworks/54514/)
+
+## Béla Pállik
+[Head of a woman](https://en.mng.hu/artworks/49293/)
+
+## Jenő Paizs Goebel
+[Self Portrait](https://en.mng.hu/artworks/52964/)
+
 ## Giovanni Paolo Panini
 [Ruins with Sybil](https://www.famsf.org/artworks/ruins-with-sybil)
 [The Preaching of Saint Paul in Athens](https://www.mfab.hu/artworks/10526/)
@@ -1184,6 +1278,9 @@
 ## Hans Makart
 [Lady at a Spinet](https://sammlung.belvedere.at/objects/454/dame-am-spinett?)
 [Portrait of Bertha von Piloty](https://sammlung.belvedere.at/objects/4254/portrat-bertha-von-piloty?)
+
+## István Moldován
+[$$ Little Girl](https://en.mng.hu/artworks/44192/)
 
 ## Károly Lotz
 [$$ Cornelia Lotz in Black](https://en.mng.hu/artworks/54386/)
@@ -3439,6 +3536,7 @@
 [# Vissersvrijage](https://www.rijksmuseum.nl/en/collection/object/Vissersvrijage--d6fa1a69d00264c4ef2b6f099b7064df)
 [A Mother with Child](https://www.rijksmuseum.nl/en/collection/object/A-Mother-with-her-Child--008d4df3656c9899e1512b10609c6a55)
 [Zelfportret voor de ezel](https://www.rijksmuseum.nl/en/collection/object/Zelfportret-voor-de-ezel--bf91b6198e26bba59301b32f7a4362ff)
+[Seamstress](https://en.mng.hu/artworks/624/)
 
 ## August Allebé
 [# A Young Woman](https://www.rijksmuseum.nl/en/collection/object/A-young-Woman--d0b36f7b2d16532e839407b3f5e200cc)
