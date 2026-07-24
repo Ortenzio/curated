@@ -1823,6 +1823,7 @@
 [Wealth and Benefits of the Spanish Monarchy under Charles III](https://www.nga.gov/artworks/12137-wealth-and-benefits-spanish-monarchy-under-charles-iii)
 [Allegorical Figure of a Woman with a Shield or a Mirror](https://www.rijksmuseum.nl/en/collection/object/Allegorical-Figure-of-a-Woman-with-a-Shield-or-a-Mirror-Prudence--c5c48bb5903d618e616716131c8107b2)
 [Young Man with Bow and large Quiver and his Companion with a Shield](https://www.rijksmuseum.nl/en/collection/object/Young-Man-with-Bow-and-large-Quiver-and-his-Companion-with-a-Shield-formerly-entitled-Telemachus-and-Mentor--34c615cdd2a3f400d342ee7846d7021b)
+[La probatica piscina](https://www.gallerieaccademia.it/opera/la-probatica-piscina/)
 
 ## Hans Tichy
 [$ FRAU IM PROFIL](https://sammlung.belvedere.at/objects/4184/frau-im-profil?)
@@ -3248,6 +3249,7 @@
 
 ## Johann Carl Loth
 [$ Mercury piping to Argus](https://www.nationalgallery.org.uk/paintings/johann-carl-loth-mercury-piping-to-argus)
+[Giobbe e la moglie](https://www.gallerieaccademia.it/opera/giobbe-e-la-moglie/)
 
 ## Adolphe Borie
 [Samuel Matthews Vauclain](https://www.pafa.org/museum/collection/item/samuel-matthews-vauclain)
@@ -3803,6 +3805,13 @@
 
 ### Antoine Coypel (after)
 [The Olympic Gods](https://www.mfab.hu/artworks/8922/)
+
+## Giovanni Antonio Pellegrini
+[$ Allegoria della Scultura](https://www.gallerieaccademia.it/opera/allegoria-della-scultura/)
+
+## Rosalba 
+[$ Autoritratto](https://www.gallerieaccademia.it/opera/autoritratto-5/)
+
 
 ## Bob Palevitz
 ## Mark Tenant

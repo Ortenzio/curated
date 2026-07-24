@@ -70,6 +70,7 @@
 - [Reykjavík Art Museum](https://listasafnreykjavikur.is/en)
 - [Rhode Island School of Design](https://risdmuseum.org/)
 - [Rijksmuseum](https://www.rijksmuseum.nl/en)
+- [Hungarian National Gallery](https://en.mng.hu/)
 - [Staatliche Museen zu Berlin](https://recherche.smb.museum/)
 - [Staedel Museum](https://www.staedelmuseum.de/en)
 - [State Hermitage Museum](https://www.hermitagemuseum.org/explore/artworks)
@@ -79,16 +80,11 @@
 - [Van Gogh Museum](https://www.vangoghmuseum.nl/en)
 - [Virginia Museum of Fine Arts](https://www.vmfa.museum/)
 - [Whitney Museum of American Art](https://whitney.org/collection/works)
-- [Museum of Fine Arts, Budapest](https://www.mfab.hu/)
-- [Wikiart](https://www.wikiart.org/)
-
-
-- [Hungarian National Gallery](https://en.mng.hu/)
-
-[page 70](https://en.mng.hu/artworks/?per_page=80&offset=5520&current_page=70&orderby=author&order=asc&artwork_type=painting&show_only=withimage)
-
-- [National Gallery of Ireland](http://www.nationalgallery.ie/)
-- [Gallerie dell'Accademia](https://www.gallerieaccademia.it/)
-- [Museo Correr](https://correr.visitmuve.it/en/)
-- [Ca' d'Oro](https://www.cadoro.org/)
 - [Ca' Rezzonico](https://carezzonico.visitmuve.it/en/home/)
+- [Museum of Fine Arts, Budapest](https://www.mfab.hu/)
+- [Museo Correr](https://correr.visitmuve.it/en/)
+- [Wikiart](https://www.wikiart.org/)
+- [Gallerie dell'Accademia](https://www.gallerieaccademia.it/)
+
+
+- [National Gallery of Ireland](https://onlinecollection.nationalgallery.ie//)
