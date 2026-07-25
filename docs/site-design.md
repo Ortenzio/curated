@@ -31,3 +31,20 @@ Check, in roughly this order:
 the commonswiki sitelink;
 property P373, the Commons category;
 optionally P1472, the Commons Creator page.
+
+
+## Image transform Caching
+https://github.com/JonasKruckenberg/imagetools/blob/main/packages/vite/src/index.ts
+
+## Vite SSG
+https://github.com/rahulsushilsharma/vite-plugin-prerender-static
+https://github.com/md-plugins/md-plugins
+https://github.com/vuetifyjs/vite-ssg
+https://github.com/TomokiMiyauci/vite-plugin-ssr-ssg
+https://github.com/Jscherbe/vite-plugin-virtual-modules
+https://github.com/antfu/vite-ssg
+https://github.com/antfu-collective/vite-ssg
+https://github.com/arijs/vite-ssg
+https://github.com/The-CodeCave/vite-plugin-ssg
+https://socket.dev/npm/package/@wroud/vite-plugin-ssg
+https://socket.dev/npm/package/@bdocs/ssg
