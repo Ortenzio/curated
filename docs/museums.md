@@ -2,6 +2,7 @@
 
 - [List of Art Museums](https://en.wikipedia.org/wiki/List_of_art_museums)
 
+- [Albertina](https://sammlungenonline.albertina.at/s)
 - [Arc Museum](https://www.artrenewal.org/Museum/Search)
 - [Art Institute of Chicago](https://www.artic.edu/)
 - [Barnes](https://collection.barnesfoundation.org)
@@ -21,6 +22,7 @@
 - [Currier Museum of Art](https://www.currier.org/)
 - [Delaware Art Museum](https://delart.org/)
 - [Digital Museum](https://digitaltmuseum.org/)
+- [Dulwich Picture Gallery](https://www.dulwichpicturegallery.org.uk)
 - [Farnsworth](https://www.farnsworthmuseum.org/)
 - [Gagosian](https://gagosian.com/)
 - [Gallerie dell'Accademia](https://www.gallerieaccademia.it/)
@@ -76,6 +78,7 @@
 - [Pennsylvania Acadamy of Fine Art](https://www.pafa.org/)
 - [Philadelphia Museum of Fine Art](https://www.philamuseum.org/)
 - [Phillips Collection](https://www.phillipscollection.org/collection)
+- [Princeton University Art Museum](https://artmuseum.princeton.edu/art/collections)
 - [Reykjavík Art Museum](https://listasafnreykjavikur.is/en)
 - [Rhode Island School of Design](https://risdmuseum.org/)
 - [Rijksmuseum](https://www.rijksmuseum.nl/en)
@@ -88,12 +91,9 @@
 - [Utah Museum of Contemporary Art](https://utahmoca.org/)
 - [Van Gogh Museum](https://www.vangoghmuseum.nl/en)
 - [Victoria and Albert Museum](https://www.vam.ac.uk/)
-- [Albertina](https://sammlungenonline.albertina.at/s)
 - [Virginia Museum of Fine Arts](https://www.vmfa.museum/)
 - [Whitney Museum of American Art](https://whitney.org/collection/works)
 - [Wikiart](https://www.wikiart.org/)
-
-
 
 [DomQuartier Salzburg](https://www.domquartier.at/en/residenzgalerie-collection-online/paintings/)
 [MAK - Museum of Applied Arts](https://sammlung.mak.at/en/search?q=*&start=0&rows=32&facet=true&random=false&year_bucketing=true&year_bucketing_size=50&sort_field=highscore&sort_direction=desc)

@@ -1,20 +1,5 @@
 [
   {
-    "slug": "hipolit-lipinski",
-    "title": "Self-Portrait of Hipolit Lipiński",
-    "image": "/images/lipinski__hipolit-lipinski.jpg",
-    "artist": "Hipolit Lipiński",
-    "date": "1882",
-    "height": 56.5,
-    "width": 40.5,
-    "medium": "Oil",
-    "support": "Canvas",
-    "accession": "MNK II-a-483",
-    "location": "The National Museum in Krakow",
-    "source": "https://zbiory.mnk.pl/en/search-result/advance/catalog/385276",
-    "copyright": "CC0 - Public domain"
-  },
-  {
     "slug": "coassak",
     "title": "A Cossak",
     "image": "/images/chelmonski__cossak.jpg",
@@ -566,6 +551,21 @@
     "location": "Smithsonian Art Museum",
     "source": "https://americanart.si.edu/artwork/necklace-1289",
     "copyright": "CC0"
+  },
+  {
+    "slug": "hipolit-lipinski",
+    "title": "Self-Portrait of Hipolit Lipiński",
+    "image": "/images/lipinski__hipolit-lipinski.jpg",
+    "artist": "Hipolit Lipiński",
+    "date": "1882",
+    "height": 56.5,
+    "width": 40.5,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "MNK II-a-483",
+    "location": "The National Museum in Krakow",
+    "source": "https://zbiory.mnk.pl/en/search-result/advance/catalog/385276",
+    "copyright": "CC0 - Public domain"
   },
   {
     "slug": "black-tresses",
