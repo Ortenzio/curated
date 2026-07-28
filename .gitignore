@@ -18,6 +18,9 @@ coverage
 docs/image-test
 docs/images
 docs/grid-view.csv
+assets/collection
+.output
+.nuxt
 
 # Editor directories and files
 .vscode/*

@@ -1,0 +1,10 @@
+{
+  "prefetch": [{
+    "where": {
+      "and": [
+        { "href_matches": "/post/*" },
+        { "or": [{ "selector_matches": "[rel~=next]" },{ "selector_matches": "[rel~=prev]" }]}
+      ]
+    }
+  }]
+}

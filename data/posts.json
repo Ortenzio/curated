@@ -2,7 +2,7 @@
   {
     "slug": "coassak",
     "title": "A Cossak",
-    "image": "/images/chelmonski__cossak.jpg",
+    "image": "/collection/chelmonski__cossak.jpg",
     "artist": "Józef Chełmoński",
     "date": "1882",
     "height": 25.5,
@@ -17,7 +17,7 @@
   {
     "slug": "study-of-a-woman",
     "title": "Study of a Woman",
-    "image": "/images/fabijanski__study-of-a-woman.jpg",
+    "image": "/collection/fabijanski__study-of-a-woman.jpg",
     "artist": "Stanisław Fabijański",
     "date": "1888",
     "height": 53,
@@ -32,7 +32,7 @@
   {
     "slug": "der-hoffotograf-josef-lowy",
     "title": "Der Hoffotograf Josef Löwy",
-    "image": "/images/berger__der-hoffotograf-josef-lowy.jpg",
+    "image": "/collection/berger__der-hoffotograf-josef-lowy.jpg",
     "artist": "Julius Victor Berger",
     "date": "1902",
     "height": 55,
@@ -47,7 +47,7 @@
   {
     "slug": "still-life-with-armor",
     "title": "Still Life with Armor",
-    "image": "/images/klimt__still-life-with-armor.jpg",
+    "image": "/collection/klimt__still-life-with-armor.jpg",
     "artist": "Ernst Klimt",
     "date": "c. 1885",
     "height": 19,
@@ -62,7 +62,7 @@
   {
     "slug": "judith",
     "title": "Judith",
-    "image": "/images/klimt__judith.jpg",
+    "image": "/collection/klimt__judith.jpg",
     "artist": "Gustav Klimt",
     "date": "1901",
     "height": 84,
@@ -77,7 +77,7 @@
   {
     "slug": "selbstportrat-mit-blauer-halsbinde",
     "title": "Selbstporträt Mit Blauer Halsbinde",
-    "image": "/images/amerling__selbstportrat-mit-blauer-halsbinde.jpg",
+    "image": "/collection/amerling__selbstportrat-mit-blauer-halsbinde.jpg",
     "artist": "Friedrich von Amerling",
     "date": "1839",
     "height": 48,
@@ -92,7 +92,7 @@
   {
     "slug": "der-kupferstecher-franz-xaver-stober",
     "title": "Der Kupferstecher Franz Xaver Stöber",
-    "image": "/images/amerling__der-kupferstecher-franz-xaver-stober.jpg",
+    "image": "/collection/amerling__der-kupferstecher-franz-xaver-stober.jpg",
     "artist": "Friedrich von Amerling",
     "date": "c. 1830",
     "height": 37,
@@ -107,7 +107,7 @@
   {
     "slug": "mihaly-von-munkacsy",
     "title": "Self-Portrait of Mihály von Munkácsy",
-    "image": "/images/munkacsy__mihaly-von-munkacsy.jpg",
+    "image": "/collection/munkacsy__mihaly-von-munkacsy.jpg",
     "artist": "Mihály von Munkácsy",
     "date": "1865 - 1870",
     "height": 27,
@@ -122,7 +122,7 @@
   {
     "slug": "karl-kopping",
     "title": "Self-Portrait of Karl Köpping",
-    "image": "/images/kopping__karl-kopping.jpg",
+    "image": "/collection/kopping__karl-kopping.jpg",
     "artist": "Karl Köpping",
     "date": "1879",
     "height": 51,
@@ -137,7 +137,7 @@
   {
     "slug": "hundestudie",
     "title": "Hundestudie",
-    "image": "/images/jungere__hundestudie.jpg",
+    "image": "/collection/jungere__hundestudie.jpg",
     "artist": "Johann Till der Jüngere",
     "date": "um 1870/1880",
     "height": 12.5,
@@ -152,7 +152,7 @@
   {
     "slug": "actress-sarah-bernhardt",
     "title": "The Actress Sarah Bernhardt",
-    "image": "/images/bastien-lepage__actress-sarah-bernhardt.jpg",
+    "image": "/collection/bastien-lepage__actress-sarah-bernhardt.jpg",
     "artist": "Jules Bastien-Lepage",
     "date": "unknown",
     "height": 47,
@@ -167,7 +167,7 @@
   {
     "slug": "oscar-bjorck",
     "title": "Self-Portrait of Oscar Björck",
-    "image": "/images/bjorck__oscar-bjorck.jpg",
+    "image": "/collection/bjorck__oscar-bjorck.jpg",
     "artist": "Oscar Björck",
     "date": "Executed c. 1920",
     "height": 41,
@@ -182,7 +182,7 @@
   {
     "slug": "dining-room",
     "title": "The Dining Room",
-    "image": "/images/lundegard__dining-room.png",
+    "image": "/collection/lundegard__dining-room.png",
     "artist": "Justus Lundegård",
     "date": "Sign. 1919",
     "height": 63.5,
@@ -197,7 +197,7 @@
   {
     "slug": "amanda-sidvall",
     "title": "Self-portrait of Amanda Sidvall",
-    "image": "/images/sidvall__amanda-sidvall.png",
+    "image": "/collection/sidvall__amanda-sidvall.png",
     "artist": "Amanda Sidvall",
     "date": "Made c. 1870",
     "height": 64,
@@ -212,7 +212,7 @@
   {
     "slug": "elisabeth-warling",
     "title": "Elisabeth Warling",
-    "image": "/images/brate__elisabeth-warling.png",
+    "image": "/collection/brate__elisabeth-warling.png",
     "artist": "Fanny Brate",
     "date": "Made 1880s",
     "height": 21,
@@ -227,7 +227,7 @@
   {
     "slug": "aktstudie",
     "title": "Aktstudie",
-    "image": "/images/bonnier__aktstudie.png",
+    "image": "/collection/bonnier__aktstudie.png",
     "artist": "Eva Bonnier",
     "date": "Made 1880s",
     "height": 80.5,
@@ -242,7 +242,7 @@
   {
     "slug": "olle-skagerfors",
     "title": "Self-Portrait of Olle Skagerfors",
-    "image": "/images/skagerfors__olle-skagerfors.jpg",
+    "image": "/collection/skagerfors__olle-skagerfors.jpg",
     "artist": "Olle Skagerfors",
     "date": "Executed 1964 - 1968",
     "height": 96,
@@ -257,7 +257,7 @@
   {
     "slug": "lady-in-mourning",
     "title": "Lady in Mourning",
-    "image": "/images/thorell__lady-in-mourning.jpg",
+    "image": "/collection/thorell__lady-in-mourning.jpg",
     "artist": "Hildegard Thorell",
     "date": "Signed 1896",
     "height": 62,
@@ -272,7 +272,7 @@
   {
     "slug": "portrait-of-godfrey-renholm",
     "title": "Portrait of Godfrey Renholm",
-    "image": "/images/peterssen__portrait-of-godfrey-renholm.jpg",
+    "image": "/collection/peterssen__portrait-of-godfrey-renholm.jpg",
     "artist": "Eilif Peterssen",
     "date": "Signed 1875",
     "height": 27,
@@ -287,7 +287,7 @@
   {
     "slug": "my-mother",
     "title": "My Mother",
-    "image": "/images/sugars__my-mother.jpg",
+    "image": "/collection/sugars__my-mother.jpg",
     "artist": "Fanny Sugars",
     "date": "1871-1933",
     "height": 36.2,
@@ -302,7 +302,7 @@
   {
     "slug": "one-of-our-conquerors",
     "title": "One of Our Conquerors",
-    "image": "/images/dicksee__one-of-our-conquerors.jpg",
+    "image": "/collection/dicksee__one-of-our-conquerors.jpg",
     "artist": "Frank Dicksee",
     "date": "1903",
     "height": 154,
@@ -317,7 +317,7 @@
   {
     "slug": "lady-in-a-black-hat",
     "title": "Lady in a Black Hat (Miss Don Wauchope of Edinburgh)",
-    "image": "/images/cadell__lady-in-a-black-hat.jpg",
+    "image": "/collection/cadell__lady-in-a-black-hat.jpg",
     "artist": "Francis Campbell Boileau Cadell",
     "date": "circa 1929",
     "height": 104.4,
@@ -332,7 +332,7 @@
   {
     "slug": "colonel-volbert",
     "title": "Colonel Volbert",
-    "image": "/images/dacre__colonel-volbert.jpg",
+    "image": "/collection/dacre__colonel-volbert.jpg",
     "artist": "Susan Isabel Dacre",
     "date": "1865 - 1870",
     "height": 23.7,
@@ -347,7 +347,7 @@
   {
     "slug": "townhall-in-rothenburg",
     "title": "Townhall in Rothenburg",
-    "image": "/images/probst__townhall-in-rothenburg.jpg",
+    "image": "/collection/probst__townhall-in-rothenburg.jpg",
     "artist": "Carl Probst",
     "date": "before 1900",
     "height": 63.5,
@@ -362,7 +362,7 @@
   {
     "slug": "head-study",
     "title": "Head Study",
-    "image": "/images/probst__head-study.jpg",
+    "image": "/collection/probst__head-study.jpg",
     "artist": "Carl Probst",
     "date": "unknown",
     "height": 52,
@@ -377,7 +377,7 @@
   {
     "slug": "gustav-v",
     "title": "Gustav V, King of Sweden",
-    "image": "/images/osterman__gustav-v.jpg",
+    "image": "/collection/osterman__gustav-v.jpg",
     "artist": "Bernhard Österman",
     "date": "1929",
     "height": 81.5,
@@ -392,7 +392,7 @@
   {
     "slug": "fritz-rojka",
     "title": "Self-Portrait of Fritz Rojka",
-    "image": "/images/rojka__fritz-rojka.jpg",
+    "image": "/collection/rojka__fritz-rojka.jpg",
     "artist": "Fritz Rojka",
     "date": "1925",
     "height": 79,
@@ -407,7 +407,7 @@
   {
     "slug": "a-man-reading",
     "title": "A Man Reading",
-    "image": "/images/rojka__a-man-reading.jpg",
+    "image": "/collection/rojka__a-man-reading.jpg",
     "artist": "Fritz Rojka",
     "date": "undated",
     "height": 52.5,
@@ -422,7 +422,7 @@
   {
     "slug": "portrait-of-a-woman",
     "title": "Portrait of a Woman",
-    "image": "/images/thony__portrait-of-a-woman.jpg",
+    "image": "/collection/thony__portrait-of-a-woman.jpg",
     "artist": "Wilhelm Thöny",
     "date": "1911",
     "height": 170,
@@ -437,7 +437,7 @@
   {
     "slug": "s-isabel-dacre",
     "title": "S. Isabel Dacre",
-    "image": "/images/swynnerton__s-isabel-dacre.jpg",
+    "image": "/collection/swynnerton__s-isabel-dacre.jpg",
     "artist": "Annie Louisa Swynnerton A.R.A.",
     "date": "1880",
     "height": 70.3,
@@ -452,7 +452,7 @@
   {
     "slug": "nelly-knikker",
     "title": "Portrait of Nelly Knikker",
-    "image": "/images/beekman__nelly-knikker.jpg",
+    "image": "/collection/beekman__nelly-knikker.jpg",
     "artist": "Chris Beekman",
     "date": "1906",
     "height": 17.8,
@@ -467,7 +467,7 @@
   {
     "slug": "vrouwenportret",
     "title": "Vrouwenportret",
-    "image": "/images/haverman__vrouwenportret.jpg",
+    "image": "/collection/haverman__vrouwenportret.jpg",
     "artist": "Hendrik Johan Haverman",
     "date": "1887",
     "height": 35,
@@ -482,7 +482,7 @@
   {
     "slug": "reverie",
     "title": "Reverie",
-    "image": "/images/gouweloos__reverie.jpg",
+    "image": "/collection/gouweloos__reverie.jpg",
     "artist": "Jean Gouweloos",
     "date": "unknown",
     "height": 99,
@@ -497,7 +497,7 @@
   {
     "slug": "portrait-of-william-merritt-chase",
     "title": "Portrait of William Merritt Chase",
-    "image": "/images/duveneck__portrait-of-william-merritt-chase.jpg",
+    "image": "/collection/duveneck__portrait-of-william-merritt-chase.jpg",
     "artist": "Frank Duveneck",
     "date": "1876",
     "height": 51.1,
@@ -511,7 +511,7 @@
   {
     "slug": "st-michaels-church-in-kiev",
     "title": "St. Michael's Church in Kiev",
-    "image": "/images/stanislawski__st-michaels-church-in-kiev.jpg",
+    "image": "/collection/stanislawski__st-michaels-church-in-kiev.jpg",
     "artist": "Jan Stanisławski",
     "date": "ok. 1903",
     "height": 24,
@@ -526,7 +526,7 @@
   {
     "slug": "portrait-of-a-man-4",
     "title": "Portrait of a Man",
-    "image": "/images/kramskoy__portrait-of-a-man.jpg",
+    "image": "/collection/kramskoy__portrait-of-a-man.jpg",
     "artist": "Ivan Nikolayevich Kramskoy",
     "date": "19th century",
     "height": 24,
@@ -541,7 +541,7 @@
   {
     "slug": "amazon-woman",
     "title": "Amazon Woman",
-    "image": "/images/romer__amazon-woman.jpg",
+    "image": "/collection/romer__amazon-woman.jpg",
     "artist": "Edward Mateusz Römer",
     "date": "end of the 19th c.",
     "height": 96,
@@ -556,7 +556,7 @@
   {
     "slug": "theresita",
     "title": "Portrait of Maria Krzymuska called ‘Theresita’",
-    "image": "/images/krzyzanowski__theresita.jpg",
+    "image": "/collection/krzyzanowski__theresita.jpg",
     "artist": "Konrad Krzyżanowski",
     "date": "1901",
     "height": 69.3,
@@ -571,7 +571,7 @@
   {
     "slug": "meditation",
     "title": "Meditation",
-    "image": "/images/stevens__meditation.jpg",
+    "image": "/collection/stevens__meditation.jpg",
     "artist": "Alfred-Emile-Léopold Stevens",
     "date": "ca. 1870",
     "height": 36.2,
@@ -586,7 +586,7 @@
   {
     "slug": "snow-storm",
     "title": "Snow Storm",
-    "image": "/images/la-farge__snow-storm.jpg",
+    "image": "/collection/la-farge__snow-storm.jpg",
     "artist": "John La Farge",
     "date": "1865",
     "height": 41.9,
@@ -601,7 +601,7 @@
   {
     "slug": "man-with-the-pipe",
     "title": "The Man with the Pipe",
-    "image": "/images/courbet__man-with-the-pipe.jpg",
+    "image": "/collection/courbet__man-with-the-pipe.jpg",
     "artist": "Gustave Courbet",
     "date": "circa 1849",
     "height": 45.8,
@@ -616,7 +616,7 @@
   {
     "slug": "portrait-of-robert-stevens",
     "title": "Portrait de Robert Stevens en costume flamand du 17e siècle",
-    "image": "/images/roybet__portrait-of-robert-stevens.jpg",
+    "image": "/collection/roybet__portrait-of-robert-stevens.jpg",
     "artist": "Ferdinand Roybet",
     "date": "19th century",
     "height": 66,
@@ -631,7 +631,7 @@
   {
     "slug": "dora-wheeler",
     "title": "Portrait study of Dora Wheeler",
-    "image": "/images/chase__dora-wheeler.jpg",
+    "image": "/collection/chase__dora-wheeler.jpg",
     "artist": "William Merritt Chase",
     "date": "1882-1883",
     "height": 159.8,
@@ -645,7 +645,7 @@
   {
     "slug": "necklace",
     "title": "The Necklace",
-    "image": "/images/barney__the-necklace.jpg",
+    "image": "/collection/barney__the-necklace.jpg",
     "artist": "Alice Pike Barney",
     "date": "1898",
     "height": 46.6,
@@ -660,7 +660,7 @@
   {
     "slug": "hipolit-lipinski",
     "title": "Self-Portrait of Hipolit Lipiński",
-    "image": "/images/lipinski__hipolit-lipinski.jpg",
+    "image": "/collection/lipinski__hipolit-lipinski.jpg",
     "artist": "Hipolit Lipiński",
     "date": "1882",
     "height": 56.5,
@@ -675,7 +675,7 @@
   {
     "slug": "black-tresses",
     "title": "Black Tresses",
-    "image": "/images/zmurko__black-tresses.jpg",
+    "image": "/collection/zmurko__black-tresses.jpg",
     "artist": "Franciszek Żmurko",
     "date": "1907",
     "height": 85.5,
@@ -690,7 +690,7 @@
   {
     "slug": "lazar-raditz",
     "title": "Self-Portrait of Lazar Raditz",
-    "image": "/images/raditz__lazar-raditz.jpg",
+    "image": "/collection/raditz__lazar-raditz.jpg",
     "artist": "Lazar Raditz",
     "date": "Early 20th Century",
     "height": 54.9,
@@ -704,7 +704,7 @@
   {
     "slug": "a-doubtful-customer",
     "title": "A Doubtful Customer",
-    "image": "/images/reid__a-doubtful-customer.jpg",
+    "image": "/collection/reid__a-doubtful-customer.jpg",
     "artist": "Flora Macdonald Reid",
     "date": "1902",
     "height": 48.5,
@@ -719,7 +719,7 @@
   {
     "slug": "portrait-of-william-j-crowell",
     "title": "Portrait of William J. Crowell",
-    "image": "/images/crowell__portrait-of-william-j-crowell.jpg",
+    "image": "/collection/crowell__portrait-of-william-j-crowell.jpg",
     "artist": "Margaret Eakins Crowell",
     "date": "about 1900",
     "height": 50.7,
@@ -734,7 +734,7 @@
   {
     "slug": "john-butler-yeats",
     "title": "Self-Portrait of John Butler Yeats",
-    "image": "/images/yeats__john-butler-yeats.jpg",
+    "image": "/collection/yeats__john-butler-yeats.jpg",
     "artist": "John Butler Yeats",
     "date": "1911",
     "height": 81,
@@ -749,7 +749,7 @@
   {
     "slug": "hans-heyerdahl",
     "title": "Erik XIV and Karin Månsdotter in Prison. Sketch",
-    "image": "/images/perseus__erik-xiv-and-karin-mansdotter-in-prison.jpg",
+    "image": "/collection/perseus__erik-xiv-and-karin-mansdotter-in-prison.jpg",
     "artist": "Edvard Perséus",
     "date": "1841 - 1890",
     "height": 40.5,
@@ -764,7 +764,7 @@
   {
     "slug": "mademoiselle-pourtales",
     "title": "Mademoiselle Pourtalès",
-    "image": "/images/salmson__mademoiselle-pourtales.jpg",
+    "image": "/collection/salmson__mademoiselle-pourtales.jpg",
     "artist": "Hugo Salmson",
     "date": "c. 1880",
     "height": 73,
@@ -779,7 +779,7 @@
   {
     "slug": "mimmi-zetterstrom",
     "title": "Self-Portrait of Mimmi Zetterström",
-    "image": "/images/zetterstrom__mimmi-zetterstrom.png",
+    "image": "/collection/zetterstrom__mimmi-zetterstrom.png",
     "artist": "Mimmi Zetterström",
     "date": "Signed 1876",
     "height": 40.0,
@@ -794,7 +794,7 @@
   {
     "slug": "hans-heyerdahl",
     "title": "Hans Heyerdahl",
-    "image": "/images/peterssen__hans-heyerdahl.jpg",
+    "image": "/collection/peterssen__hans-heyerdahl.jpg",
     "artist": "Eilifsikker Peterssen",
     "date": "1875",
     "height": 72.8,
@@ -809,7 +809,7 @@
   {
     "slug": "oriental-woman",
     "title": "Oriental Woman",
-    "image": "/images/richter__oriental-woman.jpg",
+    "image": "/collection/richter__oriental-woman.jpg",
     "artist": "Edouard Frédéric Wilhelm Richter",
     "date": "ca 1875",
     "height": 93,
@@ -823,7 +823,7 @@
   {
     "slug": "august-rieger",
     "title": "Self-Portrait of August Rieger",
-    "image": "/images/rieger__august-rieger.jpg",
+    "image": "/collection/rieger__august-rieger.jpg",
     "artist": "August Rieger",
     "date": "1925",
     "height": 45,
@@ -837,7 +837,7 @@
   {
     "slug": "kopf-einer-alten-frau-mit-der-hand-am-mund",
     "title": "Kopf Einer Alten Frau Mit Der Hand Am Mund",
-    "image": "/images/kubin__kopf-einer-alten-frau-mit-der-hand-am-mund.jpg",
+    "image": "/collection/kubin__kopf-einer-alten-frau-mit-der-hand-am-mund.jpg",
     "artist": "Karoline Kubin",
     "date": "c 1890",
     "height": 45,
@@ -851,7 +851,7 @@
   {
     "slug": "rose",
     "title": "A Rose",
-    "image": "/images/anshutz__rose.jpg",
+    "image": "/collection/anshutz__rose.jpg",
     "artist": "Thomas Anshutz",
     "date": "1907",
     "height": 147.3,
@@ -865,7 +865,7 @@
   {
     "slug": "charles-sumner",
     "title": "Charles Sumner",
-    "image": "/images/hunt__charles-sumner.jpg",
+    "image": "/collection/hunt__charles-sumner.jpg",
     "artist": "William Morris Hunt",
     "date": "1875",
     "height": 55.9,
@@ -880,7 +880,7 @@
   {
     "slug": "japanese-woman",
     "title": "Japanese Woman",
-    "image": "/images/boznanska__japanese-woman.jpg",
+    "image": "/collection/boznanska__japanese-woman.jpg",
     "artist": "Olga Boznańska",
     "date": "1889",
     "height": 37,
@@ -895,7 +895,7 @@
   {
     "slug": "head-of-a-woman-2",
     "title": "Head of a Woman",
-    "image": "/images/gierymski__head-of-a-woman.jpg",
+    "image": "/collection/gierymski__head-of-a-woman.jpg",
     "artist": "Maksymilian Gierymski",
     "date": "1872",
     "height": 34.7,
@@ -909,7 +909,7 @@
   {
     "slug": "church-of-san-trovaso",
     "title": "The Church of San Trovaso, Venice",
-    "image": "/images/joyant__church-of-san-trovaso.jpg",
+    "image": "/collection/joyant__church-of-san-trovaso.jpg",
     "artist": "Jules-Romain Joyant",
     "date": "c. 1830",
     "height": 15.5,
@@ -923,7 +923,7 @@
   {
     "slug": "young-boy-in-straw-hat",
     "title": "Study of a young boy in a straw hat",
-    "image": "/images/pimonienko__young-boy-in-a-straw-hat.jpg",
+    "image": "/collection/pimonienko__young-boy-in-a-straw-hat.jpg",
     "artist": "Mikołaj K. Pimonienko",
     "date": "1905 - 1907",
     "height": 19,
@@ -938,7 +938,7 @@
   {
     "slug": "moorish-chief",
     "title": "The Moorish Chief",
-    "image": "/images/charlemont__the-moorish-chief.jpg",
+    "image": "/collection/charlemont__the-moorish-chief.jpg",
     "artist": "Eduard Charlemont",
     "date": "1878",
     "height": 150.2,
@@ -952,7 +952,7 @@
   {
     "slug": "maria-semprun-y-pombo",
     "title": "María Semprún y Pombo",
-    "image": "/images/frances__maria-semprun-y-pombo.jpg",
+    "image": "/collection/frances__maria-semprun-y-pombo.jpg",
     "artist": "Emilio Sala Francés",
     "date": "1900 - 1905",
     "height": 115,
@@ -967,7 +967,7 @@
   {
     "slug": "the-smoker",
     "title": "The Smoker",
-    "image": "/images/meissonier__the-smoker.jpg",
+    "image": "/collection/meissonier__the-smoker.jpg",
     "artist": "Jean-Louis-Ernest Meissonier",
     "date": "1891",
     "height": 35.2,
@@ -982,7 +982,7 @@
   {
     "slug": "her-favourite-dog",
     "title": "Her Favourite Dog",
-    "image": "/images/chaplin__her-favourite-dog.jpg",
+    "image": "/collection/chaplin__her-favourite-dog.jpg",
     "artist": "Charles Joshua Chaplin",
     "date": "19th century",
     "height": 46,
@@ -997,7 +997,7 @@
   {
     "slug": "portrait-of-a-woman-in-white",
     "title": "Portrait of a Woman in White",
-    "image": "/images/boruth__portrait-of-a-woman-in-white.jpg",
+    "image": "/collection/boruth__portrait-of-a-woman-in-white.jpg",
     "artist": "Andor Boruth",
     "date": "unknown",
     "height": 96,
@@ -1012,7 +1012,7 @@
   {
     "slug": "gyula-rudnay",
     "title": "Self-Portrait in Painter Cap",
-    "image": "/images/rudnay__gyula-rudnay.jpg",
+    "image": "/collection/rudnay__gyula-rudnay.jpg",
     "artist": "Gyula Rudnay",
     "date": "unknown",
     "height": 59,
@@ -1027,7 +1027,7 @@
   {
     "slug": "study-of-a-head",
     "title": "Study of a Head",
-    "image": "/images/csok__study-of-a-head.jpg",
+    "image": "/collection/csok__study-of-a-head.jpg",
     "artist": "István Csók",
     "date": "unknown",
     "height": 44,
@@ -1042,7 +1042,7 @@
   {
     "slug": "toreador",
     "title": "Toreador",
-    "image": "/images/boruth__toreador.jpg",
+    "image": "/collection/boruth__toreador.jpg",
     "artist": "Andor Boruth",
     "date": "unknown",
     "height": 55,
@@ -1057,7 +1057,7 @@
   {
     "slug": "loss-of-a-child",
     "title": "The Loss of a Child (La pérdida del hijo)",
-    "image": "/images/daneri__loss-of-a-child.jpg",
+    "image": "/collection/daneri__loss-of-a-child.jpg",
     "artist": "Eugenio Daneri",
     "date": "1945",
     "height": 101,
@@ -1072,7 +1072,7 @@
   {
     "slug": "un-reitre",
     "title": "Un Reitre",
-    "image": "/images/roybet__un-reitre.jpg",
+    "image": "/collection/roybet__un-reitre.jpg",
     "artist": "Ferdinand Roybet",
     "date": "1910",
     "height": 55,
@@ -1087,7 +1087,7 @@
   {
     "slug": "secretario",
     "title": "Secretario",
-    "image": "/images/vecellio__secretario.jpg",
+    "image": "/collection/vecellio__secretario.jpg",
     "artist": "Tiziano Vecellio",
     "date": "S. XVI",
     "height": 76,
@@ -1102,7 +1102,7 @@
   {
     "slug": "without-bread-and-without-work",
     "title": "Without Bread and Without Work",
-    "image": "/images/carcova__without-bread-and-without-work.jpg",
+    "image": "/collection/carcova__without-bread-and-without-work.jpg",
     "artist": "Ernesto de la Cárcova",
     "date": "1894",
     "height": 125.5,
@@ -1117,7 +1117,7 @@
   {
     "slug": "woman-cleaning-brass",
     "title": "Limpiadora de cobres (A woman cleaning brass)",
-    "image": "/images/bonvin__woman-cleaning-glass.jpg",
+    "image": "/collection/bonvin__woman-cleaning-glass.jpg",
     "artist": "François Bonvin",
     "date": "1869",
     "height": 100,
@@ -1132,7 +1132,7 @@
   {
     "slug": "joven-oriental",
     "title": "Joven oriental",
-    "image": "/images/romani__joven-oriental.jpg",
+    "image": "/collection/romani__joven-oriental.jpg",
     "artist": "Juana Romani",
     "date": "ca. 1888-1895",
     "height": 81,
@@ -1147,7 +1147,7 @@
   {
     "slug": "paysage-boise-en-vue-d-un-village",
     "title": "Paysage boisé en vue d'un village",
-    "image": "/images/corot__paysage-boise-en-vue-d-un-village.jpg",
+    "image": "/collection/corot__paysage-boise-en-vue-d-un-village.jpg",
     "artist": "Jean-Baptiste Cammile Carot",
     "date": "ca. 1860-1870",
     "height": 45,
@@ -1162,7 +1162,7 @@
   {
     "slug": "maid-awakens",
     "title": "The Maid Awakens",
-    "image": "/images/sivori__maid-awakens.jpg",
+    "image": "/collection/sivori__maid-awakens.jpg",
     "artist": "Eduardo Sívori",
     "date": "1887",
     "height": 198,
@@ -1177,7 +1177,7 @@
   {
     "slug": "retrato-de-juana-romani",
     "title": "Retrato de Juana Romani",
-    "image": "/images/roybet__retrato-de-juana-romani.jpg",
+    "image": "/collection/roybet__retrato-de-juana-romani.jpg",
     "artist": "Ferdinand Roybet",
     "date": "ca.1890",
     "height": 55,
@@ -1192,7 +1192,7 @@
   {
     "slug": "tirana",
     "title": "La Tirana",
-    "image": "/images/casado-del-alisal__tirana.jpg",
+    "image": "/collection/casado-del-alisal__tirana.jpg",
     "artist": "José Casado del Alisal",
     "date": "Ca. 1875",
     "height": 83,
@@ -1207,7 +1207,7 @@
   {
     "slug": "bell-of-huesca",
     "title": "The Bell of Huesca (The Legend of the Monk King)",
-    "image": "/images/casado-del-alisal__bell-of-huesca.jpg",
+    "image": "/collection/casado-del-alisal__bell-of-huesca.jpg",
     "artist": "José Casado del Alisal",
     "date": "1880",
     "height": 356,
@@ -1222,7 +1222,7 @@
   {
     "slug": "an-alter-boy-practices-his-singing",
     "title": "An altar boy practices his singing",
-    "image": "/images/camarlench__an-altar-boy-practices-his-singing.jpg",
+    "image": "/collection/camarlench__an-altar-boy-practices-his-singing.jpg",
     "artist": "Ignacio Pinazo Camarlench",
     "date": "1891",
     "height": 106,
@@ -1237,7 +1237,7 @@
   {
     "slug": "windmill",
     "title": "The Windmill",
-    "image": "/images/cazin__windmill.jpg",
+    "image": "/collection/cazin__windmill.jpg",
     "artist": "Jean-Charles Cazin",
     "date": "probably after 1884",
     "height": 40.5,
@@ -1251,7 +1251,7 @@
   {
     "slug": "study-of-a-head-2",
     "title": "Study of a Head",
-    "image": "/images/csok__study-of-a-head-2.jpg",
+    "image": "/collection/csok__study-of-a-head-2.jpg",
     "artist": "István Csók",
     "date": "unknown",
     "height": 49,
@@ -1266,7 +1266,7 @@
   {
     "slug": "study-of-legs",
     "title": "Study of Legs (Phryne)",
-    "image": "/images/siemiradzki__study-of-legs.jpg",
+    "image": "/collection/siemiradzki__study-of-legs.jpg",
     "artist": "Henryk Siemiradzki",
     "date": "około 1888",
     "height": 43.0,
@@ -1281,7 +1281,7 @@
   {
     "slug": "portrait-of-feliks-jasienski-dressed-as-a-bedouin",
     "title": "Portrait of Feliks Jasieński Dressed as a Bedouin",
-    "image": "/images/wyczilkowski__portrait-of-feliks-jasienski-dressed-as-a-bedouin.jpg",
+    "image": "/collection/wyczilkowski__portrait-of-feliks-jasienski-dressed-as-a-bedouin.jpg",
     "artist": "Leon Wyczółkowski",
     "date": "około 1908 roku",
     "height": 133.0,
@@ -1296,7 +1296,7 @@
   {
     "slug": "portrait-of-erazm-baracz",
     "title": "Portrait of Erazm Barącz",
-    "image": "/images/wyczilkowski__portrait-of-erazm-baracz.jpg",
+    "image": "/collection/wyczilkowski__portrait-of-erazm-baracz.jpg",
     "artist": "Leon Wyczółkowski",
     "date": "1908",
     "height": 76.0,
@@ -1311,7 +1311,7 @@
   {
     "slug": "kosciuszko-on-horseback",
     "title": "Kościuszko on Horseback",
-    "image": "/images/kossak__kosciuszko-on-horseback.jpg",
+    "image": "/collection/kossak__kosciuszko-on-horseback.jpg",
     "artist": "Wojciech Kossak",
     "date": "1893",
     "height": 121.0,
@@ -1326,7 +1326,7 @@
   {
     "slug": "gammel-mann",
     "title": "Gammel mann",
-    "image": "/images/heyerdahl__gammel-mann.jpg",
+    "image": "/collection/heyerdahl__gammel-mann.jpg",
     "artist": "Hans Heyerdahl",
     "date": "1876",
     "height": 81.3,
@@ -1341,7 +1341,7 @@
   {
     "slug": "family-meal",
     "title": "A Family Meal",
-    "image": "/images/pieters__family-meal.jpg",
+    "image": "/collection/pieters__family-meal.jpg",
     "artist": "Evert Pieters",
     "date": "1890s",
     "height": 191,
@@ -1356,7 +1356,7 @@
   {
     "slug": "a-mounted-officer",
     "title": "A Mounted Officer",
-    "image": "/images/detaille__a-mounted-officer.jpg",
+    "image": "/collection/detaille__a-mounted-officer.jpg",
     "artist": "Jean Baptiste Edouard Detaille",
     "date": "1877",
     "height": 46.5,
@@ -1371,7 +1371,7 @@
   {
     "slug": "old-man-in-a-fur-cap",
     "title": "Old Man in a Fur Cap",
-    "image": "/images/pluym__old-man-in-a-fur-cap.jpg",
+    "image": "/collection/pluym__old-man-in-a-fur-cap.jpg",
     "artist": "Karel van der Pluym",
     "date": "c 1655",
     "height": 71.3,
@@ -1386,7 +1386,7 @@
   {
     "slug": "old-age",
     "title": "Old Age",
-    "image": "/images/israels__old-age.jpg",
+    "image": "/collection/israels__old-age.jpg",
     "artist": "Jozef Israëls",
     "date": "c. 1895",
     "height": 120.1,
@@ -1401,7 +1401,7 @@
   {
     "slug": "louis-jacques-veltman",
     "title": "Louis Jacques Veltman",
-    "image": "/images/israels__louis-jacques-veltman.webp",
+    "image": "/collection/israels__louis-jacques-veltman.webp",
     "artist": "Jozef Israëls",
     "date": "1893",
     "height": 81.7,
@@ -1416,7 +1416,7 @@
   {
     "slug": "mary-magdalene",
     "title": "Mary Magdalene",
-    "image": "/images/tadema__mary-magdalene.webp",
+    "image": "/collection/tadema__mary-magdalene.webp",
     "artist": "Lourens Alma Tadema",
     "date": "1854",
     "height": 31,
@@ -1431,7 +1431,7 @@
   {
     "slug": "e-j-van-wisselingh",
     "title": "Portrait of the Art Dealer E.J. van Wisselingh",
-    "image": "/images/maarel__e-j-van-wisselingh.webp",
+    "image": "/collection/maarel__e-j-van-wisselingh.webp",
     "artist": "Marinus van der Maarel",
     "date": "c. 1880 - c. 1912",
     "height": 33.3,
@@ -1446,7 +1446,7 @@
   {
     "slug": "vissersvrouw",
     "title": "Vissersvrouw",
-    "image": "/images/maarel__vissersvrouw.webp",
+    "image": "/collection/maarel__vissersvrouw.webp",
     "artist": "Marinus van der Maarel",
     "date": "1880 - 1900",
     "height": 40.5,
@@ -1461,7 +1461,7 @@
   {
     "slug": "mourning-widow",
     "title": "The Mourning Widow",
-    "image": "/images/jamin__the-mourning-widow.webp",
+    "image": "/collection/jamin__the-mourning-widow.webp",
     "artist": "Diederik Franciscus Jamin",
     "date": "c. 1860 - c. 1865",
     "height": 44.5,
@@ -1476,7 +1476,7 @@
   {
     "slug": "study-of-an-old-man",
     "title": "Study of an Old Man",
-    "image": "/images/rembrandt-follower__study-of-an-old-man.jpg",
+    "image": "/collection/rembrandt-follower__study-of-an-old-man.jpg",
     "artist": "Follower of Rembrandt",
     "date": "Probably late 17th century",
     "height": 28,
@@ -1490,7 +1490,7 @@
   {
     "slug": "head-of-a-woman",
     "title": "Head of a Woman",
-    "image": "/images/beaux__head-of-a-woman.jpg",
+    "image": "/collection/beaux__head-of-a-woman.jpg",
     "artist": "Cecilia Beaux",
     "date": "1888",
     "height": 40.6,
@@ -1504,7 +1504,7 @@
   {
     "slug": "landscape-with-a-windmill",
     "title": "Landscape with a Windmill",
-    "image": "/images/neer__landscape-with-windmill.jpg",
+    "image": "/collection/neer__landscape-with-windmill.jpg",
     "artist": "Aert van der Neer",
     "date": "circa 1646",
     "height": 69,
@@ -1518,7 +1518,7 @@
   {
     "slug": "ignacio-pinazo-camarlench",
     "title": "Self-Portrait of Ignacio Pinazo Camarlench",
-    "image": "/images/camarlench__ignacio-pinazo-camarlench.jpg",
+    "image": "/collection/camarlench__ignacio-pinazo-camarlench.jpg",
     "artist": "Ignacio Pinazo Camarlench",
     "date": "1895",
     "height": 83,
@@ -1533,7 +1533,7 @@
   {
     "slug": "portrait-study-of-a-young-woman",
     "title": "Portrait study of a young woman",
-    "image": "/images/szankowski__portrait-study-of-a-young-woman.jpg",
+    "image": "/collection/szankowski__portrait-study-of-a-young-woman.jpg",
     "artist": "Bolesław Szańkowski",
     "date": "1897",
     "height": 92,
@@ -1547,7 +1547,7 @@
   {
     "slug": "head-of-an-old-woman",
     "title": "Head of an Old Woman",
-    "image": "/images/koehler__head-of-an-old-woman.jpg",
+    "image": "/collection/koehler__head-of-an-old-woman.jpg",
     "artist": "Robert Koehler",
     "date": "1881",
     "height": 54.9,
@@ -1561,7 +1561,7 @@
   {
     "slug": "blue-mandarin-coat",
     "title": "Blue Mandarin Coat",
-    "image": "/images/decamp__blue-mandarin-coat.jpg",
+    "image": "/collection/decamp__blue-mandarin-coat.jpg",
     "artist": "Joseph Rodefer DeCamp",
     "date": "1922",
     "height": 109.2,
@@ -1576,7 +1576,7 @@
   {
     "slug": "landscape-with-two-women",
     "title": "Landscape with Two Women",
-    "image": "/images/cock__landscape-with-two-women.jpg",
+    "image": "/collection/cock__landscape-with-two-women.jpg",
     "artist": "Cesar de Cock",
     "date": "1872",
     "height": 49.26,
@@ -1591,7 +1591,7 @@
   {
     "slug": "portrait-of-whistler-with-a-hat",
     "title": "Portrait of Whistler with a Hat",
-    "image": "/images/whistler__portrait-of-whistler-with-a-hat.jpg",
+    "image": "/collection/whistler__portrait-of-whistler-with-a-hat.jpg",
     "artist": "James McNeill Whistler",
     "date": "1857-1859",
     "height": 46.3,
@@ -1606,7 +1606,7 @@
   {
     "slug": "oriental",
     "title": "Oriental",
-    "image": "/images/masriera__oriental.jpg",
+    "image": "/collection/masriera__oriental.jpg",
     "artist": "Francisco Masriera y Manovens",
     "date": "1892",
     "height": 55,
@@ -1621,7 +1621,7 @@
   {
     "slug": "pere-et-fille",
     "title": "Père et fille",
-    "image": "/images/oyens__pere-et-fille.webp",
+    "image": "/collection/oyens__pere-et-fille.webp",
     "artist": "David Oyens",
     "date": "1878",
     "height": 69.8,
@@ -1636,7 +1636,7 @@
   {
     "slug": "hippolyte-lavoignat",
     "title": "Hippolyte Lavoignat",
-    "image": "/images/daumier-follower__hippolyte-lavoignat.jpg",
+    "image": "/collection/daumier-follower__hippolyte-lavoignat.jpg",
     "artist": "Follower of Honoré Daumier",
     "date": "c. 1860",
     "height": 46.3,
@@ -1650,7 +1650,7 @@
   {
     "slug": "john-philip-souza",
     "title": "Portrait of John Philip Sousa",
-    "image": "/images/waltman__john-philip-sousa.jpg",
+    "image": "/collection/waltman__john-philip-sousa.jpg",
     "artist": "Harry Franklin Waltman",
     "date": "1909",
     "height": 68.9,
@@ -1665,7 +1665,7 @@
   {
     "slug": "study-of-lilia",
     "title": "Study of Lilia",
-    "image": "/images/duran__study-of-lilia.jpg",
+    "image": "/collection/duran__study-of-lilia.jpg",
     "artist": "Carolus-Duran",
     "date": "1887",
     "height": 55,
@@ -1679,7 +1679,7 @@
   {
     "slug": "der-naturforscher",
     "title": "Der Naturforscher (Scholar of Natural Sciences)",
-    "image": "/images/spitzweg__der-naturforscher.jpg",
+    "image": "/collection/spitzweg__der-naturforscher.jpg",
     "artist": "Carl Spitzweg",
     "date": "1875/80",
     "height": 57.1,
@@ -1694,7 +1694,7 @@
   {
     "slug": "head-of-saint-matthew",
     "title": "Head of Saint Matthew",
-    "image": "/images/rembrandt-follower__head-of-saint-matthew.jpg",
+    "image": "/collection/rembrandt-follower__head-of-saint-matthew.jpg",
     "artist": "Follower of Rembrandt",
     "date": "Probably early 1660s",
     "height": 25,
@@ -1708,7 +1708,7 @@
   {
     "slug": "ruggiero-leoncavallo",
     "title": "Portrait of Ruggiero Leoncavallo",
-    "image": "/images/boldini__portrait-of-ruggiero-leoncavallo.jpg",
+    "image": "/collection/boldini__portrait-of-ruggiero-leoncavallo.jpg",
     "artist": "Giovanni Boldini",
     "date": "1906",
     "height": 60.6,
@@ -1722,7 +1722,7 @@
   {
     "slug": "la-spagnola",
     "title": "La Spagnola",
-    "image": "/images/boldini__la-spagnola.jpg",
+    "image": "/collection/boldini__la-spagnola.jpg",
     "artist": "Giovanni Boldini",
     "date": "circa 1878",
     "height": 61.5,
@@ -1736,7 +1736,7 @@
   {
     "slug": "ferdynand-bryndza",
     "title": "Portrait of Ferdynand Bryndza",
-    "image": "/images/boldini__ferdynand-bryndza.jpg",
+    "image": "/collection/boldini__ferdynand-bryndza.jpg",
     "artist": "Giovanni Boldini",
     "date": "1878",
     "height": 26,
@@ -1751,7 +1751,7 @@
   {
     "slug": "fathers-portrait",
     "title": "Father's portrait",
-    "image": "/images/koniuszko__fathers-portrait.jpg",
+    "image": "/collection/koniuszko__fathers-portrait.jpg",
     "artist": "Wacław Józef Koniuszko",
     "date": "4th quarter of the 19th c.",
     "height": 61,
@@ -1765,7 +1765,7 @@
   {
     "slug": "antoine-vollon",
     "title": "Portrait de l'artiste",
-    "image": "/images/vollon__antoine-vollon.jpg",
+    "image": "/collection/vollon__antoine-vollon.jpg",
     "artist": "Antoine Vollon",
     "date": "entre 1833 et 1900",
     "height": 41.2,
@@ -1780,7 +1780,7 @@
   {
     "slug": "portrait-d-homme",
     "title": "Portrait d'homme",
-    "image": "/images/cayron__portrait-d-homme.jpg",
+    "image": "/collection/cayron__portrait-d-homme.jpg",
     "artist": "Jules Cayron",
     "date": "entre 1868 et 1940",
     "height": 41,
@@ -1795,7 +1795,7 @@
   {
     "slug": "jeune-fille-au-chat",
     "title": "Jeune fille au chat",
-    "image": "/images/zillhardt__jeune-fille-au-chat.jpg",
+    "image": "/collection/zillhardt__jeune-fille-au-chat.jpg",
     "artist": "Jenny Zillhardt",
     "date": "between 1857 and 1939",
     "height": 47.5,
@@ -1810,7 +1810,7 @@
   {
     "slug": "zacharie-astruc",
     "title": "Zacharie Astruc",
-    "image": "/images/carolus-duran__zacharie-astruc.jpg",
+    "image": "/collection/carolus-duran__zacharie-astruc.jpg",
     "artist": "Carolus-Duran",
     "date": "1861",
     "height": 40.8,
@@ -1825,7 +1825,7 @@
   {
     "slug": "gitana-prisonniere",
     "title": "Gitana prisonnière",
-    "image": "/images/wauters__gitana-prisonniere.jpg",
+    "image": "/collection/wauters__gitana-prisonniere.jpg",
     "artist": "Emile Wauters",
     "date": "1898",
     "height": 131,
@@ -1840,7 +1840,7 @@
   {
     "slug": "wounded-man",
     "title": "The Wounded Man",
-    "image": "/images/courbet__wounded-man.jpg",
+    "image": "/collection/courbet__wounded-man.jpg",
     "artist": "Gustave Courbet",
     "date": "Between 1844 and 1854",
     "height": 81.5,
@@ -1855,7 +1855,7 @@
   {
     "slug": "victor-laloux",
     "title": "Victor Laloux",
-    "image": "/images/dechenaud__victor-laloux.jpg",
+    "image": "/collection/dechenaud__victor-laloux.jpg",
     "artist": "Adolphe Déchenaud",
     "date": "Between 1902 et 1922",
     "height": 55,
@@ -1870,7 +1870,7 @@
   {
     "slug": "trumpeter-of-the-hussars",
     "title": "Trumpeter of the Hussars",
-    "image": "/images/gericault__trumpeter-of-the-hussars.jpg",
+    "image": "/collection/gericault__trumpeter-of-the-hussars.jpg",
     "artist": "Théodore Géricault",
     "date": "c. 1815-20",
     "height": 96,
@@ -1885,7 +1885,7 @@
   {
     "slug": "friends-or-foes",
     "title": "Friends or Foes? (The Scout)",
-    "image": "/images/remmington__friends-or-foes.jpg",
+    "image": "/collection/remmington__friends-or-foes.jpg",
     "artist": "Frederic Remington",
     "date": "1902-05",
     "height": 68.6,
@@ -1900,7 +1900,7 @@
   {
     "slug": "nymphs-and-satyr",
     "title": "Nymphs and Satyr",
-    "image": "/images/bouguereau__nymphs-and-satyr.jpg",
+    "image": "/collection/bouguereau__nymphs-and-satyr.jpg",
     "artist": "William-Adolphe Bouguereau",
     "date": "1873",
     "height": 260,
@@ -1915,7 +1915,7 @@
   {
     "slug": "motion-picture",
     "title": "A Motion Picture",
-    "image": "/images/richardson__a-motion-picture.jpg",
+    "image": "/collection/richardson__a-motion-picture.jpg",
     "artist": "Margaret Foster Richardson",
     "date": "1912",
     "height": 103.5,
@@ -1930,7 +1930,7 @@
   {
     "slug": "harvest",
     "title": "The Harvest",
-    "image": "/images/maignon__harvest.jpg",
+    "image": "/collection/maignon__harvest.jpg",
     "artist": "Ramón Tusquets y Maignon",
     "date": "1871",
     "height": 125.7,
@@ -1944,7 +1944,7 @@
   {
     "slug": "two-women-visiting",
     "title": "Two Women Visiting",
-    "image": "/images/portielje__two-women-visiting.jpg",
+    "image": "/collection/portielje__two-women-visiting.jpg",
     "artist": "Edward Antoon Portielje",
     "date": "c 1900",
     "height": 79.3,
@@ -1958,7 +1958,7 @@
   {
     "slug": "grapes",
     "title": "Grapes",
-    "image": "/images/decker__grapes.jpg",
+    "image": "/collection/decker__grapes.jpg",
     "artist": "Joseph Decker",
     "date": "c. 1890/1895",
     "height": 55.6,
@@ -1972,7 +1972,7 @@
   {
     "slug": "offering-the-panal-to-the-bullfighter",
     "title": "Offering the Panal to the Bullfighter",
-    "image": "/images/cassatt__offering-the-panal-to-the-bullfighter.jpg",
+    "image": "/collection/cassatt__offering-the-panal-to-the-bullfighter.jpg",
     "artist": "Mary Cassatt",
     "date": "1873",
     "height": 100.6,
@@ -1987,7 +1987,7 @@
   {
     "slug": "village-school-teacher",
     "title": "The Village School Teacher",
-    "image": "/images/best__village-school-teacher.jpg",
+    "image": "/collection/best__village-school-teacher.jpg",
     "artist": "Hans Best",
     "date": "1630",
     "height": 60,
@@ -2002,7 +2002,7 @@
   {
     "slug": "smoke-of-ambergris",
     "title": "Fumée d'ambre gris (Smoke of Ambergris)",
-    "image": "/images/sargent__smoke-of-ambergris.jpg",
+    "image": "/collection/sargent__smoke-of-ambergris.jpg",
     "artist": "John Singer Sargent",
     "date": "1880",
     "height": 139.1,
@@ -2017,7 +2017,7 @@
   {
     "slug": "Smoker",
     "title": "The Smoker",
-    "image": "/images/seignemartin__smoker.jpg",
+    "image": "/collection/seignemartin__smoker.jpg",
     "artist": "Jean Seignemartin",
     "date": "unknown",
     "height": 78,
@@ -2032,7 +2032,7 @@
   {
     "slug": "lady-in-a-red-dress-holding-a-cigarette",
     "title": "Lady in a Red Dress Holding a Cigarette",
-    "image": "/images/gibson__lady-in-a-red-dress-holding-a-cigarette.jpg",
+    "image": "/collection/gibson__lady-in-a-red-dress-holding-a-cigarette.jpg",
     "artist": "Charles Gibson",
     "date": "Circa 1939",
     "height": 115.5,
@@ -2047,7 +2047,7 @@
   {
     "slug": "on-the-deep-sea",
     "title": "On The Deep Sea",
-    "image": "/images/dean__on-the-dep-sea.jpg",
+    "image": "/collection/dean__on-the-dep-sea.jpg",
     "artist": "Walter Dean",
     "date": "1901",
     "height": 101.9,
@@ -2062,7 +2062,7 @@
   {
     "slug": "after-the-storm",
     "title": "After the Storm",
-    "image": "/images/murphy__after-the-storm.jpg",
+    "image": "/collection/murphy__after-the-storm.jpg",
     "artist": "John Francis Murphy",
     "date": "19th century",
     "height": 35.5,
@@ -2076,7 +2076,7 @@
   {
     "slug": "sheep-at-rest",
     "title": "Sheep At Rest",
-    "image": "/images/jacque__sheep-at-rest.jpg",
+    "image": "/collection/jacque__sheep-at-rest.jpg",
     "artist": "Charles Émile Jacque",
     "date": "1800s",
     "height": 19.4,
@@ -2090,7 +2090,7 @@
   {
     "slug": "lady-trying-on-a-hat",
     "title": "Lady Trying on a Hat",
-    "image": "/images/benson__lady-trying-on-a-hat.jpg",
+    "image": "/collection/benson__lady-trying-on-a-hat.jpg",
     "artist": "Frank Weston Benson",
     "date": "1904",
     "height": 102.2,
@@ -2104,7 +2104,7 @@
   {
     "slug": "old-woman-drinking-tea",
     "title": "Old Woman Drinking Tea",
-    "image": "/images/mancini__old-woman-drinking-tea.jpg",
+    "image": "/collection/mancini__old-woman-drinking-tea.jpg",
     "artist": "Antonio Mancini",
     "date": "1907",
     "height": 73.7,
@@ -2118,7 +2118,7 @@
   {
     "slug": "portrait-of-kazimierz-alchimowicz",
     "title": "Portrait of Kazimierz Alchimowicz, painter",
-    "image": "/images/ajdukiewicz__portrait-of-kazimierz-alchimowicz.jpg",
+    "image": "/collection/ajdukiewicz__portrait-of-kazimierz-alchimowicz.jpg",
     "artist": "Tadeusz Ajdukiewicz",
     "date": "1875",
     "height": 38,
@@ -2133,7 +2133,7 @@
   {
     "slug": "oriental-rider-on-a-white-horse",
     "title": "Oriental rider on a white horse",
-    "image": "/images/chelminski__oriental-rider-on-a-white-horse.jpg",
+    "image": "/collection/chelminski__oriental-rider-on-a-white-horse.jpg",
     "artist": "Jan Chełmiński",
     "date": "1873",
     "height": 9.5,
@@ -2148,7 +2148,7 @@
   {
     "slug": "woman-in-reverie",
     "title": "Oriental rider on a white horse",
-    "image": "/images/batowski-kaczor__woman-in-reverie.jpg",
+    "image": "/collection/batowski-kaczor__woman-in-reverie.jpg",
     "artist": "Stanisław Batowski-Kaczor",
     "date": "1888",
     "height": 106.5,
@@ -2163,7 +2163,7 @@
   {
     "slug": "vulcan-at-his-forge",
     "title": "Vulcan At His Forge",
-    "image": "/images/batoni__vulcan-at-his-forge.jpg",
+    "image": "/collection/batoni__vulcan-at-his-forge.jpg",
     "artist": "Pompeo Batoni",
     "date": "1750",
     "height": 94.2,
@@ -2177,7 +2177,7 @@
   {
     "slug": "return-of-the-flock",
     "title": "Return of the Flock",
-    "image": "/images/mauve__return-of-the-flock.jpg",
+    "image": "/collection/mauve__return-of-the-flock.jpg",
     "artist": "Anton Mauve",
     "date": "1886-1887",
     "height": 100.2,
@@ -2191,7 +2191,7 @@
   {
     "slug": "warrior",
     "title": "The Warrior",
-    "image": "/images/fragonard__the-warrior.jpg",
+    "image": "/collection/fragonard__the-warrior.jpg",
     "artist": "Jean-Honoré Fragonard",
     "date": "1770",
     "height": 81.5,
@@ -2206,7 +2206,7 @@
   {
     "slug": "still-life-of-eggs",
     "title": "Still Life of Eggs",
-    "image": "/images/bail__still-life-of-eggs.jpg",
+    "image": "/collection/bail__still-life-of-eggs.jpg",
     "artist": "Claude Joseph Bail",
     "date": "n.d.",
     "height": 89.5,
@@ -2221,7 +2221,7 @@
   {
     "slug": "portrait-of-charles-bregler",
     "title": "Portrait of Charles Bregler",
-    "image": "/images/sm-eakins__portrait-of-charles-bregler.jpg",
+    "image": "/collection/sm-eakins__portrait-of-charles-bregler.jpg",
     "artist": "Susan Macdowell Eakins",
     "date": "1935",
     "height": 50.8,
@@ -2235,7 +2235,7 @@
   {
     "slug": "woman-sewing",
     "title": "Woman Sewing",
-    "image": "/images/ribot__woman-sewing.webp",
+    "image": "/collection/ribot__woman-sewing.webp",
     "artist": "Théodule Augustin Ribot",
     "date": "1850 - 1891",
     "height": 46.5,
@@ -2250,7 +2250,7 @@
   {
     "slug": "elderly-man",
     "title": "Elderly Man",
-    "image": "/images/csok__elderly-man.jpg",
+    "image": "/collection/csok__elderly-man.jpg",
     "artist": "István Csók",
     "date": "unknown",
     "height": 50,
@@ -2265,7 +2265,7 @@
   {
     "slug": "girls-from-chioggia",
     "title": "Girls from Chioggia",
-    "image": "/images/strobentz__girls-from-chioggia.jpg",
+    "image": "/collection/strobentz__girls-from-chioggia.jpg",
     "artist": "Frigyes Strobentz",
     "date": "1929",
     "height": 64,
@@ -2280,7 +2280,7 @@
   {
     "slug": "bertalan-por",
     "title": "Self-portrait as a Young Man",
-    "image": "/images/por__bertalan-por.jpg",
+    "image": "/collection/por__bertalan-por.jpg",
     "artist": "1902",
     "date": "1929",
     "height": 54,
@@ -2295,7 +2295,7 @@
   {
     "slug": "pont-de-la-tournelle",
     "title": "Pont de la Tournelle, Paris",
-    "image": "/images/lepine__pont-de-la-tournelle.jpg",
+    "image": "/collection/lepine__pont-de-la-tournelle.jpg",
     "artist": "Stanislas Lépine",
     "date": "1862",
     "height": 40.2,
@@ -2309,7 +2309,7 @@
   {
     "slug": "lone-scout",
     "title": "The Lone Scout",
-    "image": "/images/ryder__lone-scout.jpg",
+    "image": "/collection/ryder__lone-scout.jpg",
     "artist": "Albert Pinkham Ryder",
     "date": "ca 1882",
     "height": 33,
@@ -2324,7 +2324,7 @@
   {
     "slug": "slave-for-sale",
     "title": "A Slave For Sale",
-    "image": "/images/aranda__slave-for-sale.jpg",
+    "image": "/collection/aranda__slave-for-sale.jpg",
     "artist": "José Jiménez Aranda",
     "date": "Ca. 1897",
     "height": 100.0,
@@ -2339,7 +2339,7 @@
   {
     "slug": "stag-at-sharkeys",
     "title": "Stag at Sharkey's",
-    "image": "/images/bellows__stag-at-sharkeys.jpg",
+    "image": "/collection/bellows__stag-at-sharkeys.jpg",
     "artist": "George Bellows",
     "date": "1909",
     "height": 92,
@@ -2353,7 +2353,7 @@
   {
     "slug": "study-of-a-cats-head",
     "title": "Study of a Cat's Head",
-    "image": "/images/boel__study-of-a-cats-head.jpg",
+    "image": "/collection/boel__study-of-a-cats-head.jpg",
     "artist": "Pieter Boel",
     "date": "1609",
     "height": 42.5,
@@ -2367,7 +2367,7 @@
   {
     "slug": "nude-study",
     "title": "Nude Study",
-    "image": "/images/etty__nude-study.jpg",
+    "image": "/collection/etty__nude-study.jpg",
     "artist": "William Etty",
     "date": "1820-1829",
     "height": 28.7,
@@ -2381,7 +2381,7 @@
   {
     "slug": "antonio-mancini",
     "title": "Self-Portrait of Antonio Mancini",
-    "image": "/images/mancini__antonio-mancini.jpg",
+    "image": "/collection/mancini__antonio-mancini.jpg",
     "artist": "Antonio Mancini",
     "date": "1910",
     "height": 58.4,
@@ -2395,7 +2395,7 @@
   {
     "slug": "armand-guillaumin",
     "title": "Self-Portrait of Amand Guillaumin",
-    "image": "/images/guillaumin__armand-guillaumin.jpg",
+    "image": "/collection/guillaumin__armand-guillaumin.jpg",
     "artist": "Armand Guillaumin",
     "date": "1872-74",
     "height": 45.4,
@@ -2409,7 +2409,7 @@
   {
     "slug": "priscilla",
     "title": "Priscilla",
-    "image": "/images/hunt__priscilla.jpg",
+    "image": "/collection/hunt__priscilla.jpg",
     "artist": "William Morris Hunt",
     "date": "1873",
     "height": 60.9,
@@ -2423,7 +2423,7 @@
   {
     "slug": "portrait-of-a-girl",
     "title": "Portrait of a Girl",
-    "image": "/images/rysselberghe__portrait-of-a-girl.jpg",
+    "image": "/collection/rysselberghe__portrait-of-a-girl.jpg",
     "artist": "Théo Van Rysselberghe",
     "date": "1880",
     "height": 68.1,
@@ -2437,7 +2437,7 @@
   {
     "slug": "rosita",
     "title": "Rosita",
-    "image": "/images/agneessens__rosita.jpg",
+    "image": "/collection/agneessens__rosita.jpg",
     "artist": "Edouard Agneessens",
     "date": "1876",
     "height": 50.6,
@@ -2451,7 +2451,7 @@
   {
     "slug": "nude-girl",
     "title": "Nude Girl",
-    "image": "/images/corinth__nude-girl.jpg",
+    "image": "/collection/corinth__nude-girl.jpg",
     "artist": "Lovis Corinth",
     "date": "1886",
     "height": 76.2,
@@ -2465,7 +2465,7 @@
   {
     "slug": "vissersvrijage",
     "title": "Vissersvrijage",
-    "image": "/images/neuhuys__vissersvrijage.webp",
+    "image": "/collection/neuhuys__vissersvrijage.webp",
     "artist": "Albert Neuhuys",
     "date": "1880",
     "height": 78.9,
@@ -2480,7 +2480,7 @@
     {
     "slug": "yellow-riders",
     "title": "The Yellow Riders",
-    "image": "/images/breitner__yellow-riders.webp",
+    "image": "/collection/breitner__yellow-riders.webp",
     "artist": "George Hendrik Breitner",
     "date": "1885 - 1886",
     "height": 115.0,
@@ -2495,7 +2495,7 @@
   {
     "slug": "cadmium-cara-cara",
     "title": "Cadmium Cara Cara",
-    "image": "/images/cleague__cadmium-cara-cara.webp",
+    "image": "/collection/cleague__cadmium-cara-cara.webp",
     "artist": "Adam Cleague",
     "date": "unknown",
     "height": 15.2,
@@ -2510,7 +2510,7 @@
   {
     "slug": "knitting-for-soldiers",
     "title": "Knitting for Soldiers",
-    "image": "/images/weir__knitting-for-soldiers.jpg",
+    "image": "/collection/weir__knitting-for-soldiers.jpg",
     "artist": "Julian Alden Weir",
     "date": "1918",
     "height": 76.2,
@@ -2525,7 +2525,7 @@
   {
     "slug": "iva-in-black-velvet-dress",
     "title": "Iva in Black Velvet Dress",
-    "image": "/images/webster__iva-in-black-velvet-dress.jpg",
+    "image": "/collection/webster__iva-in-black-velvet-dress.jpg",
     "artist": "Stokely Webster",
     "date": "1938",
     "height": 60.9,
@@ -2539,7 +2539,7 @@
   {
     "slug": "veteran-in-a-new-field",
     "title": "The Veteran in a New Field",
-    "image": "/images/homer__veteran-in-a-new-field.jpg",
+    "image": "/collection/homer__veteran-in-a-new-field.jpg",
     "artist": "Winslow Homer",
     "date": "1865",
     "height": 61.3,
@@ -2553,7 +2553,7 @@
   {
     "slug": "pink-azalea—chinese-vase",
     "title": "Pink Azalea—Chinese Vase",
-    "image": "/images/chase__pink-azalea-chinese-vase.jpg",
+    "image": "/collection/chase__pink-azalea-chinese-vase.jpg",
     "artist": "William Merritt Chase",
     "date": "1880-90 (?)",
     "height": 59.7,
@@ -2567,7 +2567,7 @@
   {
     "slug": "tartar",
     "title": "Tartar - Crimea. From the journey to Crimea",
-    "image": "/images/ciaglinski__tartar.jpg",
+    "image": "/collection/ciaglinski__tartar.jpg",
     "artist": "Jan Ciągliński",
     "date": "1887",
     "height": 25,
@@ -2581,7 +2581,7 @@
   {
     "slug": "artiste-a-son-chevalet",
     "title": "Artiste à son chevalet",
-    "image": "/images/ribot__artiste-a-son-chevalet.jpg",
+    "image": "/collection/ribot__artiste-a-son-chevalet.jpg",
     "artist": "Théodule Augustin Ribot",
     "date": "vers 1865",
     "height": 27,
@@ -2596,7 +2596,7 @@
   {
     "slug": "peasant",
     "title": "The Peasant",
-    "image": "/images/mettling__the-peasant.jpg",
+    "image": "/collection/mettling__the-peasant.jpg",
     "artist": "Louis Mettling",
     "date": "1875-1899",
     "height": 65.9,
@@ -2610,7 +2610,7 @@
   {
     "slug": "blacksmith",
     "title": "The Blacksmith",
-    "image": "/images/defreggere__blacksmith.jpg",
+    "image": "/collection/defreggere__blacksmith.jpg",
     "artist": "Franz von Defregger",
     "date": "19th Century",
     "height": 92.7,
@@ -2624,7 +2624,7 @@
   {
     "slug": "man-in-red-cloak",
     "title": "Man in Red Cloak",
-    "image": "/images/johnson__man-in-red-cloak.jpg",
+    "image": "/collection/johnson__man-in-red-cloak.jpg",
     "artist": "Eastman Johnson",
     "date": "late 19th century",
     "height": 27.9,
@@ -2638,7 +2638,7 @@
   {
     "slug": "philosopher",
     "title": "The Philosopher",
-    "image": "/images/wiertz__philosopher.jpg",
+    "image": "/collection/wiertz__philosopher.jpg",
     "artist": "Antoine Joseph Wiertz",
     "date": "c. 1845-55",
     "height": 98.7,
@@ -2652,7 +2652,7 @@
   {
     "slug": "painter-in-front-of-his-painting",
     "title": "The Painter in Front of His Painting",
-    "image": "/images/daumier__painter-in-front-of-his-painting.jpg",
+    "image": "/collection/daumier__painter-in-front-of-his-painting.jpg",
     "artist": "Honoré Daumier",
     "date": "1870",
     "height": 11,
@@ -2667,7 +2667,7 @@
   {
     "slug": "marcellin-desboutin",
     "title": "Self-Portrait of Marcellin Desboutin",
-    "image": "/images/desboutin__marcellin-desboutin.jpg",
+    "image": "/collection/desboutin__marcellin-desboutin.jpg",
     "artist": "Marcellin Desboutin",
     "date": "between 1823 and 1902",
     "height": 77.5,
@@ -2682,7 +2682,7 @@
   {
     "slug": "tomb-of-caecilia-metella",
     "title": "The Tomb of Caecilia Metella",
-    "image": "/images/fleury__tomb-of-caecilia-metella.jpg",
+    "image": "/collection/fleury__tomb-of-caecilia-metella.jpg",
     "artist": "Léon-François-Antoine Fleury",
     "date": "c. 1830",
     "height": 27.9,
@@ -2697,7 +2697,7 @@
   {
     "slug": "a-young-woman",
     "title": "A Young Woman",
-    "image": "/images/allebe__a-young-woman.webp",
+    "image": "/collection/allebe__a-young-woman.webp",
     "artist": "August Allebé",
     "date": "1863",
     "height": 35.5,
@@ -2712,7 +2712,7 @@
   {
     "slug": "lamb",
     "title": "A Lamb",
-    "image": "/images/zurbaran__lamb.jpg",
+    "image": "/collection/zurbaran__lamb.jpg",
     "artist": "Francisco de Zurbarán",
     "date": "1635 - 1640",
     "height": 37.3,
@@ -2727,7 +2727,7 @@
   {
     "slug": "waterside-landscape",
     "title": "Waterside landscape",
-    "image": "/images/daubigny__waterside-landscape.jpg",
+    "image": "/collection/daubigny__waterside-landscape.jpg",
     "artist": "Charles-François Daubigny",
     "date": "1861",
     "height": 113,
@@ -2742,7 +2742,7 @@
   {
     "slug": "chrysanthemums",
     "title": "Chrysanthemums",
-    "image": "/images/tissot__chrysanthemums.jpg",
+    "image": "/collection/tissot__chrysanthemums.jpg",
     "artist": "James Tissot",
     "date": "c. 1874-76",
     "height": 118.4,
@@ -2757,7 +2757,7 @@
   {
     "slug": "portrait-of-an-old-man",
     "title": "Portrait of an Old Man",
-    "image": "/images/legros__portrait-of-an-old-man.jpg",
+    "image": "/collection/legros__portrait-of-an-old-man.jpg",
     "artist": "Alphonse Legros",
     "date": "unknown",
     "height": 46.7,
@@ -2771,7 +2771,7 @@
   {
     "slug": "portrait-of-carolus-duran",
     "title": "Portrait of Carolus-Duran",
-    "image": "/images/sargent__portrait-of-carolus-duran.jpg",
+    "image": "/collection/sargent__portrait-of-carolus-duran.jpg",
     "artist": "John Singer Sargent",
     "date": "1879",
     "height": 116.8,
@@ -2786,7 +2786,7 @@
   {
     "slug": "cleopatra",
     "title": "Cleopatra",
-    "image": "/images/waterhouse__cleopatra.jpg",
+    "image": "/collection/waterhouse__cleopatra.jpg",
     "artist": "John William Waterhouse",
     "date": "1888",
     "height": 55.9,
@@ -2800,7 +2800,7 @@
   {
     "slug": "hare",
     "title": "The Hare",
-    "image": "/images/borremans__the-hare.jpg",
+    "image": "/collection/borremans__the-hare.jpg",
     "artist": "Michaël Borremans",
     "date": "2005",
     "height": 40.4,
@@ -2814,7 +2814,7 @@
   {
     "slug": "hussars",
     "title": "Hussars",
-    "image": "/images/breitner__hussars.webp",
+    "image": "/collection/breitner__hussars.webp",
     "artist": "George Hendrik Breitner",
     "date": "c. 1880 - c. 1890",
     "height": 42,
@@ -2829,7 +2829,7 @@
   {
     "slug": "goatherd-of-terni",
     "title": "Goatherd of Terni",
-    "image": "/images/corot__goatherd-of-terni.jpg",
+    "image": "/collection/corot__goatherd-of-terni.jpg",
     "artist": "Jean Baptiste Cammile Carot",
     "date": "1871",
     "height": 82.2,
@@ -2843,7 +2843,7 @@
   {
     "slug": "lambert-lombard",
     "title": "Self-Portrait of Lambert Lombard",
-    "image": "/images/lombard__lambert-lombard.jpg",
+    "image": "/collection/lombard__lambert-lombard.jpg",
     "artist": "Lambert Lombard",
     "date": "between 1506 and 1566",
     "height": 76.5,
@@ -2858,7 +2858,7 @@
   {
     "slug": "repose",
     "title": "Repose",
-    "image": "/images/alexander__repose.jpg",
+    "image": "/collection/alexander__repose.jpg",
     "artist": "John White Alexander",
     "date": "1985",
     "height": 132.7,
@@ -2873,7 +2873,7 @@
   {
     "slug": "young-woman",
     "title": "Young Woman",
-    "image": "/images/thayer__young-woman.jpg",
+    "image": "/collection/thayer__young-woman.jpg",
     "artist": "Abbott Handerson Thayer",
     "date": "ca. 1898",
     "height": 100.7,
@@ -2888,7 +2888,7 @@
   {
     "slug": "gutzon-borglum",
     "title": "Portrait of Gutzon Borglum",
-    "image": "/images/stetson__gutzon-borglum.jpg",
+    "image": "/collection/stetson__gutzon-borglum.jpg",
     "artist": "Charles Walter Stetson",
     "date": "1891",
     "height": 61.3,
@@ -2902,7 +2902,7 @@
   {
     "slug": "blomstrende-frukttraer",
     "title": "Blomstrende frukttrær",
-    "image": "/images/wahlberg__blomstrende-frukttraer.jpg",
+    "image": "/collection/wahlberg__blomstrende-frukttraer.jpg",
     "artist": "Herman Alfred Leonhard Wahlberg",
     "date": "1906",
     "height": 86,
@@ -2917,7 +2917,7 @@
   {
     "slug": "juan-de-pareja",
     "title": "Juan de Pareja",
-    "image": "/images/velazquez__juan-de-pareja.jpg",
+    "image": "/collection/velazquez__juan-de-pareja.jpg",
     "artist": "Velázquez (Diego Rodríguez de Silva y Velázquez)",
     "date": "1650",
     "height": 81.3,
@@ -2932,7 +2932,7 @@
   {
     "slug": "study-of-a-model",
     "title": "Study of a Model",
-    "image": "/images/pietschmann__study-of-a-model.jpg",
+    "image": "/collection/pietschmann__study-of-a-model.jpg",
     "artist": "Max Pietschmann",
     "date": "1885",
     "height": 105.4,
@@ -2947,7 +2947,7 @@
   {
     "slug": "lady-in-black",
     "title": "Lady in Black",
-    "image": "/images/mayer__lady-in-black.jpg",
+    "image": "/collection/mayer__lady-in-black.jpg",
     "artist": "Louis Mayer",
     "date": "1900",
     "height": 78.5,
@@ -2962,7 +2962,7 @@
   {
     "slug": "praying-monk",
     "title": "Praying Monk (Monk at his Devotions)",
-    "image": "/images/maris__praying-monk.webp",
+    "image": "/collection/maris__praying-monk.webp",
     "artist": "Jacob Maris",
     "date": "1864",
     "height": 21.5,
@@ -2977,7 +2977,7 @@
   {
     "slug": "praying-jew",
     "title": "Praying Jew",
-    "image": "/images/grocholski__praying-jew.jpg",
+    "image": "/collection/grocholski__praying-jew.jpg",
     "artist": "Stanisław Grocholski",
     "date": "1892",
     "height": 21.5,
@@ -2992,7 +2992,7 @@
   {
     "slug": "meadow-with-cows",
     "title": "Meadow with Cows",
-    "image": "/images/marris__meadow-with-cows.webp",
+    "image": "/collection/marris__meadow-with-cows.webp",
     "artist": "Willem Marris",
     "date": "c. 1880 - c. 1910",
     "height": 87.2,
@@ -3007,7 +3007,7 @@
   {
     "slug": "painter-francisco-pradilla",
     "title": "The painter Francisco Pradilla",
-    "image": "/images/ferrant__painter-francisco-pradilla.jpg",
+    "image": "/collection/ferrant__painter-francisco-pradilla.jpg",
     "artist": "Alejandro Ferrant",
     "date": "1874",
     "height": 44,
@@ -3022,7 +3022,7 @@
   {
     "slug": "st-augustine-and-st-monica",
     "title": "Saint Augustine and Saint Monica",
-    "image": "/images/assereto__st-augustine-and-st-monica.jpg",
+    "image": "/collection/assereto__st-augustine-and-st-monica.jpg",
     "artist": "Gioacchino Assereto",
     "date": "c. 1645–48",
     "height": 99.7,
@@ -3037,7 +3037,7 @@
   {
     "slug": "female-semi-nude-dancer",
     "title": "Female Semi-nude Dancer",
-    "image": "/images/weiss__female-semi-nude-dancer.jpg",
+    "image": "/collection/weiss__female-semi-nude-dancer.jpg",
     "artist": "Wojciech Weiss",
     "date": "1923",
     "height": 73,
@@ -3051,7 +3051,7 @@
   {
     "slug": "dimple",
     "title": "The Dimple",
-    "image": "/images/barney__the-dimple.jpg",
+    "image": "/collection/barney__the-dimple.jpg",
     "artist": "Alice Pike Barney",
     "date": 1898,
     "height": 45.7,
@@ -3066,7 +3066,7 @@
   {
     "slug": "portrait-of-jimmy-lueders",
     "title": "Portrait of Jimmy Lueders",
-    "image": "/images/kamihira__portrait-of-jimmy-lueders.jpg",
+    "image": "/collection/kamihira__portrait-of-jimmy-lueders.jpg",
     "artist": "Ben Kamihira",
     "date": "Mid 20th century",
     "height": 70.4,
@@ -3081,7 +3081,7 @@
   {
     "slug": "portrait-of-a-man-3",
     "title": "Portrait of a Man",
-    "image": "/images/dou__portrait-of-a-man.jpg",
+    "image": "/collection/dou__portrait-of-a-man.jpg",
     "artist": "Gerrit Dou",
     "date": "1635-40",
     "height": 18.9,
@@ -3096,7 +3096,7 @@
   {
     "slug": "ships-lying-off-flushing",
     "title": "Ships lying off Flushing",
-    "image": "/images/clays__ships-lying-off-flushing.jpg",
+    "image": "/collection/clays__ships-lying-off-flushing.jpg",
     "artist": "Paul Jean Clays",
     "date": "1869",
     "height": 59.9,
@@ -3111,7 +3111,7 @@
   {
     "slug": "seated-girl-in-a-long-black-dress",
     "title": "Seated Girl in a Long Black Dress",
-    "image": "/images/beaux__seated-girl-in-a-long-black-dress.jpg",
+    "image": "/collection/beaux__seated-girl-in-a-long-black-dress.jpg",
     "artist": "Cecilia Beaux",
     "date": "1885",
     "height": 49.8,
@@ -3125,7 +3125,7 @@
   {
     "slug": "albert-rosenthal",
     "title": "Self-Portrait of Albert Rosenthal",
-    "image": "/images/rosenthal__albert-rosenthal.jpg",
+    "image": "/collection/rosenthal__albert-rosenthal.jpg",
     "artist": "Albert Rosenthal",
     "date": "1923",
     "height": 76.4,
@@ -3140,7 +3140,7 @@
   {
     "slug": "henry-inman",
     "title": "Self-Portrait of Henry Inman",
-    "image": "/images/inman__henry-inman.jpg",
+    "image": "/collection/inman__henry-inman.jpg",
     "artist": "Henry Inman",
     "date": "1834",
     "height": 30.6,
@@ -3155,7 +3155,7 @@
   {
     "slug": "dolly-with-a-black-bow",
     "title": "Dolly with a Black Bow",
-    "image": "/images/sloan__dolly-with-a-black-bow.jpg",
+    "image": "/collection/sloan__dolly-with-a-black-bow.jpg",
     "artist": "John Sloan",
     "date": "1909",
     "height": 81.4,
@@ -3170,7 +3170,7 @@
   {
     "slug": "jo-painting",
     "title": "Jo Painting",
-    "image": "/images/hopper__jo-painting.jpg",
+    "image": "/collection/hopper__jo-painting.jpg",
     "artist": "Edward Hopper",
     "date": "1936",
     "height": 46.2,
@@ -3185,7 +3185,7 @@
   {
     "slug": "girl-with-the-red-ribbon",
     "title": "The girl with the red ribbon",
-    "image": "/images/makovsky__the-girl-with-the-red-ribbon.jpg",
+    "image": "/collection/makovsky__the-girl-with-the-red-ribbon.jpg",
     "artist": "Konstantin Makovsky",
     "date": "1900",
     "height": 29.0,
@@ -3199,7 +3199,7 @@
   {
     "slug": "off-the-north-shore",
     "title": "Off the North Shore",
-    "image": "/images/cole__off-the-north-shore.jpg",
+    "image": "/collection/cole__off-the-north-shore.jpg",
     "artist": "J. Foxcroft Cole",
     "date": "19th century",
     "height": 21.2,
@@ -3214,7 +3214,7 @@
   {
     "slug": "seascape",
     "title": "Seascape",
-    "image": "/images/buhler__seascape.jpg",
+    "image": "/collection/buhler__seascape.jpg",
     "artist": "Augustus Buhler",
     "date": "Circa 1916",
     "height": 22.8,
@@ -3229,7 +3229,7 @@
   {
     "slug": "black-girl",
     "title": "Black Girl",
-    "image": "/images/bilinska__black-girl.jpg",
+    "image": "/collection/bilinska__black-girl.jpg",
     "artist": "Anna Bilińska",
     "date": "1884",
     "height": 63,
@@ -3243,7 +3243,7 @@
   {
     "slug": "study-for-the-dancing-lesson",
     "title": "Study for \"The Dancing Lesson\": The Banjo Player",
-    "image": "/images/eakins__study-for-the-dancing-lesson.jpg",
+    "image": "/collection/eakins__study-for-the-dancing-lesson.jpg",
     "artist": "Thomas Eakins",
     "date": "probably 1877",
     "height": 49.5,
@@ -3257,7 +3257,7 @@
   {
     "slug": "study-of-the-head-of-st-hubertus",
     "title": "Study of the Head of St. Hubertus",
-    "image": "/images/van-dyck__study-of-the-head-of-st-hubertus.jpg",
+    "image": "/collection/van-dyck__study-of-the-head-of-st-hubertus.jpg",
     "artist": "Anthony Van Dyck",
     "date": "1630",
     "height": 48,
@@ -3272,7 +3272,7 @@
   {
     "slug": "portrait-of-a-philosopher",
     "title": "Portrait of a philosopher",
-    "image": "/images/szyndler__portrait-of-a-philosopher.jpg",
+    "image": "/collection/szyndler__portrait-of-a-philosopher.jpg",
     "artist": "Pantaleon Szyndler",
     "date": "1882",
     "height": 96.5,
@@ -3287,7 +3287,7 @@
   {
     "slug": "still-life-with-pheasant",
     "title": "Still Life with Pheasant",
-    "image": "/images/carlsen__still-life-with-pheasant.jpg",
+    "image": "/collection/carlsen__still-life-with-pheasant.jpg",
     "artist": "Emil Carlsen",
     "date": "1890",
     "height": 59.1,
@@ -3301,7 +3301,7 @@
   {
     "slug": "mrs-martin-a-ryerson",
     "title": "Mrs. Martin A. Ryerson",
-    "image": "/images/betts__mrs-martin-a-ryerson.jpg",
+    "image": "/collection/betts__mrs-martin-a-ryerson.jpg",
     "artist": "Louis Betts",
     "date": "1912",
     "height": 169.6,
@@ -3315,7 +3315,7 @@
   {
     "slug": "joseph-pennell",
     "title": "Joseph Pennell",
-    "image": "/images/adams__pennell.jpg",
+    "image": "/collection/adams__pennell.jpg",
     "artist": "Wayman Adams",
     "date": "1908-1918",
     "height": 169.6,
@@ -3329,7 +3329,7 @@
   {
     "slug": "maenad",
     "title": "Maenad - female semi-nude",
-    "image": "/images/piatkowski__maenad.jpg",
+    "image": "/collection/piatkowski__maenad.jpg",
     "artist": "Henryk Piątkowski",
     "date": "ok. 1876",
     "height": 88,
@@ -3343,7 +3343,7 @@
   {
     "slug": "worker",
     "title": "Worker",
-    "image": "/images/lentz__worker.jpg",
+    "image": "/collection/lentz__worker.jpg",
     "artist": "Stanisław Lentz",
     "date": "1911",
     "height": 66.5,
@@ -3357,7 +3357,7 @@
   {
     "slug": "portrait-of-a-brunette",
     "title": "Portrait of a Brunette",
-    "image": "/images/sztencel__portrait-of-a-brunette.jpg",
+    "image": "/collection/sztencel__portrait-of-a-brunette.jpg",
     "artist": "Maurycy Sztencel",
     "date": "ok. 1870 - 1880",
     "height": 31,
@@ -3371,7 +3371,7 @@
   {
     "slug": "mrs-john-crosby-brown",
     "title": "Mrs. John Crosby Brown",
-    "image": "/images/zorn__mrs-john-crosby-brown.jpg",
+    "image": "/collection/zorn__mrs-john-crosby-brown.jpg",
     "artist": "Anders Zorn",
     "date": "1900",
     "height": 73.7,
@@ -3385,7 +3385,7 @@
   {
     "slug": "honest-soldier",
     "title": "And, whatsoe'er the fight's event, he keeps his honest soldier's name",
-    "image": "/images/harris__honest-soldier.jpg",
+    "image": "/collection/harris__honest-soldier.jpg",
     "artist": "Robert Harris",
     "date": "1881",
     "height": 54.8,
@@ -3399,7 +3399,7 @@
   {
     "slug": "george-benjamin-luks",
     "title": "Portrait of George Benjamin Luks",
-    "image": "/images/glackens__george-benjamin-luks.jpg",
+    "image": "/collection/glackens__george-benjamin-luks.jpg",
     "artist": "William James Glackens",
     "date": "1899",
     "height": 74.6,
@@ -3414,7 +3414,7 @@
   {
     "slug": "edith-nourse-rogers",
     "title": "Portrait of Edith Nourse Rogers",
-    "image": "/images/ispen__edith-nourse-rogers.jpg",
+    "image": "/collection/ispen__edith-nourse-rogers.jpg",
     "artist": "Ernest Ludwig Ipsen",
     "date": "1907",
     "height": 102,
@@ -3429,7 +3429,7 @@
   {
     "slug": "portrait-of-a-man",
     "title": "Portrait of a Man",
-    "image": "/images/page__portrait-of-a-man.jpg",
+    "image": "/collection/page__portrait-of-a-man.jpg",
     "artist": "Walter Gilman Page",
     "date": "1888",
     "height": 61.4,
@@ -3443,7 +3443,7 @@
   {
     "slug": "adagio",
     "title": "Adagio",
-    "image": "/images/reid__adagio.jpg",
+    "image": "/collection/reid__adagio.jpg",
     "artist": "George A. Reid",
     "date": "1893",
     "height": 76.5,
@@ -3457,7 +3457,7 @@
   {
     "slug": "portrait-of-bessie",
     "title": "Portrait of Bessie (Miss Elizabeth Newton)",
-    "image": "/images/herter__portrait-of-bessie.jpg",
+    "image": "/collection/herter__portrait-of-bessie.jpg",
     "artist": "Albert Herter",
     "date": "1892",
     "height": 149.8,
@@ -3471,7 +3471,7 @@
   {
     "slug": "young-mother",
     "title": "The Young Mother, No. 1",
-    "image": "/images/turner__young-mother.jpg",
+    "image": "/collection/turner__young-mother.jpg",
     "artist": "Helen Maria Turner",
     "date": "1923",
     "height": 61.4,
@@ -3485,7 +3485,7 @@
   {
     "slug": "still-life-of-fish",
     "title": "Still Life of Fish",
-    "image": "/images/chase__still-life-of-fish.jpg",
+    "image": "/collection/chase__still-life-of-fish.jpg",
     "artist": "William Merritt Chase",
     "date": "1908",
     "height": 101.9,
@@ -3499,7 +3499,7 @@
   {
     "slug": "portrait-of-william-merritt-chase-2",
     "title": "Portrait of William Merritt Chase",
-    "image": "/images/lang__portrait-of-william-merritt-chase.jpg",
+    "image": "/collection/lang__portrait-of-william-merritt-chase.jpg",
     "artist": "Annie Traquair Lang",
     "date": "ca. 1910",
     "height": 76.2,
@@ -3514,7 +3514,7 @@
   {
     "slug": "bruno-cherier",
     "title": "Portrait of Bruno Cherier",
-    "image": "/images/carpeaux__bruno-cherier.jpg",
+    "image": "/collection/carpeaux__bruno-cherier.jpg",
     "artist": "Jean-Baptiste Carpeaux",
     "date": "ca. 1875",
     "height": 0,
@@ -3528,7 +3528,7 @@
   {
     "slug": "lorenzo-casanova-ruiz",
     "title": "Self-Portrait of Lorenzo Casanova Ruiz",
-    "image": "/images/ruiz__lorenzo-casanova-ruiz.jpg",
+    "image": "/collection/ruiz__lorenzo-casanova-ruiz.jpg",
     "artist": "Lorenzo Casanova Ruiz",
     "date": "1866",
     "height": 28.9,
@@ -3543,7 +3543,7 @@
   {
     "slug": "portrait-of-a-young-girl",
     "title": "Portrait of a Young Girl",
-    "image": "/images/kuznetsov__portrait-of-a-young-girl.jpg",
+    "image": "/collection/kuznetsov__portrait-of-a-young-girl.jpg",
     "artist": "Nikolai Dmitrievich Kuznetsov",
     "date": "1891",
     "height": 35.5,
@@ -3557,7 +3557,7 @@
   {
     "slug": "madam-powel",
     "title": "Madam Powel",
-    "image": "/images/alexander__madam-powel.jpg",
+    "image": "/collection/alexander__madam-powel.jpg",
     "artist": "Francis Alexander",
     "date": "about 1825",
     "height": 76.5,
@@ -3571,7 +3571,7 @@
   {
     "slug": "still-life-with-golden-bream",
     "title": "Still Life with Golden Bream",
-    "image": "/images/goya__still-life-with-golden-bream.jpg",
+    "image": "/collection/goya__still-life-with-golden-bream.jpg",
     "artist": "Francisco de Goya y Lucientes",
     "date": "1808 - 1812",
     "height": 44.8,
@@ -3586,7 +3586,7 @@
   {
     "slug": "golden-eyes",
     "title": "Golden Eyes",
-    "image": "/images/gray__golden-eyes.jpg",
+    "image": "/collection/gray__golden-eyes.jpg",
     "artist": "Norah Neilson Gray",
     "date": "1917",
     "height": 99.0,
@@ -3601,7 +3601,7 @@
   {
     "slug": "in-the-boudoir",
     "title": "In the Boudoir",
-    "image": "/images/hawthorne__in-the-boudoir.jpg",
+    "image": "/collection/hawthorne__in-the-boudoir.jpg",
     "artist": "Charles Webster Hawthorne",
     "date": "ca 1919",
     "height": 53.9,
@@ -3616,7 +3616,7 @@
   {
     "slug": "artist-mourning-her-father",
     "title": "The Artist in Mourning for Her Father",
-    "image": "/images/oakley__artist-mourning-her-father.jpg",
+    "image": "/collection/oakley__artist-mourning-her-father.jpg",
     "artist": "Violet Oakley",
     "date": "ca. 1900",
     "height": 63.5,
@@ -3631,7 +3631,7 @@
   {
     "slug": "saint-thomas",
     "title": "Saint Thomas",
-    "image": "/images/ribera__saint-thomas.jpg",
+    "image": "/collection/ribera__saint-thomas.jpg",
     "artist": "Jusepe de Ribera lo Spagnoletto",
     "date": "1630 - 1635",
     "height": 75.9,
@@ -3646,7 +3646,7 @@
   {
     "slug": "david-leffel",
     "title": "Self-Portrait of David Leffel",
-    "image": "/images/leffel__david-leffel.webp",
+    "image": "/collection/leffel__david-leffel.webp",
     "artist": "David Leffel",
     "date": "2010",
     "height": 9,
@@ -3660,7 +3660,7 @@
   {
     "slug": "still-life-with-white-roses",
     "title": "Still Life with White Roses",
-    "image": "/images/fantin-latour__still-life-with-white-roses.jpg",
+    "image": "/collection/fantin-latour__still-life-with-white-roses.jpg",
     "artist": "Henri Fantin-Latour",
     "date": "1875",
     "height": 55.4,
@@ -3674,7 +3674,7 @@
   {
     "slug": "kentucky-mountaineer",
     "title": "Kentucky Mountaineer",
-    "image": "/images/hopkins__kentucky-mountaineer.jpg",
+    "image": "/collection/hopkins__kentucky-mountaineer.jpg",
     "artist": "James R. Hopkins",
     "date": "1915",
     "height": 81.3,
@@ -3689,7 +3689,7 @@
   {
     "slug": "nicolas-de-largilliere",
     "title": "Self-Portrait of Nicolas de Largillière",
-    "image": "/images/largilliere__nicolas-de-largilliere.jpg",
+    "image": "/collection/largilliere__nicolas-de-largilliere.jpg",
     "artist": "Nicolas de Largillière",
     "date": "c. 1725",
     "height": 81.1,
@@ -3704,7 +3704,7 @@
   {
     "slug": "arab-chief",
     "title": "Arab Chief",
-    "image": "/images/carbo__arab-chief.jpg",
+    "image": "/collection/carbo__arab-chief.jpg",
     "artist": "Mariano Fortuny y Carbó",
     "date": "1874",
     "height": 122.9,
@@ -3719,7 +3719,7 @@
   {
     "slug": "girl-with-cherries-",
     "title": "Girl With Cherries",
-    "image": "/images/blommers__girl-with-cherries.webp",
+    "image": "/collection/blommers__girl-with-cherries.webp",
     "artist": "Bernardus Johannes Blommers",
     "date": "c. 1860 - c. 1914",
     "height": 31.0,
@@ -3733,7 +3733,7 @@
   {
     "slug": "snow-in-new-york",
     "title": "Snow in New York",
-    "image": "/images/henri__snow-in-new-york.jpg",
+    "image": "/collection/henri__snow-in-new-york.jpg",
     "artist": "Robert Henri",
     "date": "1902",
     "height": 81.3,
@@ -3747,7 +3747,7 @@
   {
     "slug": "fernando-de-los-villares-amor",
     "title": "Fernando de los Villares Amor",
-    "image": "/images/madrazo__fernando-de-los-villares-amor.jpg",
+    "image": "/collection/madrazo__fernando-de-los-villares-amor.jpg",
     "artist": "Ricardo de Madrazo y Garreta",
     "date": "1879",
     "height": 44,
@@ -3762,7 +3762,7 @@
   {
     "slug": "madeleine-lerolle-and-her-daughter-yvonne",
     "title": "Madeleine Lerolle and Her Daughter Yvonne",
-    "image": "/images/besnard__madeleine-lerolle-and-her-daughter-yvonne.jpg",
+    "image": "/collection/besnard__madeleine-lerolle-and-her-daughter-yvonne.jpg",
     "artist": "Albert Besnard",
     "date": "c. 1879-80",
     "height": 165,
@@ -3777,7 +3777,7 @@
   {
     "slug": "captive-slave",
     "title": "The Captive Slave (Ira Aldridge)",
-    "image": "/images/simpson__captive-slave.jpg",
+    "image": "/collection/simpson__captive-slave.jpg",
     "artist": "John Philip Simpson",
     "date": "1827",
     "height": 127,
@@ -3792,7 +3792,7 @@
   {
     "slug": "a-chief-of-abyssinia",
     "title": "A Chief of Abyssinia",
-    "image": "/images/regnault__a-chief-of-abyssinia.jpg",
+    "image": "/collection/regnault__a-chief-of-abyssinia.jpg",
     "artist": "Henri Regnault",
     "date": "1870",
     "height": 42.2,
@@ -3806,7 +3806,7 @@
   {
     "slug": "head-of-a-bishop",
     "title": "Head of a Bishop",
-    "image": "/images/gandolfi__head-of-a-bishop.jpg",
+    "image": "/collection/gandolfi__head-of-a-bishop.jpg",
     "artist": "Gaetano Gandolfi",
     "date": "1770",
     "height": 46.7,
@@ -3820,7 +3820,7 @@
   {
     "slug": "student",
     "title": "The Student",
-    "image": "/images/wiles__student.jpg",
+    "image": "/collection/wiles__student.jpg",
     "artist": "Irving Ramsay Wiles",
     "date": "1910",
     "height": 77.7,
@@ -3834,7 +3834,7 @@
   {
     "slug": "drapery-study-for-luxemburg",
     "title": "Drapery Study for Luxemburg",
-    "image": "/images/sargent__drapery-study-for-luxemburg.jpg",
+    "image": "/collection/sargent__drapery-study-for-luxemburg.jpg",
     "artist": "John Singer Sargent",
     "date": "1877",
     "height": 81.3,
@@ -3848,7 +3848,7 @@
   {
     "slug": "portrait-of-a-man-2",
     "title": "Portrait of a Man",
-    "image": "/images/rembrandt__portrait-of-a-man.jpg",
+    "image": "/collection/rembrandt__portrait-of-a-man.jpg",
     "artist": "Rembrandt Harmensz. van Rijn",
     "date": "1661",
     "height": 71,
@@ -3862,7 +3862,7 @@
   {
     "slug": "santa-maria-della-salute",
     "title": "Santa Maria Della Salute",
-    "image": "/images/guardi__santa-maria-della-salute.jpg",
+    "image": "/collection/guardi__santa-maria-della-salute.jpg",
     "artist": "Francesco Guardi",
     "date": "mid-to-late 1760s",
     "height": 53.3,
@@ -3876,7 +3876,7 @@
   {
     "slug": "raphael-soyer",
     "title": "Self-Portrait of Raphael Soyer",
-    "image": "/images/soyer__raphael-soyer.jpg",
+    "image": "/collection/soyer__raphael-soyer.jpg",
     "artist": "Raphael Soyer",
     "date": "ca. 1930",
     "height": 38.1,
@@ -3890,7 +3890,7 @@
   {
     "slug": "mademoiselle-malot",
     "title": "Mademoiselle Malot",
-    "image": "/images/degas__mademoiselle-malot.jpg",
+    "image": "/collection/degas__mademoiselle-malot.jpg",
     "artist": "Edgar Degas",
     "date": "c. 1877",
     "height": 81.1,
@@ -3904,7 +3904,7 @@
   {
     "slug": "gross-clinic",
     "title": "Portrait of Dr. Samuel D. Gross (The Gross Clinic)",
-    "image": "/images/eakins__the-gross-clinic.jpg",
+    "image": "/collection/eakins__the-gross-clinic.jpg",
     "artist": "Thomas Eakins",
     "date": "1875",
     "height": 243.8,
@@ -3918,7 +3918,7 @@
   {
     "slug": "afternoon-venice",
     "title": "Afternoon, Venice",
-    "image": "/images/carlyle__afternoon-venice.jpg",
+    "image": "/collection/carlyle__afternoon-venice.jpg",
     "artist": "Florence Carlyle",
     "date": "1913",
     "height": 43.5,
@@ -3933,7 +3933,7 @@
   {
     "slug": "cracked-watermelon",
     "title": "Cracked Watermelon",
-    "image": "/images/porter__cracked-watermelon.jpg",
+    "image": "/collection/porter__cracked-watermelon.jpg",
     "artist": "Charles Ethan Porter",
     "date": "1890",
     "height": 48.6,
