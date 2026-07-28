@@ -114,3 +114,5 @@
 [Alte Pinakothek](https://www.sammlung.pinakothek.de/en/genre/malerei#filters={%22yearRange%22:{%22min%22:1600,%22max%22:1960},%22onDisplay%22:false,%22publicDomain%22:true,%22genre%22:%22malerei%22})
 [Stedelijk Museum Breda](https://www.stedelijkmuseumbreda.nl/en)
 [Fitzwilliam Museum](https://fitzmuseum.cam.ac.uk/)
+[Art Net](https://www.artnet.com/)
+[Gallery pages of painters](https://commons.wikimedia.org/wiki/Category:Gallery_pages_of_painters)

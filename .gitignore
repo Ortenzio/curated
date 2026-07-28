@@ -17,6 +17,7 @@ coverage
 .env
 docs/image-test
 docs/images
+docs/grid-view.csv
 
 # Editor directories and files
 .vscode/*

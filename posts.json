@@ -465,6 +465,36 @@
     "copyright": ""
   },
   {
+    "slug": "vrouwenportret",
+    "title": "Vrouwenportret",
+    "image": "/images/haverman__vrouwenportret.jpg",
+    "artist": "Hendrik Johan Haverman",
+    "date": "1887",
+    "height": 35,
+    "width": 25,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "KM 103.959",
+    "location": "Kröller-Müller Museum",
+    "source": "https://www.krollermuller.nl/en/collection/hendrik-johan-haverman-portrait-of-a-woman-km-103-959",
+    "copyright": ""
+  },
+  {
+    "slug": "reverie",
+    "title": "Reverie",
+    "image": "/images/gouweloos__reverie.jpg",
+    "artist": "Jean Gouweloos",
+    "date": "unknown",
+    "height": 99,
+    "width": 128,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "1652",
+    "location": "Kröller-Müller Museum",
+    "source": "https://www.kmska.be/en/masterpiece/reverie",
+    "copyright": ""
+  },
+  {
     "slug": "portrait-of-william-merritt-chase",
     "title": "Portrait of William Merritt Chase",
     "image": "/images/duveneck__portrait-of-william-merritt-chase.jpg",
@@ -491,6 +521,21 @@
     "accession": "MP 4778 MNW",
     "location": "National Museum in Warsaw",
     "source": "https://cyfrowe.mnw.art.pl/en/catalog/447157",
+    "copyright": "Public Domain"
+  },
+  {
+    "slug": "portrait-of-a-man-4",
+    "title": "Portrait of a Man",
+    "image": "/images/kramskoy__portrait-of-a-man.jpg",
+    "artist": "Ivan Nikolayevich Kramskoy",
+    "date": "19th century",
+    "height": 24,
+    "width": 33,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "M.Ob.1158 MNW",
+    "location": "National Museum in Warsaw",
+    "source": "https://cyfrowe.mnw.art.pl/en/catalog/441841",
     "copyright": "Public Domain"
   },
   {
@@ -717,6 +762,21 @@
     "copyright": "Public Domain"
   },
   {
+    "slug": "mademoiselle-pourtales",
+    "title": "Mademoiselle Pourtalès",
+    "image": "/images/salmson__mademoiselle-pourtales.jpg",
+    "artist": "Hugo Salmson",
+    "date": "c. 1880",
+    "height": 73,
+    "width": 61,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "NM 1902",
+    "location": "National Gallery of Sweeden",
+    "source": "https://collection.nationalmuseum.se/en/collection/item/18907/",
+    "copyright": "Public Domain"
+  },
+  {
     "slug": "mimmi-zetterstrom",
     "title": "Self-Portrait of Mimmi Zetterström",
     "image": "/images/zetterstrom__mimmi-zetterstrom.png",
@@ -801,6 +861,21 @@
     "accession": "1993.324",
     "location": "Metropolitan Museum of Art",
     "source": "https://www.metmuseum.org/art/collection/search/14931"
+  },
+  {
+    "slug": "charles-sumner",
+    "title": "Charles Sumner",
+    "image": "/images/hunt__charles-sumner.jpg",
+    "artist": "William Morris Hunt",
+    "date": "1875",
+    "height": 55.9,
+    "width": 68.6,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "25.182",
+    "location": "Metropolitan Museum of Art",
+    "source": "https://www.metmuseum.org/art/collection/search/11175",
+    "copyright": "Public Domain"
   },
   {
     "slug": "japanese-woman",
@@ -932,6 +1007,36 @@
     "accession": "54.367",
     "location": "Museum of Fine Arts - Hungarian National Gallery",
     "source": "https://en.mng.hu/artworks/45011/",
+    "copyright": "Museum of Fine Arts - Hungarian National Gallery"
+  },
+  {
+    "slug": "gyula-rudnay",
+    "title": "Self-Portrait in Painter Cap",
+    "image": "/images/rudnay__gyula-rudnay.jpg",
+    "artist": "Gyula Rudnay",
+    "date": "unknown",
+    "height": 59,
+    "width": 54.3,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "FK10.144",
+    "location": "Museum of Fine Arts - Hungarian National Gallery",
+    "source": "https://en.mng.hu/artworks/49964/",
+    "copyright": "Museum of Fine Arts - Hungarian National Gallery"
+  },
+  {
+    "slug": "study-of-a-head",
+    "title": "Study of a Head",
+    "image": "/images/csok__study-of-a-head.jpg",
+    "artist": "István Csók",
+    "date": "unknown",
+    "height": 44,
+    "width": 36,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "62.46T",
+    "location": "Museum of Fine Arts - Hungarian National Gallery",
+    "source": "https://en.mng.hu/artworks/51439/",
     "copyright": "Museum of Fine Arts - Hungarian National Gallery"
   },
   {
@@ -1142,6 +1247,21 @@
     "accession": "1949.1.1",
     "location": "National Gallery of Art",
     "source": "https://www.nga.gov/artworks/35085-windmill"
+  },
+  {
+    "slug": "study-of-a-head-2",
+    "title": "Study of a Head",
+    "image": "/images/csok__study-of-a-head-2.jpg",
+    "artist": "István Csók",
+    "date": "unknown",
+    "height": 49,
+    "width": 39,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "64.26T",
+    "location": "Museum of Fine Arts - Hungarian National Gallery",
+    "source": "https://en.mng.hu/artworks/48658/",
+    "copyright": "Museum of Fine Arts - Hungarian National Gallery"
   },
   {
     "slug": "study-of-legs",
@@ -2126,6 +2246,51 @@
     "location": "Rijksmuseum",
     "source": "https://id.rijksmuseum.nl/200108885",
     "copyright": "Public Domain"
+  },
+  {
+    "slug": "elderly-man",
+    "title": "Elderly Man",
+    "image": "/images/csok__elderly-man.jpg",
+    "artist": "István Csók",
+    "date": "unknown",
+    "height": 50,
+    "width": 41.5,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "64.27T",
+    "location": "Museum of Fine Arts - Hungarian National Gallery",
+    "source": "https://en.mng.hu/artworks/51359/",
+    "copyright": "Museum of Fine Arts - Hungarian National Gallery"
+  },
+  {
+    "slug": "girls-from-chioggia",
+    "title": "Girls from Chioggia",
+    "image": "/images/strobentz__girls-from-chioggia.jpg",
+    "artist": "Frigyes Strobentz",
+    "date": "1929",
+    "height": 64,
+    "width": 50,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "3297",
+    "location": "Museum of Fine Arts - Hungarian National Gallery",
+    "source": "https://en.mng.hu/artworks/45899/",
+    "copyright": "Museum of Fine Arts - Hungarian National Gallery"
+  },
+  {
+    "slug": "bertalan-por",
+    "title": "Self-portrait as a Young Man",
+    "image": "/images/por__bertalan-por.jpg",
+    "artist": "1902",
+    "date": "1929",
+    "height": 54,
+    "width": 41,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "63.46T",
+    "location": "Museum of Fine Arts - Hungarian National Gallery",
+    "source": "https://en.mng.hu/artworks/49924/",
+    "copyright": "Museum of Fine Arts - Hungarian National Gallery"
   },
   {
     "slug": "pont-de-la-tournelle",
@@ -3321,7 +3486,7 @@
     "slug": "still-life-of-fish",
     "title": "Still Life of Fish",
     "image": "/images/chase__still-life-of-fish.jpg",
-    "artist": "William Merrett Chase",
+    "artist": "William Merritt Chase",
     "date": "1908",
     "height": 101.9,
     "width": 114.5,

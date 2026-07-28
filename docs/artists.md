@@ -347,7 +347,7 @@
 [Young Girl Reading](https://www.nga.gov/artworks/46303-young-girl-reading)
 
 ## Jean Gouweloos
-[$ Reverie](https://www.kmska.be/en/masterpiece/reverie)
+[# Reverie](https://www.kmska.be/en/masterpiece/reverie)
 
 ## Théodore Géricault
 [# Trumpeter of the Hussars](https://www.clarkart.edu/ArtPiece/Detail/Trumpeter-of-the-Hussars)
@@ -378,7 +378,8 @@
 [Girl with a Pearl Earing](https://www.mauritshuis.nl/en/our-collection/artworks/670-girl-with-a-pearl-earring)
 
 ## Hendrik Johan Haverman
-[$$ Portrait of a Woman](https://www.krollermuller.nl/en/collection/hendrik-johan-haverman-portrait-of-a-woman-km-103-959)
+[# Portrait of a Woman](https://www.krollermuller.nl/en/collection/hendrik-johan-haverman-portrait-of-a-woman-km-103-959)
+[$ Reclining Nude at solar eclipse](https://commons.wikimedia.org/wiki/File:Hendrik_Johannes_Haverman_-_Reclining_nude_at_solar_eclipse.jpg)
 
 ## George Inness
 [$ Wood Gatherers: An Autumn Afternoon](https://www.clarkart.edu/ArtPiece/Detail/Wood-Gatherers-An-Autumn-Afternoon)
@@ -686,9 +687,9 @@
 [Portrait de l'artiste](https://www.musee-orsay.fr/en/artworks/portrait-de-lartiste-366)
 
 ## István Csók
-[$$ Study of a Head](https://en.mng.hu/artworks/51439/)
-[$$ Study of a Head](https://en.mng.hu/artworks/48658/)
-[$$ Elderly Man](https://en.mng.hu/artworks/51359/)
+[# Study of a Head](https://en.mng.hu/artworks/51439/)
+[# Study of a Head](https://en.mng.hu/artworks/48658/)
+[# Elderly Man](https://en.mng.hu/artworks/51359/)
 [Self-portrait](https://en.mng.hu/artworks/51375/)
 
 ## Béla Czóbel
@@ -709,7 +710,7 @@
 [Little girl with goose](https://en.mng.hu/artworks/48740/)
 
 ## Frigyes Strobentz
-[$$ Girls from Chioggia](https://en.mng.hu/artworks/45899/)
+[# Girls from Chioggia](https://en.mng.hu/artworks/45899/)
 [Study of a Woman](https://en.mng.hu/artworks/45912/)
 [head of a boy](https://en.mng.hu/artworks/45922/)
 
@@ -717,8 +718,8 @@
 [still-left](https://en.mng.hu/artworks/46214/)
 
 ## Gyula Rudnay
-[$$ Self Portrait](https://en.mng.hu/artworks/49749/)
-[$$ self portrait in painter cat](https://en.mng.hu/artworks/49964/)
+[# self portrait in painter cap](https://en.mng.hu/artworks/49964/)
+[$ Self Portrait](https://en.mng.hu/artworks/49749/)
 [$ Front: Portrait of a Man, Back: Portrait of a Gipsy Boy](https://en.mng.hu/artworks/49750/)
 [Riders](https://en.mng.hu/artworks/45245/)
 [Young Man from Gömör (Self-Portrait)](https://en.mng.hu/artworks/49825/)
@@ -727,8 +728,8 @@
 [head of a coassak](https://en.mng.hu/artworks/53162/)
 
 ## Bertalan Pór
-[$$ Self-portrait as a Young Man](https://en.mng.hu/artworks/49924/)
-[$$ Study of a Nude for 'The Kiss'](https://en.mng.hu/artworks/50031/)
+[# Self-portrait as a Young Man](https://en.mng.hu/artworks/49924/)
+[$ Study of a Nude for 'The Kiss'](https://en.mng.hu/artworks/50031/)
 [Self Portrait](https://en.mng.hu/artworks/49872/)
 [Self Portrait in White Robe](https://en.mng.hu/artworks/49932/)
 [Portrait of My Father](https://en.mng.hu/artworks/49949/)
@@ -1034,7 +1035,6 @@
 
 ## Henry Muhrman
 [Dockside the Thames](https://artmuseum.princeton.edu/art/collections/objects/144889)
-
 
 ## A. Curtis Williamson
 [$ Portrait of Dr. J.M. MacCallum](https://www.gallery.ca/collection/artwork/portrait-of-dr-jm-maccallum-a-cynic)
@@ -2568,7 +2568,7 @@
 [Landscape](https://www.rijksmuseum.nl/en/collection/object/Landscape--cedd99c0476678c923a90d3e03d397d4)
 
 ## Ivan Nikolayevich Kramskoy
-[Portrait of a man](https://cyfrowe.mnw.art.pl/en/catalog/441841)
+[# Portrait of a man](https://cyfrowe.mnw.art.pl/en/catalog/441841)
 
 ## James Tissot
 [# Chrysanthemums](https://www.clarkart.edu/ArtPiece/Detail/Chrysanthemums)
@@ -2601,8 +2601,8 @@
 [The British Fleet Forming a Line off Algiers](https://collections.mfa.org/objects/32602/the-british-fleet-forming-a-line-off-algiers)
 
 ## Hugo Salmson
+[# Mademoiselle Pourtalès](https://collection.nationalmuseum.se/en/collection/item/18907/)
 [$ A parisian lady](https://collection.nationalmuseum.se/en/collection/item/19022/)
-[$ Mademoiselle Pourtalès](https://collection.nationalmuseum.se/en/collection/item/18907/)
 [french peasant girl](https://collection.nationalmuseum.se/en/collection/item/21957/)
 
 ## Léon-François-Antoine Fleury
@@ -2632,7 +2632,7 @@
 
 ## William Morris Hunt
 [# Priscilla](https://collections.mfa.org/objects/33903/priscilla)
-[$$ Charles Sumner](https://www.metmuseum.org/art/collection/search/11175)
+[# Charles Sumner](https://www.metmuseum.org/art/collection/search/11175)
 [$$ Girl with Red Hair Ribbon](https://artmuseum.princeton.edu/art/collections/objects/22066)
 [$ Portrait of a Lady](https://collections.mfa.org/objects/31505/portrait-of-a-lady)
 [Girl at the Fountain](https://www.metmuseum.org/art/collection/search/11177)
@@ -2641,6 +2641,7 @@
 [Self Portrait](https://collections.mfa.org/objects/31033/self-portrait)
 [The Bathers](https://www.metmuseum.org/art/collection/search/11174)
 [The Belated Kid](https://collections.mfa.org/objects/31308/the-belated-kid)
+
 ## Edwin Lord Week
 [$ The Rajah Starting on a Hunt](https://www.metmuseum.org/art/collection/search/13171)
 [$ Study of Two Figures](https://www.metmuseum.org/art/collection/search/441369)
