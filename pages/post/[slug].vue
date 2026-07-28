@@ -7,9 +7,7 @@
           :src="post.image" 
           :preload="{ fetchPriority: 'high' }"
           class="post__image"
-          format="webp"
-          quality="80" 
-          loading="lazy" 
+          preset="full"
         />
       </curated-image>
     </div>
@@ -28,11 +26,11 @@
       </div>
 
       <a :href="`/post/${post.prev.slug}`" rel="prev" class="post__nav">
-        <nuxt-img class="post__nav-image" :src="post.prev.image" :width="600" densities="1x" format="webp" quality="60" loading="lazy" />
+        <nuxt-img class="post__nav-image" :src="post.prev.image" preset="thumb" />
       </a>
 
       <a :href="`/post/${post.next.slug}`" rel="next" class="post__nav">
-        <nuxt-img class="post__nav-image" :src="post.next.image" :width="600" densities="1x" format="webp" quality="60" loading="lazy" />
+        <nuxt-img class="post__nav-image" :src="post.next.image" preset="thumb" />
       </a>
 
       <div class="post__footer">
@@ -136,7 +134,7 @@ useHead({
 
 .post__nav-image {
   height: 100%;
-  max-height: 30dvh;
+  max-height: 13rem;
   object-fit: cover;
   width: 100%;
   mix-blend-mode: normal;

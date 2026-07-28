@@ -31,7 +31,25 @@ export default defineNuxtConfig({
     enabled: false 
   },
   image: {
-    dir: 'assets'
+    dir: 'assets',
+    inject: true,
+    presets: {
+      full: {
+        modifiers: {
+          format: "webp",
+          quality: 80,
+          loading: 'eager'
+        }
+      },
+      thumb: {
+        modifiers: {
+          format: "webp",
+          width: 600,
+          quality: 60,
+          loading: 'lazy'
+        }
+      }
+    }
   },
   routeRules: {
     '/**': {

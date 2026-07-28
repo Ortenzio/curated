@@ -6,7 +6,7 @@
     </header>
     <main class="app__posts">
       <a class="app__post-link" v-for="post in posts" :href="`/post/${post.slug}/`">
-        <nuxt-img class="app__post-image" :src="post.image" :width="600" densities="1x" format="webp" quality="60" loading="lazy" />
+        <nuxt-img class="app__post-image" :src="post.image" preset="thumb" loading="lazy" />
       </a>
     </main>
   </div>
