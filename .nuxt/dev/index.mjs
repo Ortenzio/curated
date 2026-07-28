@@ -1,0 +1,7342 @@
+import process from 'node:process';globalThis._importMeta_={url:import.meta.url,env:process.env};import { tmpdir } from 'node:os';
+import { defineEventHandler, handleCacheHeaders, splitCookiesString, createEvent, fetchWithEvent, isEvent, eventHandler, setHeaders, createError, sendRedirect, proxyRequest, getRequestHeader, setResponseHeaders, setResponseStatus, send, getRequestHeaders, setResponseHeader, appendResponseHeader, getRequestURL, getResponseHeader, removeResponseHeader, getQuery as getQuery$1, getRequestWebStream, getResponseStatus, lazyEventHandler, useBase, createApp, createRouter as createRouter$1, toNodeListener, getRouterParam, readBody, getResponseStatusText } from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/h3/dist/index.mjs';
+import { Server } from 'node:http';
+import { resolve, dirname, join } from 'node:path';
+import nodeCrypto from 'node:crypto';
+import { parentPort, threadId } from 'node:worker_threads';
+import { escapeHtml } from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/@vue/shared/dist/shared.cjs.js';
+import viteNodeEntry_mjs from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/@nuxt/vite-builder/dist/vite-node-entry.mjs';
+import { viteNodeFetch } from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/@nuxt/vite-builder/dist/vite-node.mjs';
+import { parseURL, withoutBase, joinURL, getQuery, withQuery, withTrailingSlash, decodePath, withLeadingSlash, withoutTrailingSlash, encodePath, joinRelativeURL } from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/ufo/dist/index.mjs';
+import destr, { destr as destr$1 } from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/destr/dist/index.mjs';
+import { createHooks } from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/nitropack/node_modules/hookable/dist/index.mjs';
+import { createFetch, Headers as Headers$1 } from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/ofetch/dist/node.mjs';
+import { fetchNodeRequestHandler, callNodeRequestHandler } from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/node-mock-http/dist/index.mjs';
+import { createStorage, prefixStorage } from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/unstorage/dist/index.mjs';
+import unstorage_47drivers_47fs from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/unstorage/drivers/fs.mjs';
+import { digest, hash as hash$1 } from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/ohash/dist/index.mjs';
+import { klona } from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/klona/dist/index.mjs';
+import defu, { defuFn } from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/defu/dist/defu.mjs';
+import { snakeCase } from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/scule/dist/index.mjs';
+import { getContext } from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/nitropack/node_modules/unctx/dist/index.mjs';
+import { toRouteMatcher, createRouter } from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/radix3/dist/index.mjs';
+import { readFile } from 'node:fs/promises';
+import consola, { consola as consola$1 } from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/consola/dist/index.mjs';
+import { ErrorParser } from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/youch-core/build/index.js';
+import { Youch } from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/youch/build/index.js';
+import { SourceMapConsumer } from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/source-map/source-map.js';
+import { defineDiagnostics, createConsoleReporter } from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/nostics/dist/index.mjs';
+import { ansiFormatter } from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/nostics/dist/formatters/ansi.mjs';
+import { AsyncLocalStorage } from 'node:async_hooks';
+import { stringify, uneval } from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/devalue/index.js';
+import { getContext as getContext$1 } from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/unctx/dist/index.mjs';
+import { captureRawStackTrace, parseRawStackTrace } from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/errx/dist/index.mjs';
+import { isVNode, isRef, toValue } from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/vue/index.mjs';
+import _wH6JrtIxmaSoA8lCPWFnE9z4lQeXW6H5z3l5aymEQw from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/@nuxt/vite-builder/dist/fix-stacktrace.mjs';
+import { promises } from 'node:fs';
+import { fileURLToPath } from 'node:url';
+import { dirname as dirname$1, resolve as resolve$1, isAbsolute } from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/pathe/dist/index.mjs';
+import { createRenderer, getRequestDependencies, getPreloadLinks, getPrefetchLinks } from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/vue-bundle-renderer/dist/runtime.mjs';
+import { renderToString } from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/vue/server-renderer/index.mjs';
+import { createHead as createHead$1, propsToString, renderSSRHead } from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/unhead/dist/server.mjs';
+import { walkResolver } from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/unhead/dist/utils.mjs';
+import { ipxFSStorage, ipxHttpStorage, createIPX, createIPXH3Handler } from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/ipx/dist/index.mjs';
+import { DeprecationsPlugin } from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/unhead/dist/legacy.mjs';
+import { PromisesPlugin, TemplateParamsPlugin, AliasSortingPlugin } from 'file:///Users/nicholas/Solutions/personal/curated/node_modules/unhead/dist/plugins.mjs';
+
+const serverAssets = [{"baseName":"server","dir":"/Users/nicholas/Solutions/personal/curated/server/assets"}];
+
+const assets$1 = createStorage();
+
+for (const asset of serverAssets) {
+  assets$1.mount(asset.baseName, unstorage_47drivers_47fs({ base: asset.dir, ignore: (asset?.ignore || []) }));
+}
+
+const storage = createStorage({});
+
+storage.mount('/assets', assets$1);
+
+storage.mount('root', unstorage_47drivers_47fs({"driver":"fs","readOnly":true,"base":"/Users/nicholas/Solutions/personal/curated","watchOptions":{"ignored":[null]}}));
+storage.mount('src', unstorage_47drivers_47fs({"driver":"fs","readOnly":true,"base":"/Users/nicholas/Solutions/personal/curated/server","watchOptions":{"ignored":[null]}}));
+storage.mount('build', unstorage_47drivers_47fs({"driver":"fs","readOnly":false,"base":"/Users/nicholas/Solutions/personal/curated/.nuxt"}));
+storage.mount('cache', unstorage_47drivers_47fs({"driver":"fs","readOnly":false,"base":"/Users/nicholas/Solutions/personal/curated/.nuxt/cache"}));
+storage.mount('data', unstorage_47drivers_47fs({"driver":"fs","base":"/Users/nicholas/Solutions/personal/curated/.data/kv"}));
+
+function useStorage(base = "") {
+  return base ? prefixStorage(storage, base) : storage;
+}
+
+const Hasher = /* @__PURE__ */ (() => {
+  class Hasher2 {
+    buff = "";
+    #context = /* @__PURE__ */ new Map();
+    write(str) {
+      this.buff += str;
+    }
+    dispatch(value) {
+      const type = value === null ? "null" : typeof value;
+      return this[type](value);
+    }
+    object(object) {
+      if (object && typeof object.toJSON === "function") {
+        return this.object(object.toJSON());
+      }
+      const objString = Object.prototype.toString.call(object);
+      let objType = "";
+      const objectLength = objString.length;
+      objType = objectLength < 10 ? "unknown:[" + objString + "]" : objString.slice(8, objectLength - 1);
+      objType = objType.toLowerCase();
+      let objectNumber = null;
+      if ((objectNumber = this.#context.get(object)) === void 0) {
+        this.#context.set(object, this.#context.size);
+      } else {
+        return this.dispatch("[CIRCULAR:" + objectNumber + "]");
+      }
+      if (typeof Buffer !== "undefined" && Buffer.isBuffer && Buffer.isBuffer(object)) {
+        this.write("buffer:");
+        return this.write(object.toString("utf8"));
+      }
+      if (objType !== "object" && objType !== "function" && objType !== "asyncfunction") {
+        if (this[objType]) {
+          this[objType](object);
+        } else {
+          this.unknown(object, objType);
+        }
+      } else {
+        const keys = Object.keys(object).sort();
+        const extraKeys = [];
+        this.write("object:" + (keys.length + extraKeys.length) + ":");
+        const dispatchForKey = (key) => {
+          this.dispatch(key);
+          this.write(":");
+          this.dispatch(object[key]);
+          this.write(",");
+        };
+        for (const key of keys) {
+          dispatchForKey(key);
+        }
+        for (const key of extraKeys) {
+          dispatchForKey(key);
+        }
+      }
+    }
+    array(arr, unordered) {
+      unordered = unordered === void 0 ? false : unordered;
+      this.write("array:" + arr.length + ":");
+      if (!unordered || arr.length <= 1) {
+        for (const entry of arr) {
+          this.dispatch(entry);
+        }
+        return;
+      }
+      const contextAdditions = /* @__PURE__ */ new Map();
+      const entries = arr.map((entry) => {
+        const hasher = new Hasher2();
+        hasher.dispatch(entry);
+        for (const [key, value] of hasher.#context) {
+          contextAdditions.set(key, value);
+        }
+        return hasher.toString();
+      });
+      this.#context = contextAdditions;
+      entries.sort();
+      return this.array(entries, false);
+    }
+    date(date) {
+      return this.write("date:" + date.toJSON());
+    }
+    symbol(sym) {
+      return this.write("symbol:" + sym.toString());
+    }
+    unknown(value, type) {
+      this.write(type);
+      if (!value) {
+        return;
+      }
+      this.write(":");
+      if (value && typeof value.entries === "function") {
+        return this.array(
+          [...value.entries()],
+          true
+          /* ordered */
+        );
+      }
+    }
+    error(err) {
+      return this.write("error:" + err.toString());
+    }
+    boolean(bool) {
+      return this.write("bool:" + bool);
+    }
+    string(string) {
+      this.write("string:" + string.length + ":");
+      this.write(string);
+    }
+    function(fn) {
+      this.write("fn:");
+      if (isNativeFunction(fn)) {
+        this.dispatch("[native]");
+      } else {
+        this.dispatch(fn.toString());
+      }
+    }
+    number(number) {
+      return this.write("number:" + number);
+    }
+    null() {
+      return this.write("Null");
+    }
+    undefined() {
+      return this.write("Undefined");
+    }
+    regexp(regex) {
+      return this.write("regex:" + regex.toString());
+    }
+    arraybuffer(arr) {
+      this.write("arraybuffer:");
+      return this.dispatch(new Uint8Array(arr));
+    }
+    url(url) {
+      return this.write("url:" + url.toString());
+    }
+    map(map) {
+      this.write("map:");
+      const arr = [...map];
+      return this.array(arr, false);
+    }
+    set(set) {
+      this.write("set:");
+      const arr = [...set];
+      return this.array(arr, false);
+    }
+    bigint(number) {
+      return this.write("bigint:" + number.toString());
+    }
+  }
+  for (const type of [
+    "uint8array",
+    "uint8clampedarray",
+    "unt8array",
+    "uint16array",
+    "unt16array",
+    "uint32array",
+    "unt32array",
+    "float32array",
+    "float64array"
+  ]) {
+    Hasher2.prototype[type] = function(arr) {
+      this.write(type + ":");
+      return this.array([...arr], false);
+    };
+  }
+  function isNativeFunction(f) {
+    if (typeof f !== "function") {
+      return false;
+    }
+    return Function.prototype.toString.call(f).slice(
+      -15
+      /* "[native code] }".length */
+    ) === "[native code] }";
+  }
+  return Hasher2;
+})();
+function serialize(object) {
+  const hasher = new Hasher();
+  hasher.dispatch(object);
+  return hasher.buff;
+}
+function hash(value) {
+  return digest(typeof value === "string" ? value : serialize(value)).replace(/[-_]/g, "").slice(0, 10);
+}
+
+function defaultCacheOptions() {
+  return {
+    name: "_",
+    base: "/cache",
+    swr: true,
+    maxAge: 1
+  };
+}
+function defineCachedFunction(fn, opts = {}) {
+  opts = { ...defaultCacheOptions(), ...opts };
+  const pending = {};
+  const group = opts.group || "nitro/functions";
+  const name = opts.name || fn.name || "_";
+  const integrity = opts.integrity || hash([fn, opts]);
+  const validate = opts.validate || ((entry) => entry.value !== void 0);
+  async function get(key, resolver, shouldInvalidateCache, event) {
+    const cacheKey = [opts.base, group, name, key + ".json"].filter(Boolean).join(":").replace(/:\/$/, ":index");
+    let entry = await useStorage().getItem(cacheKey).catch((error) => {
+      console.error(`[cache] Cache read error.`, error);
+      useNitroApp().captureError(error, { event, tags: ["cache"] });
+    }) || {};
+    if (typeof entry !== "object") {
+      entry = {};
+      const error = new Error("Malformed data read from cache.");
+      console.error("[cache]", error);
+      useNitroApp().captureError(error, { event, tags: ["cache"] });
+    }
+    const ttl = (opts.maxAge ?? 0) * 1e3;
+    if (ttl) {
+      entry.expires = Date.now() + ttl;
+    }
+    const expired = shouldInvalidateCache || entry.integrity !== integrity || ttl && Date.now() - (entry.mtime || 0) > ttl || validate(entry) === false;
+    const _resolve = async () => {
+      const isPending = pending[key];
+      if (!isPending) {
+        if (entry.value !== void 0 && (opts.staleMaxAge || 0) >= 0 && opts.swr === false) {
+          entry.value = void 0;
+          entry.integrity = void 0;
+          entry.mtime = void 0;
+          entry.expires = void 0;
+        }
+        pending[key] = Promise.resolve(resolver());
+      }
+      try {
+        entry.value = await pending[key];
+      } catch (error) {
+        if (!isPending) {
+          delete pending[key];
+        }
+        throw error;
+      }
+      if (!isPending) {
+        entry.mtime = Date.now();
+        entry.integrity = integrity;
+        delete pending[key];
+        if (validate(entry) !== false) {
+          let setOpts;
+          if (opts.maxAge && !opts.swr) {
+            setOpts = { ttl: opts.maxAge };
+          }
+          const promise = useStorage().setItem(cacheKey, entry, setOpts).catch((error) => {
+            console.error(`[cache] Cache write error.`, error);
+            useNitroApp().captureError(error, { event, tags: ["cache"] });
+          });
+          if (event?.waitUntil) {
+            event.waitUntil(promise);
+          }
+        }
+      }
+    };
+    const _resolvePromise = expired ? _resolve() : Promise.resolve();
+    if (entry.value === void 0) {
+      await _resolvePromise;
+    } else if (expired && event && event.waitUntil) {
+      event.waitUntil(_resolvePromise);
+    }
+    if (opts.swr && validate(entry) !== false) {
+      _resolvePromise.catch((error) => {
+        console.error(`[cache] SWR handler error.`, error);
+        useNitroApp().captureError(error, { event, tags: ["cache"] });
+      });
+      return entry;
+    }
+    return _resolvePromise.then(() => entry);
+  }
+  return async (...args) => {
+    const shouldBypassCache = await opts.shouldBypassCache?.(...args);
+    if (shouldBypassCache) {
+      return fn(...args);
+    }
+    const key = await (opts.getKey || getKey)(...args);
+    const shouldInvalidateCache = await opts.shouldInvalidateCache?.(...args);
+    const entry = await get(
+      key,
+      () => fn(...args),
+      shouldInvalidateCache,
+      args[0] && isEvent(args[0]) ? args[0] : void 0
+    );
+    let value = entry.value;
+    if (opts.transform) {
+      value = await opts.transform(entry, ...args) || value;
+    }
+    return value;
+  };
+}
+function cachedFunction(fn, opts = {}) {
+  return defineCachedFunction(fn, opts);
+}
+function getKey(...args) {
+  return args.length > 0 ? hash(args) : "";
+}
+function escapeKey(key) {
+  return String(key).replace(/\W/g, "");
+}
+function defineCachedEventHandler(handler, opts = defaultCacheOptions()) {
+  const variableHeaderNames = (opts.varies || []).filter(Boolean).map((h) => h.toLowerCase()).sort();
+  const _opts = {
+    ...opts,
+    getKey: async (event) => {
+      const customKey = await opts.getKey?.(event);
+      if (customKey) {
+        return escapeKey(customKey);
+      }
+      const _path = event.node.req.originalUrl || event.node.req.url || event.path;
+      let _pathname;
+      try {
+        _pathname = escapeKey(decodeURI(parseURL(_path).pathname)).slice(0, 16) || "index";
+      } catch {
+        _pathname = "-";
+      }
+      const _hashedPath = `${_pathname}.${hash(_path)}`;
+      const _headers = variableHeaderNames.map((header) => [header, event.node.req.headers[header]]).map(([name, value]) => `${escapeKey(name)}.${hash(value)}`);
+      return [_hashedPath, ..._headers].join(":");
+    },
+    validate: (entry) => {
+      if (!entry.value) {
+        return false;
+      }
+      if (entry.value.code >= 400) {
+        return false;
+      }
+      if (entry.value.body === void 0) {
+        return false;
+      }
+      if (entry.value.headers.etag === "undefined" || entry.value.headers["last-modified"] === "undefined") {
+        return false;
+      }
+      return true;
+    },
+    group: opts.group || "nitro/handlers",
+    integrity: opts.integrity || hash([handler, opts])
+  };
+  const _cachedHandler = cachedFunction(
+    async (incomingEvent) => {
+      const variableHeaders = {};
+      for (const header of variableHeaderNames) {
+        const value = incomingEvent.node.req.headers[header];
+        if (value !== void 0) {
+          variableHeaders[header] = value;
+        }
+      }
+      const reqProxy = cloneWithProxy(incomingEvent.node.req, {
+        headers: variableHeaders
+      });
+      const resHeaders = {};
+      let _resSendBody;
+      const resProxy = cloneWithProxy(incomingEvent.node.res, {
+        statusCode: 200,
+        writableEnded: false,
+        writableFinished: false,
+        headersSent: false,
+        closed: false,
+        getHeader(name) {
+          return resHeaders[name];
+        },
+        setHeader(name, value) {
+          resHeaders[name] = value;
+          return this;
+        },
+        getHeaderNames() {
+          return Object.keys(resHeaders);
+        },
+        hasHeader(name) {
+          return name in resHeaders;
+        },
+        removeHeader(name) {
+          delete resHeaders[name];
+        },
+        getHeaders() {
+          return resHeaders;
+        },
+        end(chunk, arg2, arg3) {
+          if (typeof chunk === "string") {
+            _resSendBody = chunk;
+          }
+          if (typeof arg2 === "function") {
+            arg2();
+          }
+          if (typeof arg3 === "function") {
+            arg3();
+          }
+          return this;
+        },
+        write(chunk, arg2, arg3) {
+          if (typeof chunk === "string") {
+            _resSendBody = chunk;
+          }
+          if (typeof arg2 === "function") {
+            arg2(void 0);
+          }
+          if (typeof arg3 === "function") {
+            arg3();
+          }
+          return true;
+        },
+        writeHead(statusCode, headers2) {
+          this.statusCode = statusCode;
+          if (headers2) {
+            if (Array.isArray(headers2) || typeof headers2 === "string") {
+              throw new TypeError("Raw headers  is not supported.");
+            }
+            for (const header in headers2) {
+              const value = headers2[header];
+              if (value !== void 0) {
+                this.setHeader(
+                  header,
+                  value
+                );
+              }
+            }
+          }
+          return this;
+        }
+      });
+      const event = createEvent(reqProxy, resProxy);
+      event.fetch = (url, fetchOptions) => fetchWithEvent(event, url, fetchOptions, {
+        fetch: useNitroApp().localFetch
+      });
+      event.$fetch = (url, fetchOptions) => fetchWithEvent(event, url, fetchOptions, {
+        fetch: globalThis.$fetch
+      });
+      event.waitUntil = incomingEvent.waitUntil;
+      event.context = incomingEvent.context;
+      event.context.cache = {
+        options: _opts
+      };
+      const body = await handler(event) || _resSendBody;
+      const headers = event.node.res.getHeaders();
+      headers.etag = String(
+        headers.Etag || headers.etag || `W/"${hash(body)}"`
+      );
+      headers["last-modified"] = String(
+        headers["Last-Modified"] || headers["last-modified"] || (/* @__PURE__ */ new Date()).toUTCString()
+      );
+      const cacheControl = [];
+      if (opts.swr) {
+        if (opts.maxAge) {
+          cacheControl.push(`s-maxage=${opts.maxAge}`);
+        }
+        if (opts.staleMaxAge) {
+          cacheControl.push(`stale-while-revalidate=${opts.staleMaxAge}`);
+        } else {
+          cacheControl.push("stale-while-revalidate");
+        }
+      } else if (opts.maxAge) {
+        cacheControl.push(`max-age=${opts.maxAge}`);
+      }
+      if (cacheControl.length > 0) {
+        headers["cache-control"] = cacheControl.join(", ");
+      }
+      const cacheEntry = {
+        code: event.node.res.statusCode,
+        headers,
+        body
+      };
+      return cacheEntry;
+    },
+    _opts
+  );
+  return defineEventHandler(async (event) => {
+    if (opts.headersOnly) {
+      if (handleCacheHeaders(event, { maxAge: opts.maxAge })) {
+        return;
+      }
+      return handler(event);
+    }
+    const response = await _cachedHandler(
+      event
+    );
+    if (event.node.res.headersSent || event.node.res.writableEnded) {
+      return response.body;
+    }
+    if (handleCacheHeaders(event, {
+      modifiedTime: new Date(response.headers["last-modified"]),
+      etag: response.headers.etag,
+      maxAge: opts.maxAge
+    })) {
+      return;
+    }
+    event.node.res.statusCode = response.code;
+    for (const name in response.headers) {
+      const value = response.headers[name];
+      if (name === "set-cookie") {
+        event.node.res.appendHeader(
+          name,
+          splitCookiesString(value)
+        );
+      } else {
+        if (value !== void 0) {
+          event.node.res.setHeader(name, value);
+        }
+      }
+    }
+    return response.body;
+  });
+}
+function cloneWithProxy(obj, overrides) {
+  return new Proxy(obj, {
+    get(target, property, receiver) {
+      if (property in overrides) {
+        return overrides[property];
+      }
+      return Reflect.get(target, property, receiver);
+    },
+    set(target, property, value, receiver) {
+      if (property in overrides) {
+        overrides[property] = value;
+        return true;
+      }
+      return Reflect.set(target, property, value, receiver);
+    }
+  });
+}
+const cachedEventHandler = defineCachedEventHandler;
+
+const inlineAppConfig = {};
+
+
+
+const appConfig = defuFn(inlineAppConfig);
+
+function getEnv(key, opts) {
+  const envKey = snakeCase(key).toUpperCase();
+  return destr(
+    process.env[opts.prefix + envKey] ?? process.env[opts.altPrefix + envKey]
+  );
+}
+function _isObject(input) {
+  return typeof input === "object" && !Array.isArray(input);
+}
+function applyEnv(obj, opts, parentKey = "") {
+  for (const key in obj) {
+    const subKey = parentKey ? `${parentKey}_${key}` : key;
+    const envValue = getEnv(subKey, opts);
+    if (_isObject(obj[key])) {
+      if (_isObject(envValue)) {
+        obj[key] = { ...obj[key], ...envValue };
+        applyEnv(obj[key], opts, subKey);
+      } else if (envValue === void 0) {
+        applyEnv(obj[key], opts, subKey);
+      } else {
+        obj[key] = envValue ?? obj[key];
+      }
+    } else {
+      obj[key] = envValue ?? obj[key];
+    }
+    if (opts.envExpansion && typeof obj[key] === "string") {
+      obj[key] = _expandFromEnv(obj[key]);
+    }
+  }
+  return obj;
+}
+const envExpandRx = /\{\{([^{}]*)\}\}/g;
+function _expandFromEnv(value) {
+  return value.replace(envExpandRx, (match, key) => {
+    return process.env[key] || match;
+  });
+}
+
+const _inlineRuntimeConfig = {
+  "app": {
+    "baseURL": "/",
+    "buildId": "dev",
+    "buildAssetsDir": "/_nuxt/",
+    "cdnURL": ""
+  },
+  "nitro": {
+    "envPrefix": "NUXT_",
+    "routeRules": {
+      "/__nuxt_error": {
+        "cache": false
+      },
+      "/**": {
+        "noScripts": true
+      }
+    }
+  },
+  "public": {},
+  "ipx": {
+    "baseURL": "/_ipx",
+    "alias": {},
+    "fs": {
+      "dir": [
+        "/Users/nicholas/Solutions/personal/curated/assets"
+      ]
+    },
+    "http": {
+      "domains": []
+    }
+  }
+};
+const envOptions = {
+  prefix: "NITRO_",
+  altPrefix: _inlineRuntimeConfig.nitro.envPrefix ?? process.env.NITRO_ENV_PREFIX ?? "_",
+  envExpansion: _inlineRuntimeConfig.nitro.envExpansion ?? process.env.NITRO_ENV_EXPANSION ?? false
+};
+const _sharedRuntimeConfig = _deepFreeze(
+  applyEnv(klona(_inlineRuntimeConfig), envOptions)
+);
+function useRuntimeConfig(event) {
+  if (!event) {
+    return _sharedRuntimeConfig;
+  }
+  if (event.context.nitro.runtimeConfig) {
+    return event.context.nitro.runtimeConfig;
+  }
+  const runtimeConfig = klona(_inlineRuntimeConfig);
+  applyEnv(runtimeConfig, envOptions);
+  event.context.nitro.runtimeConfig = runtimeConfig;
+  return runtimeConfig;
+}
+_deepFreeze(klona(appConfig));
+function _deepFreeze(object) {
+  const propNames = Object.getOwnPropertyNames(object);
+  for (const name of propNames) {
+    const value = object[name];
+    if (value && typeof value === "object") {
+      _deepFreeze(value);
+    }
+  }
+  return Object.freeze(object);
+}
+new Proxy(/* @__PURE__ */ Object.create(null), {
+  get: (_, prop) => {
+    console.warn(
+      "Please use `useRuntimeConfig()` instead of accessing config directly."
+    );
+    const runtimeConfig = useRuntimeConfig();
+    if (prop in runtimeConfig) {
+      return runtimeConfig[prop];
+    }
+    return void 0;
+  }
+});
+
+getContext("nitro-app", {
+  asyncContext: false,
+  AsyncLocalStorage: void 0
+});
+
+function isPathInScope(pathname, base) {
+  let canonical;
+  try {
+    const pre = pathname.replace(/%2f/gi, "/").replace(/%5c/gi, "\\");
+    canonical = new URL(pre, "http://_").pathname;
+  } catch {
+    return false;
+  }
+  return !base || canonical === base || canonical.startsWith(base + "/");
+}
+
+const config = useRuntimeConfig();
+const _routeRulesMatcher = toRouteMatcher(
+  createRouter({ routes: config.nitro.routeRules })
+);
+function createRouteRulesHandler(ctx) {
+  return eventHandler((event) => {
+    const routeRules = getRouteRules(event);
+    if (routeRules.headers) {
+      setHeaders(event, routeRules.headers);
+    }
+    if (routeRules.redirect) {
+      let target = routeRules.redirect.to;
+      if (target.endsWith("/**")) {
+        let targetPath = event.path;
+        const strpBase = routeRules.redirect._redirectStripBase;
+        if (strpBase) {
+          if (!isPathInScope(event.path.split("?")[0], strpBase)) {
+            throw createError({ statusCode: 400 });
+          }
+          targetPath = withoutBase(targetPath, strpBase);
+        } else if (targetPath.startsWith("//")) {
+          targetPath = targetPath.replace(/^\/+/, "/");
+        }
+        target = joinURL(target.slice(0, -3), targetPath);
+      } else if (event.path.includes("?")) {
+        const query = getQuery(event.path);
+        target = withQuery(target, query);
+      }
+      return sendRedirect(event, target, routeRules.redirect.statusCode);
+    }
+    if (routeRules.proxy) {
+      let target = routeRules.proxy.to;
+      if (target.endsWith("/**")) {
+        let targetPath = event.path;
+        const strpBase = routeRules.proxy._proxyStripBase;
+        if (strpBase) {
+          if (!isPathInScope(event.path.split("?")[0], strpBase)) {
+            throw createError({ statusCode: 400 });
+          }
+          targetPath = withoutBase(targetPath, strpBase);
+        } else if (targetPath.startsWith("//")) {
+          targetPath = targetPath.replace(/^\/+/, "/");
+        }
+        target = joinURL(target.slice(0, -3), targetPath);
+      } else if (event.path.includes("?")) {
+        const query = getQuery(event.path);
+        target = withQuery(target, query);
+      }
+      return proxyRequest(event, target, {
+        fetch: ctx.localFetch,
+        ...routeRules.proxy
+      });
+    }
+  });
+}
+function getRouteRules(event) {
+  event.context._nitro = event.context._nitro || {};
+  if (!event.context._nitro.routeRules) {
+    event.context._nitro.routeRules = getRouteRulesForPath(
+      withoutBase(event.path.split("?")[0], useRuntimeConfig().app.baseURL)
+    );
+  }
+  return event.context._nitro.routeRules;
+}
+function getRouteRulesForPath(path) {
+  return defu({}, ..._routeRulesMatcher.matchAll(path).reverse());
+}
+
+function _captureError(error, type) {
+  console.error(`[${type}]`, error);
+  useNitroApp().captureError(error, { tags: [type] });
+}
+function trapUnhandledNodeErrors() {
+  process.on(
+    "unhandledRejection",
+    (error) => _captureError(error, "unhandledRejection")
+  );
+  process.on(
+    "uncaughtException",
+    (error) => _captureError(error, "uncaughtException")
+  );
+}
+function joinHeaders(value) {
+  return Array.isArray(value) ? value.join(", ") : String(value);
+}
+function normalizeFetchResponse(response) {
+  if (!response.headers.has("set-cookie")) {
+    return response;
+  }
+  return new Response(response.body, {
+    status: response.status,
+    statusText: response.statusText,
+    headers: normalizeCookieHeaders(response.headers)
+  });
+}
+function normalizeCookieHeader(header = "") {
+  return splitCookiesString(joinHeaders(header));
+}
+function normalizeCookieHeaders(headers) {
+  const outgoingHeaders = new Headers();
+  for (const [name, header] of headers) {
+    if (name === "set-cookie") {
+      for (const cookie of normalizeCookieHeader(header)) {
+        outgoingHeaders.append("set-cookie", cookie);
+      }
+    } else {
+      outgoingHeaders.set(name, joinHeaders(header));
+    }
+  }
+  return outgoingHeaders;
+}
+
+//#region src/runtime/utils/error.ts
+/**
+* Nitro internal functions extracted from https://github.com/nitrojs/nitro/blob/v2/src/runtime/internal/utils.ts
+*/
+function isJsonRequest(event) {
+	if (hasReqHeader(event, "accept", "text/html")) return false;
+	return hasReqHeader(event, "accept", "application/json") || hasReqHeader(event, "user-agent", "curl/") || hasReqHeader(event, "user-agent", "httpie/") || hasReqHeader(event, "sec-fetch-mode", "cors") || event.path.startsWith("/api/") || event.path.endsWith(".json");
+}
+function hasReqHeader(event, name, includes) {
+	const value = getRequestHeader(event, name);
+	return !!(value && typeof value === "string" && value.toLowerCase().includes(includes));
+}
+
+//#region src/runtime/utils/dev.ts
+const iframeStorageBridge = (nonce) => `
+(function () {
+  const NONCE = ${JSON.stringify(nonce)};
+  const memoryStore = Object.create(null);
+
+  const post = (type, payload) => {
+    window.parent.postMessage({ type, nonce: NONCE, ...payload }, '*');
+  };
+
+  const isValid = (data) => data && data.nonce === NONCE;
+
+  const mockStorage = {
+    getItem(key) {
+      return Object.hasOwn(memoryStore, key)
+        ? memoryStore[key]
+        : null;
+    },
+    setItem(key, value) {
+      const v = String(value);
+      memoryStore[key] = v;
+      post('storage-set', { key, value: v });
+    },
+    removeItem(key) {
+      delete memoryStore[key];
+      post('storage-remove', { key });
+    },
+    clear() {
+      for (const key of Object.keys(memoryStore))
+        delete memoryStore[key];
+      post('storage-clear', {});
+    },
+    key(index) {
+      const keys = Object.keys(memoryStore);
+      return keys[index] ?? null;
+    },
+    get length() {
+      return Object.keys(memoryStore).length;
+    }
+  };
+
+  const defineLocalStorage = () => {
+    try {
+      Object.defineProperty(window, 'localStorage', {
+        value: mockStorage,
+        writable: false,
+        configurable: true
+      });
+    } catch {
+      window.localStorage = mockStorage;
+    }
+  };
+
+  defineLocalStorage();
+
+  window.addEventListener('message', (event) => {
+    const data = event.data;
+    if (!isValid(data) || data.type !== 'storage-sync-data') return;
+
+    const incoming = data.data || {};
+    for (const key of Object.keys(incoming))
+      memoryStore[key] = incoming[key];
+
+    if (typeof window.initTheme === 'function')
+      window.initTheme();
+    window.dispatchEvent(new Event('storage-ready'));
+  });
+
+  // Clipboard API is unavailable in data: URL iframe, so we use postMessage
+  document.addEventListener('DOMContentLoaded', function() {
+    window.copyErrorMessage = function(button) {
+      post('clipboard-copy', { text: button.dataset.errorText });
+      button.classList.add('copied');
+      setTimeout(function() { button.classList.remove('copied'); }, 2000);
+    };
+  });
+
+  post('storage-sync-request', {});
+})();
+`;
+const parentStorageBridge = (nonce) => `
+(function () {
+  const host = document.querySelector('nuxt-error-overlay');
+  if (!host) return;
+
+  const NONCE = ${JSON.stringify(nonce)};
+  const isValid = (data) => data && data.nonce === NONCE;
+
+  // Handle clipboard copy from iframe
+  window.addEventListener('message', function(e) {
+    if (isValid(e.data) && e.data.type === 'clipboard-copy') {
+      navigator.clipboard.writeText(e.data.text).catch(function() {});
+    }
+  });
+
+  const collectLocalStorage = () => {
+    const all = {};
+    for (let i = 0; i < localStorage.length; i++) {
+      const k = localStorage.key(i);
+      if (k != null) all[k] = localStorage.getItem(k);
+    }
+    return all;
+  };
+
+  const attachWhenReady = () => {
+    const root = host.shadowRoot;
+    if (!root)
+      return false;
+    const iframe = root.getElementById('frame');
+    if (!iframe || !iframe.contentWindow)
+      return false;
+
+    const handlers = {
+      'storage-set': (d) => localStorage.setItem(d.key, d.value),
+      'storage-remove': (d) => localStorage.removeItem(d.key),
+      'storage-clear': () => localStorage.clear(),
+      'storage-sync-request': () => {
+        iframe.contentWindow.postMessage({
+          type: 'storage-sync-data',
+          data: collectLocalStorage(),
+          nonce: NONCE
+        }, '*');
+      }
+    };
+
+    window.addEventListener('message', (event) => {
+      const data = event.data;
+      if (!isValid(data)) return;
+      const fn = handlers[data.type];
+      if (fn) fn(data);
+    });
+
+    return true;
+  };
+
+  if (attachWhenReady())
+    return;
+
+  const obs = new MutationObserver(() => {
+    if (attachWhenReady())
+      obs.disconnect();
+  });
+
+  obs.observe(host, { childList: true, subtree: true });
+})();
+`;
+const errorCSS = `
+:host {
+  --preview-width: 240px;
+  --preview-height: 180px;
+  --base-width: 1200px;
+  --base-height: 900px;
+  --z-base: 999999998;
+  --error-pip-left: auto;
+  --error-pip-top: auto;
+  --error-pip-right: 5px;
+  --error-pip-bottom: 5px;
+  --error-pip-origin: bottom right;
+  --app-preview-left: auto;
+  --app-preview-top: auto;
+  --app-preview-right: 5px;
+  --app-preview-bottom: 5px;
+  all: initial;
+  display: contents;
+}
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+#frame {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  border: none;
+  z-index: var(--z-base);
+}
+#frame[inert] {
+  left: var(--error-pip-left);
+  top: var(--error-pip-top);
+  right: var(--error-pip-right);
+  bottom: var(--error-pip-bottom);
+  width: var(--base-width);
+  height: var(--base-height);
+  transform: scale(calc(240 / 1200));
+  transform-origin: var(--error-pip-origin);
+  overflow: hidden;
+  border-radius: calc(1200 * 8px / 240);
+}
+#preview {
+  position: fixed;
+  left: var(--app-preview-left);
+  top: var(--app-preview-top);
+  right: var(--app-preview-right);
+  bottom: var(--app-preview-bottom);
+  width: var(--preview-width);
+  height: var(--preview-height);
+  overflow: hidden;
+  border-radius: 6px;
+  pointer-events: none;
+  z-index: var(--z-base);
+  background: white;
+  display: none;
+}
+#preview iframe {
+  transform-origin: var(--error-pip-origin);
+}
+#frame:not([inert]) + #preview {
+  display: block;
+}
+#toggle {
+  position: fixed;
+  left: var(--app-preview-left);
+  top: var(--app-preview-top);
+  right: calc(var(--app-preview-right) - 3px);
+  bottom: calc(var(--app-preview-bottom) - 3px);
+  width: var(--preview-width);
+  height: var(--preview-height);
+  background: none;
+  border: 3px solid #00DC82;
+  border-radius: 8px;
+  cursor: pointer;
+  opacity: 0.8;
+  transition: opacity 0.2s, box-shadow 0.2s;
+  z-index: calc(var(--z-base) + 1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#toggle:hover,
+#toggle:focus {
+  opacity: 1;
+  box-shadow: 0 0 20px rgba(0, 220, 130, 0.6);
+}
+#toggle:focus-visible {
+  outline: 3px solid #00DC82;
+  outline-offset: 0;
+  box-shadow: 0 0 24px rgba(0, 220, 130, 0.8);
+}
+#frame[inert] ~ #toggle {
+  left: var(--error-pip-left);
+  top: var(--error-pip-top);
+  right: calc(var(--error-pip-right) - 3px);
+  bottom: calc(var(--error-pip-bottom) - 3px);
+  cursor: grab;
+}
+:host(.dragging) #frame[inert] ~ #toggle {
+  cursor: grabbing;
+}
+#frame:not([inert]) ~ #toggle,
+#frame:not([inert]) + #preview {
+  cursor: grab;
+}
+:host(.dragging-preview) #frame:not([inert]) ~ #toggle,
+:host(.dragging-preview) #frame:not([inert]) + #preview {
+  cursor: grabbing;
+}
+
+#pip-close {
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  border: none;
+  background: rgba(0, 0, 0, 0.75);
+  color: #fff;
+  font-size: 16px;
+  line-height: 1;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  pointer-events: auto;
+}
+#pip-close:focus-visible {
+  outline: 2px solid #00DC82;
+  outline-offset: 2px;
+}
+
+#pip-restore {
+  position: fixed;
+  right: 16px;
+  bottom: 16px;
+  padding: 8px 14px;
+  border-radius: 999px;
+  border: 2px solid #00DC82;
+  background: #111;
+  color: #fff;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+  font-size: 14px;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  z-index: calc(var(--z-base) + 2);
+  cursor: grab;
+}
+#pip-restore:focus-visible {
+  outline: 2px solid #00DC82;
+  outline-offset: 2px;
+}
+:host(.dragging-restore) #pip-restore {
+  cursor: grabbing;
+}
+
+#frame[hidden],
+#toggle[hidden],
+#preview[hidden],
+#pip-restore[hidden],
+#pip-close[hidden] {
+  display: none !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #toggle {
+    transition: none;
+  }
+}
+`;
+function webComponentScript(base64HTML, startMinimized) {
+	return `
+(function () {
+  try {
+    // =========================
+    // Host + Shadow
+    // =========================
+    const host = document.querySelector('nuxt-error-overlay');
+    if (!host)
+      return;
+    const shadow = host.attachShadow({ mode: 'open' });
+
+    // =========================
+    // DOM helpers
+    // =========================
+    const el = (tag) => document.createElement(tag);
+    const on = (node, type, fn, opts) => node.addEventListener(type, fn, opts);
+    const hide = (node, v) => node.toggleAttribute('hidden', !!v);
+    const setVar = (name, value) => host.style.setProperty(name, value);
+    const unsetVar = (name) => host.style.removeProperty(name);
+
+    // =========================
+    // Create DOM
+    // =========================
+    const style = el('style');
+    style.textContent = ${JSON.stringify(errorCSS)};
+
+    const iframe = el('iframe');
+    iframe.id = 'frame';
+    iframe.src = 'data:text/html;base64,${base64HTML}';
+    iframe.title = 'Detailed error stack trace';
+    iframe.setAttribute('sandbox', 'allow-scripts allow-same-origin allow-top-navigation-by-user-activation');
+
+    const preview = el('div');
+    preview.id = 'preview';
+
+    const toggle = el('div');
+    toggle.id = 'toggle';
+    toggle.setAttribute('aria-expanded', 'true');
+    toggle.setAttribute('role', 'button');
+    toggle.setAttribute('tabindex', '0');
+    toggle.innerHTML = '<span class="sr-only">Toggle detailed error view</span>';
+
+    const liveRegion = el('div');
+    liveRegion.setAttribute('role', 'status');
+    liveRegion.setAttribute('aria-live', 'polite');
+    liveRegion.className = 'sr-only';
+
+    const pipCloseButton = el('button');
+    pipCloseButton.id = 'pip-close';
+    pipCloseButton.setAttribute('type', 'button');
+    pipCloseButton.setAttribute('aria-label', 'Hide error preview overlay');
+    pipCloseButton.innerHTML = '&times;';
+    pipCloseButton.hidden = true;
+    toggle.appendChild(pipCloseButton);
+
+    const pipRestoreButton = el('button');
+    pipRestoreButton.id = 'pip-restore';
+    pipRestoreButton.setAttribute('type', 'button');
+    pipRestoreButton.setAttribute('aria-label', 'Show error overlay');
+    pipRestoreButton.innerHTML = '<span aria-hidden="true">⟲</span><span>Show error overlay</span>';
+    pipRestoreButton.hidden = true;
+
+    // Order matters: #frame + #preview adjacency
+    shadow.appendChild(style);
+    shadow.appendChild(liveRegion);
+    shadow.appendChild(iframe);
+    shadow.appendChild(preview);
+    shadow.appendChild(toggle);
+    shadow.appendChild(pipRestoreButton);
+
+    // =========================
+    // Constants / keys
+    // =========================
+    const POS_KEYS = {
+      position: 'nuxt-error-overlay:position',
+      hiddenPretty: 'nuxt-error-overlay:error-pip:hidden',
+      hiddenPreview: 'nuxt-error-overlay:app-preview:hidden'
+    };
+
+    const CSS_VARS = {
+      pip: {
+        left: '--error-pip-left',
+        top: '--error-pip-top',
+        right: '--error-pip-right',
+        bottom: '--error-pip-bottom'
+      },
+      preview: {
+        left: '--app-preview-left',
+        top: '--app-preview-top',
+        right: '--app-preview-right',
+        bottom: '--app-preview-bottom'
+      }
+    };
+
+    const MIN_GAP = 5;
+    const DRAG_THRESHOLD = 2;
+
+    // =========================
+    // Local storage safe access + state
+    // =========================
+    let storageReady = true;
+    let isPrettyHidden = false;
+    let isPreviewHidden = false;
+
+    const safeGet = (k) => {
+      try {
+        return localStorage.getItem(k);
+      } catch {
+        return null;
+      }
+    };
+
+    const safeSet = (k, v) => {
+      if (!storageReady) 
+        return;
+      try {
+        localStorage.setItem(k, v);
+      } catch {}
+    };
+
+    // =========================
+    // Sizing helpers
+    // =========================
+    const vvSize = () => {
+      const v = window.visualViewport;
+      return v ? { w: v.width, h: v.height } : { w: window.innerWidth, h: window.innerHeight };
+    };
+
+    const previewSize = () => {
+      const styles = getComputedStyle(host);
+      const w = parseFloat(styles.getPropertyValue('--preview-width')) || 240;
+      const h = parseFloat(styles.getPropertyValue('--preview-height')) || 180;
+      return { w, h };
+    };
+
+    const sizeForTarget = (target) => {
+      if (!target)
+        return previewSize();
+      const rect = target.getBoundingClientRect();
+      if (rect.width && rect.height)
+        return { w: rect.width, h: rect.height };
+      return previewSize();
+    };
+
+    // =========================
+    // Dock model + offset/alignment calculations
+    // =========================
+    const dock = { edge: null, offset: null, align: null, gap: null };
+
+    const maxOffsetFor = (edge, size) => {
+      const vv = vvSize();
+      if (edge === 'left' || edge === 'right')
+        return Math.max(MIN_GAP, vv.h - size.h - MIN_GAP);
+      return Math.max(MIN_GAP, vv.w - size.w - MIN_GAP);
+    };
+
+    const clampOffset = (edge, value, size) => {
+      const max = maxOffsetFor(edge, size);
+      return Math.min(Math.max(value, MIN_GAP), max);
+    };
+
+    const updateDockAlignment = (size) => {
+      if (!dock.edge || dock.offset == null)
+        return;
+      const max = maxOffsetFor(dock.edge, size);
+      if (dock.offset <= max / 2) {
+        dock.align = 'start';
+        dock.gap = dock.offset;
+      } else {
+        dock.align = 'end';
+        dock.gap = Math.max(0, max - dock.offset);
+      }
+    };
+
+    const appliedOffsetFor = (size) => {
+      if (!dock.edge || dock.offset == null)
+        return null;
+      const max = maxOffsetFor(dock.edge, size);
+
+      if (dock.align === 'end' && typeof dock.gap === 'number') {
+        return clampOffset(dock.edge, max - dock.gap, size);
+      }
+      if (dock.align === 'start' && typeof dock.gap === 'number') {
+        return clampOffset(dock.edge, dock.gap, size);
+      }
+      return clampOffset(dock.edge, dock.offset, size);
+    };
+
+    const nearestEdgeAt = (x, y) => {
+      const { w, h } = vvSize();
+      const d = { left: x, right: w - x, top: y, bottom: h - y };
+      return Object.keys(d).reduce((a, b) => (d[a] < d[b] ? a : b));
+    };
+
+    const cornerDefaultDock = () => {
+      const vv = vvSize();
+      const size = previewSize();
+      const offset = Math.max(MIN_GAP, vv.w - size.w - MIN_GAP);
+      return { edge: 'bottom', offset };
+    };
+
+    const currentTransformOrigin = () => {
+      if (!dock.edge) return null;
+      if (dock.edge === 'left' || dock.edge === 'top')
+        return 'top left';
+      if (dock.edge === 'right')
+        return 'top right';
+      return 'bottom left';
+    };
+
+    // =========================
+    // Persist / load dock
+    // =========================
+    const loadDock = () => {
+      const raw = safeGet(POS_KEYS.position);
+      if (!raw)
+        return;
+      try {
+        const parsed = JSON.parse(raw);
+        const { edge, offset, align, gap } = parsed || {};
+        if (!['left', 'right', 'top', 'bottom'].includes(edge))
+          return;
+        if (typeof offset !== 'number')
+          return;
+
+        dock.edge = edge;
+        dock.offset = clampOffset(edge, offset, previewSize());
+        dock.align = align === 'start' || align === 'end' ? align : null;
+        dock.gap = typeof gap === 'number' ? gap : null;
+
+        if (!dock.align || dock.gap == null)
+          updateDockAlignment(previewSize());
+      } catch {}
+    };
+
+    const persistDock = () => {
+      if (!dock.edge || dock.offset == null)
+        return; 
+      safeSet(POS_KEYS.position, JSON.stringify({
+        edge: dock.edge,
+        offset: dock.offset,
+        align: dock.align,
+        gap: dock.gap
+      }));
+    };
+
+    // =========================
+    // Apply dock
+    // =========================
+    const dockToVars = (vars) => ({
+      set: (side, v) => host.style.setProperty(vars[side], v),
+      clear: (side) => host.style.removeProperty(vars[side])
+    });
+
+    const dockToEl = (node) => ({
+      set: (side, v) => { node.style[side] = v; },
+      clear: (side) => { node.style[side] = ''; }
+    });
+
+    const applyDock = (target, size, opts) => {
+      if (!dock.edge || dock.offset == null) {
+        target.clear('left');
+        target.clear('top');
+        target.clear('right');
+        target.clear('bottom');
+        return;
+      }
+
+      target.set('left', 'auto');
+      target.set('top', 'auto');
+      target.set('right', 'auto');
+      target.set('bottom', 'auto');
+
+      const applied = appliedOffsetFor(size);
+
+      if (dock.edge === 'left') {
+        target.set('left', MIN_GAP + 'px');
+        target.set('top', applied + 'px');
+      } else if (dock.edge === 'right') {
+        target.set('right', MIN_GAP + 'px');
+        target.set('top', applied + 'px');
+      } else if (dock.edge === 'top') {
+        target.set('top', MIN_GAP + 'px');
+        target.set('left', applied + 'px');
+      } else {
+        target.set('bottom', MIN_GAP + 'px');
+        target.set('left', applied + 'px');
+      }
+
+      if (!opts || opts.persist !== false)
+        persistDock();
+    };
+
+    const applyDockAll = (opts) => {
+      applyDock(dockToVars(CSS_VARS.pip), previewSize(), opts);
+      applyDock(dockToVars(CSS_VARS.preview), previewSize(), opts);
+      applyDock(dockToEl(pipRestoreButton), sizeForTarget(pipRestoreButton), opts);
+    };
+
+    const repaintToDock = () => {
+      if (!dock.edge || dock.offset == null)
+        return;
+      const origin = currentTransformOrigin();
+      if (origin)
+        setVar('--error-pip-origin', origin);
+      else 
+        unsetVar('--error-pip-origin');
+      applyDockAll({ persist: false });
+    };
+
+    // =========================
+    // Hidden state + UI
+    // =========================
+    const loadHidden = () => {
+      const rawPretty = safeGet(POS_KEYS.hiddenPretty);
+      if (rawPretty != null)
+        isPrettyHidden = rawPretty === '1' || rawPretty === 'true';
+      const rawPreview = safeGet(POS_KEYS.hiddenPreview);
+      if (rawPreview != null)
+        isPreviewHidden = rawPreview === '1' || rawPreview === 'true';
+    };
+
+    const setPrettyHidden = (v) => {
+      isPrettyHidden = !!v;
+      safeSet(POS_KEYS.hiddenPretty, isPrettyHidden ? '1' : '0');
+      updateUI();
+    };
+
+    const setPreviewHidden = (v) => {
+      isPreviewHidden = !!v;
+      safeSet(POS_KEYS.hiddenPreview, isPreviewHidden ? '1' : '0');
+      updateUI();
+    };
+
+    const isMinimized = () => iframe.hasAttribute('inert');
+
+    const setMinimized = (v) => {
+      if (v) {
+        iframe.setAttribute('inert', '');
+        toggle.setAttribute('aria-expanded', 'false');
+      } else {
+        iframe.removeAttribute('inert');
+        toggle.setAttribute('aria-expanded', 'true');
+      }
+    };
+
+    const setRestoreLabel = (kind) => {
+      if (kind === 'pretty') {
+        pipRestoreButton.innerHTML = '<span aria-hidden="true">⟲</span><span>Show error overlay</span>';
+        pipRestoreButton.setAttribute('aria-label', 'Show error overlay');
+      } else {
+        pipRestoreButton.innerHTML = '<span aria-hidden="true">⟲</span><span>Show error page</span>';
+        pipRestoreButton.setAttribute('aria-label', 'Show error page');
+      }
+    };
+
+    const updateUI = () => {
+      const minimized = isMinimized();
+      const showPiP = minimized && !isPrettyHidden;
+      const showPreview = !minimized && !isPreviewHidden;
+      const pipHiddenByUser = minimized && isPrettyHidden;
+      const previewHiddenByUser = !minimized && isPreviewHidden;
+      const showToggle = minimized ? showPiP : showPreview;
+      const showRestore = pipHiddenByUser || previewHiddenByUser;
+
+      hide(iframe, pipHiddenByUser);
+      hide(preview, !showPreview);
+      hide(toggle, !showToggle);
+      hide(pipCloseButton, !showToggle);
+      hide(pipRestoreButton, !showRestore);
+
+      pipCloseButton.setAttribute('aria-label', minimized ? 'Hide error overlay' : 'Hide error page preview');
+
+      if (pipHiddenByUser)
+        setRestoreLabel('pretty');
+      else if (previewHiddenByUser)
+        setRestoreLabel('preview');
+
+      host.classList.toggle('pip-hidden', isPrettyHidden);
+      host.classList.toggle('preview-hidden', isPreviewHidden);
+    };
+
+    // =========================
+    // Preview snapshot
+    // =========================
+    const updatePreview = () => {
+      try {
+        let previewIframe = preview.querySelector('iframe');
+        if (!previewIframe) {
+          previewIframe = el('iframe');
+          previewIframe.style.cssText = 'width: 1200px; height: 900px; transform: scale(0.2); transform-origin: top left; border: none;';
+          previewIframe.setAttribute('sandbox', 'allow-scripts allow-same-origin');
+          preview.appendChild(previewIframe);
+        }
+
+        const doctype = document.doctype ? '<!DOCTYPE ' + document.doctype.name + '>' : '';
+        const cleanedHTML = document.documentElement.outerHTML
+          .replace(/<nuxt-error-overlay[^>]*>.*?<\\/nuxt-error-overlay>/gs, '')
+          .replace(/<script[^>]*>.*?<\\/script>/gs, '');
+
+        const iframeDoc = previewIframe.contentDocument || previewIframe.contentWindow.document;
+        iframeDoc.open();
+        iframeDoc.write(doctype + cleanedHTML);
+        iframeDoc.close();
+      } catch (err) {
+        console.error('Failed to update preview:', err);
+      }
+    };
+
+    // =========================
+    // View toggling
+    // =========================
+    const toggleView = () => {
+      if (isMinimized()) {
+        updatePreview();
+        setMinimized(false);
+        liveRegion.textContent = 'Showing detailed error view';
+        setTimeout(() => { 
+          try { 
+            iframe.contentWindow.focus();
+          } catch {}
+        }, 100);
+      } else {
+        setMinimized(true);
+        liveRegion.textContent = 'Showing error page';
+        repaintToDock();
+        void iframe.offsetWidth;
+      }
+      updateUI();
+    };
+
+    // =========================
+    // Dragging (unified, rAF throttled)
+    // =========================
+    let drag = null;
+    let rafId = null;
+    let suppressToggleClick = false;
+    let suppressRestoreClick = false;
+
+    const beginDrag = (e) => {
+      if (drag) 
+        return;
+
+      if (!dock.edge || dock.offset == null) {
+        const def = cornerDefaultDock();
+        dock.edge = def.edge;
+        dock.offset = def.offset;
+        updateDockAlignment(previewSize());
+      }
+
+      const isRestoreTarget = e.currentTarget === pipRestoreButton;
+
+      drag = {
+        kind: isRestoreTarget ? 'restore' : (isMinimized() ? 'pip' : 'preview'),
+        pointerId: e.pointerId,
+        startX: e.clientX,
+        startY: e.clientY,
+        lastX: e.clientX,
+        lastY: e.clientY,
+        moved: false,
+        target: e.currentTarget
+      };
+
+      drag.target.setPointerCapture(e.pointerId);
+
+      if (drag.kind === 'restore')
+        host.classList.add('dragging-restore');
+      else 
+        host.classList.add(drag.kind === 'pip' ? 'dragging' : 'dragging-preview');
+
+      e.preventDefault();
+    };
+
+    const moveDrag = (e) => {
+      if (!drag || drag.pointerId !== e.pointerId)
+        return;
+
+      drag.lastX = e.clientX;
+      drag.lastY = e.clientY;
+      
+      const dx = drag.lastX - drag.startX;
+      const dy = drag.lastY - drag.startY;
+
+      if (!drag.moved && (Math.abs(dx) > DRAG_THRESHOLD || Math.abs(dy) > DRAG_THRESHOLD)) {
+        drag.moved = true;
+      }
+
+      if (!drag.moved)
+        return;
+      if (rafId)
+        return;
+
+      rafId = requestAnimationFrame(() => {
+        rafId = null;
+
+        const edge = nearestEdgeAt(drag.lastX, drag.lastY);
+        const size = sizeForTarget(drag.target);
+
+        let offset;
+        if (edge === 'left' || edge === 'right') {
+          const top = drag.lastY - (size.h / 2);
+          offset = clampOffset(edge, Math.round(top), size);
+        } else {
+          const left = drag.lastX - (size.w / 2);
+          offset = clampOffset(edge, Math.round(left), size);
+        }
+
+        dock.edge = edge;
+        dock.offset = offset;
+        updateDockAlignment(size);
+
+        const origin = currentTransformOrigin();
+        setVar('--error-pip-origin', origin || 'bottom right');
+
+        applyDockAll({ persist: false });
+      });
+    };
+
+    const endDrag = (e) => {
+      if (!drag || drag.pointerId !== e.pointerId)
+        return;
+
+      const endedKind = drag.kind;
+      drag.target.releasePointerCapture(e.pointerId);
+
+      if (endedKind === 'restore')
+        host.classList.remove('dragging-restore');
+      else 
+        host.classList.remove(endedKind === 'pip' ? 'dragging' : 'dragging-preview');
+
+      const didMove = drag.moved;
+      drag = null;
+
+      if (didMove) {
+        persistDock();
+        if (endedKind === 'restore')
+          suppressRestoreClick = true;
+        else 
+          suppressToggleClick = true;
+        e.preventDefault();
+        e.stopPropagation();
+      }
+    };
+
+    const bindDragTarget = (node) => {
+      on(node, 'pointerdown', beginDrag);
+      on(node, 'pointermove', moveDrag);
+      on(node, 'pointerup', endDrag);
+      on(node, 'pointercancel', endDrag);
+    };
+
+    bindDragTarget(toggle);
+    bindDragTarget(pipRestoreButton);
+
+    // =========================
+    // Events (toggle / close / restore)
+    // =========================
+    on(toggle, 'click', (e) => {
+      if (suppressToggleClick) {
+        e.preventDefault();
+        suppressToggleClick = false;
+        return;
+      }
+      toggleView();
+    });
+
+    on(toggle, 'keydown', (e) => {
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        toggleView();
+      }
+    });
+
+    on(pipCloseButton, 'click', (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      if (isMinimized())
+        setPrettyHidden(true);
+      else
+        setPreviewHidden(true);
+    });
+
+    on(pipCloseButton, 'pointerdown', (e) => {
+      e.stopPropagation();
+    });
+
+    on(pipRestoreButton, 'click', (e) => {
+      if (suppressRestoreClick) {
+        e.preventDefault();
+        suppressRestoreClick = false;
+        return;
+      }
+      e.preventDefault();
+      e.stopPropagation();
+      if (isMinimized()) 
+        setPrettyHidden(false);
+      else 
+        setPreviewHidden(false);
+    });
+
+    // =========================
+    // Lifecycle: load / sync / repaint
+    // =========================
+    const loadState = () => {
+      loadDock();
+      loadHidden();
+
+      if (isPrettyHidden && !isMinimized())
+        setMinimized(true);
+
+      updateUI();
+      repaintToDock();
+    };
+
+    loadState();
+
+    on(window, 'storage-ready', () => {
+      storageReady = true;
+      loadState();
+    });
+
+    const onViewportChange = () => repaintToDock();
+
+    on(window, 'resize', onViewportChange);
+
+    if (window.visualViewport) {
+      on(window.visualViewport, 'resize', onViewportChange);
+      on(window.visualViewport, 'scroll', onViewportChange);
+    }
+
+    // initial preview
+    setTimeout(updatePreview, 100);
+
+    // initial minimized option
+    if (${startMinimized}) {
+      setMinimized(true);
+      repaintToDock();
+      void iframe.offsetWidth;
+      updateUI();
+    }
+  } catch (err) {
+    console.error('Failed to initialize Nuxt error overlay:', err);
+  }
+})();
+`;
+}
+function generateErrorOverlayHTML(html, options) {
+	const nonce = Array.from(crypto.getRandomValues(/* @__PURE__ */ new Uint8Array(16)), (b) => b.toString(16).padStart(2, "0")).join("");
+	const errorPage = html.replace("<head>", `<head><script>${iframeStorageBridge(nonce)}<\/script>`);
+	const base64HTML = Buffer.from(errorPage, "utf8").toString("base64");
+	return `
+    <script>${parentStorageBridge(nonce)}<\/script>
+    <nuxt-error-overlay></nuxt-error-overlay>
+    <script>${webComponentScript(base64HTML, options?.startMinimized ?? false)}<\/script>
+  `;
+}
+
+//#region src/runtime/handlers/error.ts
+var error_default = async function errorhandler(error, event, { defaultHandler }) {
+	if (event.handled || isJsonRequest(event)) return;
+	const defaultRes = await defaultHandler(error, event, { json: true });
+	const status = error.status || error.statusCode || 500;
+	if (status === 404 && defaultRes.status === 302) {
+		setResponseHeaders(event, defaultRes.headers);
+		setResponseStatus(event, defaultRes.status, defaultRes.statusText);
+		return send(event, JSON.stringify(defaultRes.body, null, 2));
+	}
+	if (typeof defaultRes.body !== "string" && Array.isArray(defaultRes.body.stack)) defaultRes.body.stack = defaultRes.body.stack.join("\n");
+	const errorObject = defaultRes.body;
+	const url = new URL(errorObject.url);
+	errorObject.url = withoutBase(url.pathname, useRuntimeConfig(event).app.baseURL) + url.search + url.hash;
+	errorObject.message = error.unhandled ? errorObject.message || "Server Error" : error.message || errorObject.message || "Server Error";
+	errorObject.data ||= error.data;
+	errorObject.statusText ||= error.statusText || error.statusMessage;
+	delete defaultRes.headers["content-type"];
+	delete defaultRes.headers["content-security-policy"];
+	setResponseHeaders(event, defaultRes.headers);
+	const reqHeaders = getRequestHeaders(event);
+	const res = event.path.startsWith("/__nuxt_error") || !!reqHeaders["x-nuxt-error"] ? null : await useNitroApp().localFetch(withQuery(joinURL(useRuntimeConfig(event).app.baseURL, "/__nuxt_error"), errorObject), {
+		headers: {
+			...reqHeaders,
+			"x-nuxt-error": "true"
+		},
+		redirect: "manual"
+	}).catch(() => null);
+	if (event.handled) return;
+	if (!res) {
+		const { template } = await Promise.resolve().then(function () { return error500; });
+		errorObject.description = errorObject.message;
+		setResponseHeader(event, "Content-Type", "text/html;charset=UTF-8");
+		return send(event, template(errorObject));
+	}
+	const html = await res.text();
+	for (const [header, value] of res.headers.entries()) {
+		if (header === "set-cookie") {
+			appendResponseHeader(event, header, value);
+			continue;
+		}
+		setResponseHeader(event, header, value);
+	}
+	setResponseStatus(event, res.status && res.status !== 200 ? res.status : defaultRes.status, res.statusText || defaultRes.statusText);
+	if (!globalThis._importMeta_.test && typeof html === "string") {
+		const prettyResponse = await defaultHandler(error, event, { json: false });
+		if (typeof prettyResponse.body === "string") return send(event, html.replace("</body>", `${generateErrorOverlayHTML(prettyResponse.body, { startMinimized: 300 <= status && status < 500 })}</body>`));
+	}
+	return send(event, html);
+};
+
+function defineNitroErrorHandler(handler) {
+  return handler;
+}
+
+const errorHandler$1 = defineNitroErrorHandler(
+  async function defaultNitroErrorHandler(error, event) {
+    const res = await defaultHandler(error, event);
+    if (!event.node?.res.headersSent) {
+      setResponseHeaders(event, res.headers);
+    }
+    setResponseStatus(event, res.status, res.statusText);
+    return send(
+      event,
+      typeof res.body === "string" ? res.body : JSON.stringify(res.body, null, 2)
+    );
+  }
+);
+async function defaultHandler(error, event, opts) {
+  const isSensitive = error.unhandled || error.fatal;
+  const statusCode = error.statusCode || 500;
+  const statusMessage = error.statusMessage || "Server Error";
+  const url = getRequestURL(event, { xForwardedHost: true, xForwardedProto: true });
+  if (statusCode === 404) {
+    const baseURL = "/";
+    if (/^\/[^/]/.test(baseURL) && !url.pathname.startsWith(baseURL)) {
+      const redirectTo = `${baseURL}${url.pathname.slice(1)}${url.search}`;
+      return {
+        status: 302,
+        statusText: "Found",
+        headers: { location: redirectTo },
+        body: `Redirecting...`
+      };
+    }
+  }
+  await loadStackTrace(error).catch(consola.error);
+  const youch = new Youch();
+  if (isSensitive && !opts?.silent) {
+    const tags = [error.unhandled && "[unhandled]", error.fatal && "[fatal]"].filter(Boolean).join(" ");
+    const ansiError = await (await youch.toANSI(error)).replaceAll(process.cwd(), ".");
+    consola.error(
+      `[request error] ${tags} [${event.method}] ${url}
+
+`,
+      ansiError
+    );
+  }
+  const useJSON = opts?.json ?? !getRequestHeader(event, "accept")?.includes("text/html");
+  const headers = {
+    "content-type": useJSON ? "application/json" : "text/html",
+    // Prevent browser from guessing the MIME types of resources.
+    "x-content-type-options": "nosniff",
+    // Prevent error page from being embedded in an iframe
+    "x-frame-options": "DENY",
+    // Prevent browsers from sending the Referer header
+    "referrer-policy": "no-referrer",
+    // Disable the execution of any js
+    "content-security-policy": "script-src 'self' 'unsafe-inline'; object-src 'none'; base-uri 'self';"
+  };
+  if (statusCode === 404 || !getResponseHeader(event, "cache-control")) {
+    headers["cache-control"] = "no-cache";
+  }
+  const body = useJSON ? {
+    error: true,
+    url,
+    statusCode,
+    statusMessage,
+    message: error.message,
+    data: error.data,
+    stack: error.stack?.split("\n").map((line) => line.trim())
+  } : await youch.toHTML(error, {
+    request: {
+      url: url.href,
+      method: event.method,
+      headers: getRequestHeaders(event)
+    }
+  });
+  return {
+    status: statusCode,
+    statusText: statusMessage,
+    headers,
+    body
+  };
+}
+async function loadStackTrace(error) {
+  if (!(error instanceof Error)) {
+    return;
+  }
+  const parsed = await new ErrorParser().defineSourceLoader(sourceLoader).parse(error);
+  const stack = error.message + "\n" + parsed.frames.map((frame) => fmtFrame(frame)).join("\n");
+  Object.defineProperty(error, "stack", { value: stack });
+  if (error.cause) {
+    await loadStackTrace(error.cause).catch(consola.error);
+  }
+}
+async function sourceLoader(frame) {
+  if (!frame.fileName || frame.fileType !== "fs" || frame.type === "native") {
+    return;
+  }
+  if (frame.type === "app") {
+    const rawSourceMap = await readFile(`${frame.fileName}.map`, "utf8").catch(() => {
+    });
+    if (rawSourceMap) {
+      const consumer = await new SourceMapConsumer(rawSourceMap);
+      const originalPosition = consumer.originalPositionFor({ line: frame.lineNumber, column: frame.columnNumber });
+      if (originalPosition.source && originalPosition.line) {
+        frame.fileName = resolve(dirname(frame.fileName), originalPosition.source);
+        frame.lineNumber = originalPosition.line;
+        frame.columnNumber = originalPosition.column || 0;
+      }
+    }
+  }
+  const contents = await readFile(frame.fileName, "utf8").catch(() => {
+  });
+  return contents ? { contents } : void 0;
+}
+function fmtFrame(frame) {
+  if (frame.type === "native") {
+    return frame.raw;
+  }
+  const src = `${frame.fileName || ""}:${frame.lineNumber}:${frame.columnNumber})`;
+  return frame.functionName ? `at ${frame.functionName} (${src}` : `at ${src}`;
+}
+
+const errorHandlers = [error_default, errorHandler$1];
+
+async function errorHandler(error, event) {
+  for (const handler of errorHandlers) {
+    try {
+      await handler(error, event, { defaultHandler });
+      if (event.handled) {
+        return; // Response handled
+      }
+    } catch(error) {
+      // Handler itself thrown, log and continue
+      console.error(error);
+    }
+  }
+  // H3 will handle fallback
+}
+
+//#region src/runtime/diagnostics.ts
+const ansi = (open, close) => (s) => `\x1B[${open}m${s}\x1B[${close}m`;
+const colors = {
+	red: ansi(31, 39),
+	yellow: ansi(33, 39),
+	cyan: ansi(36, 39),
+	gray: ansi(90, 39),
+	bold: ansi(1, 22),
+	dim: ansi(2, 22)
+};
+/**
+* E8xxx
+* Nitro server runtime (SSR rendering / dev server) diagnostics.
+*/
+const docsBase = (code) => `https://nuxt.com/docs/4.x/errors/${code.replace("NUXT_", "").toLowerCase()}`;
+const serverDiagnostics = /* #__PURE__ */ defineDiagnostics({
+	docsBase,
+	reporters: [/* @__PURE__ */ createConsoleReporter({ formatter: ansiFormatter(colors) } )],
+	codes: {
+		NUXT_E8001: {
+			why: (p) => `\`render:html\` mutated \`body\`/\`bodyAppend\` while streaming (\`${p.path}\`). These fields are silently dropped because the body is about to stream.`,
+			fix: "Use the `render:html:close` hook instead.",
+			docs: false
+		},
+		NUXT_E8002: {
+			why: (p) => `SSR streaming committed the response before render completed (\`${p.path}\`). The following mutations did not reach the client and were dropped:\n  - ${p.mutations}`,
+			fix: (p) => `Move the mutation into a plugin (which runs before the shell is flushed), or opt this route out of streaming with \`routeRules: { '${p.path}': { streaming: false } }\` or the \`render:route\` hook.`,
+			docs: false
+		},
+		NUXT_E8003: {
+			why: (p) => `Failed to stringify dev server logs.${p.error ? ` Received \`${p.error}\`.` : ""}`,
+			fix: "You can define your own reducer/reviver for rich types following the instructions in `https://nuxt.com/docs/4.x/api/composables/use-nuxt-app#payload`.",
+			docs: false
+		},
+		NUXT_E8004: {
+			why: "The server bundle is not available.",
+			fix: "Ensure the Nuxt build completed successfully and the server entry was emitted by your builder.",
+			docs: false
+		},
+		NUXT_E8005: {
+			why: "Island props cannot contain a `template` key, which the Vue runtime compiler would compile and execute.",
+			fix: "Rename the prop (e.g. `templateName`), or disable `vue.runtimeCompiler` if you do not need runtime template compilation.",
+			docs: false
+		}
+	}
+});
+
+const appHead = {"meta":[{"name":"viewport","content":"width=device-width, initial-scale=1"},{"charset":"utf-8"}],"link":[{"rel":"icon","type":"image/x-icon","href":"/favicon.svg"}],"style":[],"script":[{"innerHTML":"document.documentElement.style.colorScheme = localStorage.getItem('curated:theme') || \"light\""},{"src":"/scripts/curated-theme-toggle.js","type":"module"},{"src":"/scripts/curated-image.js","type":"module"}],"noscript":[],"htmlAttrs":{"lang":"en"}};
+
+const appRootTag = "div";
+
+const appRootAttrs = {"id":"curated"};
+
+const appTeleportTag = "div";
+
+const appTeleportAttrs = {"id":"teleports"};
+
+const appSpaLoaderTag = "div";
+
+const appSpaLoaderAttrs = {"id":"__nuxt-loader"};
+
+const appId = "nuxt-app";
+
+const rootDir = "/Users/nicholas/Solutions/personal/curated";
+
+//#region src/runtime/plugins/dev-server-logs.ts
+const devReducers = {
+	VNode: (data) => isVNode(data) ? {
+		type: data.type,
+		props: data.props
+	} : void 0,
+	URL: (data) => data instanceof URL ? data.toString() : void 0,
+	Symbol: (data) => typeof data === "symbol" ? data.description ?? "" : void 0
+};
+const asyncContext = getContext$1("nuxt-dev", {
+	asyncContext: true,
+	AsyncLocalStorage
+});
+var dev_server_logs_default = (nitroApp) => {
+	const handler = nitroApp.h3App.handler;
+	nitroApp.h3App.handler = (event) => {
+		return asyncContext.callAsync({
+			logs: [],
+			event
+		}, () => handler(event));
+	};
+	onConsoleLog((_log) => {
+		const ctx = asyncContext.tryUse();
+		if (!ctx) return;
+		const rawStack = captureRawStackTrace();
+		if (!rawStack || rawStack.includes("runtime/vite-node.mjs")) return;
+		const trace = [];
+		let filename = "";
+		for (const entry of parseRawStackTrace(rawStack)) {
+			if (entry.source === globalThis._importMeta_.url) continue;
+			if (EXCLUDE_TRACE_RE.test(entry.source)) continue;
+			filename ||= entry.source.replace(withTrailingSlash(rootDir), "");
+			trace.push({
+				...entry,
+				source: entry.source.startsWith("file://") ? entry.source.replace("file://", "") : entry.source
+			});
+		}
+		const log = {
+			..._log,
+			filename,
+			stack: trace
+		};
+		ctx.logs.push(log);
+	});
+	nitroApp.hooks.hook("afterResponse", () => {
+		const ctx = asyncContext.tryUse();
+		if (!ctx) return;
+		return nitroApp.hooks.callHook("dev:ssr-logs", {
+			logs: ctx.logs,
+			path: ctx.event.path
+		});
+	});
+	nitroApp.hooks.hook("render:html", (htmlContext) => {
+		const ctx = asyncContext.tryUse();
+		if (!ctx) return;
+		try {
+			const reducers = Object.assign(Object.create(null), devReducers, ctx.event.context["~payloadReducers"]);
+			htmlContext.bodyAppend.unshift(`<script type="application/json" data-nuxt-logs="${appId}">${stringify(ctx.logs, reducers)}<\/script>`);
+		} catch (e) {
+			serverDiagnostics.NUXT_E8003({
+				error: e instanceof Error ? e.toString() : void 0,
+				cause: e
+			});
+		}
+	});
+};
+const EXCLUDE_TRACE_RE = /\/node_modules\/(?:.*\/)?(?:nuxt|nuxt-nightly|nuxt-edge|nuxt3|consola|@vue)\/|core\/runtime\/nitro/;
+function onConsoleLog(callback) {
+	consola$1.addReporter({ log(logObj) {
+		callback(logObj);
+	} });
+	consola$1.wrapConsole();
+}
+
+const plugins = [
+  dev_server_logs_default,
+_wH6JrtIxmaSoA8lCPWFnE9z4lQeXW6H5z3l5aymEQw
+];
+
+const assets = {
+  "/index.mjs": {
+    "type": "text/javascript; charset=utf-8",
+    "etag": "\"374d0-UDMn5UncvD39WLMRSzB0fiQP42k\"",
+    "mtime": "2026-07-28T17:32:33.626Z",
+    "size": 226512,
+    "path": "index.mjs"
+  },
+  "/index.mjs.map": {
+    "type": "application/json",
+    "etag": "\"72e88-LCshj257LDSSYR8vsaQEkSb8OXA\"",
+    "mtime": "2026-07-28T17:32:33.626Z",
+    "size": 470664,
+    "path": "index.mjs.map"
+  }
+};
+
+function readAsset (id) {
+  const serverDir = dirname$1(fileURLToPath(globalThis._importMeta_.url));
+  return promises.readFile(resolve$1(serverDir, assets[id].path))
+}
+
+const publicAssetBases = {};
+
+function isPublicAssetURL(id = '') {
+  if (assets[id]) {
+    return true
+  }
+  for (const base in publicAssetBases) {
+    if (id.startsWith(base)) { return true }
+  }
+  return false
+}
+
+function getAsset (id) {
+  return assets[id]
+}
+
+const METHODS = /* @__PURE__ */ new Set(["HEAD", "GET"]);
+const EncodingMap = { gzip: ".gz", br: ".br" };
+const _C7Xj7H = eventHandler((event) => {
+  if (event.method && !METHODS.has(event.method)) {
+    return;
+  }
+  let id = decodePath(
+    withLeadingSlash(withoutTrailingSlash(parseURL(event.path).pathname))
+  );
+  let asset;
+  const encodingHeader = String(
+    getRequestHeader(event, "accept-encoding") || ""
+  );
+  const encodings = [
+    ...encodingHeader.split(",").map((e) => EncodingMap[e.trim()]).filter(Boolean).sort(),
+    ""
+  ];
+  for (const encoding of encodings) {
+    for (const _id of [id + encoding, joinURL(id, "index.html" + encoding)]) {
+      const _asset = getAsset(_id);
+      if (_asset) {
+        asset = _asset;
+        id = _id;
+        break;
+      }
+    }
+  }
+  if (!asset) {
+    if (isPublicAssetURL(id)) {
+      removeResponseHeader(event, "Cache-Control");
+      throw createError({ statusCode: 404 });
+    }
+    return;
+  }
+  if (asset.encoding !== void 0) {
+    appendResponseHeader(event, "Vary", "Accept-Encoding");
+  }
+  const ifNotMatch = getRequestHeader(event, "if-none-match") === asset.etag;
+  if (ifNotMatch) {
+    setResponseStatus(event, 304, "Not Modified");
+    return "";
+  }
+  const ifModifiedSinceH = getRequestHeader(event, "if-modified-since");
+  const mtimeDate = new Date(asset.mtime);
+  if (ifModifiedSinceH && asset.mtime && new Date(ifModifiedSinceH) >= mtimeDate) {
+    setResponseStatus(event, 304, "Not Modified");
+    return "";
+  }
+  if (asset.type && !getResponseHeader(event, "Content-Type")) {
+    setResponseHeader(event, "Content-Type", asset.type);
+  }
+  if (asset.etag && !getResponseHeader(event, "ETag")) {
+    setResponseHeader(event, "ETag", asset.etag);
+  }
+  if (asset.mtime && !getResponseHeader(event, "Last-Modified")) {
+    setResponseHeader(event, "Last-Modified", mtimeDate.toUTCString());
+  }
+  if (asset.encoding && !getResponseHeader(event, "Content-Encoding")) {
+    setResponseHeader(event, "Content-Encoding", asset.encoding);
+  }
+  if (asset.size > 0 && !getResponseHeader(event, "Content-Length")) {
+    setResponseHeader(event, "Content-Length", asset.size);
+  }
+  return readAsset(id);
+});
+
+//#region ../nuxt/src/app/island-hash.ts
+/**
+* Strip Vue scoped-style attributes (`data-v-*`) from island props before hashing
+* or rendering. Scoped-id markers leak in from parent components and are not part
+* of the logical island input.
+*
+* Used before island props are serialized and sent to the island handler.
+*
+* @internal
+*/
+function filterIslandProps(props) {
+	if (!props) return {};
+	const out = {};
+	for (const key in props) if (!key.startsWith("data-v-")) out[key] = props[key];
+	return out;
+}
+/**
+* Compute the `hashId` segment embedded in an island URL (`/__nuxt_island/<Name>_<hashId>.json`).
+*
+* The hash binds the response to the requested `(name, props, context, source)` tuple, so the
+* server can reject requests whose URL hash does not match the supplied query/body. Use this
+* from island clients if you need to ensure a hash stays in step with Nuxt's implementation.
+*
+* `props` may be passed either as the raw props object or as the JSON string that will be sent
+* over the wire; the two produce the same hash when the round-trip is identity.
+*
+* @since 4.5.0
+*/
+function getIslandHash(input) {
+	const props = typeof input.props === "string" ? parseSerializedProps(input.props) : input.props ?? {};
+	return hash$1([
+		input.name,
+		props,
+		input.context ?? {},
+		input.source
+	]).replace(/[-_]/g, "");
+}
+function parseSerializedProps(serializedProps) {
+	try {
+		return JSON.parse(serializedProps);
+	} catch {
+		return serializedProps;
+	}
+}
+
+//#region src/runtime/utils/island-props.ts
+/** @internal */
+const MAX_ISLAND_BODY_BYTES = 64 * 1024;
+/**
+* Whether the bracket nesting of a JSON-ish string exceeds `maxDepth`, in a single linear
+* pass. Brackets inside string values are ignored.
+*
+* @internal
+*/
+function exceedsMaxDepth(raw, maxDepth = 64) {
+	let depth = 0;
+	let inString = false;
+	let escaped = false;
+	for (let i = 0; i < raw.length; i++) {
+		const ch = raw[i];
+		if (inString) {
+			if (escaped) escaped = false;
+			else if (ch === "\\") escaped = true;
+			else if (ch === "\"") inString = false;
+			continue;
+		}
+		if (ch === "\"") inString = true;
+		else if (ch === "{" || ch === "[") {
+			if (++depth > maxDepth) return true;
+		} else if (ch === "}" || ch === "]") {
+			if (depth > 0) depth--;
+		}
+	}
+	return false;
+}
+/** @internal */
+function exceedsMaxBytes(raw, maxBytes = MAX_ISLAND_BODY_BYTES) {
+	return Buffer.byteLength(raw, "utf8") > maxBytes;
+}
+
+const NUXT_RUNTIME_PAYLOAD_EXTRACTION = false;
+const NUXT_SSR_STREAMING = false;
+
+const headSymbol = "usehead";
+// @__NO_SIDE_EFFECTS__
+function vueInstall(head) {
+  const plugin = {
+    install(app) {
+      app.config.globalProperties.$unhead = head;
+      app.config.globalProperties.$head = head;
+      app.provide(headSymbol, head);
+    }
+  };
+  return plugin.install;
+}
+
+const VueResolver = /* @__PURE__ */ Object.assign(
+  (_, value) => isRef(value) ? toValue(value) : value,
+  // identity for plain non-reactive values, so the SSR default init entry
+  // keeps its precomputed fast path (see unhead/server createHead)
+  { _static: true }
+);
+
+// @__NO_SIDE_EFFECTS__
+function createHead(options = {}) {
+  const head = createHead$1({
+    ...options,
+    propResolvers: [VueResolver]
+  });
+  head.install = vueInstall(head);
+  return head;
+}
+
+const legacyPlugins = [DeprecationsPlugin, PromisesPlugin, TemplateParamsPlugin, AliasSortingPlugin];
+
+const unheadOptions = {
+  disableDefaults: true,
+  plugins: legacyPlugins,
+};
+
+function encodeEventPath(path) {
+	const queryIndex = path.indexOf("?");
+	if (queryIndex === -1) return encodePath(path);
+	return encodePath(path.slice(0, queryIndex)) + path.slice(queryIndex);
+}
+function createSSRContext(event) {
+	const url = encodeEventPath(event.path);
+	const ssrContext = {
+		url,
+		event,
+		runtimeConfig: useRuntimeConfig(event),
+		noSSR: event.context.nuxt?.noSSR || (false),
+		head: createHead(unheadOptions),
+		error: false,
+		nuxt: void 0,
+		payload: {},
+		["~payloadReducers"]: Object.create(null),
+		modules: /* @__PURE__ */ new Set()
+	};
+	return ssrContext;
+}
+function setSSRError(ssrContext, error) {
+	ssrContext.error = true;
+	ssrContext.payload = { error };
+	ssrContext.url = error.url;
+}
+
+function buildAssetsDir() {
+	return useRuntimeConfig().app.buildAssetsDir;
+}
+function buildAssetsURL(...path) {
+	return joinRelativeURL(publicAssetsURL(), buildAssetsDir(), ...path);
+}
+function publicAssetsURL(...path) {
+	const app = useRuntimeConfig().app;
+	const publicBase = app.cdnURL || app.baseURL;
+	return path.length ? joinRelativeURL(publicBase, ...path) : publicBase;
+}
+
+//#region src/runtime/utils/renderer/cache.ts
+function lazyCachedFunction(fn) {
+	let res = null;
+	return () => {
+		if (res === null) res = fn().catch((err) => {
+			res = null;
+			throw err;
+		});
+		return res;
+	};
+}
+
+//#region src/runtime/utils/renderer/build-files.ts
+globalThis.__buildAssetsURL = buildAssetsURL;
+globalThis.__publicAssetsURL = publicAssetsURL;
+const APP_ROOT_OPEN_TAG = `<${appRootTag}${propsToString(appRootAttrs)}>`;
+const APP_ROOT_CLOSE_TAG = `</${appRootTag}>`;
+const getServerEntry = () => Promise.resolve().then(function () { return entry; }).then((r) => r.default || r);
+const getClientManifest = () => Promise.resolve().then(function () { return manifest$1; }).then((r) => r.default || r).then((r) => typeof r === "function" ? r() : r);
+const getSSRRenderer = lazyCachedFunction(async () => {
+	const createSSRApp = await getServerEntry();
+	if (!createSSRApp) throw serverDiagnostics.NUXT_E8004();
+	const renderer = createRenderer(createSSRApp, {
+		precomputed: void 0 ,
+		manifest: await getClientManifest() ,
+		renderToString: renderToString$1,
+		buildAssetsURL
+	});
+	async function renderToString$1(input, context) {
+		const html = await renderToString(input, context);
+		if (process.env.NUXT_VITE_NODE_OPTIONS) renderer.rendererContext.updateManifest(await getClientManifest());
+		return APP_ROOT_OPEN_TAG + html + APP_ROOT_CLOSE_TAG;
+	}
+	return renderer;
+});
+const getSPARenderer = lazyCachedFunction(async () => {
+	const precomputed = void 0 ;
+	const spaTemplate = await Promise.resolve().then(function () { return _virtual__spaTemplate; }).then((r) => r.template).catch(() => "").then((r) => {
+		{
+			const APP_SPA_LOADER_OPEN_TAG = `<${appSpaLoaderTag}${propsToString(appSpaLoaderAttrs)}>`;
+			const APP_SPA_LOADER_CLOSE_TAG = `</${appSpaLoaderTag}>`;
+			return APP_ROOT_OPEN_TAG + APP_ROOT_CLOSE_TAG + (r ? APP_SPA_LOADER_OPEN_TAG + r + APP_SPA_LOADER_CLOSE_TAG : "");
+		}
+	});
+	const renderer = createRenderer(() => () => {}, {
+		precomputed,
+		manifest: await getClientManifest() ,
+		renderToString: () => spaTemplate,
+		buildAssetsURL
+	});
+	const result = await renderer.renderToString({});
+	const renderToString = (ssrContext) => {
+		const config = useRuntimeConfig(ssrContext.event);
+		ssrContext.modules ||= /* @__PURE__ */ new Set();
+		ssrContext.payload.serverRendered = false;
+		ssrContext.config = {
+			public: config.public,
+			app: config.app
+		};
+		return Promise.resolve(result);
+	};
+	return {
+		rendererContext: renderer.rendererContext,
+		renderToString
+	};
+});
+function getRenderer(ssrContext) {
+	return ssrContext.noSSR ? getSPARenderer() : getSSRRenderer();
+}
+const getSSRStyles = lazyCachedFunction(() => Promise.resolve().then(function () { return styles$1; }).then((r) => r.default || r));
+
+//#region src/runtime/utils/renderer/inline-styles.ts
+async function renderInlineStyles(usedModules) {
+	const styleMap = await getSSRStyles();
+	const inlinedStyles = /* @__PURE__ */ new Set();
+	const promises = [];
+	for (const mod of usedModules) if (mod in styleMap && styleMap[mod]) promises.push(styleMap[mod]());
+	for (const styles of await Promise.all(promises)) for (const style of styles) inlinedStyles.add(style);
+	return Array.from(inlinedStyles).map((style) => ({ innerHTML: style }));
+}
+
+//#region src/runtime/utils/renderer/islands.ts
+const ROOT_NODE_REGEX = new RegExp(`^<${appRootTag}[^>]*>([\\s\\S]*)<\\/${appRootTag}>$`);
+/**
+* remove the root node from the html body
+*/
+function getServerComponentHTML(body) {
+	return body.match(ROOT_NODE_REGEX)?.[1] || body;
+}
+const SSR_SLOT_TELEPORT_MARKER = /^uid=([^;]*);slot=(.*)$/;
+const SSR_CLIENT_TELEPORT_MARKER = /^uid=([^;]*);client=(.*)$/;
+const SSR_CLIENT_SLOT_MARKER = /^island-slot=([^;]*);(.*)$/;
+function getSlotIslandResponse(ssrContext) {
+	if (!ssrContext.islandContext || !Object.keys(ssrContext.islandContext.slots).length) return;
+	const response = {};
+	for (const [name, slot] of Object.entries(ssrContext.islandContext.slots)) response[name] = {
+		...slot,
+		fallback: ssrContext.teleports?.[`island-fallback=${name}`]
+	};
+	return response;
+}
+function getClientIslandResponse(ssrContext) {
+	if (!ssrContext.islandContext || !Object.keys(ssrContext.islandContext.components).length) return;
+	const response = {};
+	for (const [clientUid, component] of Object.entries(ssrContext.islandContext.components)) {
+		let html = ssrContext.teleports?.[clientUid]?.replaceAll("<!--teleport start anchor-->", "") || "";
+		if (!html && ssrContext.teleports) for (const [key, value] of Object.entries(ssrContext.teleports)) {
+			const [, , componentUid] = key.match(SSR_CLIENT_TELEPORT_MARKER) ?? [];
+			if (componentUid === clientUid) {
+				html = value.replaceAll("<!--teleport start anchor-->", "");
+				break;
+			}
+		}
+		response[clientUid] = {
+			...component,
+			html,
+			slots: getComponentSlotTeleport(clientUid, ssrContext.teleports ?? {})
+		};
+	}
+	return response;
+}
+function getComponentSlotTeleport(clientUid, teleports) {
+	const entries = Object.entries(teleports);
+	const slots = {};
+	for (const [key, value] of entries) {
+		const match = key.match(SSR_CLIENT_SLOT_MARKER);
+		if (match) {
+			const [, id, slot] = match;
+			if (!slot || clientUid !== id) continue;
+			slots[slot] = value;
+		}
+	}
+	return slots;
+}
+const ISLAND_TELEPORT_ANCHOR_RE = / data-island-uid="([^"]*)" data-island-(component|slot)="([^"]*)"[^>]*>/g;
+function replaceIslandTeleports(ssrContext, html) {
+	const { teleports, islandContext } = ssrContext;
+	if (islandContext || !teleports) return html;
+	const contentsByAnchor = /* @__PURE__ */ new Map();
+	const uids = /* @__PURE__ */ new Set();
+	for (const key in teleports) {
+		const matchClientComp = key.match(SSR_CLIENT_TELEPORT_MARKER);
+		if (matchClientComp) {
+			const [, uid, clientId] = matchClientComp;
+			if (!uid || !clientId) continue;
+			contentsByAnchor.set(`${uid};component;${clientId}`, teleports[key]);
+			uids.add(uid);
+			continue;
+		}
+		const matchSlot = key.match(SSR_SLOT_TELEPORT_MARKER);
+		if (matchSlot) {
+			const [, uid, slot] = matchSlot;
+			if (!uid || !slot) continue;
+			contentsByAnchor.set(`${uid};slot;${slot}`, teleports[key]);
+			uids.add(uid);
+		}
+	}
+	if (!contentsByAnchor.size) return html;
+	const stitch = (html) => {
+		const anchorRE = new RegExp(ISLAND_TELEPORT_ANCHOR_RE);
+		let out = "";
+		let cursor = 0;
+		let m;
+		while (contentsByAnchor.size && (m = anchorRE.exec(html))) {
+			if (!uids.has(m[1])) continue;
+			const anchor = `${m[1]};${m[2]};${m[3]}`;
+			const content = contentsByAnchor.get(anchor);
+			if (content === void 0) continue;
+			contentsByAnchor.delete(anchor);
+			const end = m.index + m[0].length;
+			out += html.slice(cursor, end) + stitch(content);
+			cursor = end;
+		}
+		return cursor ? out + html.slice(cursor) : html;
+	};
+	return stitch(html);
+}
+
+//#region src/runtime/handlers/island.ts
+const ISLAND_SUFFIX_RE = /\.json(?:\?.*)?$/;
+const handler$1 = defineEventHandler(async (event) => {
+	const nitroApp = useNitroApp();
+	setResponseHeaders(event, {
+		"content-type": "application/json;charset=utf-8",
+		"x-powered-by": "Nuxt"
+	});
+	const islandContext = await getIslandContext(event);
+	const ssrContext = {
+		...createSSRContext(event),
+		islandContext,
+		noSSR: false,
+		url: islandContext.url
+	};
+	const renderer = await getSSRRenderer();
+	const renderResult = await (renderer.renderToString(ssrContext)).catch(async (err) => {
+		if (ssrContext["~renderResponse"] && err?.message === "skipping render") return {};
+		await ssrContext.nuxt?.hooks.callHook("app:error", err);
+		throw err;
+	});
+	await ssrContext.nuxt?.hooks.callHook("app:rendered", {
+		ssrContext,
+		renderResult
+	});
+	if (ssrContext["~renderResponse"]) {
+		const response = ssrContext["~renderResponse"];
+		if (response.statusCode && response.statusCode >= 400) throw createError({
+			statusCode: response.statusCode,
+			statusMessage: response.statusMessage
+		});
+		return returnIslandResponse(event, response);
+	}
+	if (ssrContext.payload?.error) throw ssrContext.payload.error;
+	const inlinedStyles = await renderInlineStyles(ssrContext.modules ?? []);
+	if (inlinedStyles.length) ssrContext.head.push({ style: inlinedStyles });
+	{
+		const { styles } = getRequestDependencies(ssrContext, renderer.rendererContext);
+		const link = [];
+		for (const resource of Object.values(styles)) {
+			if ("inline" in getQuery(resource.file)) continue;
+			if (resource.file.includes("scoped") && !resource.file.includes("pages/")) link.push({
+				rel: "stylesheet",
+				href: renderer.rendererContext.buildAssetsURL(resource.file),
+				crossorigin: ""
+			});
+		}
+		if (link.length) ssrContext.head.push({ link });
+	}
+	const islandHead = {};
+	for (const entry of ssrContext.head.entries.values()) for (const [key, value] of Object.entries(walkResolver(entry.input, VueResolver))) {
+		const currentValue = islandHead[key];
+		if (Array.isArray(currentValue)) currentValue.push(...value);
+		else islandHead[key] = value;
+	}
+	const islandResponse = {
+		id: islandContext.id,
+		head: islandHead,
+		html: getServerComponentHTML(renderResult.html),
+		components: getClientIslandResponse(ssrContext),
+		slots: getSlotIslandResponse(ssrContext)
+	};
+	await nitroApp.hooks.callHook("render:island", islandResponse, {
+		event,
+		islandContext
+	});
+	return islandResponse;
+});
+function returnIslandResponse(event, response) {
+	for (const header in response.headers || {}) setResponseHeader(event, header, response.headers[header]);
+	if (response.statusCode) setResponseStatus(event, response.statusCode, response.statusMessage);
+	return response.body;
+}
+const ISLAND_PATH_PREFIX = "/__nuxt_island/";
+const VALID_COMPONENT_NAME_RE = /^[a-z][\w.-]*$/i;
+async function readGuardedIslandBody(event) {
+	if (Number(getRequestHeader(event, "content-length")) > 65536) throw createError({
+		statusCode: 413,
+		statusMessage: "Island request body too large"
+	});
+	let received = 0;
+	let raw = "";
+	let overflowed = false;
+	const stream = getRequestWebStream(event);
+	if (stream) {
+		const decoder = new TextDecoder();
+		const reader = stream.getReader();
+		try {
+			for (;;) {
+				const { done, value } = await reader.read();
+				if (done) break;
+				received += value.byteLength;
+				if (received > 65536) {
+					overflowed = true;
+					continue;
+				}
+				raw += decoder.decode(value, { stream: true });
+			}
+		} finally {
+			reader.releaseLock();
+		}
+		raw += decoder.decode();
+	}
+	if (overflowed) throw createError({
+		statusCode: 413,
+		statusMessage: "Island request body too large"
+	});
+	if (!raw) return {};
+	if (exceedsMaxDepth(raw)) throw createError({
+		statusCode: 400,
+		statusMessage: "Island request body too deeply nested"
+	});
+	return destr$1(raw) || {};
+}
+async function getIslandContext(event) {
+	let url = event.path || "";
+	url.replace(/\?.*$/, "");
+	if (!url.startsWith(ISLAND_PATH_PREFIX)) throw createError({
+		statusCode: 400,
+		statusMessage: "Invalid island request path"
+	});
+	const componentParts = url.substring(15).replace(ISLAND_SUFFIX_RE, "").split("_");
+	const hashId = componentParts.length > 1 ? componentParts.pop() : void 0;
+	const componentName = componentParts.join("_");
+	if (!componentName || !VALID_COMPONENT_NAME_RE.test(componentName)) throw createError({
+		statusCode: 400,
+		statusMessage: "Invalid island component name"
+	});
+	const rawContext = event.method === "GET" ? getQuery$1(event) : await readGuardedIslandBody(event);
+	const serializedProps = typeof rawContext?.props === "string" ? rawContext.props : "{}";
+	if (exceedsMaxBytes(serializedProps)) throw createError({
+		statusCode: 413,
+		statusMessage: "Island request props too large"
+	});
+	if (exceedsMaxDepth(serializedProps)) throw createError({
+		statusCode: 400,
+		statusMessage: "Island request props too deeply nested"
+	});
+	const clientContext = {};
+	if (rawContext && typeof rawContext === "object") {
+		for (const key in rawContext) if (key !== "props") clientContext[key] = rawContext[key];
+	}
+	const parsedProps = filterIslandProps(destr$1(serializedProps) || {});
+	const expectedHash = getIslandHash({
+		name: componentName,
+		props: parsedProps,
+		context: clientContext
+	});
+	if (!hashId || hashId !== expectedHash) throw createError({
+		statusCode: 400,
+		statusMessage: "Invalid island request hash"
+	});
+	return {
+		url: typeof rawContext?.url === "string" ? rawContext.url : "/",
+		id: hashId,
+		name: componentName,
+		props: parsedProps,
+		slots: {},
+		components: {}
+	};
+}
+
+function defineRenderHandler(render) {
+  const runtimeConfig = useRuntimeConfig();
+  return eventHandler(async (event) => {
+    const nitroApp = useNitroApp();
+    const ctx = { event, render, response: void 0 };
+    await nitroApp.hooks.callHook("render:before", ctx);
+    if (!ctx.response) {
+      if (event.path === `${runtimeConfig.app.baseURL}favicon.ico`) {
+        setResponseHeader(event, "Content-Type", "image/x-icon");
+        return send(
+          event,
+          "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+        );
+      }
+      ctx.response = await ctx.render(event);
+      if (!ctx.response) {
+        const _currentStatus = getResponseStatus(event);
+        setResponseStatus(event, _currentStatus === 200 ? 500 : _currentStatus);
+        return send(
+          event,
+          "No response returned from render handler: " + event.path
+        );
+      }
+    }
+    await nitroApp.hooks.callHook("render:response", ctx.response, ctx);
+    if (ctx.response.headers) {
+      setResponseHeaders(event, ctx.response.headers);
+    }
+    if (ctx.response.statusCode || ctx.response.statusMessage) {
+      setResponseStatus(
+        event,
+        ctx.response.statusCode,
+        ctx.response.statusMessage
+      );
+    }
+    return ctx.response.body;
+  });
+}
+
+const scheduledTasks = false;
+
+const tasks = {
+  
+};
+
+const __runningTasks__ = {};
+async function runTask(name, {
+  payload = {},
+  context = {}
+} = {}) {
+  if (__runningTasks__[name]) {
+    return __runningTasks__[name];
+  }
+  if (!(name in tasks)) {
+    throw createError({
+      message: `Task \`${name}\` is not available!`,
+      statusCode: 404
+    });
+  }
+  if (!tasks[name].resolve) {
+    throw createError({
+      message: `Task \`${name}\` is not implemented!`,
+      statusCode: 501
+    });
+  }
+  const handler = await tasks[name].resolve();
+  const taskEvent = { name, payload, context };
+  __runningTasks__[name] = handler.run(taskEvent);
+  try {
+    const res = await __runningTasks__[name];
+    return res;
+  } finally {
+    delete __runningTasks__[name];
+  }
+}
+
+const _j5GbBM = lazyEventHandler(() => {
+  const opts = useRuntimeConfig().ipx || {};
+  const fsDir = opts?.fs?.dir ? (Array.isArray(opts.fs.dir) ? opts.fs.dir : [opts.fs.dir]).map((dir) => isAbsolute(dir) ? dir : fileURLToPath(new URL(dir, globalThis._importMeta_.url))) : void 0;
+  const fsStorage = opts.fs?.dir ? ipxFSStorage({ ...opts.fs, dir: fsDir }) : void 0;
+  const httpStorage = opts.http?.domains ? ipxHttpStorage({ ...opts.http }) : void 0;
+  if (!fsStorage && !httpStorage) {
+    throw new Error("IPX storage is not configured!");
+  }
+  const ipxOptions = {
+    ...opts,
+    storage: fsStorage || httpStorage,
+    httpStorage
+  };
+  const ipx = createIPX(ipxOptions);
+  const ipxHandler = createIPXH3Handler(ipx);
+  return useBase(opts.baseURL, ipxHandler);
+});
+
+const _lazy_zhLJOX = () => Promise.resolve().then(function () { return _slug_$1; });
+const _lazy_pS3sXp = () => Promise.resolve().then(function () { return posts$1; });
+const _lazy_SjNE2L = () => Promise.resolve().then(function () { return renderer; });
+
+const handlers = [
+  { route: '', handler: _C7Xj7H, lazy: false, middleware: true, method: undefined },
+  { route: '/api/post/:slug', handler: _lazy_zhLJOX, lazy: true, middleware: false, method: undefined },
+  { route: '/api/posts', handler: _lazy_pS3sXp, lazy: true, middleware: false, method: undefined },
+  { route: '/__nuxt_error', handler: _lazy_SjNE2L, lazy: true, middleware: false, method: undefined },
+  { route: '/__nuxt_island/**', handler: handler$1, lazy: false, middleware: false, method: undefined },
+  { route: '/_ipx/**', handler: _j5GbBM, lazy: false, middleware: false, method: undefined },
+  { route: '/**', handler: _lazy_SjNE2L, lazy: true, middleware: false, method: undefined }
+];
+
+function createNitroApp() {
+  const config = useRuntimeConfig();
+  const hooks = createHooks();
+  const captureError = (error, context = {}) => {
+    const promise = hooks.callHookParallel("error", error, context).catch((error_) => {
+      console.error("Error while capturing another error", error_);
+    });
+    if (context.event && isEvent(context.event)) {
+      const errors = context.event.context.nitro?.errors;
+      if (errors) {
+        errors.push({ error, context });
+      }
+      if (context.event.waitUntil) {
+        context.event.waitUntil(promise);
+      }
+    }
+  };
+  const h3App = createApp({
+    debug: destr(true),
+    onError: (error, event) => {
+      captureError(error, { event, tags: ["request"] });
+      return errorHandler(error, event);
+    },
+    onRequest: async (event) => {
+      event.context.nitro = event.context.nitro || { errors: [] };
+      const fetchContext = event.node.req?.__unenv__;
+      if (fetchContext?._platform) {
+        event.context = {
+          _platform: fetchContext?._platform,
+          // #3335
+          ...fetchContext._platform,
+          ...event.context
+        };
+      }
+      if (!event.context.waitUntil && fetchContext?.waitUntil) {
+        event.context.waitUntil = fetchContext.waitUntil;
+      }
+      event.fetch = (req, init) => fetchWithEvent(event, req, init, { fetch: localFetch });
+      event.$fetch = (req, init) => fetchWithEvent(event, req, init, {
+        fetch: $fetch
+      });
+      event.waitUntil = (promise) => {
+        if (!event.context.nitro._waitUntilPromises) {
+          event.context.nitro._waitUntilPromises = [];
+        }
+        event.context.nitro._waitUntilPromises.push(promise);
+        if (event.context.waitUntil) {
+          event.context.waitUntil(promise);
+        }
+      };
+      event.captureError = (error, context) => {
+        captureError(error, { event, ...context });
+      };
+      await nitroApp$1.hooks.callHook("request", event).catch((error) => {
+        captureError(error, { event, tags: ["request"] });
+      });
+    },
+    onBeforeResponse: async (event, response) => {
+      await nitroApp$1.hooks.callHook("beforeResponse", event, response).catch((error) => {
+        captureError(error, { event, tags: ["request", "response"] });
+      });
+    },
+    onAfterResponse: async (event, response) => {
+      await nitroApp$1.hooks.callHook("afterResponse", event, response).catch((error) => {
+        captureError(error, { event, tags: ["request", "response"] });
+      });
+    }
+  });
+  const router = createRouter$1({
+    preemptive: true
+  });
+  const nodeHandler = toNodeListener(h3App);
+  const localCall = (aRequest) => callNodeRequestHandler(
+    nodeHandler,
+    aRequest
+  );
+  const localFetch = (input, init) => {
+    if (!input.toString().startsWith("/")) {
+      return globalThis.fetch(input, init);
+    }
+    return fetchNodeRequestHandler(
+      nodeHandler,
+      input,
+      init
+    ).then((response) => normalizeFetchResponse(response));
+  };
+  const $fetch = createFetch({
+    fetch: localFetch,
+    Headers: Headers$1,
+    defaults: { baseURL: config.app.baseURL }
+  });
+  globalThis.$fetch = $fetch;
+  h3App.use(createRouteRulesHandler({ localFetch }));
+  for (const h of handlers) {
+    let handler = h.lazy ? lazyEventHandler(h.handler) : h.handler;
+    if (h.middleware || !h.route) {
+      const middlewareBase = (config.app.baseURL + (h.route || "/")).replace(
+        /\/+/g,
+        "/"
+      );
+      h3App.use(middlewareBase, handler);
+    } else {
+      const routeRules = getRouteRulesForPath(
+        h.route.replace(/:\w+|\*\*/g, "_")
+      );
+      if (routeRules.cache) {
+        handler = cachedEventHandler(handler, {
+          group: "nitro/routes",
+          ...routeRules.cache
+        });
+      }
+      router.use(h.route, handler, h.method);
+    }
+  }
+  h3App.use(config.app.baseURL, router.handler);
+  const app = {
+    hooks,
+    h3App,
+    router,
+    localCall,
+    localFetch,
+    captureError
+  };
+  return app;
+}
+function runNitroPlugins(nitroApp2) {
+  for (const plugin of plugins) {
+    try {
+      plugin(nitroApp2);
+    } catch (error) {
+      nitroApp2.captureError(error, { tags: ["plugin"] });
+      throw error;
+    }
+  }
+}
+const nitroApp$1 = createNitroApp();
+function useNitroApp() {
+  return nitroApp$1;
+}
+runNitroPlugins(nitroApp$1);
+
+if (!globalThis.crypto) {
+  globalThis.crypto = nodeCrypto.webcrypto;
+}
+const { NITRO_NO_UNIX_SOCKET, NITRO_DEV_WORKER_ID } = process.env;
+trapUnhandledNodeErrors();
+parentPort?.on("message", (msg) => {
+  if (msg && msg.event === "shutdown") {
+    shutdown();
+  }
+});
+const nitroApp = useNitroApp();
+const server = new Server(toNodeListener(nitroApp.h3App));
+let listener;
+listen().catch(() => listen(
+  true
+  /* use random port */
+)).catch((error) => {
+  console.error("Dev worker failed to listen:", error);
+  return shutdown();
+});
+nitroApp.router.get(
+  "/_nitro/tasks",
+  defineEventHandler(async (event) => {
+    const _tasks = await Promise.all(
+      Object.entries(tasks).map(async ([name, task]) => {
+        const _task = await task.resolve?.();
+        return [name, { description: _task?.meta?.description }];
+      })
+    );
+    return {
+      tasks: Object.fromEntries(_tasks),
+      scheduledTasks
+    };
+  })
+);
+nitroApp.router.use(
+  "/_nitro/tasks/:name",
+  defineEventHandler(async (event) => {
+    const name = getRouterParam(event, "name");
+    const payload = {
+      ...getQuery$1(event),
+      ...await readBody(event).then((r) => r?.payload).catch(() => ({}))
+    };
+    return await runTask(name, { payload });
+  })
+);
+function listen(useRandomPort = Boolean(
+  NITRO_NO_UNIX_SOCKET || process.versions.webcontainer || "Bun" in globalThis && process.platform === "win32"
+)) {
+  return new Promise((resolve, reject) => {
+    try {
+      listener = server.listen(useRandomPort ? 0 : getSocketAddress(), () => {
+        const address = server.address();
+        parentPort?.postMessage({
+          event: "listen",
+          address: typeof address === "string" ? { socketPath: address } : { host: "localhost", port: address?.port }
+        });
+        resolve();
+      });
+    } catch (error) {
+      reject(error);
+    }
+  });
+}
+function getSocketAddress() {
+  const socketName = `nitro-worker-${process.pid}-${threadId}-${NITRO_DEV_WORKER_ID}-${Math.round(Math.random() * 1e4)}.sock`;
+  if (process.platform === "win32") {
+    return join(String.raw`\\.\pipe`, socketName);
+  }
+  if (process.platform === "linux") {
+    const nodeMajor = Number.parseInt(process.versions.node.split(".")[0], 10);
+    if (nodeMajor >= 20) {
+      return `\0${socketName}`;
+    }
+  }
+  return join(tmpdir(), socketName);
+}
+async function shutdown() {
+  server.closeAllConnections?.();
+  await Promise.all([
+    new Promise((resolve) => listener?.close(resolve)),
+    nitroApp.hooks.callHook("close").catch(console.error)
+  ]);
+  parentPort?.postMessage({ event: "exit" });
+}
+
+//#region src/runtime/templates/error-500.ts
+const _messages = {
+	"appName": "Nuxt",
+	"status": 500,
+	"statusText": "Internal server error",
+	"description": "This page is temporarily unavailable.",
+	"refresh": "Refresh this page"
+};
+const template$1 = (messages) => {
+	messages = {
+		..._messages,
+		...messages
+	};
+	return "<!DOCTYPE html><html lang=\"en\"><head><title>" + escapeHtml(messages.status) + " - " + escapeHtml(messages.statusText) + " | " + escapeHtml(messages.appName) + "</title><meta charset=\"utf-8\"><meta content=\"width=device-width,initial-scale=1,minimum-scale=1\" name=\"viewport\"><script>!function(){let e=document.createElement(\"link\").relList;if(!(e&&e.supports&&e.supports(\"modulepreload\"))){for(let e of document.querySelectorAll('link[rel=\"modulepreload\"]'))r(e);new MutationObserver(e=>{for(let t of e)if(\"childList\"===t.type)for(let e of t.addedNodes)\"LINK\"===e.tagName&&\"modulepreload\"===e.rel&&r(e)}).observe(document,{childList:!0,subtree:!0})}function r(e){if(e.ep)return;e.ep=!0;let r=function(e){let r={};return e.integrity&&(r.integrity=e.integrity),e.referrerPolicy&&(r.referrerPolicy=e.referrerPolicy),\"use-credentials\"===e.crossOrigin?r.credentials=\"include\":\"anonymous\"===e.crossOrigin?r.credentials=\"omit\":r.credentials=\"same-origin\",r}(e);fetch(e.href,r)}}();<\/script><style>*,:after,:before{box-sizing:border-box;border-style:solid;border-width:0;border-color:var(--un-default-border-color,#e5e7eb)}:after,:before{--un-content:\"\"}html{-webkit-text-size-adjust:100%;tab-size:4;font-feature-settings:normal;font-variation-settings:normal;-webkit-tap-highlight-color:transparent;font-family:ui-sans-serif,system-ui,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;line-height:1.5}body{line-height:inherit;margin:0}h1,h2{font-size:inherit;font-weight:inherit}h1,h2,p{margin:0}*,:after,:before{--un-rotate:0;--un-rotate-x:0;--un-rotate-y:0;--un-rotate-z:0;--un-scale-x:1;--un-scale-y:1;--un-scale-z:1;--un-skew-x:0;--un-skew-y:0;--un-translate-x:0;--un-translate-y:0;--un-translate-z:0;--un-pan-x: ;--un-pan-y: ;--un-pinch-zoom: ;--un-scroll-snap-strictness:proximity;--un-ordinal: ;--un-slashed-zero: ;--un-numeric-figure: ;--un-numeric-spacing: ;--un-numeric-fraction: ;--un-border-spacing-x:0;--un-border-spacing-y:0;--un-ring-offset-shadow:0 0 #0000;--un-ring-shadow:0 0 #0000;--un-shadow-inset: ;--un-shadow:0 0 #0000;--un-ring-inset: ;--un-ring-offset-width:0px;--un-ring-offset-color:#fff;--un-ring-width:0px;--un-ring-color:#93c5fd80;--un-blur: ;--un-brightness: ;--un-contrast: ;--un-drop-shadow: ;--un-grayscale: ;--un-hue-rotate: ;--un-invert: ;--un-saturate: ;--un-sepia: ;--un-backdrop-blur: ;--un-backdrop-brightness: ;--un-backdrop-contrast: ;--un-backdrop-grayscale: ;--un-backdrop-hue-rotate: ;--un-backdrop-invert: ;--un-backdrop-opacity: ;--un-backdrop-saturate: ;--un-backdrop-sepia: }.grid{display:grid}.mb-2{margin-bottom:.5rem}.mb-4{margin-bottom:1rem}.max-w-520px{max-width:520px}.min-h-screen{min-height:100vh}.place-content-center{place-content:center}.overflow-hidden{overflow:hidden}.bg-white{--un-bg-opacity:1;background-color:rgb(255 255 255/var(--un-bg-opacity))}.px-2{padding-left:.5rem;padding-right:.5rem}.text-center{text-align:center}.text-\\[80px\\]{font-size:80px}.text-2xl{font-size:1.5rem;line-height:2rem}.text-\\[\\#020420\\]{--un-text-opacity:1;color:rgb(2 4 32/var(--un-text-opacity))}.text-\\[\\#64748B\\]{--un-text-opacity:1;color:rgb(100 116 139/var(--un-text-opacity))}.font-semibold{font-weight:600}.leading-none{line-height:1}.tracking-wide{letter-spacing:.025em}.font-sans{font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji}.tabular-nums{--un-numeric-spacing:tabular-nums;font-variant-numeric:var(--un-ordinal) var(--un-slashed-zero) var(--un-numeric-figure) var(--un-numeric-spacing) var(--un-numeric-fraction)}.antialiased{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}@media (prefers-color-scheme:dark){.dark\\:bg-\\[\\#020420\\]{--un-bg-opacity:1;background-color:rgb(2 4 32/var(--un-bg-opacity))}.dark\\:text-white{--un-text-opacity:1;color:rgb(255 255 255/var(--un-text-opacity))}}@media (width>=640px){.sm\\:text-\\[110px\\]{font-size:110px}.sm\\:text-3xl{font-size:1.875rem;line-height:2.25rem}}</style></head><body class=\"antialiased bg-white dark:bg-[#020420] dark:text-white font-sans grid min-h-screen overflow-hidden place-content-center text-[#020420] tracking-wide\"><div class=\"max-w-520px text-center\"><h1 class=\"font-semibold leading-none mb-4 sm:text-[110px] tabular-nums text-[80px]\">" + escapeHtml(messages.status) + "</h1><h2 class=\"font-semibold mb-2 sm:text-3xl text-2xl\">" + escapeHtml(messages.statusText) + "</h2><p class=\"mb-4 px-2 text-[#64748B] text-md\">" + escapeHtml(messages.description) + "</p></div></body></html>";
+};
+
+const error500 = /*#__PURE__*/Object.freeze(/*#__PURE__*/Object.defineProperty({
+  __proto__: null,
+  template: template$1
+}, Symbol.toStringTag, { value: 'Module' }));
+
+const entry = /*#__PURE__*/Object.freeze(/*#__PURE__*/Object.defineProperty({
+  __proto__: null,
+  default: viteNodeEntry_mjs
+}, Symbol.toStringTag, { value: 'Module' }));
+
+const manifest = () => viteNodeFetch.getManifest();
+
+const manifest$1 = /*#__PURE__*/Object.freeze(/*#__PURE__*/Object.defineProperty({
+  __proto__: null,
+  default: manifest
+}, Symbol.toStringTag, { value: 'Module' }));
+
+const template = "";
+
+const _virtual__spaTemplate = /*#__PURE__*/Object.freeze(/*#__PURE__*/Object.defineProperty({
+  __proto__: null,
+  template: template
+}, Symbol.toStringTag, { value: 'Module' }));
+
+const styles = {};
+
+const styles$1 = /*#__PURE__*/Object.freeze(/*#__PURE__*/Object.defineProperty({
+  __proto__: null,
+  default: styles
+}, Symbol.toStringTag, { value: 'Module' }));
+
+const posts$2 = [
+	{
+		slug: "coassak",
+		title: "A Cossak",
+		image: "/collection/chelmonski__cossak.jpg",
+		artist: "Józef Chełmoński",
+		date: "1882",
+		height: 25.5,
+		width: 16,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "MNK II-a-452",
+		location: "The National Museum in Krakow",
+		source: "https://zbiory.mnk.pl/en/search-result/advance/catalog/378465",
+		copyright: "CC0 - Public domain"
+	},
+	{
+		slug: "study-of-a-woman",
+		title: "Study of a Woman",
+		image: "/collection/fabijanski__study-of-a-woman.jpg",
+		artist: "Stanisław Fabijański",
+		date: "1888",
+		height: 53,
+		width: 42,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "MNK II-a-476",
+		location: "The National Museum in Krakow",
+		source: "https://zbiory.mnk.pl/en/search-result/advance/catalog/383564",
+		copyright: "CC0 - Public domain"
+	},
+	{
+		slug: "der-hoffotograf-josef-lowy",
+		title: "Der Hoffotograf Josef Löwy",
+		image: "/collection/berger__der-hoffotograf-josef-lowy.jpg",
+		artist: "Julius Victor Berger",
+		date: "1902",
+		height: 55,
+		width: 30,
+		medium: "Oil",
+		support: "Wood",
+		accession: "2704",
+		location: "Österreichische Galerie Belvedere",
+		source: "https://sammlung.belvedere.at/objects/8503/der-hoffotograf-josef-lowy",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "still-life-with-armor",
+		title: "Still Life with Armor",
+		image: "/collection/klimt__still-life-with-armor.jpg",
+		artist: "Ernst Klimt",
+		date: "c. 1885",
+		height: 19,
+		width: 26.5,
+		medium: "Oil",
+		support: "Canvas on Cardboard",
+		accession: "8429",
+		location: "Österreichische Galerie Belvedere",
+		source: "https://sammlung.belvedere.at/objects/1468/stillleben-mit-rustung",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "judith",
+		title: "Judith",
+		image: "/collection/klimt__judith.jpg",
+		artist: "Gustav Klimt",
+		date: "1901",
+		height: 84,
+		width: 42,
+		medium: "Oil and Goal Leaf",
+		support: "Canvas",
+		accession: "4737",
+		location: "Österreichische Galerie Belvedere",
+		source: "https://sammlung.belvedere.at/objects/3492/judith",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "selbstportrat-mit-blauer-halsbinde",
+		title: "Selbstporträt Mit Blauer Halsbinde",
+		image: "/collection/amerling__selbstportrat-mit-blauer-halsbinde.jpg",
+		artist: "Friedrich von Amerling",
+		date: "1839",
+		height: 48,
+		width: 37.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "5035",
+		location: "Österreichische Galerie Belvedere",
+		source: "https://sammlung.belvedere.at/objects/3786/selbstportrat-mit-blauer-halsbinde",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "der-kupferstecher-franz-xaver-stober",
+		title: "Der Kupferstecher Franz Xaver Stöber",
+		image: "/collection/amerling__der-kupferstecher-franz-xaver-stober.jpg",
+		artist: "Friedrich von Amerling",
+		date: "c. 1830",
+		height: 37,
+		width: 30,
+		medium: "Oil",
+		support: "Cardboard",
+		accession: "2164",
+		location: "Österreichische Galerie Belvedere",
+		source: "https://sammlung.belvedere.at/objects/7964/der-kupferstecher-franz-xaver-stober--17951858",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "mihaly-von-munkacsy",
+		title: "Self-Portrait of Mihály von Munkácsy",
+		image: "/collection/munkacsy__mihaly-von-munkacsy.jpg",
+		artist: "Mihály von Munkácsy",
+		date: "1865 - 1870",
+		height: 27,
+		width: 36,
+		medium: "Oil",
+		support: "Cardboard",
+		accession: "1538",
+		location: "Österreichische Galerie Belvedere",
+		source: "https://sammlung.belvedere.at/objects/553/selbstportrat",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "karl-kopping",
+		title: "Self-Portrait of Karl Köpping",
+		image: "/collection/kopping__karl-kopping.jpg",
+		artist: "Karl Köpping",
+		date: "1879",
+		height: 51,
+		width: 41,
+		medium: "Oil",
+		support: "Wood",
+		accession: "482",
+		location: "Österreichische Galerie Belvedere",
+		source: "https://sammlung.belvedere.at/objects/6221/selbstbildnis",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "hundestudie",
+		title: "Hundestudie",
+		image: "/collection/jungere__hundestudie.jpg",
+		artist: "Johann Till der Jüngere",
+		date: "um 1870/1880",
+		height: 12.5,
+		width: 21.8,
+		medium: "Oil",
+		support: "Cardboard",
+		accession: "SLM 157",
+		location: "Österreichische Galerie Belvedere",
+		source: "https://sammlung.belvedere.at/objects/55677/hundestudie",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "actress-sarah-bernhardt",
+		title: "The Actress Sarah Bernhardt",
+		image: "/collection/bastien-lepage__actress-sarah-bernhardt.jpg",
+		artist: "Jules Bastien-Lepage",
+		date: "unknown",
+		height: 47,
+		width: 33,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "NM 4096",
+		location: "National Gallery of Sweeden",
+		source: "https://collection.nationalmuseum.se/en/collection/item/21150/",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "oscar-bjorck",
+		title: "Self-Portrait of Oscar Björck",
+		image: "/collection/bjorck__oscar-bjorck.jpg",
+		artist: "Oscar Björck",
+		date: "Executed c. 1920",
+		height: 41,
+		width: 33,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "NM 2817",
+		location: "National Gallery of Sweeden",
+		source: "https://collection.nationalmuseum.se/en/collection/item/19872/",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "dining-room",
+		title: "The Dining Room",
+		image: "/collection/lundegard__dining-room.png",
+		artist: "Justus Lundegård",
+		date: "Sign. 1919",
+		height: 63.5,
+		width: 50.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "NM 4722",
+		location: "National Gallery of Sweeden",
+		source: "https://collection.nationalmuseum.se/en/collection/item/21772/",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "amanda-sidvall",
+		title: "Self-portrait of Amanda Sidvall",
+		image: "/collection/sidvall__amanda-sidvall.png",
+		artist: "Amanda Sidvall",
+		date: "Made c. 1870",
+		height: 64,
+		width: 53.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "NM 2262",
+		location: "National Gallery of Sweeden",
+		source: "https://collection.nationalmuseum.se/en/collection/item/19322/",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "elisabeth-warling",
+		title: "Elisabeth Warling",
+		image: "/collection/brate__elisabeth-warling.png",
+		artist: "Fanny Brate",
+		date: "Made 1880s",
+		height: 21,
+		width: 16,
+		medium: "Oil",
+		support: "Cartoon",
+		accession: "NM 7621",
+		location: "National Gallery of Sweeden",
+		source: "https://collection.nationalmuseum.se/en/collection/item/243760/",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "aktstudie",
+		title: "Aktstudie",
+		image: "/collection/bonnier__aktstudie.png",
+		artist: "Eva Bonnier",
+		date: "Made 1880s",
+		height: 80.5,
+		width: 64,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "NM 7078",
+		location: "National Gallery of Sweeden",
+		source: "https://collection.nationalmuseum.se/en/collection/item/132618/",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "olle-skagerfors",
+		title: "Self-Portrait of Olle Skagerfors",
+		image: "/collection/skagerfors__olle-skagerfors.jpg",
+		artist: "Olle Skagerfors",
+		date: "Executed 1964 - 1968",
+		height: 96,
+		width: 72,
+		medium: "Oil",
+		support: "",
+		accession: "NMGrh 3834",
+		location: "National Gallery of Sweeden",
+		source: "https://collection.nationalmuseum.se/en/collection/item/16884/",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "lady-in-mourning",
+		title: "Lady in Mourning",
+		image: "/collection/thorell__lady-in-mourning.jpg",
+		artist: "Hildegard Thorell",
+		date: "Signed 1896",
+		height: 62,
+		width: 51,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "NM 2797",
+		location: "National Gallery of Sweeden",
+		source: "https://collection.nationalmuseum.se/en/collection/item/19852/",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "portrait-of-godfrey-renholm",
+		title: "Portrait of Godfrey Renholm",
+		image: "/collection/peterssen__portrait-of-godfrey-renholm.jpg",
+		artist: "Eilif Peterssen",
+		date: "Signed 1875",
+		height: 27,
+		width: 20,
+		medium: "Oil",
+		support: "Panel",
+		accession: "NM 7122",
+		location: "National Gallery of Sweeden",
+		source: "https://collection.nationalmuseum.se/en/collection/item/137843/",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "my-mother",
+		title: "My Mother",
+		image: "/collection/sugars__my-mother.jpg",
+		artist: "Fanny Sugars",
+		date: "1871-1933",
+		height: 36.2,
+		width: 31.2,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1933.17",
+		location: "Manchester Art Gallery",
+		source: "https://collections.manchesterartgallery.org/collections/item/cf8f340e-a1ff-3815-bf8f-e8192838caf6/",
+		copyright: "Public Domain | Manchester Art Gallery"
+	},
+	{
+		slug: "one-of-our-conquerors",
+		title: "One of Our Conquerors",
+		image: "/collection/dicksee__one-of-our-conquerors.jpg",
+		artist: "Frank Dicksee",
+		date: "1903",
+		height: 154,
+		width: 107.6,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1917.192",
+		location: "Manchester Art Gallery",
+		source: "https://collections.manchesterartgallery.org/collections/item/f91e8212-5be1-3979-8e77-50c5dbfccea5/",
+		copyright: "Public Domain | Manchester Art Gallery"
+	},
+	{
+		slug: "lady-in-a-black-hat",
+		title: "Lady in a Black Hat (Miss Don Wauchope of Edinburgh)",
+		image: "/collection/cadell__lady-in-a-black-hat.jpg",
+		artist: "Francis Campbell Boileau Cadell",
+		date: "circa 1929",
+		height: 104.4,
+		width: 92.2,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1955.113",
+		location: "Manchester Art Gallery",
+		source: "https://collections.manchesterartgallery.org/collections/item/f91e8212-5be1-3979-8e77-50c5dbfccea5/",
+		copyright: "Public Domain | Manchester Art Gallery"
+	},
+	{
+		slug: "colonel-volbert",
+		title: "Colonel Volbert",
+		image: "/collection/dacre__colonel-volbert.jpg",
+		artist: "Susan Isabel Dacre",
+		date: "1865 - 1870",
+		height: 23.7,
+		width: 21.1,
+		medium: "Oil",
+		support: "Panel",
+		accession: "1932.17",
+		location: "Manchester Art Gallery",
+		source: "https://collections.manchesterartgallery.org/collections/item/b74be95a-aa49-368e-8681-98288e62c60b/",
+		copyright: "Public Domain | Manchester Art Gallery"
+	},
+	{
+		slug: "townhall-in-rothenburg",
+		title: "Townhall in Rothenburg",
+		image: "/collection/probst__townhall-in-rothenburg.jpg",
+		artist: "Carl Probst",
+		date: "before 1900",
+		height: 63.5,
+		width: 42.5,
+		medium: "Oil",
+		support: "Canvas on Wood",
+		accession: "385",
+		location: "Österreichische Galerie Belvedere",
+		source: "https://sammlung.belvedere.at/objects/6098/rathaus-in-rothenburg",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "head-study",
+		title: "Head Study",
+		image: "/collection/probst__head-study.jpg",
+		artist: "Carl Probst",
+		date: "unknown",
+		height: 52,
+		width: 41,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "5308",
+		location: "Österreichische Galerie Belvedere",
+		source: "https://sammlung.belvedere.at/objects/4059/kopfstudie",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "gustav-v",
+		title: "Gustav V, King of Sweden",
+		image: "/collection/osterman__gustav-v.jpg",
+		artist: "Bernhard Österman",
+		date: "1929",
+		height: 81.5,
+		width: 65.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "NMGrh 3874",
+		location: "National Gallery of Sweeden",
+		source: "https://collection.nationalmuseum.se/en/collection/item/39875/",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "fritz-rojka",
+		title: "Self-Portrait of Fritz Rojka",
+		image: "/collection/rojka__fritz-rojka.jpg",
+		artist: "Fritz Rojka",
+		date: "1925",
+		height: 79,
+		width: 66,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "2595",
+		location: "Österreichische Galerie Belvedere",
+		source: "https://sammlung.belvedere.at/objects/8395/selbstbildnis",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "a-man-reading",
+		title: "A Man Reading",
+		image: "/collection/rojka__a-man-reading.jpg",
+		artist: "Fritz Rojka",
+		date: "undated",
+		height: 52.5,
+		width: 42,
+		medium: "Oil",
+		support: "Wood",
+		accession: "4248",
+		location: "Österreichische Galerie Belvedere",
+		source: "https://sammlung.belvedere.at/objects/3042/lesender-mann",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "portrait-of-a-woman",
+		title: "Portrait of a Woman",
+		image: "/collection/thony__portrait-of-a-woman.jpg",
+		artist: "Wilhelm Thöny",
+		date: "1911",
+		height: 170,
+		width: 130,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "7699",
+		location: "Österreichische Galerie Belvedere",
+		source: "https://sammlung.belvedere.at/objects/7487/damenbildnis",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "s-isabel-dacre",
+		title: "S. Isabel Dacre",
+		image: "/collection/swynnerton__s-isabel-dacre.jpg",
+		artist: "Annie Louisa Swynnerton A.R.A.",
+		date: "1880",
+		height: 70.3,
+		width: 51.9,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1932.15",
+		location: "Manchester Art Gallery",
+		source: "https://collections.manchesterartgallery.org/collections/item/d96f824a-0a2d-37b8-8d51-28ad6f8ce7d4",
+		copyright: "Public Domain | Manchester Art Gallery"
+	},
+	{
+		slug: "nelly-knikker",
+		title: "Portrait of Nelly Knikker",
+		image: "/collection/beekman__nelly-knikker.jpg",
+		artist: "Chris Beekman",
+		date: "1906",
+		height: 17.8,
+		width: 14,
+		medium: "Oil",
+		support: "Panel",
+		accession: "KM 103.055",
+		location: "Kröller-Müller Museum",
+		source: "https://www.krollermuller.nl/en/collection/chris-beekman-portrait-of-nelly-knikker-km-103-055",
+		copyright: ""
+	},
+	{
+		slug: "vrouwenportret",
+		title: "Vrouwenportret",
+		image: "/collection/haverman__vrouwenportret.jpg",
+		artist: "Hendrik Johan Haverman",
+		date: "1887",
+		height: 35,
+		width: 25,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "KM 103.959",
+		location: "Kröller-Müller Museum",
+		source: "https://www.krollermuller.nl/en/collection/hendrik-johan-haverman-portrait-of-a-woman-km-103-959",
+		copyright: ""
+	},
+	{
+		slug: "reverie",
+		title: "Reverie",
+		image: "/collection/gouweloos__reverie.jpg",
+		artist: "Jean Gouweloos",
+		date: "unknown",
+		height: 99,
+		width: 128,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1652",
+		location: "Kröller-Müller Museum",
+		source: "https://www.kmska.be/en/masterpiece/reverie",
+		copyright: ""
+	},
+	{
+		slug: "portrait-of-william-merritt-chase",
+		title: "Portrait of William Merritt Chase",
+		image: "/collection/duveneck__portrait-of-william-merritt-chase.jpg",
+		artist: "Frank Duveneck",
+		date: "1876",
+		height: 51.1,
+		width: 38.3,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1970-76-9",
+		location: "Philadelphia Museum of Art",
+		source: "https://www.philamuseum.org/objects/66450"
+	},
+	{
+		slug: "st-michaels-church-in-kiev",
+		title: "St. Michael's Church in Kiev",
+		image: "/collection/stanislawski__st-michaels-church-in-kiev.jpg",
+		artist: "Jan Stanisławski",
+		date: "ok. 1903",
+		height: 24,
+		width: 33,
+		medium: "Oil",
+		support: "Pasteboard",
+		accession: "MP 4778 MNW",
+		location: "National Museum in Warsaw",
+		source: "https://cyfrowe.mnw.art.pl/en/catalog/447157",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "portrait-of-a-man-4",
+		title: "Portrait of a Man",
+		image: "/collection/kramskoy__portrait-of-a-man.jpg",
+		artist: "Ivan Nikolayevich Kramskoy",
+		date: "19th century",
+		height: 24,
+		width: 33,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "M.Ob.1158 MNW",
+		location: "National Museum in Warsaw",
+		source: "https://cyfrowe.mnw.art.pl/en/catalog/441841",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "amazon-woman",
+		title: "Amazon Woman",
+		image: "/collection/romer__amazon-woman.jpg",
+		artist: "Edward Mateusz Römer",
+		date: "end of the 19th c.",
+		height: 96,
+		width: 73.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "MP 4778 MNW",
+		location: "National Museum in Warsaw",
+		source: "https://cyfrowe.mnw.art.pl/en/catalog/447436",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "theresita",
+		title: "Portrait of Maria Krzymuska called ‘Theresita’",
+		image: "/collection/krzyzanowski__theresita.jpg",
+		artist: "Konrad Krzyżanowski",
+		date: "1901",
+		height: 69.3,
+		width: 58.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "MP 384 MNW",
+		location: "National Museum in Warsaw",
+		source: "https://cyfrowe.mnw.art.pl/en/catalog/446367",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "meditation",
+		title: "Meditation",
+		image: "/collection/stevens__meditation.jpg",
+		artist: "Alfred-Emile-Léopold Stevens",
+		date: "ca. 1870",
+		height: 36.2,
+		width: 28.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "49.22",
+		location: "High Museum of Art",
+		source: "https://high.org/collection/meditation/",
+		copyright: ""
+	},
+	{
+		slug: "snow-storm",
+		title: "Snow Storm",
+		image: "/collection/la-farge__snow-storm.jpg",
+		artist: "John La Farge",
+		date: "1865",
+		height: 41.9,
+		width: 30.4,
+		medium: "Oil",
+		support: "Panel",
+		accession: "2006.63",
+		location: "High Museum of Art",
+		source: "  https://high.org/collection/snow-storm/",
+		copyright: ""
+	},
+	{
+		slug: "man-with-the-pipe",
+		title: "The Man with the Pipe",
+		image: "/collection/courbet__man-with-the-pipe.jpg",
+		artist: "Gustave Courbet",
+		date: "circa 1849",
+		height: 45.8,
+		width: 37.8,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "868.1.18",
+		location: "Musée Fabre",
+		source: "https://www.museefabre.fr/recherche/musee%3AMUS_BIEN%3A3649",
+		copyright: "Musée Fabre de Montpellier Méditerranée Métropole - photograph by Frédéric Jaulmes"
+	},
+	{
+		slug: "portrait-of-robert-stevens",
+		title: "Portrait de Robert Stevens en costume flamand du 17e siècle",
+		image: "/collection/roybet__portrait-of-robert-stevens.jpg",
+		artist: "Ferdinand Roybet",
+		date: "19th century",
+		height: 66,
+		width: 54,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "01.1.1",
+		location: "Musée Fabre",
+		source: "  https://www.museefabre.fr/recherche/musee:MUS_BIEN:11",
+		copyright: "Musée Fabre de Montpellier Méditerranée Métropole - photograph by Frédéric Jaulmes"
+	},
+	{
+		slug: "dora-wheeler",
+		title: "Portrait study of Dora Wheeler",
+		image: "/collection/chase__dora-wheeler.jpg",
+		artist: "William Merritt Chase",
+		date: "1882-1883",
+		height: 159.8,
+		width: 166.4,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1921.1239",
+		location: "Cleveland Museum of Art",
+		source: "https://www.clevelandart.org/art/1921.1239"
+	},
+	{
+		slug: "necklace",
+		title: "The Necklace",
+		image: "/collection/barney__the-necklace.jpg",
+		artist: "Alice Pike Barney",
+		date: "1898",
+		height: 46.6,
+		width: 41.1,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1951.14.77",
+		location: "Smithsonian Art Museum",
+		source: "https://americanart.si.edu/artwork/necklace-1289",
+		copyright: "CC0"
+	},
+	{
+		slug: "hipolit-lipinski",
+		title: "Self-Portrait of Hipolit Lipiński",
+		image: "/collection/lipinski__hipolit-lipinski.jpg",
+		artist: "Hipolit Lipiński",
+		date: "1882",
+		height: 56.5,
+		width: 40.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "MNK II-a-483",
+		location: "The National Museum in Krakow",
+		source: "https://zbiory.mnk.pl/en/search-result/advance/catalog/385276",
+		copyright: "CC0 - Public domain"
+	},
+	{
+		slug: "black-tresses",
+		title: "Black Tresses",
+		image: "/collection/zmurko__black-tresses.jpg",
+		artist: "Franciszek Żmurko",
+		date: "1907",
+		height: 85.5,
+		width: 60,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "MNK II-b-79",
+		location: "The National Museum in Krakow",
+		source: "https://zbiory.mnk.pl/en/search-result/advance/catalog/43984",
+		copyright: "CC0 - Public domain"
+	},
+	{
+		slug: "lazar-raditz",
+		title: "Self-Portrait of Lazar Raditz",
+		image: "/collection/raditz__lazar-raditz.jpg",
+		artist: "Lazar Raditz",
+		date: "Early 20th Century",
+		height: 54.9,
+		width: 47.3,
+		medium: "Oil",
+		support: "Canvas panel",
+		accession: "2019.61.2",
+		location: "Pennsylvania Academy of the Fine Arts",
+		source: "https://www.pafa.org/museum/collection/item/self-portrait-74"
+	},
+	{
+		slug: "a-doubtful-customer",
+		title: "A Doubtful Customer",
+		image: "/collection/reid__a-doubtful-customer.jpg",
+		artist: "Flora Macdonald Reid",
+		date: "1902",
+		height: 48.5,
+		width: 38.8,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1902.16",
+		location: "Manchester Art Gallery",
+		source: "https://collections.manchesterartgallery.org/collections/item/fa225c52-f701-37b9-8600-da50aa2ef44e/",
+		copyright: "Public Domain | Manchester Art Gallery"
+	},
+	{
+		slug: "portrait-of-william-j-crowell",
+		title: "Portrait of William J. Crowell",
+		image: "/collection/crowell__portrait-of-william-j-crowell.jpg",
+		artist: "Margaret Eakins Crowell",
+		date: "about 1900",
+		height: 50.7,
+		width: 41.2,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "P.2004.40",
+		location: "Hood Muesum",
+		source: "https://hoodmuseum.dartmouth.edu/objects/p.2004.40",
+		copyright: "Hood Museum of Art, Dartmouth"
+	},
+	{
+		slug: "john-butler-yeats",
+		title: "Self-Portrait of John Butler Yeats",
+		image: "/collection/yeats__john-butler-yeats.jpg",
+		artist: "John Butler Yeats",
+		date: "1911",
+		height: 81,
+		width: 66,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "P.952.37",
+		location: "Hood Muesum",
+		source: "https://hoodmuseum.dartmouth.edu/objects/p.952.37",
+		copyright: "Hood Museum of Art, Dartmouth"
+	},
+	{
+		slug: "hans-heyerdahl",
+		title: "Erik XIV and Karin Månsdotter in Prison. Sketch",
+		image: "/collection/perseus__erik-xiv-and-karin-mansdotter-in-prison.jpg",
+		artist: "Edvard Perséus",
+		date: "1841 - 1890",
+		height: 40.5,
+		width: 33,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "NM 3693",
+		location: "National Gallery of Sweeden",
+		source: "https://collection.nationalmuseum.se/en/collection/item/20746/",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "mademoiselle-pourtales",
+		title: "Mademoiselle Pourtalès",
+		image: "/collection/salmson__mademoiselle-pourtales.jpg",
+		artist: "Hugo Salmson",
+		date: "c. 1880",
+		height: 73,
+		width: 61,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "NM 1902",
+		location: "National Gallery of Sweeden",
+		source: "https://collection.nationalmuseum.se/en/collection/item/18907/",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "mimmi-zetterstrom",
+		title: "Self-Portrait of Mimmi Zetterström",
+		image: "/collection/zetterstrom__mimmi-zetterstrom.png",
+		artist: "Mimmi Zetterström",
+		date: "Signed 1876",
+		height: 40,
+		width: 32,
+		medium: "Oil",
+		support: "Wood",
+		accession: "NM 3344",
+		location: "National Gallery of Sweeden",
+		source: "https://collection.nationalmuseum.se/en/collection/item/20397/",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "hans-heyerdahl",
+		title: "Hans Heyerdahl",
+		image: "/collection/peterssen__hans-heyerdahl.jpg",
+		artist: "Eilifsikker Peterssen",
+		date: "1875",
+		height: 72.8,
+		width: 58.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "RMS.M.00453",
+		location: "Digital Museum",
+		source: "https://digitaltmuseum.org/0210413598557/hans-heyerdahl-olje-pa-lerret",
+		copyright: "CC BY-NC-ND 4.0"
+	},
+	{
+		slug: "oriental-woman",
+		title: "Oriental Woman",
+		image: "/collection/richter__oriental-woman.jpg",
+		artist: "Edouard Frédéric Wilhelm Richter",
+		date: "ca 1875",
+		height: 93,
+		width: 74,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "6570",
+		location: "Österreichische Galerie Belvedere",
+		source: "https://sammlung.belvedere.at/objects/5251/orientalin"
+	},
+	{
+		slug: "august-rieger",
+		title: "Self-Portrait of August Rieger",
+		image: "/collection/rieger__august-rieger.jpg",
+		artist: "August Rieger",
+		date: "1925",
+		height: 45,
+		width: 40,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "6307",
+		location: "Österreichische Galerie Belvedere",
+		source: "https://sammlung.belvedere.at/objects/5057/selbstbildnis"
+	},
+	{
+		slug: "kopf-einer-alten-frau-mit-der-hand-am-mund",
+		title: "Kopf Einer Alten Frau Mit Der Hand Am Mund",
+		image: "/collection/kubin__kopf-einer-alten-frau-mit-der-hand-am-mund.jpg",
+		artist: "Karoline Kubin",
+		date: "c 1890",
+		height: 45,
+		width: 28.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "4064",
+		location: "Österreichische Galerie Belvedere",
+		source: "https://sammlung.belvedere.at/objects/2858/kopf-einer-alten-frau-mit-der-hand-am-mund"
+	},
+	{
+		slug: "rose",
+		title: "A Rose",
+		image: "/collection/anshutz__rose.jpg",
+		artist: "Thomas Anshutz",
+		date: "1907",
+		height: 147.3,
+		width: 111.4,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1993.324",
+		location: "Metropolitan Museum of Art",
+		source: "https://www.metmuseum.org/art/collection/search/14931"
+	},
+	{
+		slug: "charles-sumner",
+		title: "Charles Sumner",
+		image: "/collection/hunt__charles-sumner.jpg",
+		artist: "William Morris Hunt",
+		date: "1875",
+		height: 55.9,
+		width: 68.6,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "25.182",
+		location: "Metropolitan Museum of Art",
+		source: "https://www.metmuseum.org/art/collection/search/11175",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "japanese-woman",
+		title: "Japanese Woman",
+		image: "/collection/boznanska__japanese-woman.jpg",
+		artist: "Olga Boznańska",
+		date: "1889",
+		height: 37,
+		width: 21,
+		medium: "Oil",
+		support: "Mahogany Board",
+		accession: "MP 5534 MNW",
+		location: "National Museum in Warsaw",
+		source: "https://cyfrowe.mnw.art.pl/en/catalog/441352",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "head-of-a-woman-2",
+		title: "Head of a Woman",
+		image: "/collection/gierymski__head-of-a-woman.jpg",
+		artist: "Maksymilian Gierymski",
+		date: "1872",
+		height: 34.7,
+		width: 30,
+		medium: "Oil",
+		support: "Canvas / Cardboard",
+		accession: "MP 1376 MNW",
+		location: "National Museum in Warsaw",
+		source: "https://cyfrowe.mnw.art.pl/en/catalog/453217"
+	},
+	{
+		slug: "church-of-san-trovaso",
+		title: "The Church of San Trovaso, Venice",
+		image: "/collection/joyant__church-of-san-trovaso.jpg",
+		artist: "Jules-Romain Joyant",
+		date: "c. 1830",
+		height: 15.5,
+		width: 23.5,
+		medium: "Oil on Paper",
+		support: "Canvas",
+		accession: "2004.166.24",
+		location: "National Gallery of Art",
+		source: "https://www.nga.gov/artworks/130890-church-san-trovaso-venice"
+	},
+	{
+		slug: "young-boy-in-straw-hat",
+		title: "Study of a young boy in a straw hat",
+		image: "/collection/pimonienko__young-boy-in-a-straw-hat.jpg",
+		artist: "Mikołaj K. Pimonienko",
+		date: "1905 - 1907",
+		height: 19,
+		width: 14.5,
+		medium: "Oil",
+		support: "Board",
+		accession: "M.Ob.908 MNW",
+		location: "National Museum in Warsaw",
+		source: "https://cyfrowe.mnw.art.pl/en/catalog/444133",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "moorish-chief",
+		title: "The Moorish Chief",
+		image: "/collection/charlemont__the-moorish-chief.jpg",
+		artist: "Eduard Charlemont",
+		date: "1878",
+		height: 150.2,
+		width: 97.8,
+		medium: "Oil",
+		support: "Panel",
+		accession: "Cat. 951",
+		location: "Philadelphia Museum of Art",
+		source: "https://www.philamuseum.org/objects/102792"
+	},
+	{
+		slug: "maria-semprun-y-pombo",
+		title: "María Semprún y Pombo",
+		image: "/collection/frances__maria-semprun-y-pombo.jpg",
+		artist: "Emilio Sala Francés",
+		date: "1900 - 1905",
+		height: 115,
+		width: 80,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "P007546",
+		location: "Museo Del Prado",
+		source: "https://www.museodelprado.es/en/the-collection/art-work/maria-semprun-y-pombo/7a043b69-e106-4d65-8c59-181c87f0cc7d",
+		copyright: "Museo Nacional del Prado"
+	},
+	{
+		slug: "the-smoker",
+		title: "The Smoker",
+		image: "/collection/meissonier__the-smoker.jpg",
+		artist: "Jean-Louis-Ernest Meissonier",
+		date: "1891",
+		height: 35.2,
+		width: 21.9,
+		medium: "Watercolor and Gauche",
+		support: "Paper",
+		accession: "",
+		location: "Private Collection",
+		source: "https://commons.wikimedia.org/wiki/File:Jean-Louis-Ernest_Meissonier_-_The_Smoker.jpg",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "her-favourite-dog",
+		title: "Her Favourite Dog",
+		image: "/collection/chaplin__her-favourite-dog.jpg",
+		artist: "Charles Joshua Chaplin",
+		date: "19th century",
+		height: 46,
+		width: 33,
+		medium: "Oil",
+		support: "Canvas",
+		accession: null,
+		location: "Private Collection",
+		source: "https://commons.wikimedia.org/wiki/File:Chaplin-Her_Favourite_Dog.jpg",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "portrait-of-a-woman-in-white",
+		title: "Portrait of a Woman in White",
+		image: "/collection/boruth__portrait-of-a-woman-in-white.jpg",
+		artist: "Andor Boruth",
+		date: "unknown",
+		height: 96,
+		width: 76,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "54.367",
+		location: "Museum of Fine Arts - Hungarian National Gallery",
+		source: "https://en.mng.hu/artworks/45011/",
+		copyright: "Museum of Fine Arts - Hungarian National Gallery"
+	},
+	{
+		slug: "gyula-rudnay",
+		title: "Self-Portrait in Painter Cap",
+		image: "/collection/rudnay__gyula-rudnay.jpg",
+		artist: "Gyula Rudnay",
+		date: "unknown",
+		height: 59,
+		width: 54.3,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "FK10.144",
+		location: "Museum of Fine Arts - Hungarian National Gallery",
+		source: "https://en.mng.hu/artworks/49964/",
+		copyright: "Museum of Fine Arts - Hungarian National Gallery"
+	},
+	{
+		slug: "study-of-a-head",
+		title: "Study of a Head",
+		image: "/collection/csok__study-of-a-head.jpg",
+		artist: "István Csók",
+		date: "unknown",
+		height: 44,
+		width: 36,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "62.46T",
+		location: "Museum of Fine Arts - Hungarian National Gallery",
+		source: "https://en.mng.hu/artworks/51439/",
+		copyright: "Museum of Fine Arts - Hungarian National Gallery"
+	},
+	{
+		slug: "toreador",
+		title: "Toreador",
+		image: "/collection/boruth__toreador.jpg",
+		artist: "Andor Boruth",
+		date: "unknown",
+		height: 55,
+		width: 46.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1623",
+		location: "Museum of Fine Arts - Hungarian National Gallery",
+		source: "https://en.mng.hu/artworks/44994/",
+		copyright: "Museum of Fine Arts - Hungarian National Gallery"
+	},
+	{
+		slug: "loss-of-a-child",
+		title: "The Loss of a Child (La pérdida del hijo)",
+		image: "/collection/daneri__loss-of-a-child.jpg",
+		artist: "Eugenio Daneri",
+		date: "1945",
+		height: 101,
+		width: 86,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "6675",
+		location: "Bellas Artes",
+		source: "https://www.bellasartes.gob.ar/en/collection/work/6675/",
+		copyright: ""
+	},
+	{
+		slug: "un-reitre",
+		title: "Un Reitre",
+		image: "/collection/roybet__un-reitre.jpg",
+		artist: "Ferdinand Roybet",
+		date: "1910",
+		height: 55,
+		width: 45.8,
+		medium: "Oil",
+		support: "Panel",
+		accession: "5442",
+		location: "Bellas Artes",
+		source: "https://www.bellasartes.gob.ar/coleccion/obra/5442/",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "secretario",
+		title: "Secretario",
+		image: "/collection/vecellio__secretario.jpg",
+		artist: "Tiziano Vecellio",
+		date: "S. XVI",
+		height: 76,
+		width: 66,
+		medium: "Oil",
+		support: "Panel",
+		accession: "7820",
+		location: "Bellas Artes",
+		source: "https://www.bellasartes.gob.ar/en/collection/work/7820/",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "without-bread-and-without-work",
+		title: "Without Bread and Without Work",
+		image: "/collection/carcova__without-bread-and-without-work.jpg",
+		artist: "Ernesto de la Cárcova",
+		date: "1894",
+		height: 125.5,
+		width: 216,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1777",
+		location: "Bellas Artes",
+		source: "https://www.bellasartes.gob.ar/en/collection/work/1777/",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "woman-cleaning-brass",
+		title: "Limpiadora de cobres (A woman cleaning brass)",
+		image: "/collection/bonvin__woman-cleaning-glass.jpg",
+		artist: "François Bonvin",
+		date: "1869",
+		height: 100,
+		width: 81,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "2545",
+		location: "Bellas Artes",
+		source: "https://www.bellasartes.gob.ar/en/collection/work/2545/",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "joven-oriental",
+		title: "Joven oriental",
+		image: "/collection/romani__joven-oriental.jpg",
+		artist: "Juana Romani",
+		date: "ca. 1888-1895",
+		height: 81,
+		width: 53.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "2326",
+		location: "Bellas Artes",
+		source: "https://www.bellasartes.gob.ar/en/collection/work/2326/",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "paysage-boise-en-vue-d-un-village",
+		title: "Paysage boisé en vue d'un village",
+		image: "/collection/corot__paysage-boise-en-vue-d-un-village.jpg",
+		artist: "Jean-Baptiste Cammile Carot",
+		date: "ca. 1860-1870",
+		height: 45,
+		width: 61,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "8538",
+		location: "Bellas Artes",
+		source: "https://www.bellasartes.gob.ar/en/collection/work/8538/",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "maid-awakens",
+		title: "The Maid Awakens",
+		image: "/collection/sivori__maid-awakens.jpg",
+		artist: "Eduardo Sívori",
+		date: "1887",
+		height: 198,
+		width: 131,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1894",
+		location: "Bellas Artes",
+		source: "https://www.bellasartes.gob.ar/en/collection/work/1894/",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "retrato-de-juana-romani",
+		title: "Retrato de Juana Romani",
+		image: "/collection/roybet__retrato-de-juana-romani.jpg",
+		artist: "Ferdinand Roybet",
+		date: "ca.1890",
+		height: 55,
+		width: 45.5,
+		medium: "Oil",
+		support: "Panel",
+		accession: "5898",
+		location: "Bellas Artes",
+		source: "https://www.bellasartes.gob.ar/coleccion/obra/5898/",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "tirana",
+		title: "La Tirana",
+		image: "/collection/casado-del-alisal__tirana.jpg",
+		artist: "José Casado del Alisal",
+		date: "Ca. 1875",
+		height: 83,
+		width: 68,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "P004179",
+		location: "Museo Del Prado",
+		source: "https://www.museodelprado.es/en/the-collection/art-work/la-tirana/6cbbe22a-6e17-42d7-9780-f3ee78d92c0c",
+		copyright: "Museo Nacional del Prado"
+	},
+	{
+		slug: "bell-of-huesca",
+		title: "The Bell of Huesca (The Legend of the Monk King)",
+		image: "/collection/casado-del-alisal__bell-of-huesca.jpg",
+		artist: "José Casado del Alisal",
+		date: "1880",
+		height: 356,
+		width: 474,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "P006751",
+		location: "Museo Del Prado",
+		source: "https://www.museodelprado.es/en/the-collection/art-work/the-legend-of-the-monk-king/54cca3b9-3a81-4572-9bcf-9969271fac04",
+		copyright: "Museo Nacional del Prado"
+	},
+	{
+		slug: "an-alter-boy-practices-his-singing",
+		title: "An altar boy practices his singing",
+		image: "/collection/camarlench__an-altar-boy-practices-his-singing.jpg",
+		artist: "Ignacio Pinazo Camarlench",
+		date: "1891",
+		height: 106,
+		width: 70,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "P007396",
+		location: "Museo Del Prado",
+		source: "https://www.museodelprado.es/en/the-collection/art-work/an-altar-boy-practices-his-singing/5fbfa4c9-8095-4527-8467-0a0a36945fbf",
+		copyright: "Museo Nacional del Prado"
+	},
+	{
+		slug: "windmill",
+		title: "The Windmill",
+		image: "/collection/cazin__windmill.jpg",
+		artist: "Jean-Charles Cazin",
+		date: "probably after 1884",
+		height: 40.5,
+		width: 32,
+		medium: "Oil",
+		support: "Wood",
+		accession: "1949.1.1",
+		location: "National Gallery of Art",
+		source: "https://www.nga.gov/artworks/35085-windmill"
+	},
+	{
+		slug: "study-of-a-head-2",
+		title: "Study of a Head",
+		image: "/collection/csok__study-of-a-head-2.jpg",
+		artist: "István Csók",
+		date: "unknown",
+		height: 49,
+		width: 39,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "64.26T",
+		location: "Museum of Fine Arts - Hungarian National Gallery",
+		source: "https://en.mng.hu/artworks/48658/",
+		copyright: "Museum of Fine Arts - Hungarian National Gallery"
+	},
+	{
+		slug: "study-of-legs",
+		title: "Study of Legs (Phryne)",
+		image: "/collection/siemiradzki__study-of-legs.jpg",
+		artist: "Henryk Siemiradzki",
+		date: "około 1888",
+		height: 43,
+		width: 24,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "MNK II-a-1049",
+		location: "The National Museum in Krakow",
+		source: "https://zbiory.mnk.pl/en/search-result/advance/catalog/489678",
+		copyright: "CC0 - Public domain"
+	},
+	{
+		slug: "portrait-of-feliks-jasienski-dressed-as-a-bedouin",
+		title: "Portrait of Feliks Jasieński Dressed as a Bedouin",
+		image: "/collection/wyczilkowski__portrait-of-feliks-jasienski-dressed-as-a-bedouin.jpg",
+		artist: "Leon Wyczółkowski",
+		date: "około 1908 roku",
+		height: 133,
+		width: 60,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "MNK II-b-919",
+		location: "The National Museum in Krakow",
+		source: "https://zbiory.mnk.pl/en/search-result/advance/catalog/147903",
+		copyright: "CC0 - Public domain"
+	},
+	{
+		slug: "portrait-of-erazm-baracz",
+		title: "Portrait of Erazm Barącz",
+		image: "/collection/wyczilkowski__portrait-of-erazm-baracz.jpg",
+		artist: "Leon Wyczółkowski",
+		date: "1908",
+		height: 76,
+		width: 80,
+		medium: "Oil",
+		support: "Cardboard",
+		accession: "MNK II-b-71",
+		location: "The National Museum in Krakow",
+		source: "https://zbiory.mnk.pl/en/search-result/advance/catalog/42925",
+		copyright: "CC0 - Public domain"
+	},
+	{
+		slug: "kosciuszko-on-horseback",
+		title: "Kościuszko on Horseback",
+		image: "/collection/kossak__kosciuszko-on-horseback.jpg",
+		artist: "Wojciech Kossak",
+		date: "1893",
+		height: 121,
+		width: 90,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "MNK II-b-1726",
+		location: "The National Museum in Krakow",
+		source: "https://zbiory.mnk.pl/en/search-result/advance/catalog/245118",
+		copyright: "CC0 - Public domain"
+	},
+	{
+		slug: "gammel-mann",
+		title: "Gammel mann",
+		image: "/collection/heyerdahl__gammel-mann.jpg",
+		artist: "Hans Heyerdahl",
+		date: "1876",
+		height: 81.3,
+		width: 43.7,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "RMS.M.00195",
+		location: "Digital Museum",
+		source: "https://digitaltmuseum.org/0210413598498/gammel-mann-olje-pa-lerret",
+		copyright: "CC BY-NC-ND 4.0"
+	},
+	{
+		slug: "family-meal",
+		title: "A Family Meal",
+		image: "/collection/pieters__family-meal.jpg",
+		artist: "Evert Pieters",
+		date: "1890s",
+		height: 191,
+		width: 90,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1894.1050",
+		location: "Art Institute of Chicago",
+		source: "https://www.artic.edu/artworks/65847/a-family-meal",
+		copyright: "Digital image courtesy of the Art Institute of Chicago"
+	},
+	{
+		slug: "a-mounted-officer",
+		title: "A Mounted Officer",
+		image: "/collection/detaille__a-mounted-officer.jpg",
+		artist: "Jean Baptiste Edouard Detaille",
+		date: "1877",
+		height: 46.5,
+		width: 38.2,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1894.1050",
+		location: "Art Institute of Chicago",
+		source: "https://www.artic.edu/artworks/885/a-mounted-officer",
+		copyright: "Digital image courtesy of the Art Institute of Chicago"
+	},
+	{
+		slug: "old-man-in-a-fur-cap",
+		title: "Old Man in a Fur Cap",
+		image: "/collection/pluym__old-man-in-a-fur-cap.jpg",
+		artist: "Karel van der Pluym",
+		date: "c 1655",
+		height: 71.3,
+		width: 54.8,
+		medium: "Oil",
+		support: "Cradled Panel",
+		accession: "1988.265",
+		location: "Art Institute of Chicago",
+		source: "https://www.artic.edu/artworks/72190/an-old-man-in-a-fur-cap",
+		copyright: "Digital image courtesy of the Art Institute of Chicago"
+	},
+	{
+		slug: "old-age",
+		title: "Old Age",
+		image: "/collection/israels__old-age.jpg",
+		artist: "Jozef Israëls",
+		date: "c. 1895",
+		height: 120.1,
+		width: 87,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1944.35",
+		location: "Art Institute of Chicago",
+		source: "https://www.artic.edu/artworks/49723/old-age",
+		copyright: "CC0 Public Domain Designation"
+	},
+	{
+		slug: "louis-jacques-veltman",
+		title: "Louis Jacques Veltman",
+		image: "/collection/israels__louis-jacques-veltman.webp",
+		artist: "Jozef Israëls",
+		date: "1893",
+		height: 81.7,
+		width: 61.4,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "SK-C-570",
+		location: "Rijksmuseum",
+		source: "https://id.rijksmuseum.nl/20028135",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "mary-magdalene",
+		title: "Mary Magdalene",
+		image: "/collection/tadema__mary-magdalene.webp",
+		artist: "Lourens Alma Tadema",
+		date: "1854",
+		height: 31,
+		width: 35,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "SK-A-2289",
+		location: "Rijksmuseum",
+		source: "https://id.rijksmuseum.nl/20026486",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "e-j-van-wisselingh",
+		title: "Portrait of the Art Dealer E.J. van Wisselingh",
+		image: "/collection/maarel__e-j-van-wisselingh.webp",
+		artist: "Marinus van der Maarel",
+		date: "c. 1880 - c. 1912",
+		height: 33.3,
+		width: 24.6,
+		medium: "Oil",
+		support: "Panel",
+		accession: "SK-A-4949",
+		location: "Rijksmuseum",
+		source: "https://id.rijksmuseum.nl/20065887",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "vissersvrouw",
+		title: "Vissersvrouw",
+		image: "/collection/maarel__vissersvrouw.webp",
+		artist: "Marinus van der Maarel",
+		date: "1880 - 1900",
+		height: 40.5,
+		width: 30.2,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "SK-A-1883",
+		location: "Rijksmuseum",
+		source: "https://id.rijksmuseum.nl/20027443",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "mourning-widow",
+		title: "The Mourning Widow",
+		image: "/collection/jamin__the-mourning-widow.webp",
+		artist: "Diederik Franciscus Jamin",
+		date: "c. 1860 - c. 1865",
+		height: 44.5,
+		width: 36.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "SK-A-2269",
+		location: "Rijksmuseum",
+		source: "https://id.rijksmuseum.nl/20028150",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "study-of-an-old-man",
+		title: "Study of an Old Man",
+		image: "/collection/rembrandt-follower__study-of-an-old-man.jpg",
+		artist: "Follower of Rembrandt",
+		date: "Probably late 17th century",
+		height: 28,
+		width: 21.5,
+		medium: "Oil",
+		support: "Panel",
+		accession: "1942.9.63",
+		location: "National Gallery of Art",
+		source: "https://www.nga.gov/artworks/1202-study-old-man"
+	},
+	{
+		slug: "head-of-a-woman",
+		title: "Head of a Woman",
+		image: "/collection/beaux__head-of-a-woman.jpg",
+		artist: "Cecilia Beaux",
+		date: "1888",
+		height: 40.6,
+		width: 32.7,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1950.17.4",
+		location: "Pennsylvania Academy of the Fine Arts",
+		source: "https://www.pafa.org/museum/collection/item/head-woman"
+	},
+	{
+		slug: "landscape-with-a-windmill",
+		title: "Landscape with a Windmill",
+		image: "/collection/neer__landscape-with-windmill.jpg",
+		artist: "Aert van der Neer",
+		date: "circa 1646",
+		height: 69,
+		width: 92,
+		medium: "Oil",
+		support: "Panel",
+		accession: "ГЭ-927",
+		location: "The State Hermitage Museum",
+		source: "https://www.hermitagemuseum.org/digital-collection/44342"
+	},
+	{
+		slug: "ignacio-pinazo-camarlench",
+		title: "Self-Portrait of Ignacio Pinazo Camarlench",
+		image: "/collection/camarlench__ignacio-pinazo-camarlench.jpg",
+		artist: "Ignacio Pinazo Camarlench",
+		date: "1895",
+		height: 83,
+		width: 61,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "P004582",
+		location: "Museo Del Prado",
+		source: "https://www.museodelprado.es/en/the-collection/art-work/self-portrait/c2b5ef3d-d3fc-45b3-9a95-cbce43b9704a",
+		copyright: "Museo Nacional del Prado"
+	},
+	{
+		slug: "portrait-study-of-a-young-woman",
+		title: "Portrait study of a young woman",
+		image: "/collection/szankowski__portrait-study-of-a-young-woman.jpg",
+		artist: "Bolesław Szańkowski",
+		date: "1897",
+		height: 92,
+		width: 73,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "MP 2361 MNW",
+		location: "National Museum in Warsaw",
+		source: "https://cyfrowe.mnw.art.pl/en/catalog/445386"
+	},
+	{
+		slug: "head-of-an-old-woman",
+		title: "Head of an Old Woman",
+		image: "/collection/koehler__head-of-an-old-woman.jpg",
+		artist: "Robert Koehler",
+		date: "1881",
+		height: 54.9,
+		width: 46.3,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "01.1",
+		location: "Minneapolis Institute of Art",
+		source: "https://collections.artsmia.org/art/10507/head-of-an-old-woman-robert-koehler"
+	},
+	{
+		slug: "blue-mandarin-coat",
+		title: "Blue Mandarin Coat",
+		image: "/collection/decamp__blue-mandarin-coat.jpg",
+		artist: "Joseph Rodefer DeCamp",
+		date: "1922",
+		height: 109.2,
+		width: 94.6,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "2000.1",
+		location: "High Museum of Art",
+		source: "https://high.org/collection/the-blue-mandarin-coat-the-blue-kimono/",
+		copyright: "Museum Terms of Use (Noncommercial)"
+	},
+	{
+		slug: "landscape-with-two-women",
+		title: "Landscape with Two Women",
+		image: "/collection/cock__landscape-with-two-women.jpg",
+		artist: "Cesar de Cock",
+		date: "1872",
+		height: 49.26,
+		width: 64.9,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "56.112",
+		location: "High Museum of Art",
+		source: "https://high.org/collection/landscape-with-two-women/",
+		copyright: "Museum Terms of Use (Noncommercial)"
+	},
+	{
+		slug: "portrait-of-whistler-with-a-hat",
+		title: "Portrait of Whistler with a Hat",
+		image: "/collection/whistler__portrait-of-whistler-with-a-hat.jpg",
+		artist: "James McNeill Whistler",
+		date: "1857-1859",
+		height: 46.3,
+		width: 38.1,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "F1906.57a-b",
+		location: "Fine Arts Museum of San Francisco",
+		source: "https://www.famsf.org/artworks/the-lone-scout",
+		copyright: "Creative Commons"
+	},
+	{
+		slug: "oriental",
+		title: "Oriental",
+		image: "/collection/masriera__oriental.jpg",
+		artist: "Francisco Masriera y Manovens",
+		date: "1892",
+		height: 55,
+		width: 43,
+		medium: "Oil",
+		support: "Panel",
+		accession: "P004502",
+		location: "Museo Del Prado",
+		source: "https://www.museodelprado.es/en/the-collection/art-work/oriental/5dc1d1d8-a53b-4deb-af9c-461e59f68878",
+		copyright: "Museo Nacional del Prado"
+	},
+	{
+		slug: "pere-et-fille",
+		title: "Père et fille",
+		image: "/collection/oyens__pere-et-fille.webp",
+		artist: "David Oyens",
+		date: "1878",
+		height: 69.8,
+		width: 54.7,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "SK-C-1851",
+		location: "Rijksmuseum",
+		source: "https://id.rijksmuseum.nl/200892878",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "hippolyte-lavoignat",
+		title: "Hippolyte Lavoignat",
+		image: "/collection/daumier-follower__hippolyte-lavoignat.jpg",
+		artist: "Follower of Honoré Daumier",
+		date: "c. 1860",
+		height: 46.3,
+		width: 38.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1963.10.117",
+		location: "National Gallery of Art",
+		source: "https://www.nga.gov/artworks/46592-hippolyte-lavoignat"
+	},
+	{
+		slug: "john-philip-souza",
+		title: "Portrait of John Philip Sousa",
+		image: "/collection/waltman__john-philip-sousa.jpg",
+		artist: "Harry Franklin Waltman",
+		date: "1909",
+		height: 68.9,
+		width: 56.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "NPG.69.24",
+		location: "Smithsonian Art Museum",
+		source: "https://collections.si.edu/search/detail/edanmdm:npg_NPG.69.24",
+		copyright: "CC0"
+	},
+	{
+		slug: "study-of-lilia",
+		title: "Study of Lilia",
+		image: "/collection/duran__study-of-lilia.jpg",
+		artist: "Carolus-Duran",
+		date: "1887",
+		height: 55,
+		width: 46,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1999.45.1",
+		location: "National Gallery of Art",
+		source: "https://www.nga.gov/artworks/108382-study-lilia"
+	},
+	{
+		slug: "der-naturforscher",
+		title: "Der Naturforscher (Scholar of Natural Sciences)",
+		image: "/collection/spitzweg__der-naturforscher.jpg",
+		artist: "Carl Spitzweg",
+		date: "1875/80",
+		height: 57.1,
+		width: 34.9,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "M1962.136",
+		location: "Milwaukee Art Museum",
+		source: "https://collection.mam.org/details.php?id=7760",
+		copyright: "Milwaukee Art Museum"
+	},
+	{
+		slug: "head-of-saint-matthew",
+		title: "Head of Saint Matthew",
+		image: "/collection/rembrandt-follower__head-of-saint-matthew.jpg",
+		artist: "Follower of Rembrandt",
+		date: "Probably early 1660s",
+		height: 25,
+		width: 19.5,
+		medium: "Oil",
+		support: "Panel",
+		accession: "1942.9.58",
+		location: "National Gallery of Art",
+		source: "https://www.nga.gov/artworks/1197-head-saint-matthew"
+	},
+	{
+		slug: "ruggiero-leoncavallo",
+		title: "Portrait of Ruggiero Leoncavallo",
+		image: "/collection/boldini__portrait-of-ruggiero-leoncavallo.jpg",
+		artist: "Giovanni Boldini",
+		date: "1906",
+		height: 60.6,
+		width: 73.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "74.3",
+		location: "Minneapolis Institute of Art",
+		source: "https://collections.artsmia.org/art/2040/portrait-of-ruggiero-leoncavallo-giovanni-boldini"
+	},
+	{
+		slug: "la-spagnola",
+		title: "La Spagnola",
+		image: "/collection/boldini__la-spagnola.jpg",
+		artist: "Giovanni Boldini",
+		date: "circa 1878",
+		height: 61.5,
+		width: 48,
+		medium: "Oil",
+		support: "Panel",
+		accession: "",
+		location: "Private Collection",
+		source: "https://commons.wikimedia.org/wiki/File:Giovanni_boldini_la_spagnola100905).jpg"
+	},
+	{
+		slug: "ferdynand-bryndza",
+		title: "Portrait of Ferdynand Bryndza",
+		image: "/collection/boldini__ferdynand-bryndza.jpg",
+		artist: "Giovanni Boldini",
+		date: "1878",
+		height: 26,
+		width: 18,
+		medium: "Oil",
+		support: "Plank (wood)",
+		accession: "MNK XII-A-494",
+		location: "The National Museum in Krakow",
+		source: "https://zbiory.mnk.pl/en/search-result/advance/catalog/388266",
+		copyright: "CC0 - Public domain"
+	},
+	{
+		slug: "fathers-portrait",
+		title: "Father's portrait",
+		image: "/collection/koniuszko__fathers-portrait.jpg",
+		artist: "Wacław Józef Koniuszko",
+		date: "4th quarter of the 19th c.",
+		height: 61,
+		width: 49.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "MP 1978 MNW",
+		location: "National Museum in Warsaw",
+		source: "https://cyfrowe.mnw.art.pl/en/catalog/445028"
+	},
+	{
+		slug: "antoine-vollon",
+		title: "Portrait de l'artiste",
+		image: "/collection/vollon__antoine-vollon.jpg",
+		artist: "Antoine Vollon",
+		date: "entre 1833 et 1900",
+		height: 41.2,
+		width: 33.2,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "RF 2696",
+		location: "Musée d'Orsay",
+		source: "https://www.musee-orsay.fr/en/artworks/portrait-de-lartiste-21242",
+		copyright: "Open Access"
+	},
+	{
+		slug: "portrait-d-homme",
+		title: "Portrait d'homme",
+		image: "/collection/cayron__portrait-d-homme.jpg",
+		artist: "Jules Cayron",
+		date: "entre 1868 et 1940",
+		height: 41,
+		width: 32.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "INV 20616",
+		location: "Musée d'Orsay",
+		source: "https://www.musee-orsay.fr/en/artworks/portrait-dhomme-16661",
+		copyright: "Open Access"
+	},
+	{
+		slug: "jeune-fille-au-chat",
+		title: "Jeune fille au chat",
+		image: "/collection/zillhardt__jeune-fille-au-chat.jpg",
+		artist: "Jenny Zillhardt",
+		date: "between 1857 and 1939",
+		height: 47.5,
+		width: 30,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "RF 1977 406",
+		location: "Musée d'Orsay",
+		source: "https://www.musee-orsay.fr/en/artworks/jeune-fille-au-chat-78654",
+		copyright: "Musée d'Orsay, dist. RMN-Grand Palais / DR"
+	},
+	{
+		slug: "zacharie-astruc",
+		title: "Zacharie Astruc",
+		image: "/collection/carolus-duran__zacharie-astruc.jpg",
+		artist: "Carolus-Duran",
+		date: "1861",
+		height: 40.8,
+		width: 31.4,
+		medium: "Oil",
+		support: "Wood",
+		accession: "RF 1950 36",
+		location: "Musée d'Orsay",
+		source: "https://www.musee-orsay.fr/en/artworks/zacharie-astruc-3084",
+		copyright: "Open Access"
+	},
+	{
+		slug: "gitana-prisonniere",
+		title: "Gitana prisonnière",
+		image: "/collection/wauters__gitana-prisonniere.jpg",
+		artist: "Emile Wauters",
+		date: "1898",
+		height: 131,
+		width: 80.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "RF 1979 45",
+		location: "Musée d'Orsay",
+		source: "https://www.musee-orsay.fr/en/artworks/gitana-prisonniere-21263",
+		copyright: "Open Access"
+	},
+	{
+		slug: "wounded-man",
+		title: "The Wounded Man",
+		image: "/collection/courbet__wounded-man.jpg",
+		artist: "Gustave Courbet",
+		date: "Between 1844 and 1854",
+		height: 81.5,
+		width: 97.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "RF 338",
+		location: "Musée d'Orsay",
+		source: "https://www.musee-orsay.fr/en/artworks/lhomme-blesse-925",
+		copyright: "Open Access"
+	},
+	{
+		slug: "victor-laloux",
+		title: "Victor Laloux",
+		image: "/collection/dechenaud__victor-laloux.jpg",
+		artist: "Adolphe Déchenaud",
+		date: "Between 1902 et 1922",
+		height: 55,
+		width: 47,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "RF 1983 99",
+		location: "Musée d'Orsay",
+		source: "https://www.musee-orsay.fr/en/artworks/victor-laloux-2361",
+		copyright: "RMN-Grand Palais (Musée d'Orsay) / Hervé Lewandowski"
+	},
+	{
+		slug: "trumpeter-of-the-hussars",
+		title: "Trumpeter of the Hussars",
+		image: "/collection/gericault__trumpeter-of-the-hussars.jpg",
+		artist: "Théodore Géricault",
+		date: "c. 1815-20",
+		height: 96,
+		width: 71.8,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1955.959",
+		location: "The Clark",
+		source: "https://www.clarkart.edu/ArtPiece/Detail/Trumpeter-of-the-Hussars",
+		copyright: "Open Access"
+	},
+	{
+		slug: "friends-or-foes",
+		title: "Friends or Foes? (The Scout)",
+		image: "/collection/remmington__friends-or-foes.jpg",
+		artist: "Frederic Remington",
+		date: "1902-05",
+		height: 68.6,
+		width: 101.6,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1955.12",
+		location: "The Clark",
+		source: "https://www.clarkart.edu/ArtPiece/Detail/Friends-or-Foes-(The-Scout)",
+		copyright: "Open Access"
+	},
+	{
+		slug: "nymphs-and-satyr",
+		title: "Nymphs and Satyr",
+		image: "/collection/bouguereau__nymphs-and-satyr.jpg",
+		artist: "William-Adolphe Bouguereau",
+		date: "1873",
+		height: 260,
+		width: 180,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1955.658",
+		location: "The Clark",
+		source: "https://www.clarkart.edu/artpiece/detail/Nymphs-and-Satyr",
+		copyright: "Open Access"
+	},
+	{
+		slug: "motion-picture",
+		title: "A Motion Picture",
+		image: "/collection/richardson__a-motion-picture.jpg",
+		artist: "Margaret Foster Richardson",
+		date: "1912",
+		height: 103.5,
+		width: 58.7,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1913.13",
+		location: "Pennsylvania Academy of the Fine Arts",
+		source: "https://www.pafa.org/museum/collection/item/motion-picture",
+		copyright: "No known copyright restrictions"
+	},
+	{
+		slug: "harvest",
+		title: "The Harvest",
+		image: "/collection/maignon__harvest.jpg",
+		artist: "Ramón Tusquets y Maignon",
+		date: "1871",
+		height: 125.7,
+		width: 254,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "2024.12",
+		location: "Minneapolis Institute of Art",
+		source: "https://collections.artsmia.org/art/146651/the-harvest-ramon-tusquets-y-maignon"
+	},
+	{
+		slug: "two-women-visiting",
+		title: "Two Women Visiting",
+		image: "/collection/portielje__two-women-visiting.jpg",
+		artist: "Edward Antoon Portielje",
+		date: "c 1900",
+		height: 79.3,
+		width: 93,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "82.122",
+		location: "Minneapolis Institute of Art",
+		source: "https://collections.artsmia.org/art/23057/two-women-visiting-edward-antoon-portielje"
+	},
+	{
+		slug: "grapes",
+		title: "Grapes",
+		image: "/collection/decker__grapes.jpg",
+		artist: "Joseph Decker",
+		date: "c. 1890/1895",
+		height: 55.6,
+		width: 63.3,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1994.59.3",
+		location: "National Gallery of Art",
+		source: "https://www.nga.gov/artworks/89672-grapes"
+	},
+	{
+		slug: "offering-the-panal-to-the-bullfighter",
+		title: "Offering the Panal to the Bullfighter",
+		image: "/collection/cassatt__offering-the-panal-to-the-bullfighter.jpg",
+		artist: "Mary Cassatt",
+		date: "1873",
+		height: 100.6,
+		width: 85.1,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1955.1",
+		location: "The Clark",
+		source: "https://www.clarkart.edu/ArtPiece/Detail/Offering-the-Panal-to-the-Bullfighter",
+		copyright: "Open Access"
+	},
+	{
+		slug: "village-school-teacher",
+		title: "The Village School Teacher",
+		image: "/collection/best__village-school-teacher.jpg",
+		artist: "Hans Best",
+		date: "1630",
+		height: 60,
+		width: 49.8,
+		medium: "Oil",
+		support: "Cardboard",
+		accession: "M1970.116",
+		location: "Milwaukee Art Museum",
+		source: "https://collection.mam.org/details.php?id=7571",
+		copyright: "Milwaukee Art Museum"
+	},
+	{
+		slug: "smoke-of-ambergris",
+		title: "Fumée d'ambre gris (Smoke of Ambergris)",
+		image: "/collection/sargent__smoke-of-ambergris.jpg",
+		artist: "John Singer Sargent",
+		date: "1880",
+		height: 139.1,
+		width: 90.6,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1955.15",
+		location: "The Clark Art Institute",
+		source: "https://www.clarkart.edu/ArtPiece/Detail/Fumee-d-ambre-gris-(Smoke-of-Ambergris)",
+		copyright: "Open Access"
+	},
+	{
+		slug: "Smoker",
+		title: "The Smoker",
+		image: "/collection/seignemartin__smoker.jpg",
+		artist: "Jean Seignemartin",
+		date: "unknown",
+		height: 78,
+		width: 65,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "A 21977",
+		location: "Stedelijk Museum Amsterdam",
+		source: "https://www.stedelijk.nl/en/collection/912-jean-seignemartin-de-roker",
+		copyright: "Unknown"
+	},
+	{
+		slug: "lady-in-a-red-dress-holding-a-cigarette",
+		title: "Lady in a Red Dress Holding a Cigarette",
+		image: "/collection/gibson__lady-in-a-red-dress-holding-a-cigarette.jpg",
+		artist: "Charles Gibson",
+		date: "Circa 1939",
+		height: 115.5,
+		width: 92.3,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "84.18",
+		location: "Fransworth Art Museum",
+		source: "https://collection.farnsworthmuseum.org/objects/284/lady-in-a-red-dress-holding-a-cigarette",
+		copyright: "Restricted"
+	},
+	{
+		slug: "on-the-deep-sea",
+		title: "On The Deep Sea",
+		image: "/collection/dean__on-the-dep-sea.jpg",
+		artist: "Walter Dean",
+		date: "1901",
+		height: 101.9,
+		width: 114.9,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "71.1807",
+		location: "Fransworth Art Museum",
+		source: "https://collection.farnsworthmuseum.org/objects/242/on-the-deep-sea",
+		copyright: "Restricted"
+	},
+	{
+		slug: "after-the-storm",
+		title: "After the Storm",
+		image: "/collection/murphy__after-the-storm.jpg",
+		artist: "John Francis Murphy",
+		date: "19th century",
+		height: 35.5,
+		width: 48.2,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "70.61.22",
+		location: "Minneapolis Institute of Art",
+		source: "https://collections.artsmia.org/art/10520/after-the-storm-john-francis-murphy"
+	},
+	{
+		slug: "sheep-at-rest",
+		title: "Sheep At Rest",
+		image: "/collection/jacque__sheep-at-rest.jpg",
+		artist: "Charles Émile Jacque",
+		date: "1800s",
+		height: 19.4,
+		width: 29.8,
+		medium: "Oil",
+		support: "Panel",
+		accession: "21.448",
+		location: "RISD Museum",
+		source: "https://risdmuseum.org/art-design/collection/sheep-rest-21448"
+	},
+	{
+		slug: "lady-trying-on-a-hat",
+		title: "Lady Trying on a Hat",
+		image: "/collection/benson__lady-trying-on-a-hat.jpg",
+		artist: "Frank Weston Benson",
+		date: "1904",
+		height: 102.2,
+		width: 81.6,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "06.002",
+		location: "RISD Museum",
+		source: "https://risdmuseum.org/art-design/collection/lady-trying-hat-black-hat-06002"
+	},
+	{
+		slug: "old-woman-drinking-tea",
+		title: "Old Woman Drinking Tea",
+		image: "/collection/mancini__old-woman-drinking-tea.jpg",
+		artist: "Antonio Mancini",
+		date: "1907",
+		height: 73.7,
+		width: 59.7,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "2004-108-6",
+		location: "Philadelphia Museum of Art",
+		source: "https://www.philamuseum.org/objects/283511"
+	},
+	{
+		slug: "portrait-of-kazimierz-alchimowicz",
+		title: "Portrait of Kazimierz Alchimowicz, painter",
+		image: "/collection/ajdukiewicz__portrait-of-kazimierz-alchimowicz.jpg",
+		artist: "Tadeusz Ajdukiewicz",
+		date: "1875",
+		height: 38,
+		width: 29.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "34354 MNW",
+		location: "National Museum in Warsaw",
+		source: "https://cyfrowe.mnw.art.pl/en/catalog/440413",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "oriental-rider-on-a-white-horse",
+		title: "Oriental rider on a white horse",
+		image: "/collection/chelminski__oriental-rider-on-a-white-horse.jpg",
+		artist: "Jan Chełmiński",
+		date: "1873",
+		height: 9.5,
+		width: 12.5,
+		medium: "Oil",
+		support: "Oakwood Board",
+		accession: "34492 MNW",
+		location: "National Museum in Warsaw",
+		source: "https://cyfrowe.mnw.art.pl/en/catalog/453047",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "woman-in-reverie",
+		title: "Oriental rider on a white horse",
+		image: "/collection/batowski-kaczor__woman-in-reverie.jpg",
+		artist: "Stanisław Batowski-Kaczor",
+		date: "1888",
+		height: 106.5,
+		width: 85.8,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "35522 MNW",
+		location: "National Museum in Warsaw",
+		source: "https://cyfrowe.mnw.art.pl/en/catalog/453568",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "vulcan-at-his-forge",
+		title: "Vulcan At His Forge",
+		image: "/collection/batoni__vulcan-at-his-forge.jpg",
+		artist: "Pompeo Batoni",
+		date: "1750",
+		height: 94.2,
+		width: 72.2,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "45405",
+		location: "National Gallery of Canada",
+		source: "https://www.gallery.ca/collection/artwork/vulcan-at-his-forge"
+	},
+	{
+		slug: "return-of-the-flock",
+		title: "Return of the Flock",
+		image: "/collection/mauve__return-of-the-flock.jpg",
+		artist: "Anton Mauve",
+		date: "1886-1887",
+		height: 100.2,
+		width: 161.3,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "E1924-4-21",
+		location: "Philadelphia Museum of Art",
+		source: "https://www.philamuseum.org/objects/102977"
+	},
+	{
+		slug: "warrior",
+		title: "The Warrior",
+		image: "/collection/fragonard__the-warrior.jpg",
+		artist: "Jean-Honoré Fragonard",
+		date: "1770",
+		height: 81.5,
+		width: 64.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1964.8",
+		location: "The Clark Art Institute",
+		source: "https://www.clarkart.edu/ArtPiece/Detail/The-Warrior",
+		copyright: "Open Access"
+	},
+	{
+		slug: "still-life-of-eggs",
+		title: "Still Life of Eggs",
+		image: "/collection/bail__still-life-of-eggs.jpg",
+		artist: "Claude Joseph Bail",
+		date: "n.d.",
+		height: 89.5,
+		width: 102.8,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "L120",
+		location: "Milwaukee Art Museum",
+		source: "https://collection.mam.org/details.php?id=17911",
+		copyright: "Milwaukee Art Museum"
+	},
+	{
+		slug: "portrait-of-charles-bregler",
+		title: "Portrait of Charles Bregler",
+		image: "/collection/sm-eakins__portrait-of-charles-bregler.jpg",
+		artist: "Susan Macdowell Eakins",
+		date: "1935",
+		height: 50.8,
+		width: 40.6,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1985.68.39.17",
+		location: "Pennsylvania Academy of the Fine Arts",
+		source: "https://www.pafa.org/museum/collection/item/portrait-charles-bregler"
+	},
+	{
+		slug: "woman-sewing",
+		title: "Woman Sewing",
+		image: "/collection/ribot__woman-sewing.webp",
+		artist: "Théodule Augustin Ribot",
+		date: "1850 - 1891",
+		height: 46.5,
+		width: 38,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "SK-A-1897",
+		location: "Rijksmuseum",
+		source: "https://id.rijksmuseum.nl/200108885",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "elderly-man",
+		title: "Elderly Man",
+		image: "/collection/csok__elderly-man.jpg",
+		artist: "István Csók",
+		date: "unknown",
+		height: 50,
+		width: 41.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "64.27T",
+		location: "Museum of Fine Arts - Hungarian National Gallery",
+		source: "https://en.mng.hu/artworks/51359/",
+		copyright: "Museum of Fine Arts - Hungarian National Gallery"
+	},
+	{
+		slug: "girls-from-chioggia",
+		title: "Girls from Chioggia",
+		image: "/collection/strobentz__girls-from-chioggia.jpg",
+		artist: "Frigyes Strobentz",
+		date: "1929",
+		height: 64,
+		width: 50,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "3297",
+		location: "Museum of Fine Arts - Hungarian National Gallery",
+		source: "https://en.mng.hu/artworks/45899/",
+		copyright: "Museum of Fine Arts - Hungarian National Gallery"
+	},
+	{
+		slug: "bertalan-por",
+		title: "Self-portrait as a Young Man",
+		image: "/collection/por__bertalan-por.jpg",
+		artist: "1902",
+		date: "1929",
+		height: 54,
+		width: 41,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "63.46T",
+		location: "Museum of Fine Arts - Hungarian National Gallery",
+		source: "https://en.mng.hu/artworks/49924/",
+		copyright: "Museum of Fine Arts - Hungarian National Gallery"
+	},
+	{
+		slug: "pont-de-la-tournelle",
+		title: "Pont de la Tournelle, Paris",
+		image: "/collection/lepine__pont-de-la-tournelle.jpg",
+		artist: "Stanislas Lépine",
+		date: "1862",
+		height: 40.2,
+		width: 55.1,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1970.17.35",
+		location: "National Gallery of Art",
+		source: "https://www.nga.gov/artworks/52179-pont-de-la-tournelle-paris"
+	},
+	{
+		slug: "lone-scout",
+		title: "The Lone Scout",
+		image: "/collection/ryder__lone-scout.jpg",
+		artist: "Albert Pinkham Ryder",
+		date: "ca 1882",
+		height: 33,
+		width: 25.4,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1979.7.88",
+		location: "Fine Arts Museum of San Francisco",
+		source: "https://www.famsf.org/artworks/the-lone-scout",
+		copyright: ""
+	},
+	{
+		slug: "slave-for-sale",
+		title: "A Slave For Sale",
+		image: "/collection/aranda__slave-for-sale.jpg",
+		artist: "José Jiménez Aranda",
+		date: "Ca. 1897",
+		height: 100,
+		width: 81,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "P006450",
+		location: "Museo Del Prado",
+		source: "https://www.museodelprado.es/en/the-collection/art-work/a-slave-for-sale/b3518d0b-99c8-4955-9fdf-a9ad2ac19f7b",
+		copyright: "Museo Nacional del Prado"
+	},
+	{
+		slug: "stag-at-sharkeys",
+		title: "Stag at Sharkey's",
+		image: "/collection/bellows__stag-at-sharkeys.jpg",
+		artist: "George Bellows",
+		date: "1909",
+		height: 92,
+		width: 122.6,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1922.1133",
+		location: "Cleveland Museum of Art",
+		source: "https://www.clevelandart.org/art/1922.1133"
+	},
+	{
+		slug: "study-of-a-cats-head",
+		title: "Study of a Cat's Head",
+		image: "/collection/boel__study-of-a-cats-head.jpg",
+		artist: "Pieter Boel",
+		date: "1609",
+		height: 42.5,
+		width: 32.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "ГЭ-609",
+		location: "The State Hermitage Museum",
+		source: "https://www.hermitagemuseum.org/digital-collection/46300?lng=en"
+	},
+	{
+		slug: "nude-study",
+		title: "Nude Study",
+		image: "/collection/etty__nude-study.jpg",
+		artist: "William Etty",
+		date: "1820-1829",
+		height: 28.7,
+		width: 20.5,
+		medium: "Oil",
+		support: "Cardboard",
+		accession: "6478",
+		location: "National Gallery of Canada",
+		source: "https://www.gallery.ca/collection/artwork/nude-study-9"
+	},
+	{
+		slug: "antonio-mancini",
+		title: "Self-Portrait of Antonio Mancini",
+		image: "/collection/mancini__antonio-mancini.jpg",
+		artist: "Antonio Mancini",
+		date: "1910",
+		height: 58.4,
+		width: 46.9,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "71.50",
+		location: "Minneapolis Institute of Art",
+		source: "https://collections.artsmia.org/art/1865/self-portrait-antonio-mancini"
+	},
+	{
+		slug: "armand-guillaumin",
+		title: "Self-Portrait of Amand Guillaumin",
+		image: "/collection/guillaumin__armand-guillaumin.jpg",
+		artist: "Armand Guillaumin",
+		date: "1872-74",
+		height: 45.4,
+		width: 37.5,
+		medium: "Oil",
+		support: "Fabric",
+		accession: "1980.266",
+		location: "Cleveland Museum of Art",
+		source: "https://www.clevelandart.org/art/1980.266"
+	},
+	{
+		slug: "priscilla",
+		title: "Priscilla",
+		image: "/collection/hunt__priscilla.jpg",
+		artist: "William Morris Hunt",
+		date: "1873",
+		height: 60.9,
+		width: 35.8,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1898.3.2",
+		location: "Pennsylvania Academy of the Fine Arts",
+		source: "https://www.pafa.org/museum/collection/item/priscilla"
+	},
+	{
+		slug: "portrait-of-a-girl",
+		title: "Portrait of a Girl",
+		image: "/collection/rysselberghe__portrait-of-a-girl.jpg",
+		artist: "Théo Van Rysselberghe",
+		date: "1880",
+		height: 68.1,
+		width: 57.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1944-C",
+		location: "Museum of Fine Arts Ghent",
+		source: "https://www.mskgent.be/en/collection/1944-c"
+	},
+	{
+		slug: "rosita",
+		title: "Rosita",
+		image: "/collection/agneessens__rosita.jpg",
+		artist: "Edouard Agneessens",
+		date: "1876",
+		height: 50.6,
+		width: 40.6,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1952-B",
+		location: "Museum of Fine Arts Ghent",
+		source: "https://www.mskgent.be/en/collection/1952-b"
+	},
+	{
+		slug: "nude-girl",
+		title: "Nude Girl",
+		image: "/collection/corinth__nude-girl.jpg",
+		artist: "Lovis Corinth",
+		date: "1886",
+		height: 76.2,
+		width: 64.1,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "75.72.1",
+		location: "Minneapolis Institute of Art",
+		source: "https://collections.artsmia.org/art/2240/nude-girl-lovis-corinth"
+	},
+	{
+		slug: "vissersvrijage",
+		title: "Vissersvrijage",
+		image: "/collection/neuhuys__vissersvrijage.webp",
+		artist: "Albert Neuhuys",
+		date: "1880",
+		height: 78.9,
+		width: 59.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "SK-A-1181",
+		location: "Rijksmuseum",
+		source: "https://id.rijksmuseum.nl/20027279",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "yellow-riders",
+		title: "The Yellow Riders",
+		image: "/collection/breitner__yellow-riders.webp",
+		artist: "George Hendrik Breitner",
+		date: "1885 - 1886",
+		height: 115,
+		width: 77.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "SK-A-1328",
+		location: "Rijksmuseum",
+		source: "https://id.rijksmuseum.nl/200108302",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "cadmium-cara-cara",
+		title: "Cadmium Cara Cara",
+		image: "/collection/cleague__cadmium-cara-cara.webp",
+		artist: "Adam Cleague",
+		date: "unknown",
+		height: 15.2,
+		width: 15.2,
+		medium: "Oil",
+		support: "Panel",
+		accession: "",
+		location: "Private Collection",
+		source: "https://claguefineart.com/products/cara-cara-orange",
+		copyright: "Adam Cleague"
+	},
+	{
+		slug: "knitting-for-soldiers",
+		title: "Knitting for Soldiers",
+		image: "/collection/weir__knitting-for-soldiers.jpg",
+		artist: "Julian Alden Weir",
+		date: "1918",
+		height: 76.2,
+		width: 63.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "2075",
+		location: "Phillips Collection",
+		source: "https://www.phillipscollection.org/collection/knitting-soldiers",
+		copyright: "Phillips Collection"
+	},
+	{
+		slug: "iva-in-black-velvet-dress",
+		title: "Iva in Black Velvet Dress",
+		image: "/collection/webster__iva-in-black-velvet-dress.jpg",
+		artist: "Stokely Webster",
+		date: "1938",
+		height: 60.9,
+		width: 40.6,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1986.108",
+		location: "High Museum of Art",
+		source: "https://high.org/collection/iva-in-black-velvet-dress/"
+	},
+	{
+		slug: "veteran-in-a-new-field",
+		title: "The Veteran in a New Field",
+		image: "/collection/homer__veteran-in-a-new-field.jpg",
+		artist: "Winslow Homer",
+		date: "1865",
+		height: 61.3,
+		width: 96.8,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "2007-1-1",
+		location: "Metropolitan Museum of Art",
+		source: "https://www.metmuseum.org/art/collection/search/11145"
+	},
+	{
+		slug: "pink-azalea—chinese-vase",
+		title: "Pink Azalea—Chinese Vase",
+		image: "/collection/chase__pink-azalea-chinese-vase.jpg",
+		artist: "William Merritt Chase",
+		date: "1880-90 (?)",
+		height: 59.7,
+		width: 42.1,
+		medium: "Oil",
+		support: "Wood",
+		accession: "1979.490.5",
+		location: "Metropolitan Museum of Art",
+		source: "https://www.metmuseum.org/art/collection/search/10473"
+	},
+	{
+		slug: "tartar",
+		title: "Tartar - Crimea. From the journey to Crimea",
+		image: "/collection/ciaglinski__tartar.jpg",
+		artist: "Jan Ciągliński",
+		date: "1887",
+		height: 25,
+		width: 14.1,
+		medium: "Oil",
+		support: "Plywood",
+		accession: "MP 1461 MNW",
+		location: "National Museum in Warsaw",
+		source: "https://cyfrowe.mnw.art.pl/en/catalog/453329"
+	},
+	{
+		slug: "artiste-a-son-chevalet",
+		title: "Artiste à son chevalet",
+		image: "/collection/ribot__artiste-a-son-chevalet.jpg",
+		artist: "Théodule Augustin Ribot",
+		date: "vers 1865",
+		height: 27,
+		width: 21.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "RF 1989 1",
+		location: "Musée d'Orsay",
+		source: "https://www.musee-orsay.fr/en/artworks/artiste-son-chevalet-25639",
+		copyright: "RMN-Grand Palais (Musée d'Orsay) / Hervé Lewandowski"
+	},
+	{
+		slug: "peasant",
+		title: "The Peasant",
+		image: "/collection/mettling__the-peasant.jpg",
+		artist: "Louis Mettling",
+		date: "1875-1899",
+		height: 65.9,
+		width: 55.8,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "737",
+		location: "National Gallery of Canada",
+		source: "https://www.gallery.ca/collection/artwork/the-peasant"
+	},
+	{
+		slug: "blacksmith",
+		title: "The Blacksmith",
+		image: "/collection/defreggere__blacksmith.jpg",
+		artist: "Franz von Defregger",
+		date: "19th Century",
+		height: 92.7,
+		width: 78.4,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "70.19.2",
+		location: "Minneapolis Institute of Art",
+		source: "https://collections.artsmia.org/art/8705/the-blacksmith-franz-von-defregger"
+	},
+	{
+		slug: "man-in-red-cloak",
+		title: "Man in Red Cloak",
+		image: "/collection/johnson__man-in-red-cloak.jpg",
+		artist: "Eastman Johnson",
+		date: "late 19th century",
+		height: 27.9,
+		width: 21.1,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "2006.32",
+		location: "Pennsylvania Academy of the Fine Arts",
+		source: "https://www.pafa.org/museum/collection/item/man-red-cloak"
+	},
+	{
+		slug: "philosopher",
+		title: "The Philosopher",
+		image: "/collection/wiertz__philosopher.jpg",
+		artist: "Antoine Joseph Wiertz",
+		date: "c. 1845-55",
+		height: 98.7,
+		width: 79.8,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "69.24",
+		location: "Minneapolis Institute of Art",
+		source: "https://collections.artsmia.org/art/1729/the-philosopher-antoine-joseph-wiertz"
+	},
+	{
+		slug: "painter-in-front-of-his-painting",
+		title: "The Painter in Front of His Painting",
+		image: "/collection/daumier__painter-in-front-of-his-painting.jpg",
+		artist: "Honoré Daumier",
+		date: "1870",
+		height: 11,
+		width: 8,
+		medium: "Oil",
+		support: "Panel",
+		accession: "BF1184",
+		location: "Barnes Foundation",
+		source: "https://collection.barnesfoundation.org/objects/5082/The-Painter-in-Front-of-His-Painting-(Le-Peintre-devant-son-tableau)/",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "marcellin-desboutin",
+		title: "Self-Portrait of Marcellin Desboutin",
+		image: "/collection/desboutin__marcellin-desboutin.jpg",
+		artist: "Marcellin Desboutin",
+		date: "between 1823 and 1902",
+		height: 77.5,
+		width: 68.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "RF 1945 14",
+		location: "Musée d'Orsay",
+		source: "https://www.musee-orsay.fr/en/artworks/portrait-de-lartiste-16930",
+		copyright: "RMN-Grand Palais (Musée d'Orsay) / Hervé Lewandowski"
+	},
+	{
+		slug: "tomb-of-caecilia-metella",
+		title: "The Tomb of Caecilia Metella",
+		image: "/collection/fleury__tomb-of-caecilia-metella.jpg",
+		artist: "Léon-François-Antoine Fleury",
+		date: "c. 1830",
+		height: 27.9,
+		width: 33,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "2004.166.16",
+		location: "National Gallery of Art",
+		source: "https://www.nga.gov/artworks/130898-tomb-caecilia-metella",
+		copyright: "CC0 1.0"
+	},
+	{
+		slug: "a-young-woman",
+		title: "A Young Woman",
+		image: "/collection/allebe__a-young-woman.webp",
+		artist: "August Allebé",
+		date: "1863",
+		height: 35.5,
+		width: 23.5,
+		medium: "Oil",
+		support: "Panel",
+		accession: "SK-A-1730",
+		location: "Rijksmuseum",
+		source: "https://id.rijksmuseum.nl/20026483",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "lamb",
+		title: "A Lamb",
+		image: "/collection/zurbaran__lamb.jpg",
+		artist: "Francisco de Zurbarán",
+		date: "1635 - 1640",
+		height: 37.3,
+		width: 62,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "P007293",
+		location: "Museo Del Prado",
+		source: "https://www.museodelprado.es/en/the-collection/art-work/a-lamb/795b841a-ec81-4d10-bd8b-0c7a870e327b",
+		copyright: "Museo Nacional del Prado"
+	},
+	{
+		slug: "waterside-landscape",
+		title: "Waterside landscape",
+		image: "/collection/daubigny__waterside-landscape.jpg",
+		artist: "Charles-François Daubigny",
+		date: "1861",
+		height: 113,
+		width: 132,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "M.Ob.515 MNW",
+		location: "National Museum in Warsaw",
+		source: "https://cyfrowe.mnw.art.pl/en/catalog/443691",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "chrysanthemums",
+		title: "Chrysanthemums",
+		image: "/collection/tissot__chrysanthemums.jpg",
+		artist: "James Tissot",
+		date: "c. 1874-76",
+		height: 118.4,
+		width: 76.2,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1994.2",
+		location: "The Clark Art Institute",
+		source: "https://www.clarkart.edu/ArtPiece/Detail/Chrysanthemums",
+		copyright: "Open Access"
+	},
+	{
+		slug: "portrait-of-an-old-man",
+		title: "Portrait of an Old Man",
+		image: "/collection/legros__portrait-of-an-old-man.jpg",
+		artist: "Alphonse Legros",
+		date: "unknown",
+		height: 46.7,
+		width: 38.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1947.19.1",
+		location: "National Gallery of Art",
+		source: "https://www.nga.gov/artworks/34163-portrait-old-man"
+	},
+	{
+		slug: "portrait-of-carolus-duran",
+		title: "Portrait of Carolus-Duran",
+		image: "/collection/sargent__portrait-of-carolus-duran.jpg",
+		artist: "John Singer Sargent",
+		date: "1879",
+		height: 116.8,
+		width: 96,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1955.14",
+		location: "The Clark Art Institute",
+		source: "https://www.clarkart.edu/ArtPiece/Detail/Carolus-Duran",
+		copyright: "Open Access"
+	},
+	{
+		slug: "cleopatra",
+		title: "Cleopatra",
+		image: "/collection/waterhouse__cleopatra.jpg",
+		artist: "John William Waterhouse",
+		date: "1888",
+		height: 55.9,
+		width: 63.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "",
+		location: "Wikimedia Commons",
+		source: "https://commons.wikimedia.org/wiki/File:Cleopatra_-_John_William_Waterhouse.jpg"
+	},
+	{
+		slug: "hare",
+		title: "The Hare",
+		image: "/collection/borremans__the-hare.jpg",
+		artist: "Michaël Borremans",
+		date: "2005",
+		height: 40.4,
+		width: 50.3,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "Cat. 992",
+		location: "San Francisco Museum of Modern Art",
+		source: "https://www.sfmoma.org/artwork/2006.75/"
+	},
+	{
+		slug: "hussars",
+		title: "Hussars",
+		image: "/collection/breitner__hussars.webp",
+		artist: "George Hendrik Breitner",
+		date: "c. 1880 - c. 1890",
+		height: 42,
+		width: 67,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "SK-A-2978",
+		location: "Rijksmuseum",
+		source: "https://id.rijksmuseum.nl/20026773",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "goatherd-of-terni",
+		title: "Goatherd of Terni",
+		image: "/collection/corot__goatherd-of-terni.jpg",
+		artist: "Jean Baptiste Cammile Carot",
+		date: "1871",
+		height: 82.2,
+		width: 62.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1978-1-8",
+		location: "Philadelphia Museum of Art",
+		source: "https://www.philamuseum.org/objects/72244"
+	},
+	{
+		slug: "lambert-lombard",
+		title: "Self-Portrait of Lambert Lombard",
+		image: "/collection/lombard__lambert-lombard.jpg",
+		artist: "Lambert Lombard",
+		date: "between 1506 and 1566",
+		height: 76.5,
+		width: 64.5,
+		medium: "Oil",
+		support: "Panel",
+		accession: "ГЭ-1425",
+		location: "The State Hermitage Museum",
+		source: "https://www.hermitagemuseum.org/digital-collection/38881?lng=en",
+		copyright: "The State Hermitage Museum"
+	},
+	{
+		slug: "repose",
+		title: "Repose",
+		image: "/collection/alexander__repose.jpg",
+		artist: "John White Alexander",
+		date: "1985",
+		height: 132.7,
+		width: 161.6,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1980.224",
+		location: "Metropolitan Museum of Art",
+		source: "https://www.metmuseum.org/art/collection/search/10065",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "young-woman",
+		title: "Young Woman",
+		image: "/collection/thayer__young-woman.jpg",
+		artist: "Abbott Handerson Thayer",
+		date: "ca. 1898",
+		height: 100.7,
+		width: 80.3,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "06.1298",
+		location: "Metropolitan Museum of Art",
+		source: "https://www.metmuseum.org/art/collection/search/12787",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "gutzon-borglum",
+		title: "Portrait of Gutzon Borglum",
+		image: "/collection/stetson__gutzon-borglum.jpg",
+		artist: "Charles Walter Stetson",
+		date: "1891",
+		height: 61.3,
+		width: 51.8,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1994.088.1",
+		location: "RISD Museum",
+		source: "https://risdmuseum.org/art-design/collection/portrait-gutzon-borglum-19940881"
+	},
+	{
+		slug: "blomstrende-frukttraer",
+		title: "Blomstrende frukttrær",
+		image: "/collection/wahlberg__blomstrende-frukttraer.jpg",
+		artist: "Herman Alfred Leonhard Wahlberg",
+		date: "1906",
+		height: 86,
+		width: 142,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "RMS.M.00961",
+		location: "Digital Museum",
+		source: "https://digitaltmuseum.org/0210413620936/blomstrende-frukttraer-olje-pa-lerret",
+		copyright: "CC BY-NC-ND 4.0"
+	},
+	{
+		slug: "juan-de-pareja",
+		title: "Juan de Pareja",
+		image: "/collection/velazquez__juan-de-pareja.jpg",
+		artist: "Velázquez (Diego Rodríguez de Silva y Velázquez)",
+		date: "1650",
+		height: 81.3,
+		width: 69.9,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1971.86",
+		location: "Metropolitan Museum of Art",
+		source: "https://www.metmuseum.org/art/collection/search/437869",
+		copyright: ""
+	},
+	{
+		slug: "study-of-a-model",
+		title: "Study of a Model",
+		image: "/collection/pietschmann__study-of-a-model.jpg",
+		artist: "Max Pietschmann",
+		date: "1885",
+		height: 105.4,
+		width: 80,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "M2020.39",
+		location: "Milwaukee Art Museum",
+		source: "https://collection.mam.org/details.php?id=38470",
+		copyright: "Milwaukee Art Museum"
+	},
+	{
+		slug: "lady-in-black",
+		title: "Lady in Black",
+		image: "/collection/mayer__lady-in-black.jpg",
+		artist: "Louis Mayer",
+		date: "1900",
+		height: 78.5,
+		width: 91.9,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "M1913.1",
+		location: "Milwaukee Art Museum",
+		source: "https://collection.mam.org/details.php?id=16172",
+		copyright: "Milwaukee Art Museum"
+	},
+	{
+		slug: "praying-monk",
+		title: "Praying Monk (Monk at his Devotions)",
+		image: "/collection/maris__praying-monk.webp",
+		artist: "Jacob Maris",
+		date: "1864",
+		height: 21.5,
+		width: 15.5,
+		medium: "Oil",
+		support: "Copper",
+		accession: "SK-A-2473",
+		location: "Rijksmuseum",
+		source: "https://id.rijksmuseum.nl/20028246",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "praying-jew",
+		title: "Praying Jew",
+		image: "/collection/grocholski__praying-jew.jpg",
+		artist: "Stanisław Grocholski",
+		date: "1892",
+		height: 21.5,
+		width: 15.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "MP 128 MNW",
+		location: "National Museum in Warsaw",
+		source: "https://cyfrowe.mnw.art.pl/en/catalog/444752",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "meadow-with-cows",
+		title: "Meadow with Cows",
+		image: "/collection/marris__meadow-with-cows.webp",
+		artist: "Willem Marris",
+		date: "c. 1880 - c. 1910",
+		height: 87.2,
+		width: 107.7,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "SK-A-2994",
+		location: "Rijksmuseum",
+		source: "https://id.rijksmuseum.nl/20028276",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "painter-francisco-pradilla",
+		title: "The painter Francisco Pradilla",
+		image: "/collection/ferrant__painter-francisco-pradilla.jpg",
+		artist: "Alejandro Ferrant",
+		date: "1874",
+		height: 44,
+		width: 33.2,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "P004315",
+		location: "Museo Del Prado",
+		source: "https://www.museodelprado.es/en/the-collection/art-work/the-painter-francisco-pradilla/7c387da2-d748-466d-8075-10bff1e9af2a",
+		copyright: "Museo Nacional del Prado"
+	},
+	{
+		slug: "st-augustine-and-st-monica",
+		title: "Saint Augustine and Saint Monica",
+		image: "/collection/assereto__st-augustine-and-st-monica.jpg",
+		artist: "Gioacchino Assereto",
+		date: "c. 1645–48",
+		height: 99.7,
+		width: 123.2,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "60.35",
+		location: "Minneapolis Institute of Art",
+		source: "https://collections.artsmia.org/art/18347/saint-augustine-and-saint-monica-gioacchino-assereto",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "female-semi-nude-dancer",
+		title: "Female Semi-nude Dancer",
+		image: "/collection/weiss__female-semi-nude-dancer.jpg",
+		artist: "Wojciech Weiss",
+		date: "1923",
+		height: 73,
+		width: 58,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "MP 152 MNW",
+		location: "National Museum in Warsaw",
+		source: "https://cyfrowe.mnw.art.pl/en/catalog/444895"
+	},
+	{
+		slug: "dimple",
+		title: "The Dimple",
+		image: "/collection/barney__the-dimple.jpg",
+		artist: "Alice Pike Barney",
+		date: 1898,
+		height: 45.7,
+		width: 40.6,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1954.13.1",
+		location: "Smithsonian Art Museum",
+		source: "https://americanart.si.edu/artwork/dimple-1165w",
+		copyright: "CC0"
+	},
+	{
+		slug: "portrait-of-jimmy-lueders",
+		title: "Portrait of Jimmy Lueders",
+		image: "/collection/kamihira__portrait-of-jimmy-lueders.jpg",
+		artist: "Ben Kamihira",
+		date: "Mid 20th century",
+		height: 70.4,
+		width: 54.6,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "2015.44.1",
+		location: "Pennsylvania Academy of the Fine Arts",
+		source: "https://www.pafa.org/museum/collection/item/portrait-jimmy-lueders",
+		copyright: "Artist or Artist's estate"
+	},
+	{
+		slug: "portrait-of-a-man-3",
+		title: "Portrait of a Man",
+		image: "/collection/dou__portrait-of-a-man.jpg",
+		artist: "Gerrit Dou",
+		date: "1635-40",
+		height: 18.9,
+		width: 14.7,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "NG192",
+		location: "National Gallery of Art",
+		source: "https://www.nationalgallery.org.uk/paintings/gerrit-dou-portrait-of-a-man",
+		copyright: "CC BY-NC-ND 4.0"
+	},
+	{
+		slug: "ships-lying-off-flushing",
+		title: "Ships lying off Flushing",
+		image: "/collection/clays__ships-lying-off-flushing.jpg",
+		artist: "Paul Jean Clays",
+		date: "1869",
+		height: 59.9,
+		width: 86.8,
+		medium: "Oil",
+		support: "Wood",
+		accession: "NG814",
+		location: "National Gallery of Art",
+		source: "https://www.nationalgallery.org.uk/paintings/paul-jean-clays-ships-lying-off-flushing",
+		copyright: "CC BY-NC-ND 4.0"
+	},
+	{
+		slug: "seated-girl-in-a-long-black-dress",
+		title: "Seated Girl in a Long Black Dress",
+		image: "/collection/beaux__seated-girl-in-a-long-black-dress.jpg",
+		artist: "Cecilia Beaux",
+		date: "1885",
+		height: 49.8,
+		width: 31.1,
+		medium: "Oil",
+		support: "Cardboard",
+		accession: "1950.17.5",
+		location: "Pennsylvania Academy of the Fine Arts",
+		source: "https://www.pafa.org/museum/collection/item/seated-girl-long-black-dress-verso-figure-biblical-dress"
+	},
+	{
+		slug: "albert-rosenthal",
+		title: "Self-Portrait of Albert Rosenthal",
+		image: "/collection/rosenthal__albert-rosenthal.jpg",
+		artist: "Albert Rosenthal",
+		date: "1923",
+		height: 76.4,
+		width: 63.3,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1940.12.3",
+		location: "Pennsylvania Academy of the Fine Arts",
+		source: "https://www.pafa.org/museum/collection/item/self-portrait-64",
+		copyright: "No known copyright restrictions"
+	},
+	{
+		slug: "henry-inman",
+		title: "Self-Portrait of Henry Inman",
+		image: "/collection/inman__henry-inman.jpg",
+		artist: "Henry Inman",
+		date: "1834",
+		height: 30.6,
+		width: 25.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1871.1.1",
+		location: "Pennsylvania Academy of the Fine Arts",
+		source: "https://www.pafa.org/museum/collection/item/self-portrait-14",
+		copyright: "No known copyright restrictions"
+	},
+	{
+		slug: "dolly-with-a-black-bow",
+		title: "Dolly with a Black Bow",
+		image: "/collection/sloan__dolly-with-a-black-bow.jpg",
+		artist: "John Sloan",
+		date: "1909",
+		height: 81.4,
+		width: 66.4,
+		medium: "Oil",
+		support: "Linen",
+		accession: "59.28",
+		location: "Whitney Museum of American Art",
+		source: "https://whitney.org/collection/works/815",
+		copyright: "Delaware Art Museum / Artists Rights Society (ARS), New York"
+	},
+	{
+		slug: "jo-painting",
+		title: "Jo Painting",
+		image: "/collection/hopper__jo-painting.jpg",
+		artist: "Edward Hopper",
+		date: "1936",
+		height: 46.2,
+		width: 41.1,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "70.1171",
+		location: "Whitney Museum of American Art",
+		source: "https://whitney.org/collection/works/5905",
+		copyright: "Heirs of Josephine N. Hopper/Licensed by Artists Rights Society (ARS), New York"
+	},
+	{
+		slug: "girl-with-the-red-ribbon",
+		title: "The girl with the red ribbon",
+		image: "/collection/makovsky__the-girl-with-the-red-ribbon.jpg",
+		artist: "Konstantin Makovsky",
+		date: "1900",
+		height: 29,
+		width: 19,
+		medium: "Oil",
+		support: "Canvas",
+		accession: null,
+		location: "Private Collection",
+		source: "https://www.wikiart.org/en/konstantin-makovsky/the-girl-with-the-red-ribbon"
+	},
+	{
+		slug: "off-the-north-shore",
+		title: "Off the North Shore",
+		image: "/collection/cole__off-the-north-shore.jpg",
+		artist: "J. Foxcroft Cole",
+		date: "19th century",
+		height: 21.2,
+		width: 27,
+		medium: "Oil",
+		support: "Cardboard Panel",
+		accession: "45.458",
+		location: "Fransworth Art Museum",
+		source: "https://collection.farnsworthmuseum.org/objects/186/off-the-north-shore",
+		copyright: "Restricted"
+	},
+	{
+		slug: "seascape",
+		title: "Seascape",
+		image: "/collection/buhler__seascape.jpg",
+		artist: "Augustus Buhler",
+		date: "Circa 1916",
+		height: 22.8,
+		width: 30.4,
+		medium: "Oil",
+		support: "Panel",
+		accession: "69.1641",
+		location: "Fransworth Art Museum",
+		source: "https://collection.farnsworthmuseum.org/objects/69/seascape",
+		copyright: "Restricted"
+	},
+	{
+		slug: "black-girl",
+		title: "Black Girl",
+		image: "/collection/bilinska__black-girl.jpg",
+		artist: "Anna Bilińska",
+		date: "1884",
+		height: 63,
+		width: 48.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "MP 5531 and MP 5531 MNW",
+		location: "Wikimedia Commons",
+		source: "https://en.wikipedia.org/wiki/File:Anna_Bili%C5%84ska-Bohdanowiczowa_-_Black_girl_-_MP_5531_-_National_Museum_in_Warsaw.jpg"
+	},
+	{
+		slug: "study-for-the-dancing-lesson",
+		title: "Study for \"The Dancing Lesson\": The Banjo Player",
+		image: "/collection/eakins__study-for-the-dancing-lesson.jpg",
+		artist: "Thomas Eakins",
+		date: "probably 1877",
+		height: 49.5,
+		width: 37.9,
+		medium: "Oil",
+		support: "Canvas on Cardboard",
+		accession: "1985.64.16",
+		location: "National Gallery of Art",
+		source: "https://www.nga.gov/artworks/66414-study-dancing-lesson-banjo-player"
+	},
+	{
+		slug: "study-of-the-head-of-st-hubertus",
+		title: "Study of the Head of St. Hubertus",
+		image: "/collection/van-dyck__study-of-the-head-of-st-hubertus.jpg",
+		artist: "Anthony Van Dyck",
+		date: "1630",
+		height: 48,
+		width: 37,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "M.Ob.815 MNW",
+		location: "National Museum in Warsaw",
+		source: "https://cyfrowe.mnw.art.pl/en/catalog/444026",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "portrait-of-a-philosopher",
+		title: "Portrait of a philosopher",
+		image: "/collection/szyndler__portrait-of-a-philosopher.jpg",
+		artist: "Pantaleon Szyndler",
+		date: "1882",
+		height: 96.5,
+		width: 71,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "184335 MNW",
+		location: "National Museum in Warsaw",
+		source: "https://cyfrowe.mnw.art.pl/en/catalog/438858",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "still-life-with-pheasant",
+		title: "Still Life with Pheasant",
+		image: "/collection/carlsen__still-life-with-pheasant.jpg",
+		artist: "Emil Carlsen",
+		date: "1890",
+		height: 59.1,
+		width: 89.2,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1991.108",
+		location: "Fine Arts Museum of San Francisco",
+		source: "https://www.famsf.org/artworks/still-life-with-pheasant"
+	},
+	{
+		slug: "mrs-martin-a-ryerson",
+		title: "Mrs. Martin A. Ryerson",
+		image: "/collection/betts__mrs-martin-a-ryerson.jpg",
+		artist: "Louis Betts",
+		date: "1912",
+		height: 169.6,
+		width: 93.4,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1935.433",
+		location: "Art Institute of Chicago",
+		source: "https://www.artic.edu/artworks/22121/mrs-martin-a-ryerson"
+	},
+	{
+		slug: "joseph-pennell",
+		title: "Joseph Pennell",
+		image: "/collection/adams__pennell.jpg",
+		artist: "Wayman Adams",
+		date: "1908-1918",
+		height: 169.6,
+		width: 93.4,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1918.293",
+		location: "Art Institute of Chicago",
+		source: "https://www.artic.edu/artworks/74507/joseph-pennell"
+	},
+	{
+		slug: "maenad",
+		title: "Maenad - female semi-nude",
+		image: "/collection/piatkowski__maenad.jpg",
+		artist: "Henryk Piątkowski",
+		date: "ok. 1876",
+		height: 88,
+		width: 69.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "MP 1975 MNW",
+		location: "National Museum in Warsaw",
+		source: "https://cyfrowe.mnw.art.pl/en/catalog/445024"
+	},
+	{
+		slug: "worker",
+		title: "Worker",
+		image: "/collection/lentz__worker.jpg",
+		artist: "Stanisław Lentz",
+		date: "1911",
+		height: 66.5,
+		width: 49.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "35547 MNW",
+		location: "National Museum in Warsaw",
+		source: "https://cyfrowe.mnw.art.pl/en/catalog/440457"
+	},
+	{
+		slug: "portrait-of-a-brunette",
+		title: "Portrait of a Brunette",
+		image: "/collection/sztencel__portrait-of-a-brunette.jpg",
+		artist: "Maurycy Sztencel",
+		date: "ok. 1870 - 1880",
+		height: 31,
+		width: 23.5,
+		medium: "Oil",
+		support: "Cardboard",
+		accession: "183655 MNW",
+		location: "National Museum in Warsaw",
+		source: "https://cyfrowe.mnw.art.pl/en/catalog/438773"
+	},
+	{
+		slug: "mrs-john-crosby-brown",
+		title: "Mrs. John Crosby Brown",
+		image: "/collection/zorn__mrs-john-crosby-brown.jpg",
+		artist: "Anders Zorn",
+		date: "1900",
+		height: 73.7,
+		width: 60.3,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "60.85",
+		location: "Metropolitan Museum of Art",
+		source: "https://www.metmuseum.org/art/collection/search/437967"
+	},
+	{
+		slug: "honest-soldier",
+		title: "And, whatsoe'er the fight's event, he keeps his honest soldier's name",
+		image: "/collection/harris__honest-soldier.jpg",
+		artist: "Robert Harris",
+		date: "1881",
+		height: 54.8,
+		width: 46.4,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "80",
+		location: "National Gallery of Canada",
+		source: "https://www.gallery.ca/collection/artwork/and-whatsoeer-the-fights-event-he-keeps-his-honest-soldiers-name"
+	},
+	{
+		slug: "george-benjamin-luks",
+		title: "Portrait of George Benjamin Luks",
+		image: "/collection/glackens__george-benjamin-luks.jpg",
+		artist: "William James Glackens",
+		date: "1899",
+		height: 74.6,
+		width: 61.9,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "NPG.78.53",
+		location: "Smithsonian Art Museum",
+		source: "https://collections.si.edu/search/detail/edanmdm:npg_NPG.78.53",
+		copyright: "CC0"
+	},
+	{
+		slug: "edith-nourse-rogers",
+		title: "Portrait of Edith Nourse Rogers",
+		image: "/collection/ispen__edith-nourse-rogers.jpg",
+		artist: "Ernest Ludwig Ipsen",
+		date: "1907",
+		height: 102,
+		width: 84,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "NPG.91.43",
+		location: "Smithsonian Art Museum",
+		source: "https://collections.si.edu/search/detail/edanmdm:npg_NPG.91.43",
+		copyright: ""
+	},
+	{
+		slug: "portrait-of-a-man",
+		title: "Portrait of a Man",
+		image: "/collection/page__portrait-of-a-man.jpg",
+		artist: "Walter Gilman Page",
+		date: "1888",
+		height: 61.4,
+		width: 55,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1933.10.7",
+		location: "Pennsylvania Academy of the Fine Arts",
+		source: "https://www.pafa.org/museum/collection/item/portrait-man"
+	},
+	{
+		slug: "adagio",
+		title: "Adagio",
+		image: "/collection/reid__adagio.jpg",
+		artist: "George A. Reid",
+		date: "1893",
+		height: 76.5,
+		width: 127,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "23115",
+		location: "National Gallery of Canada",
+		source: "https://www.gallery.ca/collection/artwork/adagio"
+	},
+	{
+		slug: "portrait-of-bessie",
+		title: "Portrait of Bessie (Miss Elizabeth Newton)",
+		image: "/collection/herter__portrait-of-bessie.jpg",
+		artist: "Albert Herter",
+		date: "1892",
+		height: 149.8,
+		width: 81.2,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "2000.162",
+		location: "High Museum of Art",
+		source: "https://high.org/collection/portrait-of-bessie-miss-elizabeth-newton/"
+	},
+	{
+		slug: "young-mother",
+		title: "The Young Mother, No. 1",
+		image: "/collection/turner__young-mother.jpg",
+		artist: "Helen Maria Turner",
+		date: "1923",
+		height: 61.4,
+		width: 46.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "70.2",
+		location: "High Museum of Art",
+		source: "https://high.org/collection/the-young-mother-no-1/"
+	},
+	{
+		slug: "still-life-of-fish",
+		title: "Still Life of Fish",
+		image: "/collection/chase__still-life-of-fish.jpg",
+		artist: "William Merritt Chase",
+		date: "1908",
+		height: 101.9,
+		width: 114.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "08.139.2",
+		location: "Metropolitan Museum of Art",
+		source: "https://www.metmuseum.org/art/collection/search/10476"
+	},
+	{
+		slug: "portrait-of-william-merritt-chase-2",
+		title: "Portrait of William Merritt Chase",
+		image: "/collection/lang__portrait-of-william-merritt-chase.jpg",
+		artist: "Annie Traquair Lang",
+		date: "ca. 1910",
+		height: 76.2,
+		width: 63.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1977.183.1",
+		location: "Metropolitan Museum of Art",
+		source: "https://www.metmuseum.org/art/collection/search/14444",
+		copyright: "Restricted"
+	},
+	{
+		slug: "bruno-cherier",
+		title: "Portrait of Bruno Cherier",
+		image: "/collection/carpeaux__bruno-cherier.jpg",
+		artist: "Jean-Baptiste Carpeaux",
+		date: "ca. 1875",
+		height: 0,
+		width: 0,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "2020.63",
+		location: "High Museum of Art",
+		source: "https://high.org/collection/portrait-of-bruno-cherier"
+	},
+	{
+		slug: "lorenzo-casanova-ruiz",
+		title: "Self-Portrait of Lorenzo Casanova Ruiz",
+		image: "/collection/ruiz__lorenzo-casanova-ruiz.jpg",
+		artist: "Lorenzo Casanova Ruiz",
+		date: "1866",
+		height: 28.9,
+		width: 36,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "P004268",
+		location: "Museo Del Prado",
+		source: "https://www.museodelprado.es/en/the-collection/art-work/self-portrait/6fcc9147-2674-4880-a308-094a4cbc4115",
+		copyright: "Museo Nacional del Prado"
+	},
+	{
+		slug: "portrait-of-a-young-girl",
+		title: "Portrait of a Young Girl",
+		image: "/collection/kuznetsov__portrait-of-a-young-girl.jpg",
+		artist: "Nikolai Dmitrievich Kuznetsov",
+		date: "1891",
+		height: 35.5,
+		width: 31,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "M.Ob.457 MNW",
+		location: "National Museum in Warsaw",
+		source: "https://cyfrowe.mnw.art.pl/en/catalog/443623"
+	},
+	{
+		slug: "madam-powel",
+		title: "Madam Powel",
+		image: "/collection/alexander__madam-powel.jpg",
+		artist: "Francis Alexander",
+		date: "about 1825",
+		height: 76.5,
+		width: 60.3,
+		medium: "Oil",
+		support: "Panel",
+		accession: "22.7",
+		location: "Museum of Fine Arts Boston",
+		source: "https://collections.mfa.org/objects/31943/madam-powel-elizabeth-willing?ctx=aca67666-ef10-470c-9f27-a70a9feef6c6&idx=299"
+	},
+	{
+		slug: "still-life-with-golden-bream",
+		title: "Still Life with Golden Bream",
+		image: "/collection/goya__still-life-with-golden-bream.jpg",
+		artist: "Francisco de Goya y Lucientes",
+		date: "1808 - 1812",
+		height: 44.8,
+		width: 62.5,
+		medium: "Oil",
+		support: "Panel",
+		accession: "94.245",
+		location: "Museum of Fine Arts, Houston",
+		source: "https://emuseum.mfah.org/objects/26077/still-life-with-golden-bream",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "golden-eyes",
+		title: "Golden Eyes",
+		image: "/collection/gray__golden-eyes.jpg",
+		artist: "Norah Neilson Gray",
+		date: "1917",
+		height: 99,
+		width: 50.8,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "M2024.51",
+		location: "Milwaukee Art Museum",
+		source: "https://collection.mam.org/details.php?id=40803",
+		copyright: "Milwaukee Art Museum"
+	},
+	{
+		slug: "in-the-boudoir",
+		title: "In the Boudoir",
+		image: "/collection/hawthorne__in-the-boudoir.jpg",
+		artist: "Charles Webster Hawthorne",
+		date: "ca 1919",
+		height: 53.9,
+		width: 43.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "M1919.6",
+		location: "Milwaukee Art Museum",
+		source: "https://collection.mam.org/details.php?id=6669",
+		copyright: "Milwaukee Art Museum"
+	},
+	{
+		slug: "artist-mourning-her-father",
+		title: "The Artist in Mourning for Her Father",
+		image: "/collection/oakley__artist-mourning-her-father.jpg",
+		artist: "Violet Oakley",
+		date: "ca. 1900",
+		height: 63.5,
+		width: 51,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1983.10.1",
+		location: "Pennsylvania Academy of the Fine Arts",
+		source: "https://www.pafa.org/museum/collection/item/self-portrait-artist-mourning-her-father",
+		copyright: ""
+	},
+	{
+		slug: "saint-thomas",
+		title: "Saint Thomas",
+		image: "/collection/ribera__saint-thomas.jpg",
+		artist: "Jusepe de Ribera lo Spagnoletto",
+		date: "1630 - 1635",
+		height: 75.9,
+		width: 62,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "P001084",
+		location: "Museo Del Prado",
+		source: "https://www.museodelprado.es/en/the-collection/art-work/saint-thomas/6cb0a2c8-ecf1-4702-8e8d-19c819c53ac2",
+		copyright: "Museo Nacional del Prado"
+	},
+	{
+		slug: "david-leffel",
+		title: "Self-Portrait of David Leffel",
+		image: "/collection/leffel__david-leffel.webp",
+		artist: "David Leffel",
+		date: "2010",
+		height: 9,
+		width: 7,
+		medium: "Oil",
+		support: "Panel",
+		accession: "2019.61.2",
+		location: "David Leffel",
+		source: "https://davidleffel.com/self-portraits/"
+	},
+	{
+		slug: "still-life-with-white-roses",
+		title: "Still Life with White Roses",
+		image: "/collection/fantin-latour__still-life-with-white-roses.jpg",
+		artist: "Henri Fantin-Latour",
+		date: "1875",
+		height: 55.4,
+		width: 59.1,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1978-1-17",
+		location: "Philadelphia Museum of Art",
+		source: "https://www.philamuseum.org/objects/72089"
+	},
+	{
+		slug: "kentucky-mountaineer",
+		title: "Kentucky Mountaineer",
+		image: "/collection/hopkins__kentucky-mountaineer.jpg",
+		artist: "James R. Hopkins",
+		date: "1915",
+		height: 81.3,
+		width: 66,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1915.561",
+		location: "Art Institute of Chicago",
+		source: "https://www.artic.edu/artworks/71575/kentucky-mountaineer",
+		copyright: ""
+	},
+	{
+		slug: "nicolas-de-largilliere",
+		title: "Self-Portrait of Nicolas de Largillière",
+		image: "/collection/largilliere__nicolas-de-largilliere.jpg",
+		artist: "Nicolas de Largillière",
+		date: "c. 1725",
+		height: 81.1,
+		width: 64.8,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1987.57",
+		location: "Art Institute of Chicago",
+		source: "https://www.artic.edu/artworks/69003/self-portrait",
+		copyright: ""
+	},
+	{
+		slug: "arab-chief",
+		title: "Arab Chief",
+		image: "/collection/carbo__arab-chief.jpg",
+		artist: "Mariano Fortuny y Carbó",
+		date: "1874",
+		height: 122.9,
+		width: 79.1,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "SK-A-2974",
+		location: "Rijksmuseum",
+		source: "https://id.rijksmuseum.nl/20026662",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "girl-with-cherries-",
+		title: "Girl With Cherries",
+		image: "/collection/blommers__girl-with-cherries.webp",
+		artist: "Bernardus Johannes Blommers",
+		date: "c. 1860 - c. 1914",
+		height: 31,
+		width: 22.5,
+		medium: "Oil",
+		support: "Panel",
+		accession: "Cat. 992",
+		location: "Philadelphia Museum of Art",
+		source: "https://www.philamuseum.org/objects/102835"
+	},
+	{
+		slug: "snow-in-new-york",
+		title: "Snow in New York",
+		image: "/collection/henri__snow-in-new-york.jpg",
+		artist: "Robert Henri",
+		date: "1902",
+		height: 81.3,
+		width: 65.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1954.4.3",
+		location: "National Gallery of Art",
+		source: "https://www.nga.gov/artworks/42929-snow-new-york"
+	},
+	{
+		slug: "fernando-de-los-villares-amor",
+		title: "Fernando de los Villares Amor",
+		image: "/collection/madrazo__fernando-de-los-villares-amor.jpg",
+		artist: "Ricardo de Madrazo y Garreta",
+		date: "1879",
+		height: 44,
+		width: 56,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "P007561",
+		location: "Museo Del Prado",
+		source: "https://www.museodelprado.es/en/the-collection/art-work/fernando-de-los-villares-amor/7906404d-f473-4304-97de-787226f28460",
+		copyright: "Museo Nacional del Prado"
+	},
+	{
+		slug: "madeleine-lerolle-and-her-daughter-yvonne",
+		title: "Madeleine Lerolle and Her Daughter Yvonne",
+		image: "/collection/besnard__madeleine-lerolle-and-her-daughter-yvonne.jpg",
+		artist: "Albert Besnard",
+		date: "c. 1879-80",
+		height: 165,
+		width: 115.5,
+		medium: "Oil",
+		support: "Fabric",
+		accession: "RMS.M.00961",
+		location: "Cleveland Museum of Art",
+		source: "https://www.clevelandart.org/art/1977.120",
+		copyright: "Public Domain"
+	},
+	{
+		slug: "captive-slave",
+		title: "The Captive Slave (Ira Aldridge)",
+		image: "/collection/simpson__captive-slave.jpg",
+		artist: "John Philip Simpson",
+		date: "1827",
+		height: 127,
+		width: 101.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "2008.188",
+		location: "Art Institute of Chicago",
+		source: "https://www.artic.edu/artworks/193664/the-captive-slave-ira-aldridge",
+		copyright: "CC0"
+	},
+	{
+		slug: "a-chief-of-abyssinia",
+		title: "A Chief of Abyssinia",
+		image: "/collection/regnault__a-chief-of-abyssinia.jpg",
+		artist: "Henri Regnault",
+		date: "1870",
+		height: 42.2,
+		width: 32,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "2014.136.74",
+		location: "National Gallery of Art",
+		source: "https://www.nga.gov/artworks/168756-chief-abyssinia"
+	},
+	{
+		slug: "head-of-a-bishop",
+		title: "Head of a Bishop",
+		image: "/collection/gandolfi__head-of-a-bishop.jpg",
+		artist: "Gaetano Gandolfi",
+		date: "1770",
+		height: 46.7,
+		width: 37.8,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "2010.117",
+		location: "Metropolitan Museum of Art",
+		source: "https://www.metmuseum.org/art/collection/search/440847"
+	},
+	{
+		slug: "student",
+		title: "The Student",
+		image: "/collection/wiles__student.jpg",
+		artist: "Irving Ramsay Wiles",
+		date: "1910",
+		height: 77.7,
+		width: 64.1,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "2015.19.5",
+		location: "National Gallery of Art",
+		source: "https://www.nga.gov/artworks/195008-student"
+	},
+	{
+		slug: "drapery-study-for-luxemburg",
+		title: "Drapery Study for Luxemburg",
+		image: "/collection/sargent__drapery-study-for-luxemburg.jpg",
+		artist: "John Singer Sargent",
+		date: "1877",
+		height: 81.3,
+		width: 64.8,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1979.352",
+		location: "Birmingham Museum of Art",
+		source: "https://www.artsbma.org/collection/drapery-study-for-luxemburg/"
+	},
+	{
+		slug: "portrait-of-a-man-2",
+		title: "Portrait of a Man",
+		image: "/collection/rembrandt__portrait-of-a-man.jpg",
+		artist: "Rembrandt Harmensz. van Rijn",
+		date: "1661",
+		height: 71,
+		width: 61,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "ГЭ-751",
+		location: "The State Hermitage Museum",
+		source: "https://www.hermitagemuseum.org/digital-collection/43481?lng=en"
+	},
+	{
+		slug: "santa-maria-della-salute",
+		title: "Santa Maria Della Salute",
+		image: "/collection/guardi__santa-maria-della-salute.jpg",
+		artist: "Francesco Guardi",
+		date: "mid-to-late 1760s",
+		height: 53.3,
+		width: 85.7,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "71.120",
+		location: "Metropolitan Museum of Art",
+		source: "https://www.metmuseum.org/art/collection/search/436598"
+	},
+	{
+		slug: "raphael-soyer",
+		title: "Self-Portrait of Raphael Soyer",
+		image: "/collection/soyer__raphael-soyer.jpg",
+		artist: "Raphael Soyer",
+		date: "ca. 1930",
+		height: 38.1,
+		width: 30.5,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1996.451",
+		location: "Metropolitan Museum of Art",
+		source: "https://www.metmuseum.org/art/collection/search/486772"
+	},
+	{
+		slug: "mademoiselle-malot",
+		title: "Mademoiselle Malot",
+		image: "/collection/degas__mademoiselle-malot.jpg",
+		artist: "Edgar Degas",
+		date: "c. 1877",
+		height: 81.1,
+		width: 65.1,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "1963.10.18",
+		location: "National Gallery of Art",
+		source: "https://www.nga.gov/artworks/46493-mademoiselle-malot"
+	},
+	{
+		slug: "gross-clinic",
+		title: "Portrait of Dr. Samuel D. Gross (The Gross Clinic)",
+		image: "/collection/eakins__the-gross-clinic.jpg",
+		artist: "Thomas Eakins",
+		date: "1875",
+		height: 243.8,
+		width: 198.1,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "2007-1-1",
+		location: "Philadelphia Museum of Art",
+		source: "https://www.philamuseum.org/objects/299524"
+	},
+	{
+		slug: "afternoon-venice",
+		title: "Afternoon, Venice",
+		image: "/collection/carlyle__afternoon-venice.jpg",
+		artist: "Florence Carlyle",
+		date: "1913",
+		height: 43.5,
+		width: 55.3,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "782",
+		location: "National Gallery of Canada",
+		source: "https://www.gallery.ca/collection/artwork/afternoon-venice",
+		copyright: "Open Access"
+	},
+	{
+		slug: "cracked-watermelon",
+		title: "Cracked Watermelon",
+		image: "/collection/porter__cracked-watermelon.jpg",
+		artist: "Charles Ethan Porter",
+		date: "1890",
+		height: 48.6,
+		width: 71.6,
+		medium: "Oil",
+		support: "Canvas",
+		accession: "2015.118",
+		location: "Metropolitan Museum of Art",
+		source: "https://www.metmuseum.org/art/collection/search/677910"
+	}
+];
+
+const entries = /* @__PURE__ */ new Map();
+const len = posts$2.length;
+posts$2.forEach((d, i) => {
+  const prev = posts$2[(i + len + 1) % len];
+  const next = posts$2[(i + len - 1) % len];
+  d.prev = { slug: prev == null ? void 0 : prev.slug, image: prev == null ? void 0 : prev.image };
+  d.next = { slug: next == null ? void 0 : next.slug, image: next == null ? void 0 : next.image };
+  entries.set(d.slug, d);
+});
+const _slug_ = defineEventHandler((event) => {
+  const slug = getRouterParam(event, "slug");
+  const post = entries.get(slug);
+  if (!post) {
+    throw createError({ statusCode: 404 });
+  }
+  return post;
+});
+
+const _slug_$1 = /*#__PURE__*/Object.freeze(/*#__PURE__*/Object.defineProperty({
+  __proto__: null,
+  default: _slug_
+}, Symbol.toStringTag, { value: 'Module' }));
+
+const posts = defineEventHandler((event) => {
+  return posts$2.map((d) => ({
+    slug: d.slug,
+    image: d.image,
+    title: d.title
+  }));
+});
+
+const posts$1 = /*#__PURE__*/Object.freeze(/*#__PURE__*/Object.defineProperty({
+  __proto__: null,
+  default: posts
+}, Symbol.toStringTag, { value: 'Module' }));
+
+//#region src/runtime/utils/renderer/payload.ts
+function renderPayloadResponse(ssrContext) {
+	return {
+		body: encodeForwardSlashes(stringify(splitPayload(ssrContext).payload, ssrContext["~payloadReducers"])) ,
+		statusCode: getResponseStatus(ssrContext.event),
+		statusMessage: getResponseStatusText(ssrContext.event),
+		headers: {
+			"content-type": "application/json;charset=utf-8" ,
+			"x-powered-by": "Nuxt"
+		}
+	};
+}
+function renderPayloadJsonScript(opts) {
+	const payload = {
+		"type": "application/json",
+		"innerHTML": opts.data ? encodeForwardSlashes(stringify(opts.data, opts.ssrContext["~payloadReducers"])) : "",
+		"data-nuxt-data": appId,
+		"data-ssr": !(opts.ssrContext.noSSR)
+	};
+	payload.id = "__NUXT_DATA__";
+	if (opts.src) payload["data-src"] = opts.src;
+	const config = uneval(opts.ssrContext.config);
+	return [payload, { innerHTML: `window.__NUXT__={};window.__NUXT__.config=${config}` }];
+}
+/**
+* Encode forward slashes as unicode escape sequences to prevent
+* Google from treating them as internal links and trying to crawl them.
+* @see https://github.com/nuxt/nuxt/issues/24175
+*/
+function encodeForwardSlashes(str) {
+	return str.replaceAll("/", "\\u002F");
+}
+function splitPayload(ssrContext) {
+	const { data, prerenderedAt, prefetchLinks, ...initial } = ssrContext.payload;
+	const payload = {
+		data,
+		prerenderedAt
+	};
+	if (prefetchLinks?.length) payload.prefetchLinks = prefetchLinks;
+	return {
+		initial: {
+			...initial,
+			prerenderedAt
+		},
+		payload
+	};
+}
+
+const renderSSRHeadOptions = {"omitLineBreaks":true};
+
+//#region src/runtime/handlers/renderer.ts
+globalThis.__buildAssetsURL = buildAssetsURL;
+globalThis.__publicAssetsURL = publicAssetsURL;
+const HAS_APP_TELEPORTS = !!(appTeleportAttrs.id);
+const APP_TELEPORT_OPEN_TAG = HAS_APP_TELEPORTS ? `<${appTeleportTag}${propsToString(appTeleportAttrs)}>` : "";
+const APP_TELEPORT_CLOSE_TAG = HAS_APP_TELEPORTS ? `</${appTeleportTag}>` : "";
+const PAYLOAD_URL_RE = /^[^?]*\/_payload.json(?:\?.*)?$/ ;
+const PAYLOAD_FILENAME = "_payload.json" ;
+const PAYLOAD_BUILD_ID_PARAM = "_b";
+const handler = defineRenderHandler((event) => {
+	const ssrError = event.path.startsWith("/__nuxt_error") ? getQuery$1(event) : null;
+	if (ssrError && !("__unenv__" in event.node.req)) throw createError({
+		status: 404,
+		statusText: "Page Not Found: /__nuxt_error",
+		message: "Page Not Found: /__nuxt_error"
+	});
+	return renderRoute(event, ssrError);
+});
+async function renderRoute(event, ssrError) {
+	const nitroApp = useNitroApp();
+	const ssrContext = createSSRContext(event);
+	ssrContext.head.push(appHead);
+	if (ssrError) {
+		const status = ssrError.status || ssrError.statusCode;
+		if (status) ssrError.status = ssrError.statusCode = Number.parseInt(status);
+		if (typeof ssrError.data === "string") try {
+			ssrError.data = destr(ssrError.data);
+		} catch {}
+		setSSRError(ssrContext, ssrError);
+	}
+	const routeOptions = getRouteRules(event);
+	if (routeOptions.ssr === false) ssrContext.noSSR = true;
+	!ssrContext.noSSR && (NUXT_RUNTIME_PAYLOAD_EXTRACTION);
+	const isRenderingPayload = (routeOptions.prerender) && PAYLOAD_URL_RE.test(ssrContext.url);
+	if (isRenderingPayload) {
+		const payloadURL = new URL(ssrContext.url, "http://localhost");
+		const url = payloadURL.pathname.slice(0, -`/${PAYLOAD_FILENAME}`.length) || "/";
+		payloadURL.searchParams.delete(PAYLOAD_BUILD_ID_PARAM);
+		ssrContext.url = url + payloadURL.search;
+		event._path = event.node.req.url = ssrContext.url;
+		getPayloadCacheKey(ssrContext.url);
+	}
+	const renderer = await getRenderer(ssrContext);
+	const canStream = NUXT_SSR_STREAMING;
+	const renderRouteContext = {
+		canStream,
+		prefersStream: false
+	};
+	await nitroApp.hooks.callHook("render:route", renderRouteContext, { event });
+	const _rendered = await (renderer.renderToString(ssrContext)).catch(async (error) => {
+		if ((ssrContext["~renderResponse"] || ssrContext._renderResponse) && error.message === "skipping render") return {};
+		const _err = !ssrError && ssrContext.payload?.error || error;
+		await ssrContext.nuxt?.hooks.callHook("app:error", _err);
+		throw _err;
+	});
+	const inlinedStyles = [];
+	await ssrContext.nuxt?.hooks.callHook("app:rendered", {
+		ssrContext,
+		renderResult: _rendered
+	});
+	if (ssrContext["~renderResponse"] || ssrContext._renderResponse) return ssrContext["~renderResponse"] || ssrContext._renderResponse;
+	if (ssrContext.payload?.error && !ssrError) throw ssrContext.payload.error;
+	if (isRenderingPayload) {
+		const response = renderPayloadResponse(ssrContext);
+		return response;
+	}
+	const NO_SCRIPTS = routeOptions.noScripts;
+	const { styles, scripts } = getRequestDependencies(ssrContext, renderer.rendererContext);
+	if (inlinedStyles.length) ssrContext.head.push({ style: inlinedStyles });
+	const link = [];
+	for (const resource of Object.values(styles)) {
+		if ("inline" in getQuery(resource.file)) continue;
+		link.push({
+			rel: "stylesheet",
+			href: renderer.rendererContext.buildAssetsURL(resource.file),
+			crossorigin: ""
+		});
+	}
+	if (link.length) ssrContext.head.push({ link });
+	if (!NO_SCRIPTS) {
+		const dependencyOptions = ssrContext["~lazyHydratedModules"]?.size ? { exclude: ssrContext["~lazyHydratedModules"] } : void 0;
+		const stylesheetHrefs = new Set(link.map((l) => l.href));
+		ssrContext.head.push({ link: [...getPreloadLinks(ssrContext, renderer.rendererContext, dependencyOptions), ...getPrefetchLinks(ssrContext, renderer.rendererContext, dependencyOptions)].filter((l) => !stylesheetHrefs.has(l.href)) });
+		ssrContext.head.push({ script: renderPayloadJsonScript({
+			ssrContext,
+			data: stripInlineOnlyPayloadFields(ssrContext.payload)
+		})   }, {
+			tagPosition: "bodyClose",
+			tagPriority: "high"
+		});
+	}
+	if (!routeOptions.noScripts) {
+		const tagPosition = "head";
+		ssrContext.head.push({ script: Object.values(scripts).map((resource) => ({
+			type: resource.module ? "module" : null,
+			src: renderer.rendererContext.buildAssetsURL(resource.file),
+			defer: resource.module ? null : true,
+			tagPosition,
+			crossorigin: ""
+		})) });
+	}
+	const { headTags, bodyTags, bodyTagsOpen, htmlAttrs, bodyAttrs } = renderSSRHead(ssrContext.head, renderSSRHeadOptions);
+	const htmlContext = {
+		htmlAttrs: htmlAttrs ? [htmlAttrs] : [],
+		head: normalizeChunks([headTags]),
+		bodyAttrs: bodyAttrs ? [bodyAttrs] : [],
+		bodyPrepend: normalizeChunks([bodyTagsOpen, ssrContext.teleports?.body]),
+		body: [replaceIslandTeleports(ssrContext, _rendered.html) , APP_TELEPORT_OPEN_TAG + (HAS_APP_TELEPORTS ? joinTags([ssrContext.teleports?.[`#${appTeleportAttrs.id}`]]) : "") + APP_TELEPORT_CLOSE_TAG],
+		bodyAppend: [bodyTags]
+	};
+	await nitroApp.hooks.callHook("render:html", htmlContext, { event });
+	return {
+		body: renderHTMLDocument(htmlContext),
+		statusCode: getResponseStatus(event),
+		statusMessage: getResponseStatusText(event),
+		headers: {
+			"content-type": "text/html;charset=utf-8",
+			"x-powered-by": "Nuxt"
+		}
+	};
+}
+function getPayloadCacheKey(url) {
+	const { pathname, search } = new URL(url, "http://localhost");
+	return (pathname === "/" ? "/" : pathname.replace(/\/$/, "")) + (search ? encodeURIComponent(search) : "") + ".json";
+}
+function normalizeChunks(chunks) {
+	const result = [];
+	for (const _chunk of chunks) {
+		const chunk = _chunk?.trim();
+		if (chunk) result.push(chunk);
+	}
+	return result;
+}
+function joinTags(tags) {
+	return tags.join("");
+}
+function joinAttrs(chunks) {
+	if (chunks.length === 0) return "";
+	return " " + chunks.join(" ");
+}
+function renderHTMLDocument(html) {
+	return `<!DOCTYPE html><html${joinAttrs(html.htmlAttrs)}><head>${joinTags(html.head)}</head><body${joinAttrs(html.bodyAttrs)}>${joinTags(html.bodyPrepend)}${joinTags(html.body)}${joinTags(html.bodyAppend)}</body></html>`;
+}
+function stripInlineOnlyPayloadFields(payload) {
+	if (!payload.prefetchLinks) return payload;
+	const { prefetchLinks: _, ...rest } = payload;
+	return rest;
+}
+
+const renderer = /*#__PURE__*/Object.freeze(/*#__PURE__*/Object.defineProperty({
+  __proto__: null,
+  default: handler
+}, Symbol.toStringTag, { value: 'Module' }));
+//# sourceMappingURL=index.mjs.map

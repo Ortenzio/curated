@@ -1,24 +1,22 @@
 {
   "name": "curated",
-  "version": "1.0.0-beta.1",
+  "version": "1.0.0-beta.2",
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "vite dev",
-    "build": "vite build",
-    "preview": "vite preview",
-    "serve": "bun --hot run serve.js",
-    "deploy": "gh-pages -d dist"
+    "dev": "nuxt dev --host",
+    "build": "nuxt build --prerender",
+    "serve": "bun x serve .output/public",
+    "deploy": "gh-pages -d .output/public"
   },
   "dependencies": {
     "vue": "^3.5.39"
   },
   "devDependencies": {
-    "@eslint/js": "^10.0.1",
-    "@vitejs/plugin-vue": "^6.0.6",
+    "@nuxt/image": "2.0.0",
     "bun-types": "^1.3.14",
     "gh-pages": "^6.3.0",
-    "sharp": "^0.35.3",
-    "vite": "^8.0.8"
+    "nuxt": "^4.5.0",
+    "vue": "^3.5.40"
   }
 }

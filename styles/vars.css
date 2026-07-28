@@ -1,0 +1,22 @@
+:root {
+  --ff-title: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+  --ff-body:  Inter, Roboto, 'Helvetica Neue', 'Arial Nova', 'Nimbus Sans', Arial, sans-serif;
+
+  color-scheme: light dark;
+}
+
+:root {
+  --c-surface: light-dark(#c9cacc, #2a3131);
+  --c-canvas: light-dark(#eaeaea, #1e2121);
+  --c-text: light-dark(#212929, #eaecef);
+  --c-link: light-dark(#b72424, #c9e32a);
+  --c-border: light-dark(#212929, #f2f2f2);
+
+  @media (prefers-color-scheme: dark) {
+    color-scheme: dark;
+  }
+  
+  @media (prefers-color-scheme: light) {
+    color-scheme: light;
+  }
+}
