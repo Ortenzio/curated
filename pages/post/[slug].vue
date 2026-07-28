@@ -132,11 +132,6 @@ useHead({
   flex-flow: row nowrap;
   justify-content: flex-end;
   align-items: center;
-  filter: saturate(0);
-  transition: filter 0.25s ease-in-out;
-  &:hover {
-    filter: saturate(1);    
-  }
 }
 
 .post__nav-image {
@@ -144,6 +139,13 @@ useHead({
   max-height: 30dvh;
   object-fit: cover;
   width: 100%;
+  mix-blend-mode: normal;
+  transition: filter 0.25s ease-in-out, mix-blend-mode 0.25s ease-in-out;
+  filter: saturate(0);
+  &:hover {
+    filter: saturate(1);
+    mix-blend-mode: normal;
+  }
 }
 
 .post__footer { 

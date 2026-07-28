@@ -19,6 +19,7 @@ docs/image-test
 docs/images
 docs/grid-view.csv
 assets/collection
+.output
 
 # Editor directories and files
 .vscode/*
