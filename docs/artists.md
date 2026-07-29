@@ -10,7 +10,7 @@
 
 ## Tadeusz Ajdukiewicz
 [# Portrait of Kazimierz Alchimowicz](https://cyfrowe.mnw.art.pl/en/catalog/440413)
-[$ Study of a Hunter](https://cyfrowe.mnw.art.pl/en/catalog/452999)
+[# Study of a Hunter](https://cyfrowe.mnw.art.pl/en/catalog/452999)
 [Portrait of Helena Modrzejewska](https://zbiory.mnk.pl/en/search-result/advance/catalog/274367)
 
 ## Zygmunt von Ajdukiewicz 
@@ -33,7 +33,7 @@
 [# Worker](https://cyfrowe.mnw.art.pl/en/catalog/440457)
 
 ## Kazimierz Alchimowicz
-[Study of an Old Man's Head](https://cyfrowe.mnw.art.pl/en/catalog/453029)
+[# Study of an Old Man's Head](https://cyfrowe.mnw.art.pl/en/catalog/453029)
 
 ## Maurycy Sztencel
 [# Portrait of a Brunette](https://cyfrowe.mnw.art.pl/en/catalog/438773)
@@ -61,11 +61,11 @@
 [William Bunker](https://emuseum.nyhistory.org/objects/1812/william-bunker-18571942;jsessionid=9234A816E08A427168272CBD0EBA6672)
 
 ## Madeline Green
-[Self portrait](https://www.dulwichpicturegallery.org.uk/explore/explore-the-collection/self-portrait-the-chenille-net/)
+[# Self portrait](https://www.dulwichpicturegallery.org.uk/explore/explore-the-collection/self-portrait-the-chenille-net/)
 
 ## José Casado del Alisal (Casado del Alisal)
-[$ La Tirana](https://www.museodelprado.es/en/the-collection/art-work/la-tirana/6cbbe22a-6e17-42d7-9780-f3ee78d92c0c)
-[$ The Bell of Huesca (legend of the monk king)](https://www.museodelprado.es/en/the-collection/art-work/the-legend-of-the-monk-king/54cca3b9-3a81-4572-9bcf-9969271fac04)
+[# La Tirana](https://www.museodelprado.es/en/the-collection/art-work/la-tirana/6cbbe22a-6e17-42d7-9780-f3ee78d92c0c)
+[# The Bell of Huesca (legend of the monk king)](https://www.museodelprado.es/en/the-collection/art-work/the-legend-of-the-monk-king/54cca3b9-3a81-4572-9bcf-9969271fac04)
 
 ## Sir William Allan
 [The Bashkirs](https://www.hermitagemuseum.org/digital-collection/40338?lng=en)
@@ -90,13 +90,13 @@
 [Portrait of a gentleman](https://www.domquartier.at/en/residenzgalerie-collection-online/paintings/portrait-of-a-gentleman-1/)
 
 ## Carl Moll
-[$ Venedig, Riva Schiavoni](https://sammlungenonline.albertina.at/en/objects/426288/venedig-riva-schiavoni)
+[# Die Römische Ruine In Schönbrunn](https://sammlung.belvedere.at/objects/2515/die-romische-ruine-in-schonbrunn?)
+[Venedig, Riva Schiavoni](https://sammlungenonline.albertina.at/en/objects/426288/venedig-riva-schiavoni)
 [Meister Schindlers Fenster](https://sammlungenonline.albertina.at/en/objects/426517/meister-schindlers-fenster)
 [Straßenszene in Algier](https://sammlungenonline.albertina.at/en/objects/426519/straenszene-in-algier)
-[Die Römische Ruine In Schönbrunn](https://sammlung.belvedere.at/objects/2515/die-romische-ruine-in-schonbrunn?)
 
 ## Koloman Moser 
-[$ jugendbildnis rudolf steindl, schwager des künstlers](https://sammlung.belvedere.at/objects/4993/jugendbildnis-rudolf-steindl-schwager-des-kunstlers?)
+[# jugendbildnis rudolf steindl, schwager des künstlers](https://sammlung.belvedere.at/objects/4993/jugendbildnis-rudolf-steindl-schwager-des-kunstlers?)
 
 ## David Mosé
 [Portrait of a Man](https://sammlung.belvedere.at/objects/55547/mannliches-bildnis?)
@@ -139,14 +139,14 @@
 [# Secretario](https://www.bellasartes.gob.ar/en/collection/work/7820/)
 
 ## August von Pettenkofen
-[$$ Gypsies](https://en.mng.hu/artworks/668/)
+[# Gypsies](https://en.mng.hu/artworks/668/)
 [$ Boy persued by dogs](https://sammlung.belvedere.at/objects/614/junge-von-hunden-verfolgt?)
 [Bathing Woman](https://sammlung.belvedere.at/objects/3983/badende?)
 [Half-length Portrait of a Rom](https://sammlung.belvedere.at/objects/6352/brustbild-eines-rom?)
 [Portrait of József Borsos](https://en.mng.hu/artworks/665/)
 
 ## Ottó Baditz
-[$$ Study of a Woman’s Head](https://en.mng.hu/artworks/50723/)
+[# Study of a Woman’s Head](https://en.mng.hu/artworks/50723/)
 [$ First Communion](https://en.mng.hu/artworks/50781/)
 [$ Portrait of a woman](https://en.mng.hu/artworks/113207/)
 
@@ -154,7 +154,7 @@
 [Portrait of József Müller](https://en.mng.hu/artworks/51533/)
 
 ## Andor Basch
-[$$ Self Portrait](https://en.mng.hu/artworks/50406/)
+[# Self Portrait](https://en.mng.hu/artworks/50406/)
 
 ## Viktor Belányi
 [$ Self Portrait](https://en.mng.hu/artworks/53916/)
@@ -299,7 +299,7 @@
 [# S. Isabel Dacre](https://collections.manchesterartgallery.org/collections/item/d96f824a-0a2d-37b8-8d51-28ad6f8ce7d4/)
 
 ## Norman Garstin
-[$ A Woman Reading a Newspaper](https://www.tate.org.uk/art/artworks/garstin-a-woman-reading-a-newspaper-n04234)
+[# A Woman Reading a Newspaper](https://www.tate.org.uk/art/artworks/garstin-a-woman-reading-a-newspaper-n04234)
 
 ## Henrik Pap
 [$ Little Girl](https://en.mng.hu/artworks/53997/)
@@ -513,7 +513,7 @@
 [DeWitt McClellan Lockman](https://emuseum.nyhistory.org/objects/968/dewitt-mcclellan-lockman-18701957)
 
 ## Wojciech Gerson
-[$ Self-portrait](https://cyfrowe.mnw.art.pl/en/catalog/447305)
+[# Self-portrait](https://cyfrowe.mnw.art.pl/en/catalog/447305)
 
 ## John George Brown
 [Three for Five](https://www.artsbma.org/collection/three-for-five/)
