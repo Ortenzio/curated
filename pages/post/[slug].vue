@@ -17,11 +17,11 @@
       <div class="post__title">{{ post.title }}</div>
       
       <div class="post__details">
-        <UiDefinition term="Artist">{{ post.artist}}</UiDefinition>
-        <UiDefinition v-if="post.medium" term="Medium">{{ post.medium }}</UiDefinition>
-        <UiDefinition v-if="post.support" term="Support">{{ post.support }}</UiDefinition>
+        <UiDefinition term="Artist" :def="post.artist" />
+        <UiDefinition v-if="post.medium" term="Medium" :def="post.medium" />
+        <UiDefinition v-if="post.support" term="Support" :def="post.support" />
         <UiDefinition v-if="post.height && post.width" term="Dimensions">{{ sizeFormat(post.height) }} × {{ sizeFormat(post.width) }} <span class="post__unit">cm</span></UiDefinition>
-        <UiDefinition v-if="post.date" term="Date">{{ post.date }}</UiDefinition>
+        <UiDefinition v-if="post.date" term="Date" :def="post.date" />
         <UiDefinition v-if="post.source" term="Source"><a :href="post.source" class="post__ext-link" target="_blank" rel="noopener noreferrer">{{ post.location }}</a></UiDefinition>
       </div>
 
@@ -176,6 +176,6 @@ useHead({
 
 .post__home {
   font-family: var(--ff-title);
-  font-size: 1.5rem;
+  font-size: 1.25rem;
 }
 </style>

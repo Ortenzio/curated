@@ -1,13 +1,14 @@
 <template>
   <dl class="ui-definition">
     <dt>{{ props.term }}:</dt>
-    <dd><slot /></dd>
+    <dd>{{ props.def }}<slot /></dd>
   </dl>
 </template>
 
 <script setup>
 const props = defineProps({
   term: { type: String, default: '' },
+  def: { type: String, default: '' }
 })
 </script>
 

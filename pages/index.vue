@@ -26,7 +26,11 @@ useHead({
   display: flex;
   flex-direction: column;
   gap: 1rem;
-  padding: 1rem 1rem 2rem;
+  padding: 1rem 0.125rem;
+
+  @media (min-width: 30rem) {
+    padding: 1rem 1rem 2rem;
+  }
 }
 
 .app__posts {
@@ -72,11 +76,15 @@ useHead({
 
 .app__title {
   font-family: var(--ff-title);
-  font-size: 3.5rem;
+  font-size: 2.5rem;
   font-weight: 400;
   line-height: .9; 
   color: var(--c-text);
   text-decoration: none;
+
+  @media (min-width: 30rem) {
+    font-size: 3.5rem;
+  }
 
   &:hover {
     text-decoration: none;
