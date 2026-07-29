@@ -2066,7 +2066,7 @@
 [Intérieur d'église](https://www.centrepompidou.fr/en/ressources/oeuvre/c4b9KnA)
 
 ## Raoul Dufy
-[$$ Autoportrait au chapeau mou](https://www.centrepompidou.fr/en/ressources/oeuvre/cxggn7)
+[$$@ Raoul Dufy](https://www.centrepompidou.fr/en/ressources/oeuvre/cxggn7)
 [Portrait de l'artiste](https://www.centrepompidou.fr/en/ressources/oeuvre/cbqq986)
 [Autoportrait](https://www.centrepompidou.fr/en/ressources/oeuvre/cxAXGLr)
 
