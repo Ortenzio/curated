@@ -11,7 +11,7 @@ const nextTheme = Object.freeze({
 })
 
 function getThemeFromStorage () {
-  return themes[localStorage.getItem(storageKey)] || nextTheme['light']
+  return themes[localStorage.getItem(storageKey)] || nextTheme['dark']
 }
 
 class CuratedThemeToggle extends HTMLElement {

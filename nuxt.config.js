@@ -1,4 +1,4 @@
-import { rmSync } from 'node:fs';
+import { rm, writeFile, rename } from 'node:fs/promises';
 import posts from './data/posts.json' with { type: 'json' };
 
 export default defineNuxtConfig({
@@ -84,8 +84,13 @@ export default defineNuxtConfig({
     },
 
     async 'close' (ctx) {
-      rmSync('.output/public/collection', { recursive: true, force: true })
-      rmSync('dist', { force: true })
+      await rm('.output/public/collection', { recursive: true, force: true })
+      await rm('dist', { force: true })
+      await rm('.output/public/_nuxt', { force: true, recursive: true })
+      await rename('.output/public/_ipx/f_webp&q_80&loading_eager', '.output/public/_ipx/full');
+      await rename('.output/public/_ipx/f_webp&w_600&q_60&loading_lazy', '.output/public/_ipx/thumb');
+      await writeFile('.output/public/.nojekyll', '', 'utf8')
+
       console.log('CURATED: nitro build finished')
     }
   },
@@ -94,7 +99,13 @@ export default defineNuxtConfig({
     hooks: {
       "prerender:generate" (route) {
         if (route.contentType?.includes('text/html') && route.contents) {
-          route.contents = route.contents.replace(`<div id="teleports"></div>`, '')
+          route.contents = route.contents
+            .replace(`<div id="teleports"></div>`, '')
+            .replaceAll(`data-nuxt-img`, '')
+            .replaceAll(/(image)?srcset=".*?"/g, '')
+            .replaceAll(/onerror=".*?"/g, '')
+            .replaceAll("f_webp&amp;q_80&amp;loading_eager", "full")
+            .replaceAll("f_webp&amp;w_600&amp;q_60&amp;loading_lazy", "thumb")
         }
       }
     }

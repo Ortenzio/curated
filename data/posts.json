@@ -60,21 +60,6 @@
     "copyright": "Public Domain"
   },
   {
-    "slug": "judith",
-    "title": "Judith",
-    "image": "/collection/klimt__judith.jpg",
-    "artist": "Gustav Klimt",
-    "date": "1901",
-    "height": 84,
-    "width": 42,
-    "medium": "Oil and Goal Leaf",
-    "support": "Canvas",
-    "accession": "4737",
-    "location": "Österreichische Galerie Belvedere",
-    "source": "https://sammlung.belvedere.at/objects/3492/judith",
-    "copyright": "Public Domain"
-  },
-  {
     "slug": "selbstportrat-mit-blauer-halsbinde",
     "title": "Selbstporträt Mit Blauer Halsbinde",
     "image": "/collection/amerling__selbstportrat-mit-blauer-halsbinde.jpg",
@@ -3483,6 +3468,21 @@
     "source": "https://high.org/collection/the-young-mother-no-1/"
   },
   {
+    "slug": "judith",
+    "title": "Judith",
+    "image": "/collection/klimt__judith.jpg",
+    "artist": "Gustav Klimt",
+    "date": "1901",
+    "height": 84,
+    "width": 42,
+    "medium": "Oil and Goal Leaf",
+    "support": "Canvas",
+    "accession": "4737",
+    "location": "Österreichische Galerie Belvedere",
+    "source": "https://sammlung.belvedere.at/objects/3492/judith",
+    "copyright": "Public Domain"
+  },
+  {
     "slug": "still-life-of-fish",
     "title": "Still Life of Fish",
     "image": "/collection/chase__still-life-of-fish.jpg",
@@ -3745,6 +3745,20 @@
     "source": "https://www.nga.gov/artworks/42929-snow-new-york"
   },
   {
+    "slug": "cracked-watermelon",
+    "title": "Cracked Watermelon",
+    "image": "/collection/porter__cracked-watermelon.jpg",
+    "artist": "Charles Ethan Porter",
+    "date": "1890",
+    "height": 48.6,
+    "width": 71.6,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "2015.118",
+    "location": "Metropolitan Museum of Art",
+    "source": "https://www.metmuseum.org/art/collection/search/677910"
+  },
+  {
     "slug": "fernando-de-los-villares-amor",
     "title": "Fernando de los Villares Amor",
     "image": "/collection/madrazo__fernando-de-los-villares-amor.jpg",
@@ -3929,19 +3943,5 @@
     "location": "National Gallery of Canada",
     "source": "https://www.gallery.ca/collection/artwork/afternoon-venice",
     "copyright": "Open Access"
-  },
-  {
-    "slug": "cracked-watermelon",
-    "title": "Cracked Watermelon",
-    "image": "/collection/porter__cracked-watermelon.jpg",
-    "artist": "Charles Ethan Porter",
-    "date": "1890",
-    "height": 48.6,
-    "width": 71.6,
-    "medium": "Oil",
-    "support": "Canvas",
-    "accession": "2015.118",
-    "location": "Metropolitan Museum of Art",
-    "source": "https://www.metmuseum.org/art/collection/search/677910"
   }
 ]

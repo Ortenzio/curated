@@ -29,10 +29,6 @@
         <nuxt-img class="post__nav-image" :src="post.prev.image" preset="thumb" />
       </a>
 
-      <a :href="`/post/${post.next.slug}`" rel="next" class="post__nav">
-        <nuxt-img class="post__nav-image" :src="post.next.image" preset="thumb" />
-      </a>
-
       <div class="post__footer">
         <a href="/" class="post__home">Curated</a>
         <curated-theme-toggle />
@@ -60,7 +56,7 @@ useHead({
   meta: () => [
     { property: 'og:url', content: `/post/${post.value.slug}` },
     { property: 'og:title', content: post.value.title },
-    { property: 'og:image', content: `/_ipx/f_webp&q_80/${post.value.image}` },
+    { property: 'og:image', content: `/_ipx/full${post.value.image}` },
     { name: 'description', content: `Painting: ${post.value.title} by the Artist, ${post.value.artist}`}
   ],
   script: () => [
@@ -104,10 +100,9 @@ useHead({
   width: 100%;
 
   @media (min-width: 30rem) {
-    grid-template-columns: 1fr 20rem 20rem;
+    grid-template-columns: 1fr 20rem;
   }
 }
-
 
 .post__details {
   background-color: var(--c-canvas);
@@ -154,7 +149,7 @@ useHead({
   background-color: var(--c-canvas);
   padding: 1rem;
   gap: 0.5rem;
-  grid-column: span 3 / span 3;
+  grid-column: span 2 / span 2;
   grid-row-start: 3;
   font-size: 0.875rem;
   text-transform: capitalize;
@@ -165,7 +160,7 @@ useHead({
   font-family: var(--ff-title);
   font-size: 1.25rem;
   font-weight: 500;
-  grid-column: span 3 / span 3;
+  grid-column: span 2 / span 2;
   grid-row-start: 1;
   padding: 1rem;
   text-wrap: balance;
