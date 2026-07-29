@@ -964,19 +964,20 @@
 [Seated Nude](https://www.famsf.org/artworks/seated-nude-60375)
 
 ## Count Albert De Belleroche
-[$ Olympia de la Fontaine](https://www.tate.org.uk/art/artworks/de-belleroche-olympia-de-la-fontaine-t00003)
+[# Olympia de la Fontaine](https://www.tate.org.uk/art/artworks/de-belleroche-olympia-de-la-fontaine-t00003)
 
 ## Bernardo Bellotto
-[$$ Reiterbildnis eines Husarenoffiziers](https://www.khm.at/en/artworks/reiterbildnis-eines-husarenoffiziers-218)
-[$ New Market-Place](https://www.hermitagemuseum.org/digital-collection/32286?lng=en)
+[# New Market-Place](https://www.hermitagemuseum.org/digital-collection/32286?lng=en)
+[$ Reiterbildnis eines Husarenoffiziers](https://www.khm.at/en/artworks/reiterbildnis-eines-husarenoffiziers-218)
 
 ## Johann Baptist Reiter
-[$ The Young Postillion](https://www.domquartier.at/en/residenzgalerie-collection-online/paintings/the-young-postillion/)
+[# The Young Postillion](https://www.domquartier.at/en/residenzgalerie-collection-online/paintings/the-young-postillion/)
 
 ## Emile Bernard
-[Paul Gachet](https://www.musee-orsay.fr/en/artworks/paul-gachet-16609)
+[# Paul Gachet](https://www.musee-orsay.fr/en/artworks/paul-gachet-16609)
 
 ## Maria Wiik
+[# Elsa](https://kokoelma.kansallisgalleria.fi/fi/object/625366)
 [Self Portrait](https://collection.nationalmuseum.se/en/collection/item/239280/)
 
 ## Wilhelm Bernatzik
@@ -1001,7 +1002,7 @@
 ## Thomas Eakins
 [# Study for "The Dancing Lesson": The Banjo Player](https://www.nga.gov/artworks/66414-study-dancing-lesson-banjo-player)
 [# The Gross Clinic](https://www.philamuseum.org/objects/299524)
-[$$ Carmelita Requena](https://www.metmuseum.org/art/collection/search/10812)
+[$ Carmelita Requena](https://www.metmuseum.org/art/collection/search/10812)
 [Arcadia](https://www.metmuseum.org/art/collection/search/10810)
 [Archbishop Diomede Falconio](https://www.nga.gov/artworks/33250-archbishop-diomede-falconio)
 [Figure Study- Masked Nude Woman](https://www.pafa.org/museum/collection/item/figure-study-masked-nude-woman-0)
@@ -1099,8 +1100,8 @@
 [Young Girl](https://collection.farnsworthmuseum.org/objects/384/young-girl)
 
 ## Édouard Vuillard
-[$$ Portrait de Mme Suzanne Despres](https://www.centrepompidou.fr/en/ressources/oeuvre/cdqKEXE)
 [$ Madame Vuillard in Profile](https://www.artic.edu/artworks/72185/madame-vuillard-in-profile)
+[$ Portrait de Mme Suzanne Despres](https://www.centrepompidou.fr/en/ressources/oeuvre/cdqKEXE)
 [Self Portrait at Age 21](https://www.nga.gov/artworks/93000-self-portrait-aged-21)
 
 ## Kees Van Dongen
@@ -1214,7 +1215,7 @@
 [$ Salvador Martínez Cubells, Father of the Artist](https://www.museodelprado.es/en/the-collection/art-work/salvador-martinez-cubells-father-of-the-artist/bb111c44-d898-45b6-b716-9974d7267c89)
 
 ## Aelbert Cuyp
-[$$ Landscape with the Ruins of Rijnsburg Abbey, near Leiden](https://www.mauritshuis.nl/en/our-collection/artworks/822-landscape-with-the-ruins-of-rijnsburg-abbey-near-leiden)
+[$$@ Landscape with the Ruins of Rijnsburg Abbey, near Leiden](https://www.mauritshuis.nl/en/our-collection/artworks/822-landscape-with-the-ruins-of-rijnsburg-abbey-near-leiden)
 
 ## Lajos Deák Ébner
 [$$ Portrait of a Man in Period Clothes](https://en.mng.hu/artworks/50653/)
@@ -1369,23 +1370,23 @@
 [Study of a Bearded Peasant](https://zbiory.mnk.pl/en/search-result/advance/catalog/442064)
 
 ## Hans Makart
-[$$ Amalie Makart, née Roithmayr](https://www.domquartier.at/en/residenzgalerie-collection-online/paintings/amalie-makart-nee-rothmayr-1846-munich-1873-munich-the-artists-first-wife-07111868/)
-[$$ The Well](https://www.domquartier.at/en/residenzgalerie-collection-online/paintings/the-well/)
+[$$@ Amalie Makart, née Roithmayr](https://www.domquartier.at/en/residenzgalerie-collection-online/paintings/amalie-makart-nee-rothmayr-1846-munich-1873-munich-the-artists-first-wife-07111868/)
+[$$@ The Well](https://www.domquartier.at/en/residenzgalerie-collection-online/paintings/the-well/)
 [Lady at a Spinet](https://sammlung.belvedere.at/objects/454/dame-am-spinett?)
 [Portrait of Bertha von Piloty](https://sammlung.belvedere.at/objects/4254/portrat-bertha-von-piloty?)
 [Young Herald](https://www.domquartier.at/en/residenzgalerie-collection-online/paintings/young-herald/)
 
 ## István Moldován
-[$$ Little Girl](https://en.mng.hu/artworks/44192/)
+[$$@ Little Girl](https://en.mng.hu/artworks/44192/)
 
 ## Károly Lotz
-[$$ Cornelia Lotz in Black](https://en.mng.hu/artworks/54386/)
+[$$@ Cornelia Lotz in Black](https://en.mng.hu/artworks/54386/)
 [Spring (Portrait of Ilona Koronghi Lippich)](https://en.mng.hu/artworks/54423/)
 [Bathing woman](https://en.mng.hu/artworks/54443/)
 [Portrait of a Woman](https://en.mng.hu/artworks/49230/)
 
 ## Baron László Mednyánszky
-[$$ Tramp with Cigar](https://en.mng.hu/artworks/53306/)
+[$$@ Tramp with Cigar](https://en.mng.hu/artworks/53306/)
 
 ## Carl Marr
 [The Landscapist](https://en.mng.hu/artworks/561/)
@@ -1394,19 +1395,19 @@
 [The Artist’s Wife (Kati is Stitching)](https://en.mng.hu/artworks/38030/)
 
 ## Jean-François Millet
-[Self Portrait](https://sammlung.belvedere.at/objects/7736/selbstbildnis?)
+[$$@ Jean-François Millet](https://sammlung.belvedere.at/objects/7736/selbstbildnis?)
 
 ## Hans von Marées
-[$ The Painter August Cesar](https://sammlung.belvedere.at/objects/6282/der-maler-august-cesar?)
+[$$@ August Cesar](https://sammlung.belvedere.at/objects/6282/der-maler-august-cesar?)
 
 ## Hans von Aachen
-[Der Maler Gaspar Rem](https://www.khm.at/en/artworks/der-maler-gaspar-rem-1542-1615-17-11)
+[$@ Der Maler Gaspar Rem](https://www.khm.at/en/artworks/der-maler-gaspar-rem-1542-1615-17-11)
 
 ## Kazimierz Pułaski
-[Portrait of Wojciech Pułaski](https://cyfrowe.mnw.art.pl/en/catalog/446514)
+[$@ Wojciech Pułaski (the artists brother)](https://cyfrowe.mnw.art.pl/en/catalog/446514)
 
 ## Zygmunt Sidorowicz
-[$ Self Portrait](https://cyfrowe.mnw.art.pl/en/catalog/446547)
+[$@ Self Portrait](https://cyfrowe.mnw.art.pl/en/catalog/446547)
 
 ## Tom Churchyard
 [$ Windmills](https://www.tate.org.uk/art/artworks/churchyard-windmills-t03618)
@@ -1425,13 +1426,14 @@
 [Portrait of Ludwik Wodzicki](https://zbiory.mnk.pl/en/search-result/advance/catalog/395825)
 
 ## Elisabeth Louise Vigée-LeBrun
-[$ Portrait of Jean-Baptiste Lemoyne the Younger](https://www.clevelandart.org/art/2011.49)
+[Portrait of Jean-Baptiste Lemoyne the Younger](https://www.clevelandart.org/art/2011.49)
 
 ## Jules Louis Philippe Coignet
-[$ View of the Sea – Boat at the Sea](https://zbiory.mnk.pl/en/search-result/advance/catalog/396954)
+[$$@ View of the Sea](https://zbiory.mnk.pl/en/search-result/advance/catalog/396954)
 
 ## Max Liebermann
-[$ Study: Bust of a Man](https://zbiory.mnk.pl/en/search-result/advance/catalog/388559)
+[$@ Bust of a Man - Verso](https://zbiory.mnk.pl/en/search-result/advance/catalog/388559)
+[$@ Bust of a woman - Recto](https://zbiory.mnk.pl/en/search-result/advance/catalog/388559)
 
 ## Francisco Domingo Marqués
 [$ The writer Pelegrín García Cadena](https://www.museodelprado.es/en/the-collection/art-work/the-writer-pelegrin-garcia-cadena/c10c78f1-415c-4cb7-926e-f16ab18e356e)
@@ -1451,7 +1453,7 @@
 [Hesitancy](https://en.mng.hu/artworks/87/)
 
 ## Ferenc Eisenhut
-[$$ Armenian Man](https://en.mng.hu/artworks/48359/)
+[$$@ Armenian Man](https://en.mng.hu/artworks/48359/)
 
 ## Marcus Stone R.A.
 [The Lost Bird](https://collections.manchesterartgallery.org/collections/item/7fcd04f0-dd94-36ee-b5ef-c41fcbf59e59/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D6&pos=72)
@@ -1704,7 +1706,7 @@
 [Bagpiper](https://www.domquartier.at/en/residenzgalerie-collection-online/paintings/bagpiper/)
 
 ## John Quincy Adams
-[$$ Erster Obersthofmeister Fürst Alfred Montenuovo](https://www.khm.at/en/artworks/erster-obersthofmeister-fuerst-alfred-montenuovo-2551)
+[$$@ Erster Obersthofmeister Fürst Alfred Montenuovo](https://www.khm.at/en/artworks/erster-obersthofmeister-fuerst-alfred-montenuovo-2551)
 
 ## John William Waterhouse
 [# Cleopatra](https://en.wikipedia.org/wiki/File:Cleopatra_-_John_William_Waterhouse.jpg)
@@ -1928,7 +1930,7 @@
 [The Housekeeper](https://www.krollermuller.nl/en/collection/carolus-duran-the-housekeeper-km-108-416)
 
 ## Jules Alexandre Grün
-[Le Perroquet](https://www.musee-orsay.fr/en/artworks/le-perroquet-80058)
+[$@ Perroquet](https://www.musee-orsay.fr/en/artworks/le-perroquet-80058)
 
 ## Gustave Jacquet
 [Jeune fille au lézard](https://www.musee-orsay.fr/en/artworks/jeune-fille-au-lezard-78157)

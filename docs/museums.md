@@ -110,7 +110,8 @@
 - [The Holburne Museum](https://holburne.org/)
 
 
-
+[The National Gallery of Denmark](https://www.smk.dk/en/)
+[Finish National Gallery](https://kokoelma.kansallisgalleria.fi/fi/object/625366)
 [Alte Pinakothek](https://www.sammlung.pinakothek.de/en/genre/malerei#filters={%22yearRange%22:{%22min%22:1600,%22max%22:1960},%22onDisplay%22:false,%22publicDomain%22:true,%22genre%22:%22malerei%22})
 [Stedelijk Museum Breda](https://www.stedelijkmuseumbreda.nl/en)
 [Fitzwilliam Museum](https://fitzmuseum.cam.ac.uk/)

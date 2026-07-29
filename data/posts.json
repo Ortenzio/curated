@@ -345,6 +345,21 @@
     "copyright": "Public Domain"
   },
   {
+    "slug": "elsa",
+    "title": "Elsa",
+    "image": "/collection/wiik__elsa.jpg",
+    "artist": "Maria Wiik",
+    "date": "1882",
+    "height": 57,
+    "width": 47,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "A I 229",
+    "location": "Finnish National Gallery",
+    "source": "https://kokoelma.kansallisgalleria.fi/fi/object/625366",
+    "copyright": "Public Domain"
+  },
+  {
     "slug": "die-romische-ruine-in-schonbrunn",
     "title": "Die Römische Ruine In Schönbrunn",
     "image": "/collection/moll__die-romische-ruine-in-schonbrunn.jpg",
@@ -1574,6 +1589,20 @@
     "accession": "ГЭ-927",
     "location": "The State Hermitage Museum",
     "source": "https://www.hermitagemuseum.org/digital-collection/44342"
+  },
+  {
+    "slug": "Neumarkt",
+    "title": "New Market-Place In Dresden",
+    "image": "/collection/bellotto__neumarkt.jpg",
+    "artist": "Bernardo Bellotto",
+    "date": "1747",
+    "height": 134.5,
+    "width": 236.5,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "ГЭ-204",
+    "location": "The State Hermitage Museum",
+    "source": "https://www.hermitagemuseum.org/digital-collection/32286"
   },
   {
     "slug": "ignacio-pinazo-camarlench",
@@ -3154,6 +3183,21 @@
     "copyright": ""
   },
   {
+    "slug": "olympia-de-la-fontaine",
+    "title": "Olympia de la Fontaine",
+    "image": "/collection/belleroche__olympia-de-la-fontaine.jpg",
+    "artist": "Count Albert De Belleroche",
+    "date": "1904",
+    "height": 14.6,
+    "width": 11.4,
+    "medium": "Oil",
+    "support": "Wood",
+    "accession": "T00003",
+    "location": "Tate",
+    "source": "https://www.tate.org.uk/art/artworks/de-belleroche-olympia-de-la-fontaine-t00003",
+    "copyright": ""
+  },
+  {
     "slug": "portrait-of-a-man-3",
     "title": "Portrait of a Man",
     "image": "/collection/dou__portrait-of-a-man.jpg",
@@ -3343,6 +3387,21 @@
     "location": "National Museum in Warsaw",
     "source": "https://cyfrowe.mnw.art.pl/en/catalog/444026",
     "copyright": "Public Domain"
+  },
+  {
+    "slug": "young-postillion",
+    "title": "The Young Postillion",
+    "image": "/collection/reiter__young-postillion.jpg",
+    "artist": "Johann Baptist Reiter",
+    "date": "1630",
+    "height": 39.5,
+    "width": 29.1,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "36",
+    "location": "Dom Quartier Salzburg",
+    "source": "https://www.domquartier.at/en/residenzgalerie-collection-online/paintings/the-young-postillion/",
+    "copyright": "Residenzgalerie Salzburg, Illustration Fotostudio Ulrich Ghezzi, Oberalm"
   },
   {
     "slug": "wojciech-gerson",
@@ -4092,5 +4151,20 @@
     "location": "National Gallery of Canada",
     "source": "https://www.gallery.ca/collection/artwork/afternoon-venice",
     "copyright": "Open Access"
+  },
+  {
+    "slug": "paul-gachet",
+    "title": "Paul Gachet",
+    "image": "/collection/emile__paul-gachet.jpg",
+    "artist": "Bernard Emile",
+    "date": "1926",
+    "height": 40,
+    "width": 32,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "RF 1977 39",
+    "location": "Musée d'Orsay",
+    "source": "https://www.musee-orsay.fr/en/artworks/paul-gachet-16609",
+    "copyright": "© RMN-Grand Palais (Musée d’Orsay) / Hervé Lewandowski"
   }
 ]
