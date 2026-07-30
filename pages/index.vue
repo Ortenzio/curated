@@ -70,8 +70,14 @@ useHead({
 .app__header {
   display: flex;
   flex-flow: row nowrap;
+  justify-content: space-between;
   align-items: flex-end;
   gap: 1rem;
+  width: 100%;
+
+  @media (min-width: 40rem) {
+    justify-content: flex-start;
+  }
 }
 
 .app__title {
@@ -81,6 +87,7 @@ useHead({
   line-height: .9; 
   color: var(--c-text);
   text-decoration: none;
+  transition: font-size 0.25s ease-in-out;
 
   @media (min-width: 30rem) {
     font-size: 3.5rem;

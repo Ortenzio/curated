@@ -144,26 +144,34 @@ useHead({
 .post__footer { 
   display: flex;
   flex-flow: row nowrap;
-  justify-content: flex-start;
+  justify-content: space-between;
   align-items: baseline;
   background-color: var(--c-canvas);
-  padding: 1rem;
+  padding: 0.5rem 1rem;
   gap: 0.5rem;
   grid-column: span 2 / span 2;
   grid-row-start: 3;
   font-size: 0.875rem;
   text-transform: capitalize;
+
+  @media (min-width: 40rem) {
+    justify-content: flex-start;
+  } 
 }
 
 .post__title {
   background-color: var(--c-canvas);
   font-family: var(--ff-title);
-  font-size: 1.25rem;
+  font-size: 1.125rem;
   font-weight: 500;
   grid-column: span 2 / span 2;
   grid-row-start: 1;
   padding: 1rem;
   text-wrap: balance;
+
+  @media (min-width: 40rem) {
+    font-size: 1.25rem;
+  }
 
   @media (min-width: 50rem) {
     font-size: 1.5rem;
@@ -176,6 +184,14 @@ useHead({
 
 .post__home {
   font-family: var(--ff-title);
-  font-size: 1.25rem;
+  font-size: 1.125rem;
+
+  @media (min-width: 40rem) {
+    font-size: 1.25rem;
+  }
+
+  @media (min-width: 50rem) {
+    font-size: 1.5rem;
+  }
 }
 </style>

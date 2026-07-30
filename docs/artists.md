@@ -232,7 +232,7 @@
 [A View across a River near Dordrecht](https://www.nationalgallery.org.uk/paintings/ludolf-bakhuizen-a-view-across-a-river-near-dordrecht)
 
 ## Robert Crozier
-[The Patriot](https://collections.manchesterartgallery.org/collections/item/7cf51c25-d094-3176-b6cc-85fa03a28955/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D12&pos=111)
+[The Patriot](https://collections.manchesterartgallery.org/collections/item/7cf51c25-d094-3176-b6cc-85fa03a28955/)
 
 ## Burt Barnes
 [An Interesting Book](https://collection.mam.org/details.php?id=15500)
@@ -520,9 +520,7 @@
 [A Builder of Boats](https://www.clevelandart.org/art/1972.905)
 
 ## Ford Madox Brown
-[F.H.S. Pendleton](https://collections.manchesterartgallery.org/collections/item/320e981e-b58d-3fca-be73-5504e5bd9ac4/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting&pos=33)
-
-## Jean-Baptiste Perronneau
+[F.H.S. Pendleton](https://collections.manchesterartgallery.org/collections/item/320e981e-b58d-3fca-be73-5504e5bd9ac4/)
 [Portrait of a Gentleman](https://www.artsbma.org/collection/portrait-of-a-gentleman-self-portrait/)
 
 ## Karl Larisch
@@ -813,7 +811,7 @@
 [Abandoned in the Arctic Ice Fields](https://high.org/collection/abandoned-in-the-arctic-ice-fields/)
 
 ## William Bradley
-[Charles Swain](https://collections.manchesterartgallery.org/collections/item/f9866e9d-eef6-3b91-adf5-c301a7cb7e43/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D36&pos=384)
+[Charles Swain](https://collections.manchesterartgallery.org/collections/item/f9866e9d-eef6-3b91-adf5-c301a7cb7e43/)
 
 ## Paul Trebilcock
 [Miss Mary Elizabeth Haverty](https://high.org/collection/portrait-of-miss-mary-elizabeth-haverty/)
@@ -832,6 +830,8 @@
 
 ## Rembrandt Van Rijn
 [# Portrait of a man](https://www.hermitagemuseum.org/digital-collection/43481?lng=en)
+[$@ Study of an Old Man in Profile](https://open.smk.dk/en/artwork/image/KMS1636)
+[$@ The Crusader - sketch](https://open.smk.dk/en/artwork/image/KMS1384)
 [$ A Bearded Man in a Cap](https://www.nationalgallery.org.uk/paintings/rembrandt-a-bearded-man-in-a-cap)
 [$ Portrait of a man in a white frill](https://cyfrowe.mnw.art.pl/en/catalog/442395)
 [$ Self Portrait at the age of 63](https://www.nationalgallery.org.uk/paintings/rembrandt-self-portrait-at-the-age-of-63)
@@ -883,6 +883,9 @@
 [Mary E. Goddard](https://collection.ncartmuseum.org/objects/273/mary-e-goddard)
 [Antique Shop](https://artmuseum.princeton.edu/art/collections/objects/144876)
 
+## Karel van Mander III
+[A Man Wearing a Turban and Armour](https://open.smk.dk/en/artwork/image/KMS7956)
+
 ## Arthur Ambrose McEvoy
 [$ Rue Winterbotham Carpenter](https://www.artic.edu/artworks/104280/rue-winterbotham-carpenter)
 [$ Mrs Claude Johnson](https://www.tate.org.uk/art/artworks/mcevoy-mrs-claude-johnson-n04200)
@@ -915,10 +918,10 @@
 [The Pearl Necklace](https://collection.nationalmuseum.se/en/collection/item/19838/)
 
 ## Conrad Kiesel
-[Marguerites](https://collections.manchesterartgallery.org/collections/item/b643a5b4-ea63-32b7-8c95-131338e77ebb/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D3&pos=48)
+[Marguerites](https://collections.manchesterartgallery.org/collections/item/b643a5b4-ea63-32b7-8c95-131338e77ebb/)
 
 ## Luke Fildes
-[$ A Devotee](https://collections.manchesterartgallery.org/collections/item/c9b79ae4-e6b7-3c5a-9cdf-b37cf21b0e26/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D2&pos=24)
+[$ A Devotee](https://collections.manchesterartgallery.org/collections/item/c9b79ae4-e6b7-3c5a-9cdf-b37cf21b0e26/)
 
 ## Paul Baudry
 [$ Charles Garnier](https://www.musee-orsay.fr/en/artworks/charles-garnier-9535)
@@ -1456,8 +1459,8 @@
 [$$@ Armenian Man](https://en.mng.hu/artworks/48359/)
 
 ## Marcus Stone R.A.
-[The Lost Bird](https://collections.manchesterartgallery.org/collections/item/7fcd04f0-dd94-36ee-b5ef-c41fcbf59e59/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D6&pos=72)
-[A Girl in a Garden](https://collections.manchesterartgallery.org/collections/item/00debc4b-688a-394e-ac89-8234a4cc9f24/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D7&pos=63)
+[The Lost Bird](https://collections.manchesterartgallery.org/collections/item/7fcd04f0-dd94-36ee-b5ef-c41fcbf59e59/)
+[A Girl in a Garden](https://collections.manchesterartgallery.org/collections/item/00debc4b-688a-394e-ac89-8234a4cc9f24/)
 
 ## Francis Campbell Boileau Cadell
 [# Lady in a Black Hat](https://collections.manchesterartgallery.org/collections/item/f91e8212-5be1-3979-8e77-50c5dbfccea5/)
@@ -1510,8 +1513,62 @@
 ## Karel De Kesel
 [$ Portrait of Count Paul-Joseph de Smet de Naeyer](https://www.mskgent.be/en/collection/2005-p)
 
+## Vilhelm Kyhn
+[The Coast at Frederiksund. Sketch](https://open.smk.dk/en/artwork/image/KMS4014?q=*&filters=object_names%3Apainting%7Chas_image%3Atrue)
+
 ## Karl Gussow
 [Portrait of a Woman](https://sammlung.belvedere.at/objects/1100/damenbildnis?)
+
+## P.S. Krøyer
+[$@ Portrætgruppe](https://open.smk.dk/en/artwork/image/KMS1570?q=*&filters=object_names%3Apainting%7Chas_image%3Atrue)
+[$@ Professor i zoologi, Japetus Steenstrup holder foredrag](https://open.smk.dk/en/artwork/image/KMS3103?q=*&filters=object_names%3Apainting%7Chas_image%3Atrue)
+[$@ Alfred Guillou](https://open.smk.dk/en/artwork/image/KMS7133)
+
+## Christen Dalsgaard
+[To kvinder besøger landsbykunstneren for at se det bestilte gravkors](https://open.smk.dk/en/artwork/image/KMS1752)
+
+## C.A. Jensen
+[$@ Hermann Ernst Freund](https://open.smk.dk/en/artwork/image/KMS1212)
+[$@ Andreas Gottlob Rudelbach](https://open.smk.dk/en/artwork/image/KMS2030)
+[Mathilde Theresia von Irgens-Bergh, née Holsten, the Wife of Mathias Friis von Irgens-Berg](https://open.smk.dk/en/artwork/image/KMS1339)
+
+## Laurits Tuxen
+[$@ Boiling Train Oil at Nymindegab, Jutland](https://open.smk.dk/en/artwork/image/KMS3202)
+[$@ Male Nude in the Studio of Bonnat](https://open.smk.dk/en/artwork/image/KMS8266)
+
+## L.A. Schou
+[Centaur](https://open.smk.dk/en/artwork/image/KMS8625)
+
+## David Jacobsen
+[$@ Cat in the studio](https://open.smk.dk/en/artwork/image/KMS3402)
+[Study of a seated girl](https://open.smk.dk/en/artwork/image/KMS3404)
+
+## Carl Bloch
+[En pige, som vasker sig før et karneval](https://open.smk.dk/en/artwork/image/KMS9075)
+
+## Henrik Olrik
+[Bruden smykkes af sin veninde](https://open.smk.dk/en/artwork/image/kms756)
+
+## Jørgen Roed
+[Kammerherreinde Caroline Amalie Meldahl](https://open.smk.dk/en/artwork/image/KMS2047)
+
+## Julius Paulsen
+[$@ Agnes Paulsen, the Artist's Sister](https://open.smk.dk/en/artwork/image/KMS3763)
+[$@ Adam and Eve](https://open.smk.dk/en/artwork/image/KMS1319)
+[Cain](https://open.smk.dk/en/artwork/image/KMS1665)
+[$@ Unge kvinder](https://open.smk.dk/en/artwork/image/KMS1813)
+
+## Elisabeth Jerichau Baumann
+[$$@ An Egyptian Pot Seller at Gizeh](https://open.smk.dk/en/artwork/image/KMS8791)
+
+## Vilhelm Hammershøi
+[Nude Female Model](https://open.smk.dk/en/artwork/image/KMS8612)
+
+## Vilhelm Rosenstand
+[$$@ Christian II og Dyveke](https://open.smk.dk/en/artwork/image/kms7962)
+
+## Alessandro Casolani
+[A young woman contemplating a skull](https://open.smk.dk/en/artwork/image/KMSsp147)
 
 ## Gustave Courbet
 [# The wounded man](https://www.musee-orsay.fr/en/artworks/lhomme-blesse-925)
@@ -1997,7 +2054,7 @@
 [Roses De Nice on a Table](https://www.nga.gov/artworks/131027-roses-de-nice-table)
 [Roses in a Bowl](https://www.artic.edu/artworks/20534/roses-in-a-bowl)
 [Roses](https://www.gallery.ca/collection/artwork/roses-10)
-[Self Portrait](https://collections.manchesterartgallery.org/collections/item/e89b8fa9-ebef-331c-83ce-6aae411e697e/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D3&pos=55)
+[Self Portrait](https://collections.manchesterartgallery.org/collections/item/e89b8fa9-ebef-331c-83ce-6aae411e697e/)
 [Self Portrait](https://www.kmska.be/en/masterpiece/self-portrait-3)
 [Self Portrait](https://www.metmuseum.org/art/collection/search/436297)
 [Self Portrait](https://www.nga.gov/artworks/46500-self-portrait)
@@ -2051,7 +2108,7 @@
 [Madame Flameng](https://www.musee-orsay.fr/en/artworks/madame-flameng-20511)
 
 ## Auguste Charles Mengin
-[$ Sappho](https://collections.manchesterartgallery.org/collections/item/de3c584a-23ba-37df-a9cf-d2044ec3e2b6/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D14&pos=171)
+[$ Sappho](https://collections.manchesterartgallery.org/collections/item/de3c584a-23ba-37df-a9cf-d2044ec3e2b6/)
 
 ## Théobald Chartran
 [$ Portrait d'homme](https://www.musee-orsay.fr/en/artworks/portrait-dhomme-16599)
@@ -2127,7 +2184,7 @@
 [$ Female Nude](https://zbiory.mnk.pl/en/search-result/advance/catalog/97733)
 
 ## William Hilton II
-[Phaeton](https://collections.manchesterartgallery.org/collections/item/99c88fab-ac7e-3f89-99b6-73478fc7fedc/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D5&pos=87)
+[Phaeton](https://collections.manchesterartgallery.org/collections/item/99c88fab-ac7e-3f89-99b6-73478fc7fedc/)
 
 ## Isaac Israëls
 [$$ Woman in Black Evening Dress](https://www.krollermuller.nl/en/collection/isaac-israels-woman-in-black-evening-dress-km-100-438)
@@ -2489,7 +2546,7 @@
 [# Portrait of William J. Crowell](https://hoodmuseum.dartmouth.edu/objects/p.2004.40)
 
 ## Eugenie Marie Salanson
-[Head of a Girl](https://collections.manchesterartgallery.org/collections/item/94ca44f5-cf3f-3630-aa0d-0e6e748607f6/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D36&pos=359)
+[Head of a Girl](https://collections.manchesterartgallery.org/collections/item/94ca44f5-cf3f-3630-aa0d-0e6e748607f6/)
 
 ## Emilio Sala Francés
 [# María Semprún y Pombo](https://www.museodelprado.es/en/the-collection/art-work/maria-semprun-y-pombo/7a043b69-e106-4d65-8c59-181c87f0cc7d)
@@ -2743,7 +2800,7 @@
 ## Alphonse Legros
 [# Portrait of an Old Man](https://www.nga.gov/artworks/34163-portrait-old-man)
 [Memory Copy of Holbein's Erasmus](https://www.nga.gov/artworks/43643-memory-copy-holbeins-erasmus)
-[Study of a Head](https://collections.manchesterartgallery.org/collections/item/0bc65655-4b87-358e-994c-b8e43f228d41/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D12&pos=137)
+[Study of a Head](https://collections.manchesterartgallery.org/collections/item/0bc65655-4b87-358e-994c-b8e43f228d41/)
 
 ## Thomas Sully
 [Andrew Jackson](https://www.nga.gov/artworks/1128-andrew-jackson)
@@ -2854,7 +2911,7 @@
 [Stilleven met vissen en een kreeft](https://www.rijksmuseum.nl/en/collection/object/Stilleven-met-vissen-en-een-kreeft--0f592a879da7a55f5122b413441648cc)
 
 ## Adolphe Valette
-[Self Portrait Study](https://collections.manchesterartgallery.org/collections/item/a159b9c7-3c75-3204-b233-2f8c49da5fd0/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D31&pos=330)
+[Self Portrait Study](https://collections.manchesterartgallery.org/collections/item/a159b9c7-3c75-3204-b233-2f8c49da5fd0/)
 
 ## Lucy Hayward-Barker
 [Male Nude Leaning](https://www.pafa.org/museum/collection/item/male-nude-leaning)
@@ -2900,6 +2957,9 @@
 
 ## Oda Krohg
 [Gunnar Heiberg, the Author](https://collection.nationalmuseum.se/en/collection/item/18617/)
+
+## Christian Krohg
+[The Seamstress](https://open.smk.dk/en/artwork/image/KMS1990)
 
 ## Hildegard Thorell
 [# Lady in Mourning](https://collection.nationalmuseum.se/en/collection/item/19852/)
@@ -3330,6 +3390,9 @@
 ## Astrid Kjellberg-Juel 
 [Signe Thiel, Sketch](https://thielska.zetcom.net/en/collection/item/433/)
 
+## Jens Juel
+[The Roman Dwarf Francesco Ravai, called Bajocco](https://open.smk.dk/en/artwork/image/KMS370)
+
 ## Fritz von Uhde
 [The Artist's Daughter](https://sammlung.belvedere.at/objects/3438/die-tochter-des-kunstlers?)
 
@@ -3755,7 +3818,7 @@
 
 ## George A Reid
 [# Adiago](https://www.gallery.ca/collection/artwork/adagio)
-[The Reverend Alexander McLaren](https://collections.manchesterartgallery.org/collections/item/e31bcb1d-6b15-3585-85ce-e34df181636b/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D12&pos=124)
+[The Reverend Alexander McLaren](https://collections.manchesterartgallery.org/collections/item/e31bcb1d-6b15-3585-85ce-e34df181636b/)
 
 ## Giorgio de Chirico
 [Self Portrait](https://www.metmuseum.org/art/collection/search/480704)
@@ -3985,10 +4048,10 @@
 
 ## Susan Isabel Dacre
 [# Colonel Volbert](https://collections.manchesterartgallery.org/collections/item/b74be95a-aa49-368e-8681-98288e62c60b)
-[$ Italian Girl with Necklace](https://collections.manchesterartgallery.org/collections/item/c030d730-c2f5-390c-9059-dac797cd1740/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D20&pos=194)
-[$ Italian Women in Church](https://collections.manchesterartgallery.org/collections/item/6e33a975-5b34-3f87-8e4d-0c35211f5a4a/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D34&pos=354)
-[$ The Artist's Mother](https://collections.manchesterartgallery.org/collections/item/0f8f9e6e-1a88-38ed-8c9c-bf0c4a27543f/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D20&pos=202)
-[Lydia Becker](https://collections.manchesterartgallery.org/collections/item/6d0083de-3e96-3624-a52d-d0568647db8d/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D10&pos=107)
+[$ Italian Girl with Necklace](https://collections.manchesterartgallery.org/collections/item/c030d730-c2f5-390c-9059-dac797cd1740/)
+[$ Italian Women in Church](https://collections.manchesterartgallery.org/collections/item/6e33a975-5b34-3f87-8e4d-0c35211f5a4a/)
+[$ The Artist's Mother](https://collections.manchesterartgallery.org/collections/item/0f8f9e6e-1a88-38ed-8c9c-bf0c4a27543f/)
+[Lydia Becker](https://collections.manchesterartgallery.org/collections/item/6d0083de-3e96-3624-a52d-d0568647db8d/)
 
 ## John Macallan Swan
 [$ Polar Bears](https://www.rijksmuseum.nl/en/collection/object/Polar-Bears--8aac569aca5b16ecdac85916a5e71cbc)
@@ -4011,7 +4074,7 @@
 [$ Study of an Old Woman](https://www.rijksmuseum.nl/en/collection/object/Study-of-an-old-woman--2ee7b96e97197fec1af3dba2bcc10e9f)
 
 ## George Elgar Hicks
-[Mother and Child](https://collections.manchesterartgallery.org/collections/item/ec986edc-e21f-3043-b0e5-766e9c3c0206/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D20&pos=199)
+[Mother and Child](https://collections.manchesterartgallery.org/collections/item/ec986edc-e21f-3043-b0e5-766e9c3c0206/)
 
 ## Niccolò Cassana
 [Portrait of a Man](https://www.rijksmuseum.nl/en/collection/object/Portrait-of-a-Man--8c94fc1131db898b8c28e742d829d70f)
@@ -4076,7 +4139,7 @@
 [$ Self portrait](https://collection.nationalmuseum.se/en/collection/item/21496/)
 
 ## Alfred Seifert
-[$ Devotion](https://collections.manchesterartgallery.org/collections/item/2b0c340b-bb13-3d5b-ab78-5cf0e693fb6e/?s%3D%26filter%5Bmultimedia.%40type%5D%5B%5D%3Dimage%26filter%5Bcategory.value.keyword%5D%5B%5D%3Dfine%2Bart%26filter%5Bname.value.keyword%5D%5B%5D%3Dpainting%26page%3D22&pos=218)
+[$ Devotion](https://collections.manchesterartgallery.org/collections/item/2b0c340b-bb13-3d5b-ab78-5cf0e693fb6e/)
 
 ## Paul Huet
 [Ciel rose](https://www.musee-orsay.fr/en/artworks/ciel-rose-1061)
