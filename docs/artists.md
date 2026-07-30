@@ -1,5 +1,12 @@
 # Artists
 
+
+## Bob Palevitz
+
+## Mark Tenant
+
+## Craig Mullens
+
 ## Wayman Adams
 [# Joseph Pennell](https://www.artic.edu/artworks/74507/joseph-pennell)
 [Portrait of Charles H. Worcester](https://www.artic.edu/artworks/59836/portrait-of-charles-h-worcester)
@@ -981,6 +988,7 @@
 
 ## Maria Wiik
 [# Elsa](https://kokoelma.kansallisgalleria.fi/fi/object/625366)
+[$ Portrait of the Artist´s sister Miss Hilda Wiik](https://kokoelma.kansallisgalleria.fi/en/object/468654)
 [Self Portrait](https://collection.nationalmuseum.se/en/collection/item/239280/)
 
 ## Wilhelm Bernatzik
@@ -1289,7 +1297,12 @@
 [$ La Leçon de tricot](https://www.musee-orsay.fr/en/artworks/la-lecon-de-tricot-3637)
 
 ## Ilia Efimovitch Repine
+[$$ The Procurator](https://kokoelma.kansallisgalleria.fi/en/object/405278)
+[$$ Writing Doctor](https://kokoelma.kansallisgalleria.fi/en/object/511967)
+[Portrait of a Girl](https://kokoelma.kansallisgalleria.fi/en/object/383541)
 [Le Grand Duc Michel](https://www.musee-orsay.fr/en/artworks/le-grand-duc-michel-25638)
+[Portrait of the Artist's Daughter, Nadezhda](https://kokoelma.kansallisgalleria.fi/en/object/399066)
+[Young Boy Carrying an Icon](https://kokoelma.kansallisgalleria.fi/en/object/509340)
 
 ## Sir Francis Grant
 [Portrait of a Lady (? Mrs Edmund Peel)](https://www.tate.org.uk/art/artworks/grant-portrait-of-a-lady-mrs-edmund-peel-t06456)
@@ -1553,10 +1566,12 @@
 [Kammerherreinde Caroline Amalie Meldahl](https://open.smk.dk/en/artwork/image/KMS2047)
 
 ## Julius Paulsen
+[$$ Self potrait](https://kokoelma.kansallisgalleria.fi/en/object/410492)
 [$@ Agnes Paulsen, the Artist's Sister](https://open.smk.dk/en/artwork/image/KMS3763)
 [$@ Adam and Eve](https://open.smk.dk/en/artwork/image/KMS1319)
-[Cain](https://open.smk.dk/en/artwork/image/KMS1665)
 [$@ Unge kvinder](https://open.smk.dk/en/artwork/image/KMS1813)
+[Cain](https://open.smk.dk/en/artwork/image/KMS1665)
+[Portrait of the Danish Artist Lorens Frölich](https://kokoelma.kansallisgalleria.fi/en/object/391162)
 
 ## Elisabeth Jerichau Baumann
 [$$@ An Egyptian Pot Seller at Gizeh](https://open.smk.dk/en/artwork/image/KMS8791)
@@ -1784,6 +1799,7 @@
 ## Carl Schuch
 [$ Self Portrait](https://sammlung.belvedere.at/objects/370/selbstportrat?)
 [$ Study of a Horse](https://sammlung.belvedere.at/objects/369/pferdestudie?)
+[Still Life](https://kokoelma.kansallisgalleria.fi/en/object/405664)
 
 ## Cecilia Beaux
 [# Seated Girl in a Long Black Dress; verso - Figure in Biblical Dress](https://www.pafa.org/museum/collection/item/seated-girl-long-black-dress-verso-figure-biblical-dress)
@@ -1839,7 +1855,10 @@
 [A Blue Hyacinth in Paris](https://www.artrenewal.org/artworks/gerda-roosval-kallstenius/a-blue-hyacinth-in-paris/88159)
 
 ## Akseli Gallen-Kallela
+[$$ Malliharjoitelma](https://kokoelma.kansallisgalleria.fi/en/object/468379)
+[$$ Model Study](https://kokoelma.kansallisgalleria.fi/en/object/471738)
 [$ Nude Study](https://collection.nationalmuseum.se/en/collection/item/231852/)
+[$ Démasquée](https://kokoelma.kansallisgalleria.fi/en/object/390885)
 
 ## Plácido Francés y Pascual (Francés)
 [$ Penitent Magdalene](https://www.museodelprado.es/en/the-collection/art-work/penitent-magdalene/51ea1c69-b2b7-4870-84a7-b2f0953fd631)
@@ -2625,6 +2644,7 @@
 [$ Seascape](https://www.rijksmuseum.nl/en/collection/object/Seascape--5d271f8dbad243060138d186153ae175)
 [The Banks of the Oise at Conflans](https://www.famsf.org/artworks/the-banks-of-the-oise-at-conflans)
 [Landscape](https://www.rijksmuseum.nl/en/collection/object/Landscape--cedd99c0476678c923a90d3e03d397d4)
+[Moonlight by the Sea](https://kokoelma.kansallisgalleria.fi/en/object/392920)
 
 ## Ivan Nikolayevich Kramskoy
 [# Portrait of a man](https://cyfrowe.mnw.art.pl/en/catalog/441841)
@@ -3215,6 +3235,7 @@
 [Ernst Josephson](https://collection.nationalmuseum.se/en/collection/item/18651/)
 
 ## Ernst Josephson
+[$$ Portrait of Ville Vallgren](https://kokoelma.kansallisgalleria.fi/en/object/422974)
 [Portrait of Anna Nordgren](https://thielska.zetcom.net/en/collection/item/471/)
 [Portrait of Mlle Genet](https://thielska.zetcom.net/en/collection/item/676/)
 
@@ -3299,8 +3320,20 @@
 [Self Portrait - Surprise](https://collection.nationalmuseum.se/en/collection/item/230178/)
 
 ## Albert Edelfelt
-[$ Portrait of a Lady](https://collection.nationalmuseum.se/en/collection/item/19375/)
+[$$ Egyptiläinen kuningatar, akatemiaharjoitelma](https://kokoelma.kansallisgalleria.fi/en/object/423449)
+[$$ Lady in Black, Thérèse noire](https://kokoelma.kansallisgalleria.fi/en/object/391137)
+[$$ Miesmalli, akatemiaharjoitelma](https://kokoelma.kansallisgalleria.fi/en/object/626231)
+[$ Female Nude, academy study](https://kokoelma.kansallisgalleria.fi/en/object/400012)
 [$ Lady writing a letter](https://collection.nationalmuseum.se/en/collection/item/19713/)
+[$ Male Model, Study](https://kokoelma.kansallisgalleria.fi/en/object/625223)
+[$ Miesmalli, akatemiaharjoitelma](https://kokoelma.kansallisgalleria.fi/en/object/624841)
+[$ Portrait of a Lady](https://collection.nationalmuseum.se/en/collection/item/19375/)
+[$ Portrait of Mrs. Dagmar Dippell, compositional sketch](https://kokoelma.kansallisgalleria.fi/en/object/428687)
+[$ Portrait of the Artist's Sister Annie Edelfelt](https://kokoelma.kansallisgalleria.fi/en/object/429511)
+[Male Model, academy study](https://kokoelma.kansallisgalleria.fi/en/object/624042)
+[Mrs John Gallatly](https://kokoelma.kansallisgalleria.fi/en/object/428564)
+[Portrait of General Adjutant](https://kokoelma.kansallisgalleria.fi/en/object/428575)
+[Portrait of the Artist's Wife Ellan Edelfelt](https://kokoelma.kansallisgalleria.fi/en/object/412692)
 [Study of a Male Model](https://collection.nationalmuseum.se/en/collection/item/245693/)
 
 ## David Klöcker Ehrenstrahl
@@ -4182,8 +4215,107 @@
 ## Martino Altomonte
 [Assumption of the Blessed Virgin](https://www.domquartier.at/en/residenzgalerie-collection-online/paintings/assumption-of-the-blessed-virgin/)
 
-## Bob Palevitz
+## Hugo Backmansson
+[$$ Mies Marrakechista](https://kokoelma.kansallisgalleria.fi/en/object/403019)
 
-## Mark Tenant
+## Adolf von Becker
+[Vanhan miehen puolivartalokuva](https://kokoelma.kansallisgalleria.fi/en/object/387198)
+[Italialainen naismalli](https://kokoelma.kansallisgalleria.fi/en/object/384245)
+[Elisabeth Hallonblad](https://kokoelma.kansallisgalleria.fi/en/object/617243)
 
-## Craig Mullens
+## Hanna Bergh
+[Model](https://kokoelma.kansallisgalleria.fi/en/object/386006)
+
+## Gunnar Berndtson
+[Portrait of Journalist August Schauman](https://kokoelma.kansallisgalleria.fi/en/object/398952)
+[Portrait of a Lady](https://kokoelma.kansallisgalleria.fi/en/object/432180)
+
+## Nils Jakob Olsson Blommér
+[$$ Bust portrait of a black man](https://kokoelma.kansallisgalleria.fi/en/object/624916)
+[Bearded man, modelsketch](https://kokoelma.kansallisgalleria.fi/en/object/611515)
+
+## Elin Danielson-Gambogi
+[$$ A Monk](https://kokoelma.kansallisgalleria.fi/en/object/463814)
+[Old Provençal Woman](https://kokoelma.kansallisgalleria.fi/en/object/494896)
+
+## Magnus Enckell
+[$$ Portrait of Mrs E. Gadolin-Lagervall](https://kokoelma.kansallisgalleria.fi/en/object/388798)
+[Girl reading](https://kokoelma.kansallisgalleria.fi/en/object/412032)
+
+## Antti Favén
+[$$ Rypäleitä syövä tyttö](https://kokoelma.kansallisgalleria.fi/en/object/394044)
+[Study for a Portrait of a Lady](https://kokoelma.kansallisgalleria.fi/en/object/399710)
+[Portrait of Eino Leino](https://kokoelma.kansallisgalleria.fi/en/object/442958)
+
+## Juho Forsell
+[Head of a Woman](https://kokoelma.kansallisgalleria.fi/en/object/390660)
+
+## Pekka Halonen
+[$$ The Kantele Player](https://kokoelma.kansallisgalleria.fi/en/object/407578)
+
+## Karl Isakson
+[$ Self portrait](https://kokoelma.kansallisgalleria.fi/en/object/406750)
+
+## Karl Emanuel Jansson
+[Old Woman in a White Bonnet](https://kokoelma.kansallisgalleria.fi/en/object/476947)
+
+## Lennu Juvela
+[$$ self portrait](https://kokoelma.kansallisgalleria.fi/en/object/500584)
+
+## Boris Kustodijev
+[$$ Portrait of General Wischniakoff](https://kokoelma.kansallisgalleria.fi/en/object/394774)
+
+## Arvid Liljelund
+old woman reading](https://kokoelma.kansallisgalleria.fi/en/object/498050)
+
+## Alex Matson
+[Woman Seated](https://kokoelma.kansallisgalleria.fi/en/object/500634)
+
+## Eemu Myntti
+[$$ Portrait of Toivo Kuula](https://kokoelma.kansallisgalleria.fi/en/object/444891)
+
+## Tapani Raittila
+[$ Self-Portrait](https://kokoelma.kansallisgalleria.fi/en/object/2885017)
+
+## Jalmari Ruokokoski
+[$$ Portrait of T.K. Sallinen](https://kokoelma.kansallisgalleria.fi/en/object/397902)
+
+## Olav Rusti
+[Portrait of Hjalmar Munsterhjelm](https://kokoelma.kansallisgalleria.fi/en/object/409380)
+
+## Helene Schjerfbeck
+[$$ Spaniard](https://kokoelma.kansallisgalleria.fi/en/object/523245)
+[$$ Portrait of Pope Innocent X](https://kokoelma.kansallisgalleria.fi/en/object/389744)
+
+## Elga Sesemann
+[$ Self portrait](https://kokoelma.kansallisgalleria.fi/en/object/529810)
+
+## Wilho Sjöström
+[$ Woman in Black](https://kokoelma.kansallisgalleria.fi/en/object/459920)
+[Portrait of the Artist Ali Munsterhjelm](https://kokoelma.kansallisgalleria.fi/en/object/431695)
+
+## Eero Snellman
+[Portrait of the Artist's Mother](https://kokoelma.kansallisgalleria.fi/en/object/395163)
+
+## Paul Alexandrowitsch Svedomskij
+[$$ Kenraalitar Tatjana Petrovna Babtsehenkon muotokuva](https://kokoelma.kansallisgalleria.fi/en/object/395529)
+
+## Ellen Thesleff
+[$$ Portrait of the Artist’s Mother](https://kokoelma.kansallisgalleria.fi/en/object/473684)
+
+## Verner Thomé
+[$ Portrait of the Author Emil Elenius](https://kokoelma.kansallisgalleria.fi/en/object/460605)
+[Portrait of a Woman, Martha Neiglick](https://kokoelma.kansallisgalleria.fi/en/object/449439)
+
+## Louis Pierre Verwée
+[$$ Vanha mylly](https://kokoelma.kansallisgalleria.fi/en/object/412412)
+
+## Carl Christian Vogel von Vogelstein
+[$$ Prince Vasili Vasiljevits Dolgoruki](https://kokoelma.kansallisgalleria.fi/en/object/409122)
+
+## Torsten Wasastjerna
+[$$ Operation](https://kokoelma.kansallisgalleria.fi/en/object/410481)
+
+## Helena Westermarck
+[$$ Colarossi's Son](https://kokoelma.kansallisgalleria.fi/en/object/408860)
+[$ An Old Woman](https://kokoelma.kansallisgalleria.fi/en/object/477665)

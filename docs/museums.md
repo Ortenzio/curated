@@ -25,6 +25,7 @@
 - [DomQuartier Salzburg](https://www.domquartier.at/en/residenzgalerie-collection-online/paintings/)
 - [Dulwich Picture Gallery](https://www.dulwichpicturegallery.org.uk)
 - [Farnsworth](https://www.farnsworthmuseum.org/)
+- [Finish National Gallery](https://kokoelma.kansallisgalleria.fi/en/search)
 - [Gagosian](https://gagosian.com/)
 - [Gallerie dell'Accademia](https://www.gallerieaccademia.it/)
 - [Gilcrease Museum of Art](https://collections.gilcrease.org)
@@ -98,6 +99,8 @@
 - [State Hermitage Museum](https://www.hermitagemuseum.org/explore/artworks)
 - [Stedelijk Museum of modern and contemporary art and design](https://www.stedelijk.nl/en)
 - [Tate Museum](https://www.tate.org.uk/collection?attributes=img)
+- [The Holburne Museum](https://holburne.org/)
+- [The National Gallery of Denmark](https://www.smk.dk/en/)
 - [Thiel Gallery](https://thielska.zetcom.net/en/)
 - [Utah Museum of Contemporary Art](https://utahmoca.org/)
 - [Van Gogh Museum](https://www.vangoghmuseum.nl/en)
@@ -107,11 +110,8 @@
 - [Whitney Museum of American Art](https://whitney.org/collection/works)
 - [Wikiart](https://www.wikiart.org/)
 - [Wolfsonian - Florida International University](https://wolfsonian.org/)
-- [The Holburne Museum](https://holburne.org/)
-- [The National Gallery of Denmark](https://www.smk.dk/en/)
 
 
-[Finish National Gallery](https://kokoelma.kansallisgalleria.fi/fi/object/625366)
 [Alte Pinakothek](https://www.sammlung.pinakothek.de/en/genre/malerei#filters={%22yearRange%22:{%22min%22:1600,%22max%22:1960},%22onDisplay%22:false,%22publicDomain%22:true,%22genre%22:%22malerei%22})
 [Stedelijk Museum Breda](https://www.stedelijkmuseumbreda.nl/en)
 [Fitzwilliam Museum](https://fitzmuseum.cam.ac.uk/)
