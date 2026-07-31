@@ -5,20 +5,37 @@
       <curated-theme-toggle />
     </header>
     <main class="app__posts">
-      <a class="app__post-link" v-for="post in posts" :href="`/post/${post.slug}/`">
-        <nuxt-img class="app__post-image" :src="post.image" preset="thumb" loading="lazy" />
+      <a 
+        v-for="post in posts" 
+        :id="`post__${post.slug}`" 
+        :href="`/post/${post.slug}/`" 
+        class="app__post-link"
+        :aria-label="title"
+      >
+        <nuxt-img 
+          class="app__post-image" 
+          :src="post.image" 
+          preset="thumb" 
+          loading="lazy"
+          :aria-labeledby="`post__${post.slug}`"
+        />
       </a>
     </main>
   </div>
 </template>
 
 <script setup>
-import { useFetch, useHead } from '#app';
+import { useFetch, useSeoMeta } from '#app';
 const { data: posts } = useFetch('/api/posts')
 
-useHead({
+const description = "A collection of paintings curated by me. The criteria is this: These are paintings which inspire me to paint, and/or represent how I'd like to paint."
+
+useSeoMeta({
   title: 'Curated',
+  description,
+  ogDescription: description 
 })
+
 </script>
 
 <style>
@@ -44,6 +61,10 @@ useHead({
   }
 
   @media (min-width: 40rem) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (min-width: 50rem) {
     grid-template-columns: repeat(3, 1fr);
   }
 

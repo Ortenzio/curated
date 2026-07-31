@@ -12,26 +12,28 @@
       </curated-image>
     </div>
 
-    <div class="post__info">
+    <div id="post__info" class="post__info">
 
-      <div class="post__title">{{ post.title }}</div>
+      <div class="post__title">
+        <div class="post__inner">{{ post.title }}</div>
+      </div>
       
       <div class="post__details">
-        <UiDefinition term="Artist" :def="post.artist" />
-        <UiDefinition v-if="post.medium" term="Medium" :def="post.medium" />
-        <UiDefinition v-if="post.support" term="Support" :def="post.support" />
-        <UiDefinition v-if="post.height && post.width" term="Dimensions">{{ sizeFormat(post.height) }} × {{ sizeFormat(post.width) }} <span class="post__unit">cm</span></UiDefinition>
-        <UiDefinition v-if="post.date" term="Date" :def="post.date" />
-        <UiDefinition v-if="post.source" term="Source"><a :href="post.source" class="post__ext-link" target="_blank" rel="noopener noreferrer">{{ post.location }}</a></UiDefinition>
+        <div class="post__inner">
+          <UiDefinition term="Artist" :def="post.artist" />
+          <UiDefinition v-if="post.medium" term="Medium" :def="post.medium" />
+          <UiDefinition v-if="post.support" term="Support" :def="post.support" />
+          <UiDefinition v-if="post.height && post.width" term="Dimensions">{{ sizeFormat(post.height) }} × {{ sizeFormat(post.width) }} <span class="post__unit">cm</span></UiDefinition>
+          <UiDefinition v-if="post.date" term="Date" :def="post.date" />
+          <UiDefinition v-if="post.source" term="Source"><a :href="post.source" class="post__ext-link" target="_blank" rel="noopener noreferrer">{{ post.location }}</a></UiDefinition>
+        </div>
       </div>
 
-      <a :href="`/post/${post.prev.slug}`" rel="prev" class="post__nav">
-        <nuxt-img class="post__nav-image" :src="post.prev.image" preset="thumb" />
-      </a>
-
       <div class="post__footer">
-        <a href="/" class="post__home">Curated</a>
-        <curated-theme-toggle />
+        <div class="post__inner">
+          <a href="/" class="post__home">Curated</a>
+          <curated-theme-toggle />
+        </div>
       </div>
 
     </div>
@@ -98,10 +100,12 @@ useHead({
   grid-template-columns: repeat(1, 1fr);
   position: relative;
   width: 100%;
+}
 
-  @media (min-width: 30rem) {
-    grid-template-columns: 1fr 20rem;
-  }
+.post__inner {
+  max-width: 40rem;
+  width: 100%;
+  margin-inline: auto;
 }
 
 .post__details {
@@ -141,30 +145,11 @@ useHead({
   }
 }
 
-.post__footer { 
-  display: flex;
-  flex-flow: row nowrap;
-  justify-content: space-between;
-  align-items: baseline;
-  background-color: var(--c-canvas);
-  padding: 0.5rem 1rem;
-  gap: 0.5rem;
-  grid-column: span 2 / span 2;
-  grid-row-start: 3;
-  font-size: 0.875rem;
-  text-transform: capitalize;
-
-  @media (min-width: 40rem) {
-    justify-content: flex-start;
-  } 
-}
-
 .post__title {
   background-color: var(--c-canvas);
   font-family: var(--ff-title);
   font-size: 1.125rem;
   font-weight: 500;
-  grid-column: span 2 / span 2;
   grid-row-start: 1;
   padding: 1rem;
   text-wrap: balance;
@@ -182,16 +167,33 @@ useHead({
   text-transform: lowercase;
 }
 
-.post__home {
-  font-family: var(--ff-title);
-  font-size: 1.125rem;
+.post__footer {
+  background-color: var(--c-canvas);
+  padding: 0.5rem 1rem;
+}
+
+.post__footer .post__inner { 
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.5rem;
 
   @media (min-width: 40rem) {
-    font-size: 1.25rem;
+    justify-content: flex-start;
+  } 
+}
+
+.post__home {
+  font-family: var(--ff-title);
+  font-size: 1rem;
+
+  @media (min-width: 40rem) {
+    font-size: 1.125rem;
   }
 
   @media (min-width: 50rem) {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
   }
 }
 </style>
