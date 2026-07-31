@@ -27,6 +27,7 @@
 - [DomQuartier Salzburg](https://www.domquartier.at/en/residenzgalerie-collection-online/paintings/)
 - [Dulwich Picture Gallery](https://www.dulwichpicturegallery.org.uk)
 - [Farnsworth](https://www.farnsworthmuseum.org/)
+- [Fine Arts Museum of San Francisco](https://www.famsf.org/art/collections)
 - [Finish National Gallery](https://kokoelma.kansallisgalleria.fi/en/search)
 - [Fitzwilliam Museum](https://fitzmuseum.cam.ac.uk/)
 - [Gagosian](https://gagosian.com/)
@@ -114,7 +115,20 @@
 - [Whitney Museum of American Art](https://whitney.org/collection/works)
 - [Wikiart](https://www.wikiart.org/)
 - [Wolfsonian - Florida International University](https://wolfsonian.org/)
+- [Lenbachhaus](https://www.lenbachhaus.de/)
 
-[Lenbachhaus](https://www.lenbachhaus.de/)
+
+
+
+[Dallas Museum of Art](https://dma.org/art/collection)
+[Nelson Atkins](https://art.nelson-atkins.org/objects/images)
+[National Trust Collections](https://www.nationaltrustcollections.org.uk/)
+[Worcester Art Museum](https://worcester.emuseum.com/collections)
+[Brooklyn Museum](https://www.brooklynmuseum.org/)
+[Gibbes Museum of Art](https://www.gibbesmuseum.org/)
+[Los Angeles County Museum of Art](https://collections.lacma.org/search)
+[Walters Art Museum](https://art.thewalters.org/)
+
 [Art Net](https://www.artnet.com/)
 [Gallery pages of painters](https://commons.wikimedia.org/wiki/Category:Gallery_pages_of_painters)
+

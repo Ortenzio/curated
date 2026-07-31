@@ -652,6 +652,7 @@
 [# Portrait of Dora Wheeler](https://www.clevelandart.org/art/1921.1239)
 [# Still life of Fish](https://www.metmuseum.org/art/collection/search/10476)
 [# Pink Azalea—Chinese Vase](https://www.metmuseum.org/art/collection/search/10473)
+[# Self Portrait](https://www.lenbachhaus.de/en/digital/collection-online/detail/selbstbildnis-30021015)
 [$$ Bessie Potter](https://www.metmuseum.org/art/collection/search/10472)
 [$$ For the Little One](https://www.metmuseum.org/art/collection/search/10468)
 [$$ Alice Gerson in Prospect Park](https://www.metmuseum.org/art/collection/search/10471)
@@ -685,6 +686,7 @@
 [The Emerald Lady](https://emuseum.mfah.org/objects/14328/the-emerald-lady)
 [Mother and Child](https://emuseum.mfah.org/objects/44765/mother-and-child-the-first-portrait)
 [Lady Playing Guitar](https://artmuseum.princeton.edu/art/collections/objects/27230)
+[Bildnis Hugo von Habermann](https://www.lenbachhaus.de/en/digital/collection-online/detail/bildnis-hugo-von-habermann-30003057)
 
 ## Wilhelm Lindenschmitt
 [Study of a Man's head](https://artmuseum.princeton.edu/art/collections/objects/32149)
@@ -748,14 +750,16 @@
 [$ Portrait Study (Mrs. Mór Pór)](https://en.mng.hu/artworks/51700/)
 
 ## Lovis Corinth 
+[# Der Dichter Josef Ruederer](https://www.lenbachhaus.de/en/digital/collection-online/detail/der-dichter-josef-ruederer-30020024)
 [# Nude Girl](https://collections.artsmia.org/art/2240/nude-girl-lovis-corinth)
+[$ Magdalen with Pearls in her Hair](https://www.tate.org.uk/art/artworks/corinth-magdalen-with-pearls-in-her-hair-t05866)
+[$ Mrs Marie Moll](https://sammlung.belvedere.at/objects/2709/frau-marie-moll?)
 [$ Portrait of Dr. Karl Schwartz](https://collection.mam.org/details.php?id=10271)
 [$ The Meal of Oysters](https://collection.mam.org/details.php?id=21178)
-[$ Magdalen with Pearls in her Hair](https://www.tate.org.uk/art/artworks/corinth-magdalen-with-pearls-in-her-hair-t05866)
-[Self Portrait](https://www.artic.edu/artworks/30341/self-portrait)
+[Franz Heinrich Corinth, der Vater des Künstlers](https://www.lenbachhaus.de/en/digital/collection-online/detail/franz-heinrich-corinth-der-vater-des-kuenstlers-30019783)
 [Julius Meier-Graefe](https://www.musee-orsay.fr/en/artworks/julius-meier-graefe-9094)
+[Self Portrait](https://www.artic.edu/artworks/30341/self-portrait)
 [The Singer Frieda Halbe](https://sammlung.belvedere.at/objects/2631/die-sangerin-frieda-halbe?)
-[$ Mrs Marie Moll](https://sammlung.belvedere.at/objects/2709/frau-marie-moll?)
 
 ## Otto Friedrich
 [$ Die Lesende](https://sammlungenonline.albertina.at/en/objects/426401/die-lesende)
@@ -792,11 +796,13 @@
 [The Cardinal](https://collection.mam.org/details.php?id=6063)
 
 ## Wilhelm Leibl
+[# Kopf eines Blinden](https://www.lenbachhaus.de/en/digital/collection-online/detail/kopf-eines-blinden-30019094)
 [$$ Johann Sperl Landscapist](https://en.mng.hu/artworks/519/)
+[$ Bildnisstudie eines jungen bärtigen Mannes](https://www.sammlung.pinakothek.de/en/artwork/2mxqB1mL8b/wilhelm-leibl-1844/bildnisstudie-eines-jungen-baertigen-mannes-9269)
 [$ Portrait of a Peasant](https://collection.mam.org/details.php?id=11496)
 [Portrait of Pál Szinyei Merse](https://en.mng.hu/artworks/518/)
-[$ Bildnisstudie eines jungen bärtigen Mannes](https://www.sammlung.pinakothek.de/en/artwork/2mxqB1mL8b/wilhelm-leibl-1844/bildnisstudie-eines-jungen-baertigen-mannes-9269)
 [Lina Kirchdorffer](https://www.sammlung.pinakothek.de/en/artwork/Znxw9kjGXg/wilhelm-leibl-1844/lina-kirchdorffer-8446)
+[Frau Anna Gentz](https://www.lenbachhaus.de/en/digital/collection-online/detail/frau-anna-gentz-30036180)
 
 ## Pál Szinyei Merse
 [$$ Two friends](https://en.mng.hu/artworks/50322/)
@@ -1397,6 +1403,7 @@
 [Lady at a Spinet](https://sammlung.belvedere.at/objects/454/dame-am-spinett?)
 [Portrait of Bertha von Piloty](https://sammlung.belvedere.at/objects/4254/portrat-bertha-von-piloty?)
 [Young Herald](https://www.domquartier.at/en/residenzgalerie-collection-online/paintings/young-herald/)
+[Dame mit Federhut in Rückenansicht](https://www.lenbachhaus.de/en/digital/collection-online/detail/dame-mit-federhut-in-rueckenansicht-30031684)
 
 ## István Moldován
 [$$@ Little Girl](https://en.mng.hu/artworks/44192/)
@@ -1491,9 +1498,20 @@
 [Portrait of Jan Konrad Oświęcimski](https://cyfrowe.mnw.art.pl/en/catalog/453588)
 
 ## Franz Seraph von Lenbach
+[# Charlotte Wolter](https://www.lenbachhaus.de/en/digital/collection-online/detail/charlotte-wolter-30027573)
+[# Kegelgesellschaft – Zehn Künstlerporträts](https://www.lenbachhaus.de/en/digital/collection-online/detail/kegelgesellschaft-zehn-kuenstlerportraets-30029734)
+[$$ Fräulein Bartenstein](https://www.lenbachhaus.de/en/digital/collection-online/detail/fraeulein-bartenstein-30029854)
+[$$ Georg II. Herzog von Sachsen-Meiningen](https://www.lenbachhaus.de/en/digital/collection-online/detail/georg-ii-herzog-von-sachsen-meiningen-30029863)
+[Josephine Lenbach](https://www.lenbachhaus.de/en/digital/collection-online/detail/josephine-lenbach-30027544)
 [$ Bavarian Peasant](https://collection.mam.org/details.php?id=14168)
+[$ Johann (?) Maas](https://www.lenbachhaus.de/en/digital/collection-online/detail/johann-maas-30028602)
 [The Infanta Paz de Borbón](https://www.museodelprado.es/en/the-collection/art-work/the-infanta-paz-de-borbon/7c4d0ed8-49d5-4ae9-8c5c-0fa4e7e9c38b)
 [Portrait of a Man](https://www.boijmans.nl/en/collection/artworks/2196/portrait-of-a-man)
+[Weiblicher Akt](https://www.lenbachhaus.de/en/digital/collection-online/detail/weiblicher-akt-30027565)
+[Konrad Dreher](https://www.lenbachhaus.de/en/digital/collection-online/detail/konrad-dreher-30029365)
+[Marie Baronin Harkányi](https://www.lenbachhaus.de/en/digital/collection-online/detail/marie-baronin-harkanyi-30029966)
+[Franz Lenbach](https://www.lenbachhaus.de/en/digital/collection-online/detail/franz-lenbach-30029612)
+[Der Landschaftsmaler Eduard Schleich](https://www.lenbachhaus.de/en/digital/collection-online/detail/der-landschaftsmaler-eduard-schleich-30012036)
 
 ## Otto H. Bacher
 [Mary Holland Bacher](https://www.clevelandart.org/art/1966.388)
@@ -1747,7 +1765,11 @@
 [Portrait of Izidor Strasser](https://en.mng.hu/artworks/49771/)
 
 ## Albert von Keller
+[# Sitzende Dame](https://www.lenbachhaus.de/en/digital/collection-online/detail/sitzende-dame-30028526)
+[Krankenbesuch des Prinzregenten Luitpold von Bayern](https://www.lenbachhaus.de/en/digital/collection-online/detail/krankenbesuch-des-prinzregenten-luitpold-von-bayern-30004175)
 [Woman in a Blue Dress](https://en.mng.hu/artworks/380/)
+[Die Schauspielerin Mimi Cramer](https://www.lenbachhaus.de/en/digital/collection-online/detail/die-schauspielerin-mimi-cramer-30010799)
+[Eusapia Palladino](https://www.lenbachhaus.de/en/digital/collection-online/detail/eusapia-palladino-30031358)
 
 ## Aladár Körösfői-Kriesch
 [Italian Girl](https://en.mng.hu/artworks/49761/)
@@ -1803,9 +1825,11 @@
 [Portrait of Cornelis Jansz van Loo](https://www.mfab.hu/artworks/9238/)
 
 ## Carl Schuch
+[# Männerbildnis](https://www.lenbachhaus.de/en/digital/collection-online/detail/maennerbildnis-30003916)
 [$ Self Portrait](https://sammlung.belvedere.at/objects/370/selbstportrat?)
 [$ Study of a Horse](https://sammlung.belvedere.at/objects/369/pferdestudie?)
 [Still Life](https://kokoelma.kansallisgalleria.fi/en/object/405664)
+[Männliches Bildnis](https://www.lenbachhaus.de/en/digital/collection-online/detail/maennliches-bildnis-30020148)
 
 ## Cecilia Beaux
 [# Seated Girl in a Long Black Dress; verso - Figure in Biblical Dress](https://www.pafa.org/museum/collection/item/seated-girl-long-black-dress-verso-figure-biblical-dress)
@@ -1832,12 +1856,16 @@
 [# Portrait of a Woman](https://sammlung.belvedere.at/objects/7487/damenbildnis)
 [Bildnis einer Dame](https://sammlungenonline.albertina.at/en/objects/426664/bildnis-einer-dame)
 
+## Eduard Thöny
+[Polospieler](https://www.lenbachhaus.de/en/digital/collection-online/detail/polospieler-30016880)
+
 ## Emanuel Stöckler
 [Tekfur Saray in Constantinople](https://sammlung.belvedere.at/objects/2349/tekfur-saray-in-konstantinopel?)
 
 ## Max Slevogt
-[Miss Eva Steinbarth](https://sammlung.belvedere.at/objects/2630/fraulein-eva-steinbarth?)
 [$ Angela von Tschudi](https://www.sammlung.pinakothek.de/en/artwork/jpxeaNOxJ7/max-slevogt-1868/angela-von-tschudi-9958)
+[Miss Eva Steinbarth](https://sammlung.belvedere.at/objects/2630/fraulein-eva-steinbarth?)
+[Danae](https://www.lenbachhaus.de/en/digital/collection-online/detail/danae-30008958)
 
 ## Mathilde Sitta-Allé
 [$ Portrait of a Girl](https://sammlung.belvedere.at/objects/7012/madchenbildnis?)
@@ -2877,6 +2905,7 @@
 
 ## Hans Best
 [# The Village School Teacher](https://collection.mam.org/details.php?id=7571)
+[# Dachauer Bauer](https://www.lenbachhaus.de/en/digital/collection-online/detail/dachauer-bauer-30008759)
 [$$ Head Study](https://en.mng.hu/artworks/80/)
 
 ## Hans Heyerdahl
@@ -3079,6 +3108,7 @@
 
 ## Jean Louis Ernest Meissonier
 [# The Smoker](https://commons.wikimedia.org/wiki/File:Jean-Louis-Ernest_Meissonier_-_The_Smoker.jpg)
+[$$ Landschaft mit Kühen](https://www.lenbachhaus.de/en/digital/collection-online/detail/landschaft-mit-kuehen-30007919)
 [$ Gentilhomme Louis XIII](https://www.musee-orsay.fr/en/artworks/gentilhomme-louis-xiii-21284)
 [$ Le Maréchal Bessières à cheval](https://www.musee-orsay.fr/en/artworks/le-marechal-bessieres-cheval-70801)
 [Dragon en vedette dans la campagne](https://www.musee-orsay.fr/en/artworks/dragon-en-vedette-dans-la-campagne-258)
@@ -3089,7 +3119,6 @@
 [A Cavalier: Time of Louis XIV](https://wallacelive.wallacecollection.org/eMP/eMuseumPlus?service=direct/1/ResultListView/result.t1.collection_list.$TspTitleImageLink.link&sp=10&sp=Scollection&sp=SfieldValue&sp=0&sp=0&sp=2&sp=SdetailList&sp=630&sp=Sdetail&sp=0&sp=F&sp=T&sp=642)
 [An Artist showing his Work](https://wallacelive.wallacecollection.org/eMP/eMuseumPlus?service=direct/1/ResultListView/result.t1.collection_list.$TspTitleImageLink.link&sp=10&sp=Scollection&sp=SfieldValue&sp=0&sp=0&sp=2&sp=SdetailList&sp=630&sp=Sdetail&sp=0&sp=F&sp=T&sp=636)
 [The Hired Assassins](https://wallacelive.wallacecollection.org/eMP/eMuseumPlus?service=direct/1/ResultListView/result.t1.collection_list.$TspTitleImageLink.link&sp=10&sp=Scollection&sp=SfieldValue&sp=0&sp=0&sp=2&sp=SdetailList&sp=630&sp=Sdetail&sp=0&sp=F&sp=T&sp=638)
-
 
 ## Cornelis Ary Renan
 [Madame Jules François Dietz](https://www.musee-orsay.fr/en/artworks/madame-jules-francois-dietz-21604)
@@ -3422,6 +3451,8 @@
 [Lucie Desnos](https://www.metmuseum.org/art/collection/search/482738)
 
 ## Wilhelm Trübner 
+[# Brüsslerin mit blauer Krawatte](https://www.lenbachhaus.de/en/digital/collection-online/detail/bruesslerin-mit-blauer-krawatte-30011254)
+[$ Reiterbildnis](https://www.lenbachhaus.de/en/digital/collection-online/detail/reiterbildnis-30014273)
 [Salome](https://collection.mam.org/details.php?id=13619)
 [Boy with Ruff](https://sammlung.belvedere.at/objects/2463/junge-mit-halskrause?)
 [Im Atelier](https://www.sammlung.pinakothek.de/en/artwork/jWLpO60xKY/wilhelm-truebner-1851/im-atelier-8108)
@@ -3896,6 +3927,7 @@
 [One Day in June](https://collections.si.edu/search/detail/edanmdm:saam_1909.7.62?hlterm=)
 
 ## Josef Georg von Edlinger
+[$$ Bildnis eines alten Mannes](https://www.lenbachhaus.de/en/digital/collection-online/detail/bildnis-eines-alten-mannes-30014996)
 [Portrait of a Man](https://sammlung.belvedere.at/objects/966/herrenbildnis?)
 [Man with White Necktie](https://sammlung.belvedere.at/objects/860/mann-mit-weier-halsbinde?)
 
@@ -4336,13 +4368,16 @@ old woman reading](https://kokoelma.kansallisgalleria.fi/en/object/498050)
 [Das Vesperbrot](https://www.sammlung.pinakothek.de/en/artwork/8MLvj5yLz3/arthur-langhammer-1854/das-vesperbrot-7836)
 
 ## Albert Weisgerber
+[# Der Dichter Ludwig Scharf](https://www.lenbachhaus.de/en/digital/collection-online/detail/der-dichter-ludwig-scharf-30013964)
 [Der Dichter Ludwig Scharf](https://www.sammlung.pinakothek.de/en/artwork/2mxqB3mL8b/albert-weisgerber-1878/der-dichter-ludwig-scharf-8941)
 
 ## Friedrich Fehr
 [$ Feierabend](https://www.sammlung.pinakothek.de/en/artwork/jWLpkWQxKY/friedrich-fehr-1862/feierabend-8282)
 
 ## Hugo von Habermann
+[$ Weiblicher Kopf](https://www.lenbachhaus.de/en/digital/collection-online/detail/weiblicher-kopf-30019592)
 [Liegender Modellakt](https://www.sammlung.pinakothek.de/en/artwork/02LAlX3xyk/hugo-von-habermann-1849/liegender-modellakt-8736)
+[Frau G.](https://www.lenbachhaus.de/en/digital/collection-online/detail/frau-g-30014370)
 
 ## Walter Thor
 [# Self-Portrait](https://www.sammlung.pinakothek.de/en/artwork/XR4MrpVxQ1/walter-thor-1870/selbstbildnis-8419)
@@ -4358,3 +4393,92 @@ old woman reading](https://kokoelma.kansallisgalleria.fi/en/object/498050)
 
 ## Leo Samberger
 [# Self Portrait](https://www.sammlung.pinakothek.de/en/artwork/A0GOl3V4dp/leo-samberger-1861/selbstbildnis-im-jahr-1883-9075)
+[# Self Portrait-2](https://www.lenbachhaus.de/en/digital/collection-online/detail/selbstbildnis-30020948)
+[Kopf eines alten Mannes](https://www.lenbachhaus.de/en/digital/collection-online/detail/kopf-eines-alten-mannes-30019350)
+
+## Ernst Karl Georg Zimmermann
+[Der Maler Karl Heffner](https://www.lenbachhaus.de/en/digital/collection-online/detail/der-maler-karl-heffner-30014883)
+[Der Münchner Hofkapellmeisters Franz Fischer](https://www.lenbachhaus.de/en/digital/collection-online/detail/der-muenchner-hofkapellmeisters-franz-fischer-30004140)
+
+## Josef Wenglein
+[# Self Portrait](https://www.lenbachhaus.de/en/digital/collection-online/detail/selbstbildnis-30002089)
+
+## Richard Voltz
+[$ Bernhardinerhund](https://www.lenbachhaus.de/en/digital/collection-online/detail/bernhardinerhund-30017426)
+
+## Charles Richard Tooby
+[Schafkopf](https://www.lenbachhaus.de/en/digital/collection-online/detail/schafkopf-30003409)
+
+## Lajos Tegyey
+[Zeitungsleser im Wartesaal des Münchner Hauptbahnhofes](https://www.lenbachhaus.de/en/digital/collection-online/detail/zeitungsleser-im-wartesaal-des-muenchner-hauptbahnhofes-30014968)
+
+## Carl Steffeck
+[Schimmelhengst nach links](https://www.lenbachhaus.de/en/digital/collection-online/detail/schimmelhengst-nach-links-30032089)
+
+## Friedrich von Puteani
+[$ Self Portrait](https://www.lenbachhaus.de/en/digital/collection-online/detail/selbstbildnis-30004304)
+
+## Charles Henri Pille
+[Auf dem Viktualienmarkt](https://www.lenbachhaus.de/en/digital/collection-online/detail/auf-dem-viktualienmarkt-30000102)
+
+## Bruno Piglhein
+[$ Weiblicher Akt](https://www.lenbachhaus.de/en/digital/collection-online/detail/weiblicher-akt-30017640)
+
+## Anton Müller-Wischin
+[Bildnis Dr. Richard Strauss](https://www.lenbachhaus.de/en/digital/collection-online/detail/bildnis-dr-richard-strauss-30000709)
+
+## Carl Mayr-Graz
+[# Gemüsehändlerin](https://www.lenbachhaus.de/en/digital/collection-online/detail/gemuesehaendlerin-30018113)
+
+## Gabriel von Max
+[$$ Der Hofschauspieler Alois Wohlmuth](https://www.lenbachhaus.de/en/digital/collection-online/detail/der-hofschauspieler-alois-wohlmuth-30009804)
+[Anthropologischer Unterricht](https://www.lenbachhaus.de/en/digital/collection-online/detail/anthropologischer-unterricht-30031701)
+
+## Ludwig von Löfftz
+[$$ Alte Frau in Interieur](https://www.lenbachhaus.de/en/digital/collection-online/detail/alte-frau-in-interieur-30017752)
+
+## Wilhelm Löwith
+[# Kopfstudie](https://www.lenbachhaus.de/en/digital/collection-online/detail/kopfstudie-30004218)
+
+## Ferdinand Leeke
+[# Self Portrait](https://www.lenbachhaus.de/en/digital/collection-online/detail/selbstbildnis-des-kuenstlers-30008372)
+
+## Friedrich August von Kaulbach
+[Mina Kaulbach mit Dogge](https://www.lenbachhaus.de/en/digital/collection-online/detail/mina-kaulbach-mit-dogge-30017314)
+
+## Wassily Kandinsky
+[$$ Im Walde](https://www.lenbachhaus.de/en/digital/collection-online/detail/im-walde-30013604)
+
+## Rudolf Hirth du Frênes
+[Wenda, Gattin des Künstlers](https://www.lenbachhaus.de/en/digital/collection-online/detail/wenda-gattin-des-kuenstlers-30019114)
+
+## Karl Haider
+[Männliches Bildnis](https://www.lenbachhaus.de/en/digital/collection-online/detail/maennliches-bildnis-30019879)
+[Katharina Haider](https://www.lenbachhaus.de/en/digital/collection-online/detail/katharina-haider-30002773)
+
+## Otto Gebler
+[Widder](https://www.lenbachhaus.de/en/digital/collection-online/detail/widder-30017636)
+
+## Max Gaisser
+[$ Lesender Mann](https://www.lenbachhaus.de/en/digital/collection-online/detail/lesender-mann-30001966)
+
+## Hans von Faber du Faur
+[Italienerin](https://www.lenbachhaus.de/en/digital/collection-online/detail/italienerin-30003050)
+
+## Adolf Echtler
+[# Self-Portrait](https://www.lenbachhaus.de/en/digital/collection-online/detail/selbstbildnis-30003237)
+
+## Wilhelm von Diez
+[Entwischt](https://www.lenbachhaus.de/en/digital/collection-online/detail/entwischt-30015191)
+[Strauchritter](https://www.lenbachhaus.de/en/digital/collection-online/detail/strauchritter-30003844)
+[Pferdestudie](https://www.lenbachhaus.de/en/digital/collection-online/detail/pferdestudie-30006293)
+
+## Jenna Bauck
+[# Die Schwester der Künstlerin mit Hund](https://www.lenbachhaus.de/en/digital/collection-online/detail/die-schwester-der-kuenstlerin-mit-hund-30020308)
+
+## Theodor Alt
+[$$ Bildnis eines Revolutionärs](https://www.lenbachhaus.de/en/digital/collection-online/detail/bildnis-eines-revolutionaers-30031717)
+[$ Bildnis der Karoline Alt](https://www.lenbachhaus.de/en/digital/collection-online/detail/bildnis-der-karoline-alt-schwester-des-kuenstlers-30031716)
+
+## Julius Adam
+[Schlafende Katze](https://www.lenbachhaus.de/en/digital/collection-online/detail/schlafende-katze-30010161)
