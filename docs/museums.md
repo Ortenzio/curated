@@ -1,10 +1,12 @@
 # Museums
 
 - [List of Art Museums](https://en.wikipedia.org/wiki/List_of_art_museums)
+
 - [Albertina](https://sammlungenonline.albertina.at/s)
 - [Arc Museum](https://www.artrenewal.org/Museum/Search)
 - [Art Institute of Chicago](https://www.artic.edu/)
 - [Barnes](https://collection.barnesfoundation.org)
+- [Bavarian State Painting Collections](https://www.sammlung.pinakothek.de)
 - [Bellas Artes](https://www.bellasartes.gob.ar/)
 - [Belvedere](https://www.belvedere.at/en/institution)
 - [Birmingham Museum of Art](https://www.artsbma.org/collection/)
@@ -26,6 +28,7 @@
 - [Dulwich Picture Gallery](https://www.dulwichpicturegallery.org.uk)
 - [Farnsworth](https://www.farnsworthmuseum.org/)
 - [Finish National Gallery](https://kokoelma.kansallisgalleria.fi/en/search)
+- [Fitzwilliam Museum](https://fitzmuseum.cam.ac.uk/)
 - [Gagosian](https://gagosian.com/)
 - [Gallerie dell'Accademia](https://www.gallerieaccademia.it/)
 - [Gilcrease Museum of Art](https://collections.gilcrease.org)
@@ -97,6 +100,7 @@
 - [Staatliche Museen zu Berlin](https://recherche.smb.museum/)
 - [Staedel Museum](https://www.staedelmuseum.de/en)
 - [State Hermitage Museum](https://www.hermitagemuseum.org/explore/artworks)
+- [Stedelijk Museum Breda](https://www.stedelijkmuseumbreda.nl/en)
 - [Stedelijk Museum of modern and contemporary art and design](https://www.stedelijk.nl/en)
 - [Tate Museum](https://www.tate.org.uk/collection?attributes=img)
 - [The Holburne Museum](https://holburne.org/)
@@ -111,9 +115,6 @@
 - [Wikiart](https://www.wikiart.org/)
 - [Wolfsonian - Florida International University](https://wolfsonian.org/)
 
-
-[Alte Pinakothek](https://www.sammlung.pinakothek.de/en/genre/malerei#filters={%22yearRange%22:{%22min%22:1600,%22max%22:1960},%22onDisplay%22:false,%22publicDomain%22:true,%22genre%22:%22malerei%22})
-[Stedelijk Museum Breda](https://www.stedelijkmuseumbreda.nl/en)
-[Fitzwilliam Museum](https://fitzmuseum.cam.ac.uk/)
+[Lenbachhaus](https://www.lenbachhaus.de/)
 [Art Net](https://www.artnet.com/)
 [Gallery pages of painters](https://commons.wikimedia.org/wiki/Category:Gallery_pages_of_painters)

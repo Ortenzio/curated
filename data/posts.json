@@ -2697,6 +2697,34 @@
     "source": "https://www.gallery.ca/collection/artwork/the-peasant"
   },
   {
+    "slug": "walter-thor",
+    "title": "Self-Portrait of Walter Thor",
+    "image": "/collection/thor__walter-thor.jpg",
+    "artist": "Walter Thor",
+    "date": "1906",
+    "height": 56,
+    "width": 42.6,
+    "medium": "Oil",
+    "support": "Wood",
+    "accession": "8419",
+    "location": "Bavarian State Painting Collections",
+    "source": "https://www.sammlung.pinakothek.de/en/artwork/XR4MrpVxQ1"
+  },
+  {
+    "slug": "leo-samberger",
+    "title": "Self-Portrait of Leo Samberger",
+    "image": "/collection/samberger__leo-samberger.jpg",
+    "artist": "Leo Samberger",
+    "date": "1883",
+    "height": 41.2,
+    "width": 36.5,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "9075",
+    "location": "Bavarian State Painting Collections",
+    "source": "https://www.sammlung.pinakothek.de/en/artwork/A0GOl3V4dp"
+  },
+  {
     "slug": "blacksmith",
     "title": "The Blacksmith",
     "image": "/collection/defreggere__blacksmith.jpg",

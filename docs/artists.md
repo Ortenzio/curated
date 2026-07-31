@@ -613,9 +613,13 @@
 [Young Woman in a Pink Skirt](https://www.clarkart.edu/ArtPiece/Detail/Young-Woman-in-a-Pink-Skirt)
 [Faunes et nymphes dansant (Fauns and Nymphs Dancing)](https://artmuseum.princeton.edu/art/collections/objects/39657)
 [Macbeth Paysage](https://wallacelive.wallacecollection.org/eMP/eMuseumPlus?service=direct/1/ResultListView/result.t1.collection_list.$TspTitleImageLink.link&sp=10&sp=Scollection&sp=SfieldValue&sp=0&sp=0&sp=2&sp=SdetailList&sp=231&sp=Sdetail&sp=0&sp=F&sp=T&sp=231)
+[Sinnendes Mädchen](https://www.sammlung.pinakothek.de/en/artwork/wE4KJ07GZ5/camille-corot-1796/sinnendes-maedchen-11259)
 
 ## Two Women Visiting
 [# Edward Antoon Portielje](https://collections.artsmia.org/art/23057/two-women-visiting-edward-antoon-portielje)
+
+## Adolph von Menzel
+[Wohnzimmer mit Menzels Schwester](https://www.sammlung.pinakothek.de/en/artwork/bwx03yZ4m8/adolph-von-menzel-1815/wohnzimmer-mit-menzels-schwester-8499)
 
 ## Raphael Soyer
 [# Self-Portrait](https://www.metmuseum.org/art/collection/search/486772)
@@ -791,6 +795,8 @@
 [$$ Johann Sperl Landscapist](https://en.mng.hu/artworks/519/)
 [$ Portrait of a Peasant](https://collection.mam.org/details.php?id=11496)
 [Portrait of Pál Szinyei Merse](https://en.mng.hu/artworks/518/)
+[$ Bildnisstudie eines jungen bärtigen Mannes](https://www.sammlung.pinakothek.de/en/artwork/2mxqB1mL8b/wilhelm-leibl-1844/bildnisstudie-eines-jungen-baertigen-mannes-9269)
+[Lina Kirchdorffer](https://www.sammlung.pinakothek.de/en/artwork/Znxw9kjGXg/wilhelm-leibl-1844/lina-kirchdorffer-8446)
 
 ## Pál Szinyei Merse
 [$$ Two friends](https://en.mng.hu/artworks/50322/)
@@ -1831,6 +1837,7 @@
 
 ## Max Slevogt
 [Miss Eva Steinbarth](https://sammlung.belvedere.at/objects/2630/fraulein-eva-steinbarth?)
+[$ Angela von Tschudi](https://www.sammlung.pinakothek.de/en/artwork/jpxeaNOxJ7/max-slevogt-1868/angela-von-tschudi-9958)
 
 ## Mathilde Sitta-Allé
 [$ Portrait of a Girl](https://sammlung.belvedere.at/objects/7012/madchenbildnis?)
@@ -3215,6 +3222,7 @@
 [Death at the Ball](https://www.krollermuller.nl/en/collection/f-licien-rops-death-at-the-ball-km-100-961)
 
 ## Carl Gustaf Hellqvist
+[$$ Julia Thiersch](https://www.sammlung.pinakothek.de/en/artwork/QKGBNNnGBb/carl-gustaf-hellqvist-1851/julia-thiersch-9041)
 [$ Monk having Oysters](https://collection.nationalmuseum.se/en/collection/item/210070/)
 
 ## Enrique Jaraba Y Jiménez
@@ -3416,6 +3424,7 @@
 ## Wilhelm Trübner 
 [Salome](https://collection.mam.org/details.php?id=13619)
 [Boy with Ruff](https://sammlung.belvedere.at/objects/2463/junge-mit-halskrause?)
+[Im Atelier](https://www.sammlung.pinakothek.de/en/artwork/jWLpO60xKY/wilhelm-truebner-1851/im-atelier-8108)
 
 ## Ferdinand Georg Waldmüller
 [The Interruption](https://collection.mam.org/details.php?id=7762)
@@ -4319,3 +4328,33 @@ old woman reading](https://kokoelma.kansallisgalleria.fi/en/object/498050)
 ## Helena Westermarck
 [$$ Colarossi's Son](https://kokoelma.kansallisgalleria.fi/en/object/408860)
 [$ An Old Woman](https://kokoelma.kansallisgalleria.fi/en/object/477665)
+
+## Johann Daniel Holz 
+[Abend in Walde](https://www.sammlung.pinakothek.de/en/artwork/y7GE0gYLPV/johann-daniel-holz-1867/abend-in-walde-8420)
+
+## Arthur Langhammer
+[Das Vesperbrot](https://www.sammlung.pinakothek.de/en/artwork/8MLvj5yLz3/arthur-langhammer-1854/das-vesperbrot-7836)
+
+## Albert Weisgerber
+[Der Dichter Ludwig Scharf](https://www.sammlung.pinakothek.de/en/artwork/2mxqB3mL8b/albert-weisgerber-1878/der-dichter-ludwig-scharf-8941)
+
+## Friedrich Fehr
+[$ Feierabend](https://www.sammlung.pinakothek.de/en/artwork/jWLpkWQxKY/friedrich-fehr-1862/feierabend-8282)
+
+## Hugo von Habermann
+[Liegender Modellakt](https://www.sammlung.pinakothek.de/en/artwork/02LAlX3xyk/hugo-von-habermann-1849/liegender-modellakt-8736)
+
+## Walter Thor
+[# Self-Portrait](https://www.sammlung.pinakothek.de/en/artwork/XR4MrpVxQ1/walter-thor-1870/selbstbildnis-8419)
+
+## Adolf Hengeler
+[Alter man](https://www.sammlung.pinakothek.de/en/artwork/ZKGPbgdxgA/adolf-hengeler-1863/alter-mann-10277)
+
+## Ferdinand von Rayski
+[Der Gardereiter](https://www.sammlung.pinakothek.de/en/artwork/k2xnjPgxPd/ferdinand-von-rayski-1806/der-gardereiter-8857)
+
+## Georg Papperitz
+[Frau Professor Buschbeck](https://www.sammlung.pinakothek.de/en/artwork/9pL3MDb4eb/georg-papperitz-1846/frau-professor-buschbeck-14263)
+
+## Leo Samberger
+[# Self Portrait](https://www.sammlung.pinakothek.de/en/artwork/A0GOl3V4dp/leo-samberger-1861/selbstbildnis-im-jahr-1883-9075)
