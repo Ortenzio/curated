@@ -39,6 +39,12 @@
 ## Stanisław Lentz
 [# Worker](https://cyfrowe.mnw.art.pl/en/catalog/440457)
 
+## Sientje Mesdag-van Houten
+[$$ Portrait of Lotte Bisdom-Croiset van der Kop](https://www.demesdagcollectie.nl/en/collection/hwm0239)
+[Still Life with Apples](https://www.demesdagcollectie.nl/en/collection/hwm0235)
+[$$ Portrait of Colonel del Campo, called Camp](https://www.demesdagcollectie.nl/en/collection/hwm0240)
+[$$ Portrait of J. Tonkes](https://www.demesdagcollectie.nl/en/collection/hwm0241)
+
 ## Kazimierz Alchimowicz
 [# Study of an Old Man's Head](https://cyfrowe.mnw.art.pl/en/catalog/453029)
 
@@ -399,17 +405,27 @@
 [$ Portrait d'homme](https://www.musee-orsay.fr/en/artworks/portrait-dhomme-16951)
 
 ## Antonio Mancini
+[@ Model](https://www.demesdagcollectie.nl/en/collection/hwm0177)
+[@ On A journey](https://www.nationalgallery.org.uk/paintings/antonio-mancini-on-a-journey)
+[@ Sick Child](https://www.demesdagcollectie.nl/en/collection/hwm0174)
+[@ Sister](https://www.demesdagcollectie.nl/en/collection/hwm0175)
+[@ Choirboy](https://www.demesdagcollectie.nl/en/collection/hwm0183)
+[@ View of Rome](https://www.demesdagcollectie.nl/en/collection/hwm0179)
 [# Old Woman Drinking Tea](https://www.philamuseum.org/objects/283511)
 [# Self Portrait](https://collections.artsmia.org/art/1865/self-portrait-antonio-mancini)
 [$ Il Saltimbanco](https://www.philamuseum.org/objects/283509)
 [$ L'Homme au perroquet](https://www.musee-orsay.fr/en/artworks/lhomme-au-perroquet-recto-homme-levant-son-chapeau-verso-3644)
+[$@ Lost in Thought](https://www.demesdagcollectie.nl/en/collection/hwm0180)
+[$@ Woman with a green vase](https://www.demesdagcollectie.nl/en/collection/s0488S1998)
 [Aurelia](https://www.nationalgallery.org.uk/paintings/antonio-mancini-aurelia)
-[On A journey](https://www.nationalgallery.org.uk/paintings/antonio-mancini-on-a-journey)
-[The Marquis Del Grillo](https://www.nationalgallery.org.uk/paintings/antonio-mancini-the-marquis-del-grillo)
-[On the Eve of Her Wedding](https://collection.mam.org/details.php?id=11478)
+[Gardens at the Villa Borghese](https://emuseum.mfah.org/objects/165064/gardens-at-the-villa-borghese)
 [Het arme kind](https://www.rijksmuseum.nl/en/collection/object/Het-arme-kind--78c75f2759b38fb7c08383c531fe7561)
 [Le Petit Ecolier](https://www.musee-orsay.fr/en/artworks/le-petit-ecolier-3066)
-[Gardens at the Villa Borghese](https://emuseum.mfah.org/objects/165064/gardens-at-the-villa-borghese)
+[On the Eve of Her Wedding](https://collection.mam.org/details.php?id=11478)
+[The Marquis Del Grillo](https://www.nationalgallery.org.uk/paintings/antonio-mancini-the-marquis-del-grillo)
+[@ Brothers](https://www.demesdagcollectie.nl/en/collection/hwm0184r)
+[@ After the Grape Harvest](https://www.demesdagcollectie.nl/en/collection/hwm0178)
+[@ Birthday](https://www.demesdagcollectie.nl/en/collection/hwm0185)
 
 ## John Singer Sargent
 [# Drapery Study for Luxemburg](https://www.artsbma.org/collection/drapery-study-for-luxemburg/)
@@ -451,6 +467,7 @@
 [Mrs Philip Leslie Agnew](https://www.tate.org.uk/art/artworks/sargent-mrs-philip-leslie-agnew-t00158)
 [Vernon Lee](https://www.tate.org.uk/art/artworks/sargent-vernon-lee-n04787)
 [Essie, Ruby and Ferdinand, Children of Asher Wertheimer](https://www.tate.org.uk/art/artworks/sargent-essie-ruby-and-ferdinand-children-of-asher-wertheimer-n03711)
+[Egyptian Indigo Dyers](https://www.demesdagcollectie.nl/en/collection/hwm0302)
 
 ## Maurice Chabas
 [Portrait du père de l'artiste](https://www.musee-orsay.fr/en/artworks/portrait-du-pere-de-lartiste-78063)
@@ -458,6 +475,7 @@
 ## Jules Bastien-Lepage
 [# The Actress Sarah Bernhardt](https://collection.nationalmuseum.se/en/collection/item/21150/)
 [Portrait de l'artiste](https://www.musee-orsay.fr/en/artworks/portrait-de-lartiste-9173)
+[Sketch for Haymaking](https://www.demesdagcollectie.nl/en/collection/hwm0014)
 
 ## Adolphe Déchenaud
 [# Victor Laloux](https://www.musee-orsay.fr/en/artworks/victor-laloux-2361)
@@ -485,6 +503,13 @@
 
 ## Eugène Buland
 [Deuxième esquisse pour le tableau "Tireurs d'arbalète"](https://www.musee-orsay.fr/en/artworks/deuxieme-esquisse-pour-le-tableau-tireurs-darbalete-78045)
+
+## Adolf von Meckel
+[$$ Algerian Woman](https://www.demesdagcollectie.nl/en/collection/hwm0221)
+
+## Hendrik Willem Mesdag
+[$$ Evening](https://www.demesdagcollectie.nl/en/collection/hwm0229)
+[Sunset over a Stormy Sea](https://www.demesdagcollectie.nl/en/collection/hwm0230)
 
 ## Maurice Bompard
 [Portrait de mon père](https://www.musee-orsay.fr/en/artworks/portrait-de-mon-pere-78018)
@@ -592,17 +617,22 @@
 [Bathing Nymphs and Child](https://www.artic.edu/artworks/4760/bathing-nymphs-and-child)
 [Corot's Studio: Woman Seated Before an Easel, a Mandolin in her Hand](https://www.nga.gov/artworks/1148-corots-studio-woman-seated-easel-mandolin-her-hand)
 [Dance under the Trees at the Edge of the Lake](https://www.nga.gov/artworks/176397-dance-under-trees-edge-lake)
+[Faunes et nymphes dansant (Fauns and Nymphs Dancing)](https://artmuseum.princeton.edu/art/collections/objects/39657)
 [Gypsy Woman with Mandolin](https://www.nga.gov/artworks/41578-gypsy-woman-mandolin)
 [Interrupted Reading](https://www.artic.edu/artworks/81512/interrupted-reading)
 [Italian Mother](https://www.nga.gov/artworks/42932-italian-woman-la-morieri)
 [Lady with Daisies](https://en.mng.hu/artworks/108/)
+[Landscape with a Horseman](https://www.demesdagcollectie.nl/en/collection/hwm0061)
+[Macbeth Paysage](https://wallacelive.wallacecollection.org/eMP/eMuseumPlus?service=direct/1/ResultListView/result.t1.collection_list.$TspTitleImageLink.link&sp=10&sp=Scollection&sp=SfieldValue&sp=0&sp=0&sp=2&sp=SdetailList&sp=231&sp=Sdetail&sp=0&sp=F&sp=T&sp=231)
 [Mme de Larochenoire, Wife of the Painter](https://collection.barnesfoundation.org/objects/6993/Mme-de-Larochenoire-Wife-of-the-Painter-(Mme-de-Larochenoire-femme-du-peintre)/)
 [Pensive Young Woman](https://collection.barnesfoundation.org/objects/5665/Pensive-Young-Woman-(Jeune-femme-pensive)/)
 [Portrait of a woman](https://collections.artsmia.org/art/10595/portrait-of-a-woman-attributed-to-jean-baptiste-camille-corot)
 [Repose](https://www.nga.gov/artworks/168845-repose)
 [Seated Woman](https://www.nationalgallery.org.uk/paintings/jean-baptiste-camille-corot-seated-woman)
 [Sibylle](https://www.metmuseum.org/art/collection/search/435984)
+[Sinnendes Mädchen](https://www.sammlung.pinakothek.de/en/artwork/wE4KJ07GZ5/camille-corot-1796/sinnendes-maedchen-11259)
 [Souvenir of Italy](https://www.artic.edu/artworks/81510/souvenir-of-italy)
+[Sunrise](https://www.demesdagcollectie.nl/en/collection/hwm0068)
 [The Banks of the Seine at Conflans](https://www.metmuseum.org/art/collection/search/435989)
 [The Letter](https://www.metmuseum.org/art/collection/search/435976)
 [View of Genoa](https://www.artic.edu/artworks/25806/view-of-genoa)
@@ -611,9 +641,6 @@
 [Wounded Eurydice 2](https://collections.artsmia.org/art/1634/the-wounded-eurydice-jean-baptiste-camille-corot)
 [Wounded Eurydice](https://www.artic.edu/artworks/878/wounded-eurydice)
 [Young Woman in a Pink Skirt](https://www.clarkart.edu/ArtPiece/Detail/Young-Woman-in-a-Pink-Skirt)
-[Faunes et nymphes dansant (Fauns and Nymphs Dancing)](https://artmuseum.princeton.edu/art/collections/objects/39657)
-[Macbeth Paysage](https://wallacelive.wallacecollection.org/eMP/eMuseumPlus?service=direct/1/ResultListView/result.t1.collection_list.$TspTitleImageLink.link&sp=10&sp=Scollection&sp=SfieldValue&sp=0&sp=0&sp=2&sp=SdetailList&sp=231&sp=Sdetail&sp=0&sp=F&sp=T&sp=231)
-[Sinnendes Mädchen](https://www.sammlung.pinakothek.de/en/artwork/wE4KJ07GZ5/camille-corot-1796/sinnendes-maedchen-11259)
 
 ## Two Women Visiting
 [# Edward Antoon Portielje](https://collections.artsmia.org/art/23057/two-women-visiting-edward-antoon-portielje)
@@ -726,7 +753,7 @@
 [head of a boy](https://en.mng.hu/artworks/45922/)
 
 ## Margit Pogány
-[still-left](https://en.mng.hu/artworks/46214/)
+[Still Life](https://en.mng.hu/artworks/46214/)
 
 ## Gyula Rudnay
 [# self portrait in painter cap](https://en.mng.hu/artworks/49964/)
@@ -904,6 +931,9 @@
 
 ## Karel van Mander III
 [A Man Wearing a Turban and Armour](https://open.smk.dk/en/artwork/image/KMS7956)
+
+## Emile van Marcke de Lummen
+[Cliffs at Tréport](https://www.demesdagcollectie.nl/en/collection/hwm0189)
 
 ## Arthur Ambrose McEvoy
 [$ Rue Winterbotham Carpenter](https://www.artic.edu/artworks/104280/rue-winterbotham-carpenter)
@@ -1309,8 +1339,8 @@
 [$ La Leçon de tricot](https://www.musee-orsay.fr/en/artworks/la-lecon-de-tricot-3637)
 
 ## Ilia Efimovitch Repine
-[$$ The Procurator](https://kokoelma.kansallisgalleria.fi/en/object/405278)
-[$$ Writing Doctor](https://kokoelma.kansallisgalleria.fi/en/object/511967)
+[# Writing Doctor](https://kokoelma.kansallisgalleria.fi/en/object/511967)
+[The Procurator](https://kokoelma.kansallisgalleria.fi/en/object/405278)
 [Portrait of a Girl](https://kokoelma.kansallisgalleria.fi/en/object/383541)
 [Le Grand Duc Michel](https://www.musee-orsay.fr/en/artworks/le-grand-duc-michel-25638)
 [Portrait of the Artist's Daughter, Nadezhda](https://kokoelma.kansallisgalleria.fi/en/object/399066)
@@ -1320,7 +1350,7 @@
 [Portrait of a Lady (? Mrs Edmund Peel)](https://www.tate.org.uk/art/artworks/grant-portrait-of-a-lady-mrs-edmund-peel-t06456)
 
 ## Henryk Szczygliński
-[Self Portrait](https://cyfrowe.mnw.art.pl/en/catalog/448054)
+[# Self Portrait](https://cyfrowe.mnw.art.pl/en/catalog/448054)
 
 ## Wojciech Kossak
 [# Kościuszko on Horseback](https://zbiory.mnk.pl/en/search-result/advance/catalog/245118)
@@ -1328,10 +1358,10 @@
 [Lvov Eaglet](https://cyfrowe.mnw.art.pl/en/catalog/445011)
 
 ## József Koszta
-[$$ At the window](https://en.mng.hu/artworks/53689/)
-[$$ Girl with an Apron](https://en.mng.hu/artworks/48649/)
-[$$ Girl with Black Hen](https://en.mng.hu/artworks/53679/)
-[$$ Self-Portrait](https://en.mng.hu/artworks/53699/)
+[# Self-Portrait](https://en.mng.hu/artworks/53699/)
+[# At the window](https://en.mng.hu/artworks/53689/)
+[$ Girl with an Apron](https://en.mng.hu/artworks/48649/)
+[$ Girl with Black Hen](https://en.mng.hu/artworks/53679/)
 [Self-Portrait in Hat](https://en.mng.hu/artworks/53656/)
 [The Model](https://en.mng.hu/artworks/51677/)
 [Girl with Carnation](https://en.mng.hu/artworks/53885/)
@@ -1398,8 +1428,8 @@
 [Study of a Bearded Peasant](https://zbiory.mnk.pl/en/search-result/advance/catalog/442064)
 
 ## Hans Makart
-[$$@ Amalie Makart, née Roithmayr](https://www.domquartier.at/en/residenzgalerie-collection-online/paintings/amalie-makart-nee-rothmayr-1846-munich-1873-munich-the-artists-first-wife-07111868/)
-[$$@ The Well](https://www.domquartier.at/en/residenzgalerie-collection-online/paintings/the-well/)
+[# Amalie Makart, née Roithmayr](https://www.domquartier.at/en/residenzgalerie-collection-online/paintings/amalie-makart-nee-rothmayr-1846-munich-1873-munich-the-artists-first-wife-07111868/)
+[@ The Well](https://www.domquartier.at/en/residenzgalerie-collection-online/paintings/the-well/)
 [Lady at a Spinet](https://sammlung.belvedere.at/objects/454/dame-am-spinett?)
 [Portrait of Bertha von Piloty](https://sammlung.belvedere.at/objects/4254/portrat-bertha-von-piloty?)
 [Young Herald](https://www.domquartier.at/en/residenzgalerie-collection-online/paintings/young-herald/)
@@ -1472,6 +1502,10 @@
 
 ## Harriet Blackstone
 [Portrait of Charles Underwood](https://collection.mam.org/details.php?id=19391)
+
+## Johannes Bosboom
+[$$ Choir Screen of the Nieuwe Kerk, Delft](https://www.demesdagcollectie.nl/en/collection/hwm0045)
+[The Great or St James's Church in The Hague](https://www.demesdagcollectie.nl/en/collection/hwm0038)
 
 ## Karl von Blaas
 [$ Self-Portrait](https://sammlung.belvedere.at/objects/8552/selbstportrat?)
@@ -1612,12 +1646,14 @@
 ## Gustave Courbet
 [# The wounded man](https://www.musee-orsay.fr/en/artworks/lhomme-blesse-925)
 [# The Man with the Pipe](https://www.museefabre.fr/recherche/musee%3AMUS_BIEN%3A3649?is_search_page=1&search=courbet&currentPage=1)
-[$ Portrait de Champfleury](https://www.musee-orsay.fr/en/artworks/portrait-de-champfleury-16690)
 [$ Hector Berlioz](https://www.musee-orsay.fr/en/artworks/hector-berlioz-16691)
-[Portrait of a Man](https://www.metmuseum.org/art/collection/search/436019)
-[Jules-Antoine Castagnary](https://www.musee-orsay.fr/en/artworks/jules-antoine-castagnary-16693)
+[$ Portrait de Champfleury](https://www.musee-orsay.fr/en/artworks/portrait-de-champfleury-16690)
 [$ Portrait of a Girl](https://sammlung.belvedere.at/objects/6638/bildnis-eines-madchens?)
 [$ The Cellist](https://collection.nationalmuseum.se/en/collection/item/20159/)
+[Jules-Antoine Castagnary](https://www.musee-orsay.fr/en/artworks/jules-antoine-castagnary-16693)
+[Portrait of a Man](https://www.metmuseum.org/art/collection/search/436019)
+[Portrait](https://www.demesdagcollectie.nl/en/collection/hwm0078)
+[Sleeping Girl](https://www.demesdagcollectie.nl/en/collection/hwm0074)
 
 ## Jesse Dale Cast
 [Miss Beatrice M. Dale Cast](https://www.tate.org.uk/art/artworks/cast-miss-beatrice-m-dale-cast-t04878)
@@ -2142,6 +2178,7 @@
 [$ Portrait of Pieter Frederik van Os](https://www.rijksmuseum.nl/en/collection/object/Portrait-of-Pieter-Frederik-van-Os-Painter--4395ed508f3ae806268e2f361157d1b0)
 [Cows in a Pasture](https://www.philamuseum.org/objects/101718)
 [Goose Girl](https://www.philamuseum.org/objects/101717)
+[Donkey Stand on the Beach at Scheveningen](https://www.demesdagcollectie.nl/en/collection/hwm0218)
 
 ## André Cluysenaar
 [Emile Vandervelde](https://www.musee-orsay.fr/en/artworks/emile-vandervelde-16739)
@@ -2541,6 +2578,8 @@
 
 ## Charles Émile Jacque
 [# Sheep at Rest](https://risdmuseum.org/art-design/collection/sheep-rest-21448)
+[$$@ Sty](https://www.demesdagcollectie.nl/en/collection/hwm0161)
+[$@ Pigs](https://www.demesdagcollectie.nl/en/collection/hwm0163)
 [Percherons at Barbizon](https://www.philamuseum.org/objects/72093)
 [Shepherdess and Sheep](https://collections.artsmia.org/art/5925/shepherdess-and-sheep-charles-emile-jacque)
 [La Petite Bergerie. Paysanne arrangeant les râteliers](https://www.musee-orsay.fr/en/artworks/la-petite-bergerie-paysanne-arrangeant-les-rateliers-75203)
@@ -2680,6 +2719,7 @@
 [The Banks of the Oise at Conflans](https://www.famsf.org/artworks/the-banks-of-the-oise-at-conflans)
 [Landscape](https://www.rijksmuseum.nl/en/collection/object/Landscape--cedd99c0476678c923a90d3e03d397d4)
 [Moonlight by the Sea](https://kokoelma.kansallisgalleria.fi/en/object/392920)
+[Sunset near Villerville](https://www.demesdagcollectie.nl/en/collection/hwm0089)
 
 ## Ivan Nikolayevich Kramskoy
 [# Portrait of a man](https://cyfrowe.mnw.art.pl/en/catalog/441841)
@@ -2689,6 +2729,9 @@
 [$ Evening](https://www.musee-orsay.fr/en/artworks/evening-9160)
 [Self Portrait](https://www.famsf.org/artworks/self-portrait-61083)
 [Seaside](https://www.clevelandart.org/art/1980.288)
+
+## Jules Dupré
+[Autumn](https://www.demesdagcollectie.nl/en/collection/hwm0122)
 
 ## Anthonis Mor
 [Portrait of a Man](https://www.nationalgallery.org.uk/paintings/anthonis-mor-portrait-of-a-man)
@@ -2780,11 +2823,12 @@
 [Procession à Penmar'ch](https://www.musee-orsay.fr/en/artworks/procession-penmarch-9183)
 
 ## Thomas Couture
+[$$ The Tragedienne](https://www.demesdagcollectie.nl/en/collection/hwm0080)
 [Portrait of Richard Morris Hunt](https://collections.si.edu/search/detail/edanmdm:npg_NPG.2014.7?fq=data_source%3A%22National+Portrait+Gallery%22&fq=online_media_type%3A%22Images%22&fq=object_type%3A%22Paintings%22&record=29&hlterm=&inline=true)
 [Roman Youth](https://www.pafa.org/museum/collection/item/roman-youth)
 [The Artists Daughter](https://www.famsf.org/artworks/the-artists-daughter)
-[Homme tirant un canon](https://www.musee-orsay.fr/en/artworks/homme-tirant-un-canon-128824)
 [Figure de Pifferaro](https://www.musee-orsay.fr/en/artworks/figure-de-pifferaro-16704)
+[Homme tirant un canon](https://www.musee-orsay.fr/en/artworks/homme-tirant-un-canon-128824)
 
 ## Hans Canon
 [$ Self Portrait](https://sammlung.belvedere.at/objects/3460/selbstportrat?)
@@ -3137,6 +3181,7 @@
 [Poissons de mer](https://www.musee-orsay.fr/en/artworks/poissons-de-mer-9105)
 [Still Life with Onions](https://www.artsbma.org/collection/still-life-with-onions/)
 [Still Life](https://collection.mam.org/details.php?id=18498)
+[Still Life with Tankard and Flowers](https://www.demesdagcollectie.nl/en/collection/hwm0329)
 
 ## Arnold Böcklin
 [$ Centaur at the Village Blacksmith](https://en.mng.hu/artworks/95/)
@@ -3246,6 +3291,7 @@
 [The Windmill](https://www.rijksmuseum.nl/en/collection/object/The-Windmill--abca35953e3a7554a3bbf4bf9da96d46)
 [View of Amsterdam](https://www.famsf.org/artworks/view-of-amsterdam)
 [Villagers](https://www.rijksmuseum.nl/en/collection/object/Villagers--57271430e9c279c5db738ffdb4c1168d)
+[Windmill](https://www.demesdagcollectie.nl/en/collection/hwm0190)
 
 ## Félicien Rops
 [Death at the Ball](https://www.krollermuller.nl/en/collection/f-licien-rops-death-at-the-ball-km-100-961)
@@ -3411,6 +3457,9 @@
 
 ## Luis Ricardo Falero
 [Portrait of Cyprian Godebski](https://cyfrowe.mnw.art.pl/en/catalog/443191)
+
+## Louis Gustave Ricard
+[$$ Portrait of Jean-Isidore Harispe, Marshal of France](https://www.demesdagcollectie.nl/en/collection/hwm0275)
 
 ## François-Auguste Biard
 [Bust-Length Study of a Man](https://www.metmuseum.org/art/collection/search/856295)
@@ -3905,6 +3954,7 @@
 ## Louis Mettling
 [# The Peasant](https://www.gallery.ca/collection/artwork/the-peasant)
 [Portrait de paysan](https://www.musee-orsay.fr/en/artworks/portrait-de-paysan-21289)
+[$$ Portrait of a Man](https://www.demesdagcollectie.nl/en/collection/hwm0254)
 
 ## Alfred Jones
 [$ Portrait of Alfred Jones](https://collections.si.edu/search/detail/edanmdm:npg_NPG.2023.8?fq=data_source%3A%22National+Portrait+Gallery%22&fq=online_media_type%3A%22Images%22&fq=object_type%3A%22Paintings%22&record=1033&hlterm=&inline=true)
@@ -4037,11 +4087,15 @@
 [$ The Old Drinker](https://www.rijksmuseum.nl/en/collection/object/The-Old-Drinker--ec4ac527d08350f753f2a0be0d173f7d)
 
 ## Paul Joseph Constantin Gabriël
+[$$ Still Life with Pink and Yellow Roses](https://www.demesdagcollectie.nl/en/collection/hwm0133)
 [$ The Mill](https://www.krollermuller.nl/en/collection/paul-joseph-constantin-gabri-l-the-mill-km-110-039)
 
 ## Chris Beekman
 [# Portrait of Nelly Knikker](https://www.krollermuller.nl/en/collection/chris-beekman-portrait-of-nelly-knikker-km-103-055)
 [Self-Portrait](https://www.krollermuller.nl/en/collection/chris-beekman-self-portrait-km-106-634)
+
+## Paulus Philippus Rink
+[A Girl from Madrid](https://www.demesdagcollectie.nl/en/collection/hwm0276)
 
 ## Geo Poggenbeek
 [Calf, spotted black and white](https://www.rijksmuseum.nl/en/collection/object/Calf-spotted-black-and-white--6c7472cf8bed26dbc47ed0ee0dc8a72f)
@@ -4066,6 +4120,7 @@
 [# Hussars](https://www.rijksmuseum.nl/en/collection/object/Hussars--ea38d07573899d6664796c2b326d304c)
 [# The Yellow Riders](https://www.rijksmuseum.nl/en/collection/object/The-Yellow-Riders--ca80fe396099a6b215dcde3d9ab94e66)
 [$ Girl in a White Kimono](https://www.rijksmuseum.nl/en/collection/object/Girl-in-a-White-Kimono--40fc3390d77e969fabd1189b1770fd5a$)
+[$ Sentry](https://www.demesdagcollectie.nl/en/collection/hwm0055)
 [A Brown and a White Horse in Scheveningen](https://www.rijksmuseum.nl/en/collection/object/A-Brown-and-a-White-Horse-in-Scheveningen--f12e399bc9f02161b20032a320346c8f)
 [Cavalry at Repose](https://www.rijksmuseum.nl/en/collection/object/Cavalry-at-Repose--df9724ce69cedd44c7eba887af1ac9a2)
 [Female Half Nude](https://www.krollermuller.nl/en/collection/george-hendrik-breitner-female-half-nude-km-103-620)
@@ -4132,6 +4187,7 @@
 
 ## Lourens Alma Tadema
 [# Mary Magdalene](https://www.rijksmuseum.nl/en/collection/object/Mary-Magdalene--e9cd1186f133a6919f8d3af992d778f5)
+[$@ The Artist's Wife](https://www.demesdagcollectie.nl/en/collection/hwm0004)
 
 ## Margaretha Roosenboom
 [Stilleven met gitaar en rozen](https://www.rijksmuseum.nl/en/collection/object/Stilleven-met-gitaar-en-rozen--7fe291b5e472552c5f045cea42dd2b41)
@@ -4350,6 +4406,7 @@ old woman reading](https://kokoelma.kansallisgalleria.fi/en/object/498050)
 
 ## Louis Pierre Verwée
 [$$ Vanha mylly](https://kokoelma.kansallisgalleria.fi/en/object/412412)
+[$$ On the Beach](https://www.demesdagcollectie.nl/en/collection/hwm0326)
 
 ## Carl Christian Vogel von Vogelstein
 [$$ Prince Vasili Vasiljevits Dolgoruki](https://kokoelma.kansallisgalleria.fi/en/object/409122)
@@ -4395,6 +4452,9 @@ old woman reading](https://kokoelma.kansallisgalleria.fi/en/object/498050)
 [# Self Portrait](https://www.sammlung.pinakothek.de/en/artwork/A0GOl3V4dp/leo-samberger-1861/selbstbildnis-im-jahr-1883-9075)
 [# Self Portrait-2](https://www.lenbachhaus.de/en/digital/collection-online/detail/selbstbildnis-30020948)
 [Kopf eines alten Mannes](https://www.lenbachhaus.de/en/digital/collection-online/detail/kopf-eines-alten-mannes-30019350)
+
+## Emilio Gola
+[$$@ Chilly Woman](https://www.demesdagcollectie.nl/en/collection/hwm0137)
 
 ## Ernst Karl Georg Zimmermann
 [Der Maler Karl Heffner](https://www.lenbachhaus.de/en/digital/collection-online/detail/der-maler-karl-heffner-30014883)

@@ -615,6 +615,21 @@
     "copyright": "Public Domain"
   },
   {
+    "slug": "writing-doctor",
+    "title": "Writing Doctor",
+    "image": "/collection/repin__writing-doctor.jpg",
+    "artist": "Ilja Repin",
+    "date": "1919",
+    "height": 83,
+    "width": 70,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "A-1995-74",
+    "location": "Finnish National Gallery",
+    "source": "https://kokoelma.kansallisgalleria.fi/en/object/511967",
+    "copyright": "Public Domain"
+  },
+  {
     "slug": "die-romische-ruine-in-schonbrunn",
     "title": "Die Römische Ruine In Schönbrunn",
     "image": "/collection/moll__die-romische-ruine-in-schonbrunn.jpg",
@@ -792,6 +807,21 @@
     "accession": "1970-76-9",
     "location": "Philadelphia Museum of Art",
     "source": "https://www.philamuseum.org/objects/66450"
+  },
+  {
+    "slug": "henryk-szczyglinski",
+    "title": "Self-Portrait of Henryk Szczygliński",
+    "image": "/collection/szczyglinski__henryk-szczyglinski.jpg",
+    "artist": "Henryk Szczygliński",
+    "date": "1900",
+    "height": 105,
+    "width": 60,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "MP 877 MNW",
+    "location": "National Museum in Warsaw",
+    "source": "https://cyfrowe.mnw.art.pl/en/catalog/448054",
+    "copyright": "Public Domain"
   },
   {
     "slug": "st-michaels-church-in-kiev",
@@ -1341,7 +1371,7 @@
   },
   {
     "slug": "gyula-rudnay",
-    "title": "Self-Portrait in Painter Cap",
+    "title": "Self-Portrait of Gyula Rudnay in Painter Cap",
     "image": "/collection/rudnay__gyula-rudnay.jpg",
     "artist": "Gyula Rudnay",
     "date": "unknown",
@@ -2637,6 +2667,36 @@
     "copyright": "Museum of Fine Arts - Hungarian National Gallery"
   },
   {
+    "slug": "at-the-window",
+    "title": "At the Window",
+    "image": "/collection/koszta__at-the-window.jpg",
+    "artist": "József Koszta",
+    "date": "ca. 1900",
+    "height": 90.5,
+    "width": 70.8,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "FK7963",
+    "location": "Museum of Fine Arts - Hungarian National Gallery",
+    "source": "https://en.mng.hu/artworks/53689/",
+    "copyright": "Museum of Fine Arts - Hungarian National Gallery"
+  },
+    {
+    "slug": "jozsef-koszta",
+    "title": "Self-Portrait of József Koszta",
+    "image": "/collection/koszta__jozsef-koszta.jpg",
+    "artist": "József Koszta",
+    "date": "ca. 1900",
+    "height": 36,
+    "width": 24,
+    "medium": "Oil",
+    "support": "Cardboard",
+    "accession": "65.20T",
+    "location": "Museum of Fine Arts - Hungarian National Gallery",
+    "source": "https://en.mng.hu/artworks/53699/",
+    "copyright": "Museum of Fine Arts - Hungarian National Gallery"
+  },
+  {
     "slug": "pont-de-la-tournelle",
     "title": "Pont de la Tournelle, Paris",
     "image": "/collection/lepine__pont-de-la-tournelle.jpg",
@@ -3466,6 +3526,21 @@
     "copyright": ""
   },
   {
+    "slug": "john-singer-sargent",
+    "title": "Portrait of John Singer Sargent",
+    "image": "/collection/cain__john-singer-sargent.jpg",
+    "artist": "Neville Cain",
+    "date": "c 1875",
+    "height": 41.0,
+    "width": 33.0,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "N03993",
+    "location": "Tate",
+    "source": "https://www.tate.org.uk/art/artworks/cain-john-s-sargent-n03993",
+    "copyright": ""
+  },
+  {
     "slug": "olympia-de-la-fontaine",
     "title": "Olympia de la Fontaine",
     "image": "/collection/belleroche__olympia-de-la-fontaine.jpg",
@@ -3670,6 +3745,21 @@
     "location": "National Museum in Warsaw",
     "source": "https://cyfrowe.mnw.art.pl/en/catalog/444026",
     "copyright": "Public Domain"
+  },
+  {
+    "slug": "amalie-makart",
+    "title": "Amalie Makart, née Roithmayr (The Artist's First Wife)" ,
+    "image": "/collection/makart__amalie-makart.jpg",
+    "artist": "Hans Makart",
+    "date": "c 1871",
+    "height": 76.0,
+    "width": 58.0,
+    "medium": "Oil",
+    "support": "Mahogany",
+    "accession": "1",
+    "location": "Dom Quartier Salzburg",
+    "source": "https://www.domquartier.at/en/residenzgalerie-collection-online/paintings/amalie-makart-nee-rothmayr-1846-munich-1873-munich-the-artists-first-wife-07111868/",
+    "copyright": "Residenzgalerie Salzburg, Illustration Fotostudio Ulrich Ghezzi, Oberalm"
   },
   {
     "slug": "young-postillion",

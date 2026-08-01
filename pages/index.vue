@@ -17,7 +17,7 @@
           :src="post.image" 
           preset="thumb" 
           loading="lazy"
-          :aria-labeledby="`post__${post.slug}`"
+          :aria-labelledby="`post__${post.slug}`"
         />
       </a>
     </main>
