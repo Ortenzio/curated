@@ -10,7 +10,7 @@
         :id="`post__${post.slug}`" 
         :href="`/post/${post.slug}/`" 
         class="app__post-link"
-        :aria-label="title"
+        :aria-label="post.title"
       >
         <nuxt-img 
           class="app__post-image" 
