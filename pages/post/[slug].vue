@@ -2,14 +2,12 @@
   <main class="post">
 
     <div class="post__canvas">
-      <curated-image>
-        <nuxt-img 
-          :src="post.image" 
-          :preload="{ fetchPriority: 'high' }"
-          class="post__image"
-          preset="full"
-        />
-      </curated-image>
+      <nuxt-img 
+        :src="post.image" 
+        :preload="{ fetchPriority: 'high' }"
+        class="post__image"
+        preset="full"
+      />
     </div>
 
     <div id="post__info" class="post__info">

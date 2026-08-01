@@ -2284,21 +2284,6 @@
     "copyright": "RMN-Grand Palais (Musée d'Orsay) / Hervé Lewandowski"
   },
   {
-    "slug": "trumpeter-of-the-hussars",
-    "title": "Trumpeter of the Hussars",
-    "image": "/collection/gericault__trumpeter-of-the-hussars.jpg",
-    "artist": "Théodore Géricault",
-    "date": "c. 1815-20",
-    "height": 96,
-    "width": 71.8,
-    "medium": "Oil",
-    "support": "Canvas",
-    "accession": "1955.959",
-    "location": "The Clark",
-    "source": "https://www.clarkart.edu/ArtPiece/Detail/Trumpeter-of-the-Hussars",
-    "copyright": "Open Access"
-  },
-  {
     "slug": "friends-or-foes",
     "title": "Friends or Foes? (The Scout)",
     "image": "/collection/remmington__friends-or-foes.jpg",
@@ -2952,6 +2937,21 @@
     "location": "Private Collection",
     "source": "https://claguefineart.com/products/cara-cara-orange",
     "copyright": "Adam Cleague"
+  },
+  {
+    "slug": "trumpeter-of-the-hussars",
+    "title": "Trumpeter of the Hussars",
+    "image": "/collection/gericault__trumpeter-of-the-hussars.jpg",
+    "artist": "Théodore Géricault",
+    "date": "c. 1815-20",
+    "height": 96,
+    "width": 71.8,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "1955.959",
+    "location": "The Clark",
+    "source": "https://www.clarkart.edu/ArtPiece/Detail/Trumpeter-of-the-Hussars",
+    "copyright": "Open Access"
   },
   {
     "slug": "knitting-for-soldiers",
