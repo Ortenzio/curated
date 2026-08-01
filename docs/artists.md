@@ -426,6 +426,7 @@
 [@ Brothers](https://www.demesdagcollectie.nl/en/collection/hwm0184r)
 [@ After the Grape Harvest](https://www.demesdagcollectie.nl/en/collection/hwm0178)
 [@ Birthday](https://www.demesdagcollectie.nl/en/collection/hwm0185)
+[@ Ritratto di Giovanni Nicolini](https://accademiasanluca.it/collezioni/opere/ritratto-di-giovanni-nicolini)
 
 ## John Singer Sargent
 [# Drapery Study for Luxemburg](https://www.artsbma.org/collection/drapery-study-for-luxemburg/)
@@ -849,6 +850,7 @@
 
 ## Giorgio Szoldatics
 [$$ angel carrier](https://en.mng.hu/artworks/45787/)
+[Self Portrait](https://accademiasanluca.it/collezioni/opere/autoritratto-szoldatics)
 
 ## Govert Flinck
 [$ Bearded Man with a Velvet Cap](https://www.metmuseum.org/art/collection/search/436309)
@@ -921,8 +923,10 @@
 
 ## Frank Duveneck
 [# Portrait of William Merrit Chase](https://www.philamuseum.org/objects/66450)
+[#$$ Portrait of an Old Man](https://dma.org/art/collection/object/5046129)
 [$ A Circassian](https://collections.mfa.org/objects/30883/a-circassian)
 [$ The Old Professor](https://collections.mfa.org/objects/31766/the-old-professor)
+[$ Lady with a Red Hat](https://dma.org/art/collection/object/4009838)
 [Study for "Guard of the Harem"](https://www.famsf.org/artworks/study-for-guard-of-the-harem)
 [Venetian Girl](https://www.famsf.org/artworks/venetian-girl)
 [Venetian Girl 2](https://www.clevelandart.org/art/1922.173)
@@ -2923,6 +2927,7 @@
 ## Alexander Helwig Wyant
 [An Old Clearing](https://www.metmuseum.org/art/collection/search/13355)
 [Landscape, Morning](https://risdmuseum.org/art-design/collection/landscape-morning-13807)
+[Autumn in Arkville](https://dma.org/art/collection/object/4233337)
 
 ## Eilifsikker Peterssen
 [# Hans Heyerdahl](https://digitaltmuseum.org/0210413598557/hans-heyerdahl-olje-pa-lerret)
@@ -3989,6 +3994,7 @@
 
 ## Ernest Ludwig Ipsen
 [# Portrait of Edith Nourse Rogers](https://collections.si.edu/search/detail/edanmdm:npg_NPG.91.43?fq=data_source%3A%22National+Portrait+Gallery%22&fq=online_media_type%3A%22Images%22&fq=object_type%3A%22Paintings%22&record=403&hlterm=&inline=true)
+[$ Captain Taylor's Sister](https://dma.org/art/collection/object/5286967)
 
 ## Boardman Robinson
 [Portrait of Boardman Robinson](https://collections.si.edu/search/detail/edanmdm:npg_NPG.91.5?fq=data_source%3A%22National+Portrait+Gallery%22&fq=online_media_type%3A%22Images%22&fq=object_type%3A%22Paintings%22&record=404&hlterm=&inline=true)
@@ -4187,6 +4193,7 @@
 
 ## Lourens Alma Tadema
 [# Mary Magdalene](https://www.rijksmuseum.nl/en/collection/object/Mary-Magdalene--e9cd1186f133a6919f8d3af992d778f5)
+[# Self-Portrait](https://accademiasanluca.it/collezioni/opere/autoritratto-1-alma)
 [$@ The Artist's Wife](https://www.demesdagcollectie.nl/en/collection/hwm0004)
 
 ## Margaretha Roosenboom
@@ -4542,3 +4549,20 @@ old woman reading](https://kokoelma.kansallisgalleria.fi/en/object/498050)
 
 ## Julius Adam
 [Schlafende Katze](https://www.lenbachhaus.de/en/digital/collection-online/detail/schlafende-katze-30010161)
+
+## Federico Faruffini
+[# Self-Portrait](https://accademiasanluca.it/collezioni/opere/autoritratto-1-faruffini)
+
+## Pier Francesco Mola
+[Donna che fila](https://accademiasanluca.it/collezioni/opere/donna-che-fila-lachesi)
+[Head of an old man in right profile](https://accademiasanluca.it/collezioni/opere/testa-di-vecchio-sul-profilo-destro)
+[Testa di vecchio sul profilo sinistro](https://accademiasanluca.it/collezioni/opere/testa-di-vecchio-sul-profilo-sinistro)
+
+## Giovanni Romagnoli
+[Estiva](https://accademiasanluca.it/collezioni/opere/estiva)
+
+## Pietro Gaudenzi
+[Ritratto della madre](https://accademiasanluca.it/collezioni/opere/ritratto-della-madre-gaudenzi)
+
+## Walter Stuempfig
+[Boy Reading](https://dma.org/art/collection/object/3295620)

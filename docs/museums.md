@@ -117,10 +117,10 @@
 - [Wolfsonian - Florida International University](https://wolfsonian.org/)
 - [Lenbachhaus](https://www.lenbachhaus.de/)
 - [De Mesdag Collectie](https://www.demesdagcollectie.nl/en/collection)
+- [Accademia Nazionale di San Luca](https://accademiasanluca.it)
+- [Dallas Museum of Art](https://dma.org/art/collection)
 
 
-[Accademia Nazionale di San Luca](https://accademiasanluca.it)
-[Dallas Museum of Art](https://dma.org/art/collection)
 [Nelson Atkins](https://art.nelson-atkins.org/objects/images)
 [National Trust Collections](https://www.nationaltrustcollections.org.uk/)
 [Worcester Art Museum](https://worcester.emuseum.com/collections)

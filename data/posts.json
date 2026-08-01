@@ -15,6 +15,48 @@
     "copyright": "CC0 1.0"
   },
   {
+    "slug": "federico-faruffini",
+    "title": "Self-Portrait of Federico Faruffini",
+    "image": "/collection/faruffini__federico-faruffini.jpg",
+    "artist": "Federico Faruffini",
+    "date": "1875",
+    "height": 42,
+    "width": 34,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "387",
+    "location": "National Academy of San Luca",
+    "source": "https://accademiasanluca.it/collezioni/opere/autoritratto-1-faruffini"
+  },
+  {
+    "slug": "lourens-alma-tadema",
+    "title": "Self-Portrait of Lourens Alma Tadema",
+    "image": "/collection/tadema__lourens-alma-tadema.jpg",
+    "artist": "Lourens Alma Tadema",
+    "date": "1875",
+    "height": 61,
+    "width": 45,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "714",
+    "location": "National Academy of San Luca",
+    "source": "https://accademiasanluca.it/collezioni/opere/autoritratto-1-alma"
+  },
+  {
+    "slug": "head-of-an-old-man-in-right-profile",
+    "title": "Head of an old man in right profile",
+    "image": "/collection/mola__head-of-an-old-man-in-right-profile.jpg",
+    "artist": "Pier Francesco Mola",
+    "date": "unknown",
+    "height": 66,
+    "width": 50,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "368",
+    "location": "National Academy of San Luca",
+    "source": "https://accademiasanluca.it/collezioni/opere/testa-di-vecchio-sul-profilo-destro"
+  },
+  {
     "slug": "josef-wenglein",
     "title": "Self-Portrait of Josef Wenglein",
     "image": "/collection/wenglein__josef-wenglein.jpg",
