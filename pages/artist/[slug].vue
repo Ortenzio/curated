@@ -27,7 +27,6 @@ const route = useRoute()
 const { slug } = route.params;
 const { data } = useFetch(() => `/api/artist/${slug}`)
 
-console.log(data.value);
 useSeoMeta({
   title: () => `${data.value.name} - Curated`
 })

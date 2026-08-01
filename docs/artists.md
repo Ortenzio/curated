@@ -72,6 +72,7 @@
 [Portrait of Judge Alexander: John White Alexander](https://collections.si.edu/search/detail/edanmdm:npg_NPG.2020.114?fq=data_source%3A%22National+Portrait+Gallery%22&fq=online_media_type%3A%22Images%22&fq=object_type%3A%22Paintings%22&record=28&hlterm=&inline=true)
 [Henry G. Marquand](https://artmuseum.princeton.edu/art/collections/objects/45424)
 [William Bunker](https://emuseum.nyhistory.org/objects/1812/william-bunker-18571942;jsessionid=9234A816E08A427168272CBD0EBA6672)
+[Bronze Bowl](https://collections.lacma.org/object/213850)
 
 ## Madeline Green
 [# Self portrait](https://www.dulwichpicturegallery.org.uk/explore/explore-the-collection/self-portrait-the-chenille-net/)
@@ -432,17 +433,21 @@
 [# Drapery Study for Luxemburg](https://www.artsbma.org/collection/drapery-study-for-luxemburg/)
 [# Portrait of Carolus-Duran](https://www.clarkart.edu/ArtPiece/Detail/Carolus-Duran)
 [# Smoke of Ambergris](https://www.clarkart.edu/ArtPiece/Detail/Fumee-d-ambre-gris-(Smoke-of-Ambergris))
-[$$ Open Doorway, Morocco](https://www.metmuseum.org/art/collection/search/12149)
+[# Man Wearing Laurels](https://collections.lacma.org/object/7802)
 [$$ Arab Woman](https://www.metmuseum.org/art/collection/search/12031)
+[$$ Open Doorway, Morocco](https://www.metmuseum.org/art/collection/search/12149)
 [$ Louis de Fourcaud](https://www.musee-orsay.fr/en/artworks/louis-de-fourcaud-20500)
+[$ Padre Sebastiano](https://www.metmuseum.org/art/collection/search/12153)
 [$ Portrait of Ena Wertheimer: A Vele Gonfie](https://www.tate.org.uk/art/artworks/sargent-portrait-of-ena-wertheimer-a-vele-gonfie-t07104)
 [$ Spanish Madonna](https://www.metmuseum.org/art/collection/search/12303)
-[$ Padre Sebastiano](https://www.metmuseum.org/art/collection/search/12153)
 [A Male Model Standing before a Stove](https://www.metmuseum.org/art/collection/search/12128)
 [Boboli Garden, Florence](https://www.metmuseum.org/art/collection/search/12119)
 [Edouard Pailleron](https://www.musee-orsay.fr/en/artworks/edouard-pailleron-21004)
+[Egyptian Indigo Dyers](https://www.demesdagcollectie.nl/en/collection/hwm0302)
 [Egyptian Woman](https://www.metmuseum.org/art/collection/search/12072)
 [Eleanora O'Donnell Iselin](https://www.nga.gov/artworks/50217-eleanora-odonnell-iselin-mrs-adrian-iselin)
+[Essie, Ruby and Ferdinand, Children of Asher Wertheimer](https://www.tate.org.uk/art/artworks/sargent-essie-ruby-and-ferdinand-children-of-asher-wertheimer-n03711)
+[Francisco Bernareggi](https://art.nelson-atkins.org/objects/3406/francisco-bernareggi)
 [Frederic Porter Vinton](https://risdmuseum.org/art-design/collection/portrait-frederic-porter-vinton-29111)
 [General Charles J. Paine](https://collections.mfa.org/objects/33526/general-charles-j-paine)
 [Jean-Guy de Poilloüe, vicomte de Saint-Périer](https://www.musee-orsay.fr/en/artworks/jean-guy-de-poilloue-vicomte-de-saint-perier-21002)
@@ -455,6 +460,7 @@
 [Market Place](https://www.metmuseum.org/art/collection/search/12132)
 [Miss Mathilde Townsend](https://www.nga.gov/artworks/41608-miss-mathilde-townsend)
 [Mrs Carl Meyer and her Children](https://www.tate.org.uk/art/artworks/sargent-mrs-carl-meyer-and-her-children-t12988)
+[Mrs Philip Leslie Agnew](https://www.tate.org.uk/art/artworks/sargent-mrs-philip-leslie-agnew-t00158)
 [Mrs. Henry Galbraith Ward](https://www.metmuseum.org/art/collection/search/12141)
 [Portrait of Lisa Colt Curtis](https://www.clevelandart.org/art/1998.168)
 [Portrait of Ralph Curtis on the Beach at Scheveningen](https://high.org/collection/portrait-of-ralph-curtis-on-the-beach-at-scheveningen/)
@@ -464,11 +470,11 @@
 [Sketch for the Portrait of Mrs. Thomas Lincoln Manson, Jr.](https://high.org/collection/sketch-for-the-portrait-of-mrs-thomas-lincoln-manson-jr/)
 [Spanish Roma Woman](https://www.metmuseum.org/art/collection/search/12100)
 [The Wyndham Sisters: Lady Elcho, Mrs. Adeane, and Mrs. Tennant](https://www.metmuseum.org/art/collection/search/12477)
-[Woman with Furs](https://www.clarkart.edu/ArtPiece/Detail/Woman-with-Furs)
-[Mrs Philip Leslie Agnew](https://www.tate.org.uk/art/artworks/sargent-mrs-philip-leslie-agnew-t00158)
 [Vernon Lee](https://www.tate.org.uk/art/artworks/sargent-vernon-lee-n04787)
-[Essie, Ruby and Ferdinand, Children of Asher Wertheimer](https://www.tate.org.uk/art/artworks/sargent-essie-ruby-and-ferdinand-children-of-asher-wertheimer-n03711)
-[Egyptian Indigo Dyers](https://www.demesdagcollectie.nl/en/collection/hwm0302)
+[Woman with Furs](https://www.clarkart.edu/ArtPiece/Detail/Woman-with-Furs)
+[Study for "Spanish Dance"](https://art.nelson-atkins.org/objects/5539/study-for-spanish-dance)
+[Fisherwomen Returning](https://art.nelson-atkins.org/objects/15845/fisherwomen-returning)
+[Elvira Hazard Bullock](https://worcester.emuseum.com/objects/9763/elvira-hazard-bullock-mrs-alexander-h-bullock)
 
 ## Maurice Chabas
 [Portrait du père de l'artiste](https://www.musee-orsay.fr/en/artworks/portrait-du-pere-de-lartiste-78063)
@@ -495,6 +501,7 @@
 ## Sir James Jebusa Shannon
 [$ Madame Patey](https://www.tate.org.uk/art/artworks/shannon-madame-patey-n04263)
 [Phil May](https://www.tate.org.uk/art/artworks/shannon-phil-may-n03825)
+[Portrait of Cecilia Tower](https://collections.lacma.org/object/59431)
 
 ### Johann Ulrich Mayr
 [Portrait of a Man](https://www.mfab.hu/artworks/9275/)
@@ -603,7 +610,11 @@
 
 ## Gaetano Gandolfi
 [# Head of a bishop](https://www.metmuseum.org/art/collection/search/440847)
+[# Head of a Man in Oriental Costume](https://collections.lacma.org/object/38539)
 [Study of a male head](https://hoodmuseum.dartmouth.edu/objects/p.984.5.1)
+
+## Ubaldo Gandolfi
+[Head of an old woman](https://collections.lacma.org/object/154958)
 
 ## Jean-Baptiste Cammile Carot
 [# Goatherd of Terni](https://www.philamuseum.org/objects/72244)
@@ -652,6 +663,7 @@
 ## Raphael Soyer
 [# Self-Portrait](https://www.metmuseum.org/art/collection/search/486772)
 [Portrait of Mr. and Mrs. John Rewald](https://collections.artsmia.org/art/20204/portrait-of-mr-and-mrs-john-rewald-raphael-soyer)
+[Blue Shawl](https://art.nelson-atkins.org/objects/9905/blue-shawl)
 
 ## George Romney
 [Midshipman George Cumberland](https://www.tate.org.uk/art/artworks/romney-midshipman-george-cumberland-t00065)
@@ -681,6 +693,7 @@
 [# Still life of Fish](https://www.metmuseum.org/art/collection/search/10476)
 [# Pink Azalea—Chinese Vase](https://www.metmuseum.org/art/collection/search/10473)
 [# Self Portrait](https://www.lenbachhaus.de/en/digital/collection-online/detail/selbstbildnis-30021015)
+[# Pablo de Sarasate: Portrait of a Violinist](https://collections.lacma.org/object/7686)
 [$$ Bessie Potter](https://www.metmuseum.org/art/collection/search/10472)
 [$$ For the Little One](https://www.metmuseum.org/art/collection/search/10468)
 [$$ Alice Gerson in Prospect Park](https://www.metmuseum.org/art/collection/search/10471)
@@ -715,6 +728,8 @@
 [Mother and Child](https://emuseum.mfah.org/objects/44765/mother-and-child-the-first-portrait)
 [Lady Playing Guitar](https://artmuseum.princeton.edu/art/collections/objects/27230)
 [Bildnis Hugo von Habermann](https://www.lenbachhaus.de/en/digital/collection-online/detail/bildnis-hugo-von-habermann-30003057)
+[Edward Steichen](https://art.nelson-atkins.org/objects/24619/edward-steichen)
+[Just Onions](https://collections.lacma.org/object/7727)
 
 ## Wilhelm Lindenschmitt
 [Study of a Man's head](https://artmuseum.princeton.edu/art/collections/objects/32149)
@@ -788,6 +803,7 @@
 [Julius Meier-Graefe](https://www.musee-orsay.fr/en/artworks/julius-meier-graefe-9094)
 [Self Portrait](https://www.artic.edu/artworks/30341/self-portrait)
 [The Singer Frieda Halbe](https://sammlung.belvedere.at/objects/2631/die-sangerin-frieda-halbe?)
+[Vor dem Spiegel (At the Mirror)](https://worcester.emuseum.com/objects/2688/vor-dem-spiegel-at-the-mirror)
 
 ## Otto Friedrich
 [$ Die Lesende](https://sammlungenonline.albertina.at/en/objects/426401/die-lesende)
@@ -1018,6 +1034,8 @@
 [# Stag at Sharkey's](https://www.clevelandart.org/art/1922.1133)
 [Julie Hudson](https://www.metmuseum.org/art/collection/search/489558)
 [Seated Nude](https://www.famsf.org/artworks/seated-nude-60375)
+[Frankie, the Organ Boy](https://art.nelson-atkins.org/objects/11742/frankie-the-organ-boy)
+[Newsboy](https://www.brooklynmuseum.org/objects/1266)
 
 ## Count Albert De Belleroche
 [# Olympia de la Fontaine](https://www.tate.org.uk/art/artworks/de-belleroche-olympia-de-la-fontaine-t00003)
@@ -1060,10 +1078,15 @@
 [# Study for "The Dancing Lesson": The Banjo Player](https://www.nga.gov/artworks/66414-study-dancing-lesson-banjo-player)
 [# The Gross Clinic](https://www.philamuseum.org/objects/299524)
 [$ Carmelita Requena](https://www.metmuseum.org/art/collection/search/10812)
+[$ Female Nude (Study)](https://art.nelson-atkins.org/objects/11944/female-nude-study)
+[A Singer (Mrs. W.H. Bowden)](https://artmuseum.princeton.edu/art/collections/objects/32953)
 [Arcadia](https://www.metmuseum.org/art/collection/search/10810)
 [Archbishop Diomede Falconio](https://www.nga.gov/artworks/33250-archbishop-diomede-falconio)
+[Clara](https://www.musee-orsay.fr/en/artworks/clara-9447)
 [Figure Study- Masked Nude Woman](https://www.pafa.org/museum/collection/item/figure-study-masked-nude-woman-0)
+[Frances Eakins](https://art.nelson-atkins.org/objects/594/frances-eakins)
 [Franklin L. Schenck](https://emuseum.delart.org/objects/10390/franklin-l-schenck)
+[Hauling the Seine](https://artmuseum.princeton.edu/art/collections/objects/41106)
 [Head of a Man (Rutherford B. Hayes?): Thomas Eakins](https://www.pafa.org/museum/collection/item/head-man-rutherford-b-hayes)
 [In The Studio](https://www.philamuseum.org/objects/52013)
 [Mrs. Mary Arthur](https://www.metmuseum.org/art/collection/search/10820)
@@ -1081,9 +1104,9 @@
 [The Thinker: Portrait of Louis N. Kenton](https://www.metmuseum.org/art/collection/search/10827)
 [The Writing Master](https://www.metmuseum.org/art/collection/search/10828)
 [William R. Hallowell](https://collection.ncartmuseum.org/objects/10155/william-r-hallowell-18321908)
-[Clara](https://www.musee-orsay.fr/en/artworks/clara-9447)
-[Hauling the Seine](https://artmuseum.princeton.edu/art/collections/objects/41106)
-[A Singer (Mrs. W.H. Bowden)](https://artmuseum.princeton.edu/art/collections/objects/32953)
+[The Spinner](https://worcester.emuseum.com/objects/17808/the-spinner)
+[Study of the Head of Dr. Gross](https://worcester.emuseum.com/objects/5713/study-of-the-head-of-dr-gross)
+[Wrestlers](https://collections.lacma.org/object/134153)
 
 ## Susan Macdowell Eakins
 [# Portrait of Charles Bregler](https://www.pafa.org/museum/collection/item/portrait-charles-bregler)
@@ -1459,6 +1482,9 @@
 
 ## Jean-François Millet
 [$$@ Jean-François Millet](https://sammlung.belvedere.at/objects/7736/selbstbildnis?)
+[# Diana Resting](https://collections.lacma.org/object/9270)
+[A Norman Milkmaid at Gréville](https://collections.lacma.org/object/44208)
+
 
 ## Hans von Marées
 [$$@ August Cesar](https://sammlung.belvedere.at/objects/6282/der-maler-august-cesar?)
@@ -1505,6 +1531,7 @@
 [Study of a young woman](https://cyfrowe.mnw.art.pl/en/catalog/453055)
 
 ## Harriet Blackstone
+[# Madame Plevitzskaia](https://www.brooklynmuseum.org/objects/28697)
 [Portrait of Charles Underwood](https://collection.mam.org/details.php?id=19391)
 
 ## Johannes Bosboom
@@ -1891,6 +1918,7 @@
 [Study for A Little Girl](https://www.pafa.org/museum/collection/item/study-little-girl)
 [The Reverend Matthew Blackburne Grier](https://www.pafa.org/museum/collection/item/reverend-matthew-blackburne-grier)
 [Sita et Sarita](https://www.musee-orsay.fr/en/artworks/sita-et-sarita-1039)
+[Helen Bigelow Merriman](https://worcester.emuseum.com/objects/40160/helen-bigelow-merriman)
 
 ## Wilhelm Thöny
 [# Portrait of a Woman](https://sammlung.belvedere.at/objects/7487/damenbildnis)
@@ -1945,6 +1973,8 @@
 [$$ Across the Room](https://www.metmuseum.org/art/collection/search/12775)
 [Mother and Mary](https://www.nga.gov/artworks/50713-mother-and-mary)
 [Still Life: Vase of Peonies](https://www.metmuseum.org/art/collection/search/12776)
+[Study for the Venetian Blind](https://worcester.emuseum.com/objects/7443/study-for-the-venetian-blind)
+[Venetian Blind](https://worcester.emuseum.com/objects/27129/the-venetian-blind)
 
 ## Samuel H. Sexton
 [Levi Hale Willard](https://www.metmuseum.org/art/collection/search/12551)
@@ -2034,6 +2064,7 @@
 [Saint Simon](https://www.museodelprado.es/en/the-collection/art-work/saint-simon/c407d683-796b-4e33-8cd0-2393590db4f0)
 [The Tears of Saint Peter](https://www.metmuseum.org/art/collection/search/441971)
 [Svatý Šebestián](https://artdatabase.ngprague.cz/soupisove-katalogy/detail-dila/?dilo=69)
+[Philosopher](https://collections.lacma.org/object/61666)
 
 ## Eduard Charlemont
 [# The Moorish Chief](https://www.philamuseum.org/objects/102792)
@@ -2164,10 +2195,12 @@
 [White Roses](https://www.bellasartes.gob.ar/en/collection/work/8601/)
 [Vase of Flowers](https://artmuseum.princeton.edu/art/collections/objects/33164)
 
-## Alexandre Falguière
+## Jean-Alexandre-Joseph Falguière
 [Eventail et poignard](https://www.musee-orsay.fr/en/artworks/eventail-et-poignard-20506)
+[Man Smoking a Pipe](https://collections.lacma.org/object/103890)
 
 ## Édouard Manet
+[# Young Woman in a Round Hat](https://collections.lacma.org/object/263697)
 [$ Portrait de Berthe Morisot à l'éventail](https://www.musee-orsay.fr/en/artworks/portrait-de-berthe-morisot-leventail-100381)
 [A King Charles Spaniel](https://www.nga.gov/artworks/52180-king-charles-spaniel)
 [Berthe Morisot with a Muff](https://www.clevelandart.org/art/1958.34)
@@ -2274,6 +2307,7 @@
 [Old Isaac](https://www.rijksmuseum.nl/en/collection/object/Old-Isaac--124797df7fa55c7dc59f6a138e2e5086)
 [Self Portrait](https://www.kmska.be/en/masterpiece/self-portrait-31)
 [Study of Sijtje van Bemmel](https://www.rijksmuseum.nl/en/collection/object/Study-of-Sijtje-van-Bemmel-1880-1963--74d7a4efd1c410afab723a270d61ff52)
+[On the Dunes](https://worcester.emuseum.com/objects/8986/on-the-dunes)
 
 ## Jozef Klochowicz
 [$ Female Nude](https://zbiory.mnk.pl/en/search-result/advance/catalog/97733)
@@ -2372,6 +2406,8 @@
 [Young Woman in White](https://www.nga.gov/artworks/37005-young-woman-white)
 [The model](https://emuseum.mfah.org/objects/9175/the-model)
 [Night on boardwalk](https://emuseum.mfah.org/objects/9177/night-on-boardwalk)
+[Spanish Dancer- Sevillana](https://collections.lacma.org/object/131004)
+[Edna](https://collections.lacma.org/object/9006)
 
 ## Maurice Grosser
 [Portrait of Margaret Barr](https://artmuseum.princeton.edu/art/collections/objects/33154)
@@ -2388,10 +2424,11 @@
 ## Susanna Coffey
 [$ Self-Portrait](https://www.artic.edu/artworks/144355/self-portrait-for-roy-snow)
 
-## George Luks
+## George Benjamin Luks
 [$$ The Old Dutchess](https://www.metmuseum.org/art/collection/search/19263)
 [Dominican](https://www.phillipscollection.org/collection/dominican)
 [Matches Mary](https://high.org/collection/matches-mary/)
+[Pedro](https://collections.lacma.org/object/9260)
 
 ## Augustus Vincent Tack
 [Elizabeth Hudson](https://www.phillipscollection.org/collection/elizabeth-hudson)
@@ -2402,6 +2439,7 @@
 
 ## Charles Courtney Curran
 [Breakfast for Three](https://high.org/collection/breakfast-for-three/)
+[On the Heights](https://www.brooklynmuseum.org/objects/278)
 
 ## Juliet Thompson
 [Head of a Young Girl](https://www.phillipscollection.org/collection/head-young-girl)
@@ -2434,6 +2472,7 @@
 [The Return of the Cattle](https://www.metmuseum.org/art/collection/search/437479)
 [The Obelisk](https://www.artic.edu/artworks/57049/the-obelisk)
 [The Landing Place](https://www.artic.edu/artworks/57050/the-landing-place)
+[Roman Ruins](https://worcester.emuseum.com/objects/17776/roman-ruins)
 
 ## Robert Loftin Newman
 [The Fortune Teller](https://www.metmuseum.org/art/collection/search/11654)
@@ -2595,6 +2634,11 @@
 [Miss Edith Potter](https://www.phillipscollection.org/collection/miss-edith-potter)
 [The Black Lace Dress](https://collection.ncartmuseum.org/objects/9948/the-black-lace-dress-portrait-of-the-artists-wife)
 [The Grey Bodice](https://www.artic.edu/artworks/121403/the-grey-bodice)
+[Girl in Black](https://www.brooklynmuseum.org/objects/473)
+
+## Robert Walter Weir
+[Self Portrait](https://worcester.emuseum.com/objects/27642/selfportrait)
+
 
 ## Frank Huddlestone Potter
 [$ A Quiet Corner: Miss E.A. Whelan](https://www.tate.org.uk/art/artworks/potter-a-quiet-corner-miss-e-a-whelan-n05364)
@@ -2661,6 +2705,7 @@
 [A Young Boy](https://collection.mam.org/details.php?id=29612)
 [Iolanthe](https://emuseum.delart.org/objects/2413/iolanthe)
 [Katherine Sehon (Rose Feather Hat)](https://collection.mam.org/details.php?id=1388)
+[Katherine Sehon](https://art.nelson-atkins.org/objects/32081/katherine-sehon)
 
 ## Emil Carlsen
 [# Still Life with Pheasant](https://www.famsf.org/artworks/still-life-with-pheasant)
@@ -2724,6 +2769,7 @@
 [Landscape](https://www.rijksmuseum.nl/en/collection/object/Landscape--cedd99c0476678c923a90d3e03d397d4)
 [Moonlight by the Sea](https://kokoelma.kansallisgalleria.fi/en/object/392920)
 [Sunset near Villerville](https://www.demesdagcollectie.nl/en/collection/hwm0089)
+[Bridge on the Yonne](https://worcester.emuseum.com/objects/1704/le-pont-sur-lyonne-au-soir-bridge-on-the-yonne-evening)
 
 ## Ivan Nikolayevich Kramskoy
 [# Portrait of a man](https://cyfrowe.mnw.art.pl/en/catalog/441841)
@@ -2801,7 +2847,9 @@
 [Marguerite](https://collections.mfa.org/objects/32228/marguerite)
 [Self Portrait](https://collections.mfa.org/objects/31033/self-portrait)
 [The Bathers](https://www.metmuseum.org/art/collection/search/11174)
+[The Bathers (but larger)](https://worcester.emuseum.com/objects/1011/the-bathers)
 [The Belated Kid](https://collections.mfa.org/objects/31308/the-belated-kid)
+[Italian Girl](https://worcester.emuseum.com/objects/12674/italian-girl)
 
 ## Edwin Lord Week
 [$ The Rajah Starting on a Hunt](https://www.metmuseum.org/art/collection/search/13171)
@@ -2874,6 +2922,7 @@
 [The Blue Dress](https://asia.si.edu/explore-art-culture/collections/search/edanmdm:fsg_F1906.67a/)
 [The Blue Dress](https://asia.si.edu/explore-art-culture/collections/search/edanmdm:fsg_F1913.8a-b/)
 [The Letter](https://www.metmuseum.org/art/collection/search/10746)
+[Lady in Gold](https://www.brooklynmuseum.org/objects/70)
 
 ## John Singleton Copley
 [Self Portrait](https://collections.si.edu/search/detail/edanmdm:npg_NPG.77.22?fq=data_source%3A%22National+Portrait+Gallery%22&fq=online_media_type%3A%22Images%22&fq=object_type%3A%22Paintings%22&record=8&hlterm=&inline=true)
@@ -2899,6 +2948,7 @@
 [Advice to a Young Artist](https://www.nga.gov/artworks/895-advice-young-artist)
 [French Theater](https://www.nga.gov/artworks/46488-french-theater)
 [The Painter at His Easel](https://www.phillipscollection.org/collection/painter-his-easel)
+[Exit from the Theater](https://art.nelson-atkins.org/objects/29953/exit-from-the-theater)
 
 ## Alphonse Legros
 [# Portrait of an Old Man](https://www.nga.gov/artworks/34163-portrait-old-man)
@@ -3084,6 +3134,7 @@
 
 ## Charles Webster Hawthorne
 [# In the Boudoir](https://collection.mam.org/details.php?id=6669)
+[$$ The Red Bow](https://www.brooklynmuseum.org/objects/388)
 [Bertha Davis](https://artmuseum.princeton.edu/art/collections/objects/38418)
 
 ## Armand Guillaumin
@@ -3117,7 +3168,7 @@
 ## Ignacio Pinazo Camarlench
 [# Self-portrait](https://www.museodelprado.es/en/the-collection/art-work/self-portrait/c2b5ef3d-d3fc-45b3-9a95-cbce43b9704a)
 [# An altar boy practices his singing](https://www.museodelprado.es/en/the-collection/art-work/an-altar-boy-practices-his-singing/5fbfa4c9-8095-4527-8467-0a0a36945fbf)
-[Female Nude](https://www.museodelprado.es/en/the-collection/art-work/female-nude/b973fa09-682f-4033-9a7b-1637a9be79d0)
+[# Female Nude](https://www.museodelprado.es/en/the-collection/art-work/female-nude/b973fa09-682f-4033-9a7b-1637a9be79d0)
 
 ## Francisco Masriera y Manovens (Masriera)
 [# Oriental](https://www.museodelprado.es/en/the-collection/art-work/oriental/5dc1d1d8-a53b-4deb-af9c-461e59f68878)
@@ -3168,6 +3219,10 @@
 [A Cavalier: Time of Louis XIV](https://wallacelive.wallacecollection.org/eMP/eMuseumPlus?service=direct/1/ResultListView/result.t1.collection_list.$TspTitleImageLink.link&sp=10&sp=Scollection&sp=SfieldValue&sp=0&sp=0&sp=2&sp=SdetailList&sp=630&sp=Sdetail&sp=0&sp=F&sp=T&sp=642)
 [An Artist showing his Work](https://wallacelive.wallacecollection.org/eMP/eMuseumPlus?service=direct/1/ResultListView/result.t1.collection_list.$TspTitleImageLink.link&sp=10&sp=Scollection&sp=SfieldValue&sp=0&sp=0&sp=2&sp=SdetailList&sp=630&sp=Sdetail&sp=0&sp=F&sp=T&sp=636)
 [The Hired Assassins](https://wallacelive.wallacecollection.org/eMP/eMuseumPlus?service=direct/1/ResultListView/result.t1.collection_list.$TspTitleImageLink.link&sp=10&sp=Scollection&sp=SfieldValue&sp=0&sp=0&sp=2&sp=SdetailList&sp=630&sp=Sdetail&sp=0&sp=F&sp=T&sp=638)
+[Study of a Seated Cavalier Reading](https://collections.lacma.org/object/20369)
+
+## Leopold Gould Seyffert
+[Nude with Chinese Background](https://collections.lacma.org/object/9886)
 
 ## Cornelis Ary Renan
 [Madame Jules François Dietz](https://www.musee-orsay.fr/en/artworks/madame-jules-francois-dietz-21604)
@@ -3213,6 +3268,7 @@
 [Self Portrait](https://www.artic.edu/artworks/136190/self-portrait)
 
 ## Jean-Louis Forain
+[Self Portrait](https://collections.lacma.org/object/20901)
 [Artist and Model](https://www.nga.gov/artworks/30213-artist-and-model)
 
 ## Eugen Weisz
@@ -3390,6 +3446,7 @@
 [$ The Guitar Player](https://collections.mfa.org/objects/31337/the-guitar-player)
 [Portrait of Albert H. Chatfield, Sr.](https://collection.farnsworthmuseum.org/objects/1921/portrait-of-albert-h-chatfield-sr)
 [The Listener (Woman at the Theatre)](https://collection.farnsworthmuseum.org/objects/6417/the-listener-woman-at-the-theatre)
+[Sally](https://worcester.emuseum.com/objects/5403/sally)
 
 ## Jean-Baptiste Carpeaux
 [# Portrait of Bruno Cherier](https://high.org/collection/portrait-of-bruno-cherier/)
@@ -3541,6 +3598,7 @@
 ## Christian Adolf Schreyer
 [Araby Warrior](https://collection.mam.org/details.php?id=9798)
 [The Wallachian Post-Carrier](https://collection.mam.org/details.php?id=17551)
+[Arab Horsemen](https://art.nelson-atkins.org/objects/29941/algerian-horsemen-near-an-oasis-possibly-biskra)
 
 ## Jan van de Velde
 [Chalice and lemon](https://cyfrowe.mnw.art.pl/en/catalog/443130)
@@ -3551,6 +3609,7 @@
 
 ## William Etty
 [# Nude Study](https://www.gallery.ca/collection/artwork/nude-study-9)
+[The Wrestlers](https://worcester.emuseum.com/objects/26714/the-wrestlers)
 
 ## Pierre-Auguste Renoir
 [Self Portrait](https://www.clarkart.edu/ArtPiece/Detail/Self-Portrait-(8))
@@ -3565,6 +3624,7 @@
 [$ An Angel](https://collection.mam.org/details.php?id=16719)
 [$ Winged Figure](https://www.artic.edu/artworks/59798/winged-figure)
 [Fisherman Mending Nets](https://high.org/collection/fisherman-mending-nets/)
+[William Michael Spartali Stillman](https://www.brooklynmuseum.org/objects/148)
 
 ## Edmé-Alexis-Alfred Dehodencq
 [Self Portrait 4](https://high.org/collection/self-portrait-4/)
@@ -3584,6 +3644,7 @@
 [$ Tarquin and Lucretia](https://www.nga.gov/artworks/41640-tarquin-and-lucretia)
 [Musicians](https://www.nationalgallery.org.uk/paintings/giuseppe-maria-crespi-musicians)
 [Peasants with Donkeys](https://www.nationalgallery.org.uk/paintings/giuseppe-maria-crespi-peasants-with-donkeys)
+[Young Man with a Helmet](https://art.nelson-atkins.org/objects/15703/young-man-with-a-helmet)
 
 ## Jan van de Cappelle
 [A Shipping Scene with a Dutch Yacht firing a Salute](https://www.nationalgallery.org.uk/paintings/jan-van-de-cappelle-a-shipping-scene-with-a-dutch-yacht-firing-a-salute)
@@ -3609,6 +3670,7 @@
 
 ## Walter Gilman Page
 [# Portrait of a Man](https://www.pafa.org/museum/collection/item/portrait-man)
+[$ Grandmother](https://collections.lacma.org/object/30811)
 
 ## Harold Gilman
 [$ Madeleine Knox](https://www.tate.org.uk/art/artworks/gilman-madeleine-knox-t13024)
@@ -3681,6 +3743,7 @@
 
 ## Sir William Orpen
 [$ Anita](https://www.tate.org.uk/art/artworks/orpen-anita-t07136)
+[The Costermonger](https://worcester.emuseum.com/objects/22865/the-costermonger)
 
 ## Lazar Raditz
 [# Self-Portrait](https://www.pafa.org/museum/collection/item/self-portrait-74)
@@ -3783,6 +3846,7 @@
 [Portrait of a Man (Study in Shadows)](https://collection.farnsworthmuseum.org/objects/2676/portrait-of-a-man-study-in-shadows)
 [Portrait of a Lady (Mary Kemble Webb Sanders)](https://collection.farnsworthmuseum.org/objects/5671/portrait-of-a-lady-mary-kemble-webb-sanders)
 [My Daughter](https://www.nga.gov/artworks/178278-my-daughter)
+[Portrait of My Daughters](https://worcester.emuseum.com/objects/33937/portrait-of-my-daughters)
 
 ## Jean Patricot
 [L'Homme en blanc](https://www.musee-orsay.fr/en/artworks/lhomme-en-blanc-20725)
@@ -4047,6 +4111,7 @@
 [# Judith](https://sammlung.belvedere.at/objects/3492/judith?)
 [Sonja Knips](https://sammlung.belvedere.at/objects/3197/sonja-knips?)
 [Woman in White](https://sammlung.belvedere.at/objects/3080/dame-in-wei?)
+[Woman with Fur Collar](https://collections.lacma.org/object/286357)
 
 ## Bramine Hubrecht
 [Professor Franciscus Donders](https://www.rijksmuseum.nl/en/collection/object/Professor-Franciscus-Donders-1818-1889-Physiologist-and-Opthalmologist--369c43f414d508399bd52aff10cefce2)
@@ -4461,7 +4526,7 @@ old woman reading](https://kokoelma.kansallisgalleria.fi/en/object/498050)
 [Kopf eines alten Mannes](https://www.lenbachhaus.de/en/digital/collection-online/detail/kopf-eines-alten-mannes-30019350)
 
 ## Emilio Gola
-[$$@ Chilly Woman](https://www.demesdagcollectie.nl/en/collection/hwm0137)
+[# Chilly Woman](https://www.demesdagcollectie.nl/en/collection/hwm0137)
 
 ## Ernst Karl Georg Zimmermann
 [Der Maler Karl Heffner](https://www.lenbachhaus.de/en/digital/collection-online/detail/der-maler-karl-heffner-30014883)
@@ -4566,3 +4631,73 @@ old woman reading](https://kokoelma.kansallisgalleria.fi/en/object/498050)
 
 ## Walter Stuempfig
 [Boy Reading](https://dma.org/art/collection/object/3295620)
+
+## Content Aline Johnson
+[$$ Head of Old Woman](https://art.nelson-atkins.org/objects/28056/head-of-old-woman)
+
+## Horatio Walker
+[$ Ploughing in Acadia](https://art.nelson-atkins.org/objects/10655/ploughing-in-acadia)
+
+## Jean Pierre Alexandre Antigna
+[Head of a girl](https://worcester.emuseum.com/objects/25787/head-of-a-girl)
+
+## Herbert Phillip Barnett
+[Francis Henry Taylor](https://worcester.emuseum.com/objects/9831/francis-henry-taylor)
+
+## Etienne Prosper Berne-Bellecour
+[The Soldier](https://worcester.emuseum.com/objects/35034/the-soldier)
+
+## Ralph Albert Blakelock
+[$ Shooting the Arrow (Hiawatha)](https://worcester.emuseum.com/objects/23439/shooting-the-arrow-hiawatha)
+
+## George de Forest Brush
+[The Young Violinist](https://worcester.emuseum.com/objects/13012/the-young-violinist)
+
+## Jan Cossiers
+[Portrait of a man](https://worcester.emuseum.com/objects/18637/portrait-of-a-man)
+
+## Helen Mary Knowlton 
+[study of a head](https://worcester.emuseum.com/objects/10999/study-of-a-head)
+
+## Willard LeRoy Metcalf
+[Street Scene, Tunis](https://worcester.emuseum.com/objects/10840/street-scene-tunis)
+
+## Robert Loftin Newman
+[Girl and Baby](https://worcester.emuseum.com/objects/4065/girl-and-baby)
+
+## Arnaldo Tamburini, Jr
+[$$ Indian Woman](https://worcester.emuseum.com/objects/32615/indian-woman)
+
+## Nicolas Antoine Taunay
+[Landscape with Travelers](https://worcester.emuseum.com/objects/29721/landscape-with-travelers)
+
+## Anna Chamberlain Freeland
+[$$@ William the Conqueror](https://worcester.emuseum.com/objects/7479/william-the-conqueror)
+
+## Emil Fuchs
+[Lady in Black](https://www.brooklynmuseum.org/objects/405)
+[Lady in Blue](https://www.brooklynmuseum.org/objects/404)
+[Emily Post](https://www.brooklynmuseum.org/objects/407)
+
+## Mary Shepard Greene Blumenschein
+[# The Princess and the Frog](https://www.brooklynmuseum.org/objects/112)
+
+## Edward Henry Potthast
+[On the beach](https://www.brooklynmuseum.org/objects/63)
+[Bathers](https://www.brooklynmuseum.org/objects/62)
+
+## Guy Pène du Bois
+[The Confidence Man](https://www.brooklynmuseum.org/objects/1222)
+[Woman on Sofa](https://www.brooklynmuseum.org/objects/1220)
+
+## Luis Cadena
+[Spinning Peasant](https://collections.lacma.org/object/201808)
+
+## Johann Wolfgang Baumgartner
+[# Scenes from the Life of Saint Arianus](https://collections.lacma.org/object/74240)
+
+## Randall Davey
+[# Drunkard](https://collections.lacma.org/object/125056)
+
+## Louis-Edouard Dubufe
+[$ Portrait of Princess Brancaccio-Massimo](https://collections.lacma.org/object/103898)

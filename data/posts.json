@@ -509,7 +509,7 @@
   {
     "slug": "aktstudie",
     "title": "Aktstudie",
-    "image": "/collection/bonnier__aktstudie.png",
+    "image": "/collection/bonnier__aktstudie.jpg",
     "artist": "Eva Bonnier",
     "date": "Made 1880s",
     "height": 80.5,
@@ -866,21 +866,6 @@
     "copyright": "Public Domain"
   },
   {
-    "slug": "st-michaels-church-in-kiev",
-    "title": "St. Michael's Church in Kiev",
-    "image": "/collection/stanislawski__st-michaels-church-in-kiev.jpg",
-    "artist": "Jan Stanisławski",
-    "date": "ok. 1903",
-    "height": 24,
-    "width": 33,
-    "medium": "Oil",
-    "support": "Pasteboard",
-    "accession": "MP 4778 MNW",
-    "location": "National Museum in Warsaw",
-    "source": "https://cyfrowe.mnw.art.pl/en/catalog/447157",
-    "copyright": "Public Domain"
-  },
-  {
     "slug": "portrait-of-a-man-4",
     "title": "Portrait of a Man",
     "image": "/collection/kramskoy__portrait-of-a-man.jpg",
@@ -938,21 +923,6 @@
     "accession": "49.22",
     "location": "High Museum of Art",
     "source": "https://high.org/collection/meditation/",
-    "copyright": ""
-  },
-  {
-    "slug": "snow-storm",
-    "title": "Snow Storm",
-    "image": "/collection/la-farge__snow-storm.jpg",
-    "artist": "John La Farge",
-    "date": "1865",
-    "height": 41.9,
-    "width": 30.4,
-    "medium": "Oil",
-    "support": "Panel",
-    "accession": "2006.63",
-    "location": "High Museum of Art",
-    "source": "  https://high.org/collection/snow-storm/",
     "copyright": ""
   },
   {
@@ -1264,20 +1234,6 @@
     "source": "https://cyfrowe.mnw.art.pl/en/catalog/453217"
   },
   {
-    "slug": "church-of-san-trovaso",
-    "title": "The Church of San Trovaso, Venice",
-    "image": "/collection/joyant__church-of-san-trovaso.jpg",
-    "artist": "Jules-Romain Joyant",
-    "date": "c. 1830",
-    "height": 15.5,
-    "width": 23.5,
-    "medium": "Oil on Paper",
-    "support": "Canvas",
-    "accession": "2004.166.24",
-    "location": "National Gallery of Art",
-    "source": "https://www.nga.gov/artworks/130890-church-san-trovaso-venice"
-  },
-  {
     "slug": "young-boy-in-straw-hat",
     "title": "Study of a young boy in a straw hat",
     "image": "/collection/pimonienko__young-boy-in-a-straw-hat.jpg",
@@ -1367,21 +1323,6 @@
     "copyright": "Museum of Fine Arts - Hungarian National Gallery"
   },
   {
-    "slug": "gypsies",
-    "title": "Gypsies",
-    "image": "/collection/pettenkofen__gypsies.jpg",
-    "artist": "August von Pettenkofen",
-    "date": "mid-19th century",
-    "height": 27,
-    "width": 40,
-    "medium": "Oil",
-    "support": "Canvas",
-    "accession": "391.B",
-    "location": "Museum of Fine Arts - Hungarian National Gallery",
-    "source": "https://en.mng.hu/artworks/668/",
-    "copyright": "Museum of Fine Arts - Hungarian National Gallery"
-  },
-  {
     "slug": "study-of-a-womans-head",
     "title": "Study of a Woman's Head",
     "image": "/collection/baditz__study-of-a-womans-head.jpg",
@@ -1442,6 +1383,20 @@
     "copyright": "Museum of Fine Arts - Hungarian National Gallery"
   },
   {
+    "slug": "chilly-woman",
+    "title": "Chilly Woman",
+    "image": "/collection/gola__chilly-woman.webp",
+    "artist": "Emilio Gola",
+    "date": "c. 1880",
+    "height": 51.5,
+    "width": 41.7,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "hwm0137",
+    "location": "De Mesdag Collectie",
+    "source": "https://www.demesdagcollectie.nl/en/collection/hwm0137"
+  },
+  {
     "slug": "toreador",
     "title": "Toreador",
     "image": "/collection/boruth__toreador.jpg",
@@ -1499,21 +1454,6 @@
     "accession": "7820",
     "location": "Bellas Artes",
     "source": "https://www.bellasartes.gob.ar/en/collection/work/7820/",
-    "copyright": "Public Domain"
-  },
-  {
-    "slug": "without-bread-and-without-work",
-    "title": "Without Bread and Without Work",
-    "image": "/collection/carcova__without-bread-and-without-work.jpg",
-    "artist": "Ernesto de la Cárcova",
-    "date": "1894",
-    "height": 125.5,
-    "width": 216,
-    "medium": "Oil",
-    "support": "Canvas",
-    "accession": "1777",
-    "location": "Bellas Artes",
-    "source": "https://www.bellasartes.gob.ar/en/collection/work/1777/",
     "copyright": "Public Domain"
   },
   {
@@ -1622,18 +1562,18 @@
     "copyright": "Museo Nacional del Prado"
   },
   {
-    "slug": "an-alter-boy-practices-his-singing",
-    "title": "An altar boy practices his singing",
-    "image": "/collection/camarlench__an-altar-boy-practices-his-singing.jpg",
+    "slug": "female-nude",
+    "title": "Female Nude",
+    "image": "/collection/camarlench__female-nude.jpg",
     "artist": "Ignacio Pinazo Camarlench",
-    "date": "1891",
-    "height": 106,
-    "width": 70,
+    "date": "1894",
+    "height": 31,
+    "width": 20,
     "medium": "Oil",
-    "support": "Canvas",
-    "accession": "P007396",
+    "support": "Panel",
+    "accession": "P004566",
     "location": "Museo Del Prado",
-    "source": "https://www.museodelprado.es/en/the-collection/art-work/an-altar-boy-practices-his-singing/5fbfa4c9-8095-4527-8467-0a0a36945fbf",
+    "source": "https://www.museodelprado.es/en/the-collection/art-work/female-nude/b973fa09-682f-4033-9a7b-1637a9be79d0",
     "copyright": "Museo Nacional del Prado"
   },
   {
@@ -2793,7 +2733,7 @@
     "support": "Canvas",
     "accession": "ГЭ-609",
     "location": "The State Hermitage Museum",
-    "source": "https://www.hermitagemuseum.org/digital-collection/46300?lng=en"
+    "source": "https://www.hermitagemuseum.org/digital-collection/46300"
   },
   {
     "slug": "nude-study",
@@ -2981,20 +2921,6 @@
     "accession": "1986.108",
     "location": "High Museum of Art",
     "source": "https://high.org/collection/iva-in-black-velvet-dress/"
-  },
-  {
-    "slug": "veteran-in-a-new-field",
-    "title": "The Veteran in a New Field",
-    "image": "/collection/homer__veteran-in-a-new-field.jpg",
-    "artist": "Winslow Homer",
-    "date": "1865",
-    "height": 61.3,
-    "width": 96.8,
-    "medium": "Oil",
-    "support": "Canvas",
-    "accession": "2007-1-1",
-    "location": "Metropolitan Museum of Art",
-    "source": "https://www.metmuseum.org/art/collection/search/11145"
   },
   {
     "slug": "pink-azalea—chinese-vase",
@@ -3272,20 +3198,6 @@
     "source": "https://commons.wikimedia.org/wiki/File:Cleopatra_-_John_William_Waterhouse.jpg"
   },
   {
-    "slug": "hare",
-    "title": "The Hare",
-    "image": "/collection/borremans__the-hare.jpg",
-    "artist": "Michaël Borremans",
-    "date": "2005",
-    "height": 40.4,
-    "width": 50.3,
-    "medium": "Oil",
-    "support": "Canvas",
-    "accession": "Cat. 992",
-    "location": "San Francisco Museum of Modern Art",
-    "source": "https://www.sfmoma.org/artwork/2006.75/"
-  },
-  {
     "slug": "hussars",
     "title": "Hussars",
     "image": "/collection/breitner__hussars.webp",
@@ -3326,7 +3238,7 @@
     "support": "Panel",
     "accession": "ГЭ-1425",
     "location": "The State Hermitage Museum",
-    "source": "https://www.hermitagemuseum.org/digital-collection/38881?lng=en",
+    "source": "https://www.hermitagemuseum.org/digital-collection/38881",
     "copyright": "The State Hermitage Museum"
   },
   {
@@ -3598,21 +3510,6 @@
     "copyright": ""
   },
   {
-    "slug": "portrait-of-a-man-3",
-    "title": "Portrait of a Man",
-    "image": "/collection/dou__portrait-of-a-man.jpg",
-    "artist": "Gerrit Dou",
-    "date": "1635-40",
-    "height": 18.9,
-    "width": 14.7,
-    "medium": "Oil",
-    "support": "Canvas",
-    "accession": "NG192",
-    "location": "National Gallery of Art",
-    "source": "https://www.nationalgallery.org.uk/paintings/gerrit-dou-portrait-of-a-man",
-    "copyright": "CC BY-NC-ND 4.0"
-  },
-  {
     "slug": "ships-lying-off-flushing",
     "title": "Ships lying off Flushing",
     "image": "/collection/clays__ships-lying-off-flushing.jpg",
@@ -3714,36 +3611,6 @@
     "accession": null,
     "location": "Private Collection",
     "source": "https://www.wikiart.org/en/konstantin-makovsky/the-girl-with-the-red-ribbon"
-  },
-  {
-    "slug": "off-the-north-shore",
-    "title": "Off the North Shore",
-    "image": "/collection/cole__off-the-north-shore.jpg",
-    "artist": "J. Foxcroft Cole",
-    "date": "19th century",
-    "height": 21.2,
-    "width": 27,
-    "medium": "Oil",
-    "support": "Cardboard Panel",
-    "accession": "45.458",
-    "location": "Fransworth Art Museum",
-    "source": "https://collection.farnsworthmuseum.org/objects/186/off-the-north-shore",
-    "copyright": "Restricted"
-  },
-  {
-    "slug": "seascape",
-    "title": "Seascape",
-    "image": "/collection/buhler__seascape.jpg",
-    "artist": "Augustus Buhler",
-    "date": "Circa 1916",
-    "height": 22.8,
-    "width": 30.4,
-    "medium": "Oil",
-    "support": "Panel",
-    "accession": "69.1641",
-    "location": "Fransworth Art Museum",
-    "source": "https://collection.farnsworthmuseum.org/objects/69/seascape",
-    "copyright": "Restricted"
   },
   {
     "slug": "black-girl",
@@ -3893,20 +3760,6 @@
     "copyright": "Public Domain"
   },
   {
-    "slug": "still-life-with-pheasant",
-    "title": "Still Life with Pheasant",
-    "image": "/collection/carlsen__still-life-with-pheasant.jpg",
-    "artist": "Emil Carlsen",
-    "date": "1890",
-    "height": 59.1,
-    "width": 89.2,
-    "medium": "Oil",
-    "support": "Canvas",
-    "accession": "1991.108",
-    "location": "Fine Arts Museum of San Francisco",
-    "source": "https://www.famsf.org/artworks/still-life-with-pheasant"
-  },
-  {
     "slug": "mrs-martin-a-ryerson",
     "title": "Mrs. Martin A. Ryerson",
     "image": "/collection/betts__mrs-martin-a-ryerson.jpg",
@@ -4035,6 +3888,132 @@
     "copyright": ""
   },
   {
+    "slug": "princess-and-the-frog",
+    "title": "The Princess and the Frog",
+    "image": "/collection/blumenschein__princess-and-the-frog.jpg",
+    "artist": "Mary Shepard Greene Blumenschein",
+    "date": "1909",
+    "height": 64.1,
+    "width": 81,
+    "medium": "Oil",
+    "support": "Panel",
+    "accession": "18.44",
+    "location": "Brooklyn Museum",
+    "source": "https://www.brooklynmuseum.org/objects/112"
+  },
+  {
+    "slug": "madame-plevitzskaia",
+    "title": "Madame Plevitzskaia",
+    "image": "/collection/blackstone__madame-plevitzskaia.jpg",
+    "artist": "Harriet Blackstone",
+    "date": "ca. 1927",
+    "height": 71.1,
+    "width": 61.2,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "29.1193",
+    "location": "Brooklyn Museum",
+    "source": "https://www.brooklynmuseum.org/objects/28697"
+  },
+  {
+    "slug": "man-wearing-laurels",
+    "title": "Man Wearing Laurels",
+    "image": "/collection/sargent__man-wearing-laurels.jpg",
+    "artist": "John Singer Sargent",
+    "date": "1874-1880",
+    "height": 44.4,
+    "width": 33.5,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "40.12.10",
+    "location": "Los Angeles County Museum of Art",
+    "source": "https://collections.lacma.org/object/7802"
+  },
+  {
+    "slug": "diana-resting",
+    "title": "Diana Resting",
+    "image": "/collection/millet__diana-resting.jpg",
+    "artist": "Jean-François Millet",
+    "date": "circa 1845",
+    "height": 40.6,
+    "width": 33,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "M.44.5.1",
+    "location": "Los Angeles County Museum of Art",
+    "source": "https://collections.lacma.org/object/9270"
+  },
+  {
+    "slug": "drunkard",
+    "title": "The Drunkard",
+    "image": "/collection/davey__drunkard.webp",
+    "artist": "Randall Davey",
+    "date": "1910",
+    "height": 80,
+    "width": 69.2,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "M.2003.173",
+    "location": "Los Angeles County Museum of Art",
+    "source": "https://collections.lacma.org/object/125056"
+  },
+  {
+    "slug": "head-of-a-man-in-oriental-costume",
+    "title": "Head of a Man in Oriental Costume",
+    "image": "/collection/gandolfi__head-of-a-man-in-oriental-costume.jpg",
+    "artist": "Gaetano Gandolfi",
+    "date": "circa 1755",
+    "height": 48.2,
+    "width": 35.4,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "M.82.199",
+    "location": "Los Angeles County Museum of Art",
+    "source": "https://collections.lacma.org/object/38539"
+  },
+  {
+    "slug": "pablo-de-sarasate",
+    "title": "Pablo de Sarasate: Portrait of a Violinist",
+    "image": "/collection/chase__pablo-de-sarasate.jpg",
+    "artist": "William Merritt Chase",
+    "date": "circa 1875",
+    "height": 57.1,
+    "width": 47.7,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "40.12.9",
+    "location": "Los Angeles County Museum of Art",
+    "source": "https://collections.lacma.org/object/7686"
+  },
+  {
+    "slug": "scenes-from-the-life-of-saint-arianus",
+    "title": "Scenes from the Life of Saint Arianus",
+    "image": "/collection/baumgartner__from-the-life-of-saint-arianus.jpg",
+    "artist": "Johann Wolfgang Baumgartner",
+    "date": "circa 1755",
+    "height": 30.4,
+    "width": 20.9,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "AC1997.118.1",
+    "location": "Los Angeles County Museum of Art",
+    "source": "https://collections.lacma.org/object/74240"
+  },
+  {
+    "slug": "young-woman-in-a-round-hat",
+    "title": "Young Woman in a Round Hat",
+    "image": "/collection/manet__young-woman-in-a-round-hat.webp",
+    "artist": "Édouard Manet",
+    "date": "circa 1877-1879",
+    "height": 54.6,
+    "width": 45.0,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "M.2026.1.2",
+    "location": "Los Angeles County Museum of Art",
+    "source": "https://collections.lacma.org/object/263697"
+  },
+  {
     "slug": "portrait-of-a-man",
     "title": "Portrait of a Man",
     "image": "/collection/page__portrait-of-a-man.jpg",
@@ -4106,20 +4085,6 @@
     "copyright": "Public Domain"
   },
   {
-    "slug": "still-life-of-fish",
-    "title": "Still Life of Fish",
-    "image": "/collection/chase__still-life-of-fish.jpg",
-    "artist": "William Merritt Chase",
-    "date": "1908",
-    "height": 101.9,
-    "width": 114.5,
-    "medium": "Oil",
-    "support": "Canvas",
-    "accession": "08.139.2",
-    "location": "Metropolitan Museum of Art",
-    "source": "https://www.metmuseum.org/art/collection/search/10476"
-  },
-  {
     "slug": "portrait-of-william-merritt-chase-2",
     "title": "Portrait of William Merritt Chase",
     "image": "/collection/lang__portrait-of-william-merritt-chase.jpg",
@@ -4189,7 +4154,7 @@
     "support": "Panel",
     "accession": "22.7",
     "location": "Museum of Fine Arts Boston",
-    "source": "https://collections.mfa.org/objects/31943/madam-powel-elizabeth-willing?ctx=aca67666-ef10-470c-9f27-a70a9feef6c6&idx=299"
+    "source": "https://collections.mfa.org/objects/31943/madam-powel-elizabeth-willing"
   },
   {
     "slug": "still-life-with-golden-bream",
@@ -4293,6 +4258,21 @@
     "accession": "1978-1-17",
     "location": "Philadelphia Museum of Art",
     "source": "https://www.philamuseum.org/objects/72089"
+  },
+  {
+    "slug": "paul-gachet",
+    "title": "Paul Gachet",
+    "image": "/collection/emile__paul-gachet.jpg",
+    "artist": "Bernard Emile",
+    "date": "1926",
+    "height": 40,
+    "width": 32,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "RF 1977 39",
+    "location": "Musée d'Orsay",
+    "source": "https://www.musee-orsay.fr/en/artworks/paul-gachet-16609",
+    "copyright": "© RMN-Grand Palais (Musée d’Orsay) / Hervé Lewandowski"
   },
   {
     "slug": "kentucky-mountaineer",
@@ -4494,7 +4474,7 @@
     "support": "Canvas",
     "accession": "ГЭ-751",
     "location": "The State Hermitage Museum",
-    "source": "https://www.hermitagemuseum.org/digital-collection/43481?lng=en"
+    "source": "https://www.hermitagemuseum.org/digital-collection/43481"
   },
   {
     "slug": "santa-maria-della-salute",
@@ -4553,6 +4533,21 @@
     "source": "https://www.philamuseum.org/objects/299524"
   },
   {
+    "slug": "st-michaels-church-in-kiev",
+    "title": "St. Michael's Church in Kiev",
+    "image": "/collection/stanislawski__st-michaels-church-in-kiev.jpg",
+    "artist": "Jan Stanisławski",
+    "date": "ok. 1903",
+    "height": 24,
+    "width": 33,
+    "medium": "Oil",
+    "support": "Pasteboard",
+    "accession": "MP 4778 MNW",
+    "location": "National Museum in Warsaw",
+    "source": "https://cyfrowe.mnw.art.pl/en/catalog/447157",
+    "copyright": "Public Domain"
+  },
+  {
     "slug": "afternoon-venice",
     "title": "Afternoon, Venice",
     "image": "/collection/carlyle__afternoon-venice.jpg",
@@ -4568,18 +4563,149 @@
     "copyright": "Open Access"
   },
   {
-    "slug": "paul-gachet",
-    "title": "Paul Gachet",
-    "image": "/collection/emile__paul-gachet.jpg",
-    "artist": "Bernard Emile",
-    "date": "1926",
-    "height": 40,
-    "width": 32,
+    "slug": "church-of-san-trovaso",
+    "title": "The Church of San Trovaso, Venice",
+    "image": "/collection/joyant__church-of-san-trovaso.jpg",
+    "artist": "Jules-Romain Joyant",
+    "date": "c. 1830",
+    "height": 15.5,
+    "width": 23.5,
+    "medium": "Oil on Paper",
+    "support": "Canvas",
+    "accession": "2004.166.24",
+    "location": "National Gallery of Art",
+    "source": "https://www.nga.gov/artworks/130890-church-san-trovaso-venice"
+  },
+  {
+    "slug": "gypsies",
+    "title": "Gypsies",
+    "image": "/collection/pettenkofen__gypsies.jpg",
+    "artist": "August von Pettenkofen",
+    "date": "mid-19th century",
+    "height": 27,
+    "width": 40,
     "medium": "Oil",
     "support": "Canvas",
-    "accession": "RF 1977 39",
-    "location": "Musée d'Orsay",
-    "source": "https://www.musee-orsay.fr/en/artworks/paul-gachet-16609",
-    "copyright": "© RMN-Grand Palais (Musée d’Orsay) / Hervé Lewandowski"
+    "accession": "391.B",
+    "location": "Museum of Fine Arts - Hungarian National Gallery",
+    "source": "https://en.mng.hu/artworks/668/",
+    "copyright": "Museum of Fine Arts - Hungarian National Gallery"
+  },
+  {
+    "slug": "an-alter-boy-practices-his-singing",
+    "title": "An altar boy practices his singing",
+    "image": "/collection/camarlench__an-altar-boy-practices-his-singing.jpg",
+    "artist": "Ignacio Pinazo Camarlench",
+    "date": "1891",
+    "height": 106,
+    "width": 70,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "P007396",
+    "location": "Museo Del Prado",
+    "source": "https://www.museodelprado.es/en/the-collection/art-work/an-altar-boy-practices-his-singing/5fbfa4c9-8095-4527-8467-0a0a36945fbf",
+    "copyright": "Museo Nacional del Prado"
+  },
+  {
+    "slug": "veteran-in-a-new-field",
+    "title": "The Veteran in a New Field",
+    "image": "/collection/homer__veteran-in-a-new-field.jpg",
+    "artist": "Winslow Homer",
+    "date": "1865",
+    "height": 61.3,
+    "width": 96.8,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "2007-1-1",
+    "location": "Metropolitan Museum of Art",
+    "source": "https://www.metmuseum.org/art/collection/search/11145"
+  },
+  {
+    "slug": "without-bread-and-without-work",
+    "title": "Without Bread and Without Work",
+    "image": "/collection/carcova__without-bread-and-without-work.jpg",
+    "artist": "Ernesto de la Cárcova",
+    "date": "1894",
+    "height": 125.5,
+    "width": 216,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "1777",
+    "location": "Bellas Artes",
+    "source": "https://www.bellasartes.gob.ar/en/collection/work/1777/",
+    "copyright": "Public Domain"
+  },
+  {
+    "slug": "off-the-north-shore",
+    "title": "Off the North Shore",
+    "image": "/collection/cole__off-the-north-shore.jpg",
+    "artist": "J. Foxcroft Cole",
+    "date": "19th century",
+    "height": 21.2,
+    "width": 27,
+    "medium": "Oil",
+    "support": "Cardboard Panel",
+    "accession": "45.458",
+    "location": "Fransworth Art Museum",
+    "source": "https://collection.farnsworthmuseum.org/objects/186/off-the-north-shore",
+    "copyright": "Restricted"
+  },
+  {
+    "slug": "seascape",
+    "title": "Seascape",
+    "image": "/collection/buhler__seascape.jpg",
+    "artist": "Augustus Buhler",
+    "date": "Circa 1916",
+    "height": 22.8,
+    "width": 30.4,
+    "medium": "Oil",
+    "support": "Panel",
+    "accession": "69.1641",
+    "location": "Fransworth Art Museum",
+    "source": "https://collection.farnsworthmuseum.org/objects/69/seascape",
+    "copyright": "Restricted"
+  },
+  {
+    "slug": "still-life-with-pheasant",
+    "title": "Still Life with Pheasant",
+    "image": "/collection/carlsen__still-life-with-pheasant.jpg",
+    "artist": "Emil Carlsen",
+    "date": "1890",
+    "height": 59.1,
+    "width": 89.2,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "1991.108",
+    "location": "Fine Arts Museum of San Francisco",
+    "source": "https://www.famsf.org/artworks/still-life-with-pheasant"
+  },
+  {
+    "slug": "snow-storm",
+    "title": "Snow Storm",
+    "image": "/collection/la-farge__snow-storm.jpg",
+    "artist": "John La Farge",
+    "date": "1865",
+    "height": 41.9,
+    "width": 30.4,
+    "medium": "Oil",
+    "support": "Panel",
+    "accession": "2006.63",
+    "location": "High Museum of Art",
+    "source": "  https://high.org/collection/snow-storm/",
+    "copyright": ""
+  },
+  {
+    "slug": "still-life-of-fish",
+    "title": "Still Life of Fish",
+    "image": "/collection/chase__still-life-of-fish.jpg",
+    "artist": "William Merritt Chase",
+    "date": "1908",
+    "height": 101.9,
+    "width": 114.5,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "08.139.2",
+    "location": "Metropolitan Museum of Art",
+    "source": "https://www.metmuseum.org/art/collection/search/10476"
   }
 ]
