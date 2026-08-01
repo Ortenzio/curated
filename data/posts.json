@@ -1,5 +1,20 @@
 [
   {
+    "slug": "necklace",
+    "title": "The Necklace",
+    "image": "/collection/barney__the-necklace.jpg",
+    "artist": "Alice Pike Barney",
+    "date": "1898",
+    "height": 46.6,
+    "width": 41.1,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "1951.14.77",
+    "location": "Smithsonian Art Museum",
+    "source": "https://americanart.si.edu/artwork/necklace-1289",
+    "copyright": "CC0"
+  },
+  {
     "slug": "william-merritt-chase",
     "title": "Self-Portrait of William Merritt Chase",
     "image": "/collection/chase__william-merritt-chase.jpg",
@@ -27,20 +42,6 @@
     "accession": "387",
     "location": "National Academy of San Luca",
     "source": "https://accademiasanluca.it/collezioni/opere/autoritratto-1-faruffini"
-  },
-  {
-    "slug": "lourens-alma-tadema",
-    "title": "Self-Portrait of Lourens Alma Tadema",
-    "image": "/collection/tadema__lourens-alma-tadema.jpg",
-    "artist": "Lourens Alma Tadema",
-    "date": "1875",
-    "height": 61,
-    "width": 45,
-    "medium": "Oil",
-    "support": "Canvas",
-    "accession": "714",
-    "location": "National Academy of San Luca",
-    "source": "https://accademiasanluca.it/collezioni/opere/autoritratto-1-alma"
   },
   {
     "slug": "head-of-an-old-man-in-right-profile",
@@ -282,21 +283,6 @@
     "copyright": "CC0 1.0"
   },
   {
-    "slug": "artists-sister-with-her-dog",
-    "title": "Die Schwester der Künstlerin mit Hund",
-    "image": "/collection/bauck__artists-sister-with-her-dog.jpg",
-    "artist": "Jenna Bauck",
-    "date": "around 1890",
-    "height": 66.5,
-    "width": 48,
-    "medium": "Oil",
-    "support": "Canvas",
-    "accession": "G 13161",
-    "location": "Lenbachhaus",
-    "source": "https://www.lenbachhaus.de/en/digital/collection-online/detail/die-schwester-der-kuenstlerin-mit-hund-30020308",
-    "copyright": "CC0 1.0"
-  },
-  {
     "slug": "coassak",
     "title": "A Cossak",
     "image": "/collection/chelmonski__cossak.jpg",
@@ -327,6 +313,20 @@
     "copyright": "CC0 - Public domain"
   },
   {
+    "slug": "gross-clinic",
+    "title": "Portrait of Dr. Samuel D. Gross (The Gross Clinic)",
+    "image": "/collection/eakins__the-gross-clinic.jpg",
+    "artist": "Thomas Eakins",
+    "date": "1875",
+    "height": 243.8,
+    "width": 198.1,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "2007-1-1",
+    "location": "Philadelphia Museum of Art",
+    "source": "https://www.philamuseum.org/objects/299524"
+  },
+  {
     "slug": "der-hoffotograf-josef-lowy",
     "title": "Der Hoffotograf Josef Löwy",
     "image": "/collection/berger__der-hoffotograf-josef-lowy.jpg",
@@ -339,21 +339,6 @@
     "accession": "2704",
     "location": "Österreichische Galerie Belvedere",
     "source": "https://sammlung.belvedere.at/objects/8503/der-hoffotograf-josef-lowy",
-    "copyright": "Public Domain"
-  },
-  {
-    "slug": "still-life-with-armor",
-    "title": "Still Life with Armor",
-    "image": "/collection/klimt__still-life-with-armor.jpg",
-    "artist": "Ernst Klimt",
-    "date": "c. 1885",
-    "height": 19,
-    "width": 26.5,
-    "medium": "Oil",
-    "support": "Canvas on Cardboard",
-    "accession": "8429",
-    "location": "Österreichische Galerie Belvedere",
-    "source": "https://sammlung.belvedere.at/objects/1468/stillleben-mit-rustung",
     "copyright": "Public Domain"
   },
   {
@@ -417,21 +402,6 @@
     "copyright": "Public Domain"
   },
   {
-    "slug": "hundestudie",
-    "title": "Hundestudie",
-    "image": "/collection/jungere__hundestudie.jpg",
-    "artist": "Johann Till der Jüngere",
-    "date": "um 1870/1880",
-    "height": 12.5,
-    "width": 21.8,
-    "medium": "Oil",
-    "support": "Cardboard",
-    "accession": "SLM 157",
-    "location": "Österreichische Galerie Belvedere",
-    "source": "https://sammlung.belvedere.at/objects/55677/hundestudie",
-    "copyright": "Public Domain"
-  },
-  {
     "slug": "actress-sarah-bernhardt",
     "title": "The Actress Sarah Bernhardt",
     "image": "/collection/bastien-lepage__actress-sarah-bernhardt.jpg",
@@ -459,21 +429,6 @@
     "accession": "NM 2817",
     "location": "National Gallery of Sweeden",
     "source": "https://collection.nationalmuseum.se/en/collection/item/19872/",
-    "copyright": "Public Domain"
-  },
-  {
-    "slug": "dining-room",
-    "title": "The Dining Room",
-    "image": "/collection/lundegard__dining-room.png",
-    "artist": "Justus Lundegård",
-    "date": "Sign. 1919",
-    "height": 63.5,
-    "width": 50.5,
-    "medium": "Oil",
-    "support": "Canvas",
-    "accession": "NM 4722",
-    "location": "National Gallery of Sweeden",
-    "source": "https://collection.nationalmuseum.se/en/collection/item/21772/",
     "copyright": "Public Domain"
   },
   {
@@ -851,6 +806,21 @@
     "source": "https://www.philamuseum.org/objects/66450"
   },
   {
+    "slug": "artists-sister-with-her-dog",
+    "title": "Die Schwester der Künstlerin mit Hund",
+    "image": "/collection/bauck__artists-sister-with-her-dog.jpg",
+    "artist": "Jenna Bauck",
+    "date": "around 1890",
+    "height": 66.5,
+    "width": 48,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "G 13161",
+    "location": "Lenbachhaus",
+    "source": "https://www.lenbachhaus.de/en/digital/collection-online/detail/die-schwester-der-kuenstlerin-mit-hund-30020308",
+    "copyright": "CC0 1.0"
+  },
+  {
     "slug": "henryk-szczyglinski",
     "title": "Self-Portrait of Henryk Szczygliński",
     "image": "/collection/szczyglinski__henryk-szczyglinski.jpg",
@@ -970,21 +940,6 @@
     "source": "https://www.clevelandart.org/art/1921.1239"
   },
   {
-    "slug": "necklace",
-    "title": "The Necklace",
-    "image": "/collection/barney__the-necklace.jpg",
-    "artist": "Alice Pike Barney",
-    "date": "1898",
-    "height": 46.6,
-    "width": 41.1,
-    "medium": "Oil",
-    "support": "Canvas",
-    "accession": "1951.14.77",
-    "location": "Smithsonian Art Museum",
-    "source": "https://americanart.si.edu/artwork/necklace-1289",
-    "copyright": "CC0"
-  },
-  {
     "slug": "hipolit-lipinski",
     "title": "Self-Portrait of Hipolit Lipiński",
     "image": "/collection/lipinski__hipolit-lipinski.jpg",
@@ -1074,7 +1029,7 @@
     "copyright": "Hood Museum of Art, Dartmouth"
   },
   {
-    "slug": "hans-heyerdahl",
+    "slug": "erik-xiv-and-karin-mansdotter-in-prison",
     "title": "Erik XIV and Karin Månsdotter in Prison. Sketch",
     "image": "/collection/perseus__erik-xiv-and-karin-mansdotter-in-prison.jpg",
     "artist": "Edvard Perséus",
@@ -2545,21 +2500,6 @@
     "copyright": "Open Access"
   },
   {
-    "slug": "still-life-of-eggs",
-    "title": "Still Life of Eggs",
-    "image": "/collection/bail__still-life-of-eggs.jpg",
-    "artist": "Claude Joseph Bail",
-    "date": "n.d.",
-    "height": 89.5,
-    "width": 102.8,
-    "medium": "Oil",
-    "support": "Canvas",
-    "accession": "L120",
-    "location": "Milwaukee Art Museum",
-    "source": "https://collection.mam.org/details.php?id=17911",
-    "copyright": "Milwaukee Art Museum"
-  },
-  {
     "slug": "portrait-of-charles-bregler",
     "title": "Portrait of Charles Bregler",
     "image": "/collection/sm-eakins__portrait-of-charles-bregler.jpg",
@@ -2632,6 +2572,20 @@
     "location": "Museum of Fine Arts - Hungarian National Gallery",
     "source": "https://en.mng.hu/artworks/49924/",
     "copyright": "Museum of Fine Arts - Hungarian National Gallery"
+  },
+  {
+    "slug": "lourens-alma-tadema",
+    "title": "Self-Portrait of Lourens Alma Tadema",
+    "image": "/collection/tadema__lourens-alma-tadema.jpg",
+    "artist": "Lourens Alma Tadema",
+    "date": "1875",
+    "height": 61,
+    "width": 45,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "714",
+    "location": "National Academy of San Luca",
+    "source": "https://accademiasanluca.it/collezioni/opere/autoritratto-1-alma"
   },
   {
     "slug": "at-the-window",
@@ -3110,21 +3064,6 @@
     "copyright": "Public Domain"
   },
   {
-    "slug": "lamb",
-    "title": "A Lamb",
-    "image": "/collection/zurbaran__lamb.jpg",
-    "artist": "Francisco de Zurbarán",
-    "date": "1635 - 1640",
-    "height": 37.3,
-    "width": 62,
-    "medium": "Oil",
-    "support": "Canvas",
-    "accession": "P007293",
-    "location": "Museo Del Prado",
-    "source": "https://www.museodelprado.es/en/the-collection/art-work/a-lamb/795b841a-ec81-4d10-bd8b-0c7a870e327b",
-    "copyright": "Museo Nacional del Prado"
-  },
-  {
     "slug": "waterside-landscape",
     "title": "Waterside landscape",
     "image": "/collection/daubigny__waterside-landscape.jpg",
@@ -3284,21 +3223,6 @@
     "accession": "1994.088.1",
     "location": "RISD Museum",
     "source": "https://risdmuseum.org/art-design/collection/portrait-gutzon-borglum-19940881"
-  },
-  {
-    "slug": "blomstrende-frukttraer",
-    "title": "Blomstrende frukttrær",
-    "image": "/collection/wahlberg__blomstrende-frukttraer.jpg",
-    "artist": "Herman Alfred Leonhard Wahlberg",
-    "date": "1906",
-    "height": 86,
-    "width": 142,
-    "medium": "Oil",
-    "support": "Canvas",
-    "accession": "RMS.M.00961",
-    "location": "Digital Museum",
-    "source": "https://digitaltmuseum.org/0210413620936/blomstrende-frukttraer-olje-pa-lerret",
-    "copyright": "CC BY-NC-ND 4.0"
   },
   {
     "slug": "juan-de-pareja",
@@ -3508,21 +3432,6 @@
     "location": "Tate",
     "source": "https://www.tate.org.uk/art/artworks/de-belleroche-olympia-de-la-fontaine-t00003",
     "copyright": ""
-  },
-  {
-    "slug": "ships-lying-off-flushing",
-    "title": "Ships lying off Flushing",
-    "image": "/collection/clays__ships-lying-off-flushing.jpg",
-    "artist": "Paul Jean Clays",
-    "date": "1869",
-    "height": 59.9,
-    "width": 86.8,
-    "medium": "Oil",
-    "support": "Wood",
-    "accession": "NG814",
-    "location": "National Gallery of Art",
-    "source": "https://www.nationalgallery.org.uk/paintings/paul-jean-clays-ships-lying-off-flushing",
-    "copyright": "CC BY-NC-ND 4.0"
   },
   {
     "slug": "seated-girl-in-a-long-black-dress",
@@ -4246,20 +4155,6 @@
     "source": "https://davidleffel.com/self-portraits/"
   },
   {
-    "slug": "still-life-with-white-roses",
-    "title": "Still Life with White Roses",
-    "image": "/collection/fantin-latour__still-life-with-white-roses.jpg",
-    "artist": "Henri Fantin-Latour",
-    "date": "1875",
-    "height": 55.4,
-    "width": 59.1,
-    "medium": "Oil",
-    "support": "Canvas",
-    "accession": "1978-1-17",
-    "location": "Philadelphia Museum of Art",
-    "source": "https://www.philamuseum.org/objects/72089"
-  },
-  {
     "slug": "paul-gachet",
     "title": "Paul Gachet",
     "image": "/collection/emile__paul-gachet.jpg",
@@ -4346,20 +4241,6 @@
     "accession": "1954.4.3",
     "location": "National Gallery of Art",
     "source": "https://www.nga.gov/artworks/42929-snow-new-york"
-  },
-  {
-    "slug": "cracked-watermelon",
-    "title": "Cracked Watermelon",
-    "image": "/collection/porter__cracked-watermelon.jpg",
-    "artist": "Charles Ethan Porter",
-    "date": "1890",
-    "height": 48.6,
-    "width": 71.6,
-    "medium": "Oil",
-    "support": "Canvas",
-    "accession": "2015.118",
-    "location": "Metropolitan Museum of Art",
-    "source": "https://www.metmuseum.org/art/collection/search/677910"
   },
   {
     "slug": "fernando-de-los-villares-amor",
@@ -4519,20 +4400,6 @@
     "source": "https://www.nga.gov/artworks/46493-mademoiselle-malot"
   },
   {
-    "slug": "gross-clinic",
-    "title": "Portrait of Dr. Samuel D. Gross (The Gross Clinic)",
-    "image": "/collection/eakins__the-gross-clinic.jpg",
-    "artist": "Thomas Eakins",
-    "date": "1875",
-    "height": 243.8,
-    "width": 198.1,
-    "medium": "Oil",
-    "support": "Canvas",
-    "accession": "2007-1-1",
-    "location": "Philadelphia Museum of Art",
-    "source": "https://www.philamuseum.org/objects/299524"
-  },
-  {
     "slug": "st-michaels-church-in-kiev",
     "title": "St. Michael's Church in Kiev",
     "image": "/collection/stanislawski__st-michaels-church-in-kiev.jpg",
@@ -4546,6 +4413,20 @@
     "location": "National Museum in Warsaw",
     "source": "https://cyfrowe.mnw.art.pl/en/catalog/447157",
     "copyright": "Public Domain"
+  },
+  {
+    "slug": "still-life-with-white-roses",
+    "title": "Still Life with White Roses",
+    "image": "/collection/fantin-latour__still-life-with-white-roses.jpg",
+    "artist": "Henri Fantin-Latour",
+    "date": "1875",
+    "height": 55.4,
+    "width": 59.1,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "1978-1-17",
+    "location": "Philadelphia Museum of Art",
+    "source": "https://www.philamuseum.org/objects/72089"
   },
   {
     "slug": "afternoon-venice",
@@ -4592,6 +4473,21 @@
     "copyright": "Museum of Fine Arts - Hungarian National Gallery"
   },
   {
+    "slug": "hundestudie",
+    "title": "Hundestudie",
+    "image": "/collection/jungere__hundestudie.jpg",
+    "artist": "Johann Till der Jüngere",
+    "date": "um 1870/1880",
+    "height": 12.5,
+    "width": 21.8,
+    "medium": "Oil",
+    "support": "Cardboard",
+    "accession": "SLM 157",
+    "location": "Österreichische Galerie Belvedere",
+    "source": "https://sammlung.belvedere.at/objects/55677/hundestudie",
+    "copyright": "Public Domain"
+  },
+  {
     "slug": "an-alter-boy-practices-his-singing",
     "title": "An altar boy practices his singing",
     "image": "/collection/camarlench__an-altar-boy-practices-his-singing.jpg",
@@ -4621,6 +4517,21 @@
     "source": "https://www.metmuseum.org/art/collection/search/11145"
   },
   {
+    "slug": "still-life-of-eggs",
+    "title": "Still Life of Eggs",
+    "image": "/collection/bail__still-life-of-eggs.jpg",
+    "artist": "Claude Joseph Bail",
+    "date": "n.d.",
+    "height": 89.5,
+    "width": 102.8,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "L120",
+    "location": "Milwaukee Art Museum",
+    "source": "https://collection.mam.org/details.php?id=17911",
+    "copyright": "Milwaukee Art Museum"
+  },
+  {
     "slug": "without-bread-and-without-work",
     "title": "Without Bread and Without Work",
     "image": "/collection/carcova__without-bread-and-without-work.jpg",
@@ -4633,6 +4544,21 @@
     "accession": "1777",
     "location": "Bellas Artes",
     "source": "https://www.bellasartes.gob.ar/en/collection/work/1777/",
+    "copyright": "Public Domain"
+  },
+  {
+    "slug": "dining-room",
+    "title": "The Dining Room",
+    "image": "/collection/lundegard__dining-room.png",
+    "artist": "Justus Lundegård",
+    "date": "Sign. 1919",
+    "height": 63.5,
+    "width": 50.5,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "NM 4722",
+    "location": "National Gallery of Sweeden",
+    "source": "https://collection.nationalmuseum.se/en/collection/item/21772/",
     "copyright": "Public Domain"
   },
   {
@@ -4664,6 +4590,80 @@
     "location": "Fransworth Art Museum",
     "source": "https://collection.farnsworthmuseum.org/objects/69/seascape",
     "copyright": "Restricted"
+  },
+  {
+    "slug": "still-life-with-armor",
+    "title": "Still Life with Armor",
+    "image": "/collection/klimt__still-life-with-armor.jpg",
+    "artist": "Ernst Klimt",
+    "date": "c. 1885",
+    "height": 19,
+    "width": 26.5,
+    "medium": "Oil",
+    "support": "Canvas on Cardboard",
+    "accession": "8429",
+    "location": "Österreichische Galerie Belvedere",
+    "source": "https://sammlung.belvedere.at/objects/1468/stillleben-mit-rustung",
+    "copyright": "Public Domain"
+  },
+  {
+    "slug": "ships-lying-off-flushing",
+    "title": "Ships lying off Flushing",
+    "image": "/collection/clays__ships-lying-off-flushing.jpg",
+    "artist": "Paul Jean Clays",
+    "date": "1869",
+    "height": 59.9,
+    "width": 86.8,
+    "medium": "Oil",
+    "support": "Wood",
+    "accession": "NG814",
+    "location": "National Gallery of Art",
+    "source": "https://www.nationalgallery.org.uk/paintings/paul-jean-clays-ships-lying-off-flushing",
+    "copyright": "CC BY-NC-ND 4.0"
+  },
+  {
+    "slug": "blomstrende-frukttraer",
+    "title": "Blomstrende frukttrær",
+    "image": "/collection/wahlberg__blomstrende-frukttraer.jpg",
+    "artist": "Herman Alfred Leonhard Wahlberg",
+    "date": "1906",
+    "height": 86,
+    "width": 142,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "RMS.M.00961",
+    "location": "Digital Museum",
+    "source": "https://digitaltmuseum.org/0210413620936/blomstrende-frukttraer-olje-pa-lerret",
+    "copyright": "CC BY-NC-ND 4.0"
+  },
+  {
+    "slug": "cracked-watermelon",
+    "title": "Cracked Watermelon",
+    "image": "/collection/porter__cracked-watermelon.jpg",
+    "artist": "Charles Ethan Porter",
+    "date": "1890",
+    "height": 48.6,
+    "width": 71.6,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "2015.118",
+    "location": "Metropolitan Museum of Art",
+    "source": "https://www.metmuseum.org/art/collection/search/677910"
+  },
+  {
+    "slug": "lamb",
+    "title": "A Lamb",
+    "image": "/collection/zurbaran__lamb.jpg",
+    "artist": "Francisco de Zurbarán",
+    "date": "1635 - 1640",
+    "height": 37.3,
+    "width": 62,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "P007293",
+    "location": "Museo Del Prado",
+    "source": "https://www.museodelprado.es/en/the-collection/art-work/a-lamb/795b841a-ec81-4d10-bd8b-0c7a870e327b",
+    "copyright": "Museo Nacional del Prado"
   },
   {
     "slug": "still-life-with-pheasant",

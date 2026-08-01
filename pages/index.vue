@@ -12,11 +12,12 @@
         class="app__post-link"
         :aria-label="post.title"
       >
-        <nuxt-img 
+        <nuxt-img
           class="app__post-image" 
           :src="post.image" 
           preset="thumb" 
           loading="lazy"
+          :style="{ 'view-transition-name': post.slug }"
           :aria-labelledby="`post__${post.slug}`"
         />
       </a>
@@ -37,6 +38,8 @@ useSeoMeta({
 })
 
 </script>
+
+<style src="~/styles/views/main.css" />
 
 <style>
 .app {

@@ -51,6 +51,9 @@ export default defineNuxtConfig({
       }
     }
   },
+  features: {
+    inlineStyles: false
+  },
   routeRules: {
     '/**': {
       noScripts: true
@@ -86,7 +89,7 @@ export default defineNuxtConfig({
     async 'close' (ctx) {
       await rm('.output/public/collection', { recursive: true, force: true })
       await rm('dist', { force: true })
-      await rm('.output/public/_nuxt', { force: true, recursive: true })
+      // await rm('.output/public/_nuxt', { force: true, recursive: true })
       await rename('.output/public/_ipx', '.output/public/ipx');
       await rename('.output/public/ipx/f_webp&q_80&loading_eager', '.output/public/ipx/full');
       await rename('.output/public/ipx/f_webp&w_600&q_60&loading_lazy', '.output/public/ipx/thumb');
@@ -110,6 +113,9 @@ export default defineNuxtConfig({
         }
       }
     }
+  },
+  experimental: {
+    buildCache: true
   },
   compatibilityDate: '2024-04-03'
 })

@@ -1,15 +1,11 @@
 # Site Design
 
-- Justified gallery layout, not masonry
 - Maintain homepage scroll position when navigating back
 - View transitions for entire page and selected work
-- Vite plugin for re-encoding images 
 - Meta info generation on images
-- Static site generation
 - Zoom and pan on high quality images
 - Scroll navigation on individual post pages
 - /tags/ route
-- Speculative loading
 - Add manifest.json
 - Cache image transformations
 
@@ -33,18 +29,64 @@ property P373, the Commons category;
 optionally P1472, the Commons Creator page.
 
 
-## Image transform Caching
-https://github.com/JonasKruckenberg/imagetools/blob/main/packages/vite/src/index.ts
+## CSS Transitions
 
-## Vite SSG
-https://github.com/rahulsushilsharma/vite-plugin-prerender-static
-https://github.com/md-plugins/md-plugins
-https://github.com/vuetifyjs/vite-ssg
-https://github.com/TomokiMiyauci/vite-plugin-ssr-ssg
-https://github.com/Jscherbe/vite-plugin-virtual-modules
-https://github.com/antfu/vite-ssg
-https://github.com/antfu-collective/vite-ssg
-https://github.com/arijs/vite-ssg
-https://github.com/The-CodeCave/vite-plugin-ssg
-https://socket.dev/npm/package/@wroud/vite-plugin-ssg
-https://socket.dev/npm/package/@bdocs/ssg
+```
+html {
+  --vt-anim-multiplier: 1;
+}
+
+::view-transition-group(*) {
+  animation-duration: calc(0.25s * var(--vt-anim-multiplier));
+}
+
+::view-transition-old(root) {
+  animation: calc(var(--vt-anim-multiplier) * 90ms) cubic-bezier(0.4, 0, 1, 1)
+      both fade-out,
+    calc(var(--vt-anim-multiplier) * 300ms) cubic-bezier(0.4, 0, 0.2, 1) both
+      slide-to-left;
+}
+
+::view-transition-new(root) {
+  animation: calc(var(--vt-anim-multiplier) * 210ms) cubic-bezier(0, 0, 0.2, 1)
+      calc(var(--vt-anim-multiplier) * 90ms) both fade-in,
+    calc(var(--vt-anim-multiplier) * 300ms) cubic-bezier(0.4, 0, 0.2, 1) both
+      slide-from-right;
+}
+
+::view-transition-old(art-img),
+::view-transition-new(art-img) {
+  animation: none;
+  mix-blend-mode: normal;
+}
+
+::view-transition-image-pair(art-img) {
+  isolation: none;
+}
+
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+}
+
+@keyframes fade-out {
+  to {
+    opacity: 0;
+  }
+}
+
+@keyframes slide-from-right {
+  from {
+    transform: translateX(30px);
+  }
+}
+
+@keyframes slide-to-left {
+  to {
+    transform: translateX(-30px);
+  }
+}
+
+```

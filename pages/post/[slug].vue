@@ -5,6 +5,7 @@
       <nuxt-img 
         :src="post.image" 
         :preload="{ fetchPriority: 'high' }"
+        :style="{ 'view-transition-name': post.slug }"
         class="post__image"
         preset="full"
       />
@@ -64,6 +65,9 @@ useHead({
   ]
 })
 </script>
+
+
+<style src="~/styles/views/post.css" />
 
 <style>
 .post {

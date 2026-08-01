@@ -1,0 +1,21 @@
+
+@keyframes slide-to-right {
+  from {
+    /* Start from screen view */
+    transform: translateX(0);
+  }
+
+  to {
+    /* Move to right */
+    transform: translateX(100vw);
+  }
+}
+
+::view-transition-old(root) {
+  animation: slide-to-right 0.3s;
+  z-index: 2;
+}
+
+::view-transition-new(root) {
+  animation: none;
+}
