@@ -13,19 +13,33 @@ class CuratedImage extends HTMLElement {
 
     if (!this.image) return;
 
+    const controls = document.createElement('div')
+    controls.setAttribute('class', 'curated-controls')
+
     // add buttons
     const btnDownload = document.createElement('a');
-
     btnDownload.innerHTML = toSvg(pathDownload)
     btnDownload.setAttribute('download', '')
     btnDownload.setAttribute('href', this.image.src)
-    this.append(btnDownload);
 
-    console.log('curated image', this.image);
+    const btnInfo = document.createElement('a');
+    btnInfo.innerHTML = toSvg(pathInfo)
+    btnInfo.setAttribute('href', "#post__info")
+
+    const btnAdjust = document.createElement('a')
+    btnAdjust.innerHTML = toSvg(pathAdjust)
+    btnAdjust.addEventListener('click', this.onAdjustClick)
+
+    controls.append(btnInfo, btnAdjust, btnDownload)
+    this.append(controls);
   }
 
   disconnectedCallback () {
 
+  }
+
+  onAdjustClick = (e) => {
+    console.log('adjust image')
   }
 
 }

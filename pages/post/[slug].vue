@@ -72,6 +72,10 @@ useHead({
 <style src="~/styles/views/post.css" />
 
 <style>
+:root {
+  scroll-behavior: smooth; 
+}
+
 .post {
   display: flex;
   flex-flow: column;
@@ -84,7 +88,7 @@ useHead({
   display: flex;
   flex-grow: 1;
   justify-content: center;
-  min-height: calc(100dvh - 4rem);
+  min-height: calc(100dvh - 3rem);
   padding-top: 1rem;
 }
 
@@ -92,10 +96,9 @@ useHead({
   border-radius: 0.5rem;
   box-shadow: 0 0 5px rgba(0,0,0,0.35);
   contain: layout;
-  max-height: calc(100dvh - 4rem);
+  max-height: calc(100dvh - 3rem);
   max-width: 100%;
   object-fit: contain;
-  view-transition-name: art-image;
 }
 
 .post__info {
