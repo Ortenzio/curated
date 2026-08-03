@@ -20,9 +20,6 @@
 [# Study of a Hunter](https://cyfrowe.mnw.art.pl/en/catalog/452999)
 [Portrait of Helena Modrzejewska](https://zbiory.mnk.pl/en/search-result/advance/catalog/274367)
 
-## Zygmunt von Ajdukiewicz 
-[Minister Dr. Rottner](https://sammlung.belvedere.at/objects/5969/minister-dr-rottner?)
-
 ## Adam Emory Albright
 [Quoits](https://www.pafa.org/museum/collection/item/quoits)
 [Supper Call on the Farm](https://www.pafa.org/museum/collection/item/supper-call-farm)
@@ -4337,7 +4334,7 @@
 ## Lourens Alma Tadema
 [# Mary Magdalene](https://www.rijksmuseum.nl/en/collection/object/Mary-Magdalene--e9cd1186f133a6919f8d3af992d778f5)
 [# Self-Portrait](https://accademiasanluca.it/collezioni/opere/autoritratto-1-alma)
-[$@ The Artist's Wife](https://www.demesdagcollectie.nl/en/collection/hwm0004)
+[@ The Artist's Wife](https://www.demesdagcollectie.nl/en/collection/hwm0004)
 
 ## Margaretha Roosenboom
 [Stilleven met gitaar en rozen](https://www.rijksmuseum.nl/en/collection/object/Stilleven-met-gitaar-en-rozen--7fe291b5e472552c5f045cea42dd2b41)
@@ -4372,7 +4369,7 @@
 [Bridge](https://www.krollermuller.nl/en/collection/johan-barthold-jongkind-bridge-km-101-186)
 
 ## Thérèse Schwartze
-[$ Young Italian Woman, with ‘Puck’ the Dog](https://www.rijksmuseum.nl/en/collection/object/Young-Italian-Woman-with-Puck-the-Dog--861c5e902527fe73ede8706c30a89738)
+[# Young Italian Woman, with ‘Puck’ the Dog](https://www.rijksmuseum.nl/en/collection/object/Young-Italian-Woman-with-Puck-the-Dog--861c5e902527fe73ede8706c30a89738)
 [Piet J. Joubert](https://www.rijksmuseum.nl/en/collection/object/Piet-J-Joubert-1831-1900-Commandant-generaal-van-de-Zuid-Afrikaanse-Republiek--5eef5591e4141d3924b71fc98599e4ac)
 [Portrait of Lizzy Ansingh](https://www.rijksmuseum.nl/en/collection/object/Portrait-of-Lizzy-Ansingh--8bfc9e2c1ededf49efd6b5b59761d8d4)
 
@@ -4383,8 +4380,8 @@
 [Portret van de beeldhouwer Pier Pander](https://www.rijksmuseum.nl/en/collection/object/Portret-van-de-beeldhouwer-Pier-Pander-1864-1919--a204fd1e16418a58066f762bc2c5475e)
 
 ## Willem de Zwart
-[$$ Snow at Sunset](https://www.krollermuller.nl/en/collection/willem-de-zwart-snow-at-sunset-km-102-583)
 [$ De gevallen engel](https://www.rijksmuseum.nl/en/collection/object/De-gevallen-engel--cb20aec4f409909629679cbf3b4ecd23)
+[Snow at Sunset](https://www.krollermuller.nl/en/collection/willem-de-zwart-snow-at-sunset-km-102-583)
 [Jongenskop](https://www.rijksmuseum.nl/en/collection/object/Jongenskop--e81b718925ace5f5e485b4a1f0e07c20)
 
 ## David Leffel
@@ -4406,11 +4403,11 @@
 [Jean et l'orange](https://www.musee-orsay.fr/en/artworks/jean-et-lorange-20624)
 
 ## Angèle Delasalle
-[Benjamin-Constant](https://www.youtube.com/watch?v=G6iqAip-ZNo&t=246s)
+[Benjamin-Constant](https://commons.wikimedia.org/wiki/File:Portr%C3%A4t_Ang%C3%A8le_Delasalle_von_Jean-Joseph_Benjamin-Constant.jpg)
 
 ## Adolphe-Félix Cals
-[$$ Cloth Purchase](https://en.mng.hu/artworks/150/)
 [Portrait de l'artiste](https://www.musee-orsay.fr/en/artworks/portrait-de-lartiste-16377)
+[Cloth Purchase](https://en.mng.hu/artworks/150/)
 
 ## Alfred Sisley
 [Paysage de bords de Seine](https://www.musee-orsay.fr/en/artworks/paysage-de-bords-de-seine-71057)
@@ -4513,7 +4510,7 @@
 [$$ Portrait of General Wischniakoff](https://kokoelma.kansallisgalleria.fi/en/object/394774)
 
 ## Arvid Liljelund
-old woman reading](https://kokoelma.kansallisgalleria.fi/en/object/498050)
+[old woman reading](https://kokoelma.kansallisgalleria.fi/en/object/498050)
 
 ## Alex Matson
 [Woman Seated](https://kokoelma.kansallisgalleria.fi/en/object/500634)
@@ -4531,7 +4528,7 @@ old woman reading](https://kokoelma.kansallisgalleria.fi/en/object/498050)
 [Portrait of Hjalmar Munsterhjelm](https://kokoelma.kansallisgalleria.fi/en/object/409380)
 
 ## Helene Schjerfbeck
-[$$ Spaniard](https://kokoelma.kansallisgalleria.fi/en/object/523245)
+[# Spaniard](https://kokoelma.kansallisgalleria.fi/en/object/523245)
 [$$ Portrait of Pope Innocent X](https://kokoelma.kansallisgalleria.fi/en/object/389744)
 
 ## Elga Sesemann
@@ -4545,27 +4542,27 @@ old woman reading](https://kokoelma.kansallisgalleria.fi/en/object/498050)
 [Portrait of the Artist's Mother](https://kokoelma.kansallisgalleria.fi/en/object/395163)
 
 ## Paul Alexandrowitsch Svedomskij
-[$$ Kenraalitar Tatjana Petrovna Babtsehenkon muotokuva](https://kokoelma.kansallisgalleria.fi/en/object/395529)
+[# Kenraalitar Tatjana Petrovna Babtsehenkon muotokuva](https://kokoelma.kansallisgalleria.fi/en/object/395529)
 
 ## Ellen Thesleff
-[$$ Portrait of the Artist’s Mother](https://kokoelma.kansallisgalleria.fi/en/object/473684)
+[Portrait of the Artist’s Mother](https://kokoelma.kansallisgalleria.fi/en/object/473684)
 
 ## Verner Thomé
 [$ Portrait of the Author Emil Elenius](https://kokoelma.kansallisgalleria.fi/en/object/460605)
 [Portrait of a Woman, Martha Neiglick](https://kokoelma.kansallisgalleria.fi/en/object/449439)
 
 ## Louis Pierre Verwée
-[$$ Vanha mylly](https://kokoelma.kansallisgalleria.fi/en/object/412412)
-[$$ On the Beach](https://www.demesdagcollectie.nl/en/collection/hwm0326)
+[# On the Beach](https://www.demesdagcollectie.nl/en/collection/hwm0326)
+[Vanha mylly](https://kokoelma.kansallisgalleria.fi/en/object/412412)
 
 ## Carl Christian Vogel von Vogelstein
 [$$ Prince Vasili Vasiljevits Dolgoruki](https://kokoelma.kansallisgalleria.fi/en/object/409122)
 
 ## Torsten Wasastjerna
-[$$ Operation](https://kokoelma.kansallisgalleria.fi/en/object/410481)
+[Operation](https://kokoelma.kansallisgalleria.fi/en/object/410481)
 
 ## Helena Westermarck
-[$$ Colarossi's Son](https://kokoelma.kansallisgalleria.fi/en/object/408860)
+[# Colarossi's Son](https://kokoelma.kansallisgalleria.fi/en/object/408860)
 [$ An Old Woman](https://kokoelma.kansallisgalleria.fi/en/object/477665)
 
 ## Johann Daniel Holz 
@@ -4593,7 +4590,7 @@ old woman reading](https://kokoelma.kansallisgalleria.fi/en/object/498050)
 [Alter man](https://www.sammlung.pinakothek.de/en/artwork/ZKGPbgdxgA/adolf-hengeler-1863/alter-mann-10277)
 
 ## Ferdinand von Rayski
-[Der Gardereiter](https://www.sammlung.pinakothek.de/en/artwork/k2xnjPgxPd/ferdinand-von-rayski-1806/der-gardereiter-8857)
+[# The Guard Rider](https://www.sammlung.pinakothek.de/en/artwork/k2xnjPgxPd/ferdinand-von-rayski-1806/der-gardereiter-8857)
 
 ## Georg Papperitz
 [Frau Professor Buschbeck](https://www.sammlung.pinakothek.de/en/artwork/9pL3MDb4eb/georg-papperitz-1846/frau-professor-buschbeck-14263)
@@ -4626,7 +4623,7 @@ old woman reading](https://kokoelma.kansallisgalleria.fi/en/object/498050)
 [Schimmelhengst nach links](https://www.lenbachhaus.de/en/digital/collection-online/detail/schimmelhengst-nach-links-30032089)
 
 ## Friedrich von Puteani
-[$ Self Portrait](https://www.lenbachhaus.de/en/digital/collection-online/detail/selbstbildnis-30004304)
+[# Self Portrait](https://www.lenbachhaus.de/en/digital/collection-online/detail/selbstbildnis-30004304)
 
 ## Charles Henri Pille
 [Auf dem Viktualienmarkt](https://www.lenbachhaus.de/en/digital/collection-online/detail/auf-dem-viktualienmarkt-30000102)
@@ -4641,11 +4638,11 @@ old woman reading](https://kokoelma.kansallisgalleria.fi/en/object/498050)
 [# Gemüsehändlerin](https://www.lenbachhaus.de/en/digital/collection-online/detail/gemuesehaendlerin-30018113)
 
 ## Gabriel von Max
-[$$ Der Hofschauspieler Alois Wohlmuth](https://www.lenbachhaus.de/en/digital/collection-online/detail/der-hofschauspieler-alois-wohlmuth-30009804)
+[# The court actor Alois Wohlmuth](https://www.lenbachhaus.de/en/digital/collection-online/detail/der-hofschauspieler-alois-wohlmuth-30009804)
 [Anthropologischer Unterricht](https://www.lenbachhaus.de/en/digital/collection-online/detail/anthropologischer-unterricht-30031701)
 
 ## Ludwig von Löfftz
-[$$ Alte Frau in Interieur](https://www.lenbachhaus.de/en/digital/collection-online/detail/alte-frau-in-interieur-30017752)
+[# Old owman in interior](https://www.lenbachhaus.de/en/digital/collection-online/detail/alte-frau-in-interieur-30017752)
 
 ## Wilhelm Löwith
 [# Kopfstudie](https://www.lenbachhaus.de/en/digital/collection-online/detail/kopfstudie-30004218)
@@ -4679,16 +4676,16 @@ old woman reading](https://kokoelma.kansallisgalleria.fi/en/object/498050)
 [# Self-Portrait](https://www.lenbachhaus.de/en/digital/collection-online/detail/selbstbildnis-30003237)
 
 ## Wilhelm von Diez
+[# Bush Knight](https://www.lenbachhaus.de/en/digital/collection-online/detail/strauchritter-30003844)
 [Entwischt](https://www.lenbachhaus.de/en/digital/collection-online/detail/entwischt-30015191)
-[Strauchritter](https://www.lenbachhaus.de/en/digital/collection-online/detail/strauchritter-30003844)
 [Pferdestudie](https://www.lenbachhaus.de/en/digital/collection-online/detail/pferdestudie-30006293)
 
 ## Jenna Bauck
 [# Die Schwester der Künstlerin mit Hund](https://www.lenbachhaus.de/en/digital/collection-online/detail/die-schwester-der-kuenstlerin-mit-hund-30020308)
 
 ## Theodor Alt
-[$$ Bildnis eines Revolutionärs](https://www.lenbachhaus.de/en/digital/collection-online/detail/bildnis-eines-revolutionaers-30031717)
-[$ Bildnis der Karoline Alt](https://www.lenbachhaus.de/en/digital/collection-online/detail/bildnis-der-karoline-alt-schwester-des-kuenstlers-30031716)
+[# Head of a revolutionary](https://www.lenbachhaus.de/en/digital/collection-online/detail/bildnis-eines-revolutionaers-30031717)
+[# Karoline Alt](https://www.lenbachhaus.de/en/digital/collection-online/detail/bildnis-der-karoline-alt-schwester-des-kuenstlers-30031716)
 
 ## Julius Adam
 [Schlafende Katze](https://www.lenbachhaus.de/en/digital/collection-online/detail/schlafende-katze-30010161)
@@ -4735,7 +4732,7 @@ old woman reading](https://kokoelma.kansallisgalleria.fi/en/object/498050)
 [Portrait of a man](https://worcester.emuseum.com/objects/18637/portrait-of-a-man)
 
 ## Helen Mary Knowlton 
-[study of a head](https://worcester.emuseum.com/objects/10999/study-of-a-head)
+[# Study of a head](https://worcester.emuseum.com/objects/10999/study-of-a-head)
 
 ## Willard LeRoy Metcalf
 [Street Scene, Tunis](https://worcester.emuseum.com/objects/10840/street-scene-tunis)
@@ -4744,7 +4741,7 @@ old woman reading](https://kokoelma.kansallisgalleria.fi/en/object/498050)
 [Girl and Baby](https://worcester.emuseum.com/objects/4065/girl-and-baby)
 
 ## Arnaldo Tamburini, Jr
-[$$ Indian Woman](https://worcester.emuseum.com/objects/32615/indian-woman)
+[# Indian Woman](https://worcester.emuseum.com/objects/32615/indian-woman)
 
 ## Nicolas Antoine Taunay
 [Landscape with Travelers](https://worcester.emuseum.com/objects/29721/landscape-with-travelers)
@@ -4790,19 +4787,20 @@ old woman reading](https://kokoelma.kansallisgalleria.fi/en/object/498050)
 [In the Studio](https://buffaloakg.org/artworks/19017-studio)
 
 ## Warren Sheppard
-[$$ The Restless Sea](https://buffaloakg.org/artworks/19086-restless-sea)
+[# The Restless Sea](https://buffaloakg.org/artworks/19086-restless-sea)
 
 ## Douglas Volk
 [Portrait of Lincoln](https://buffaloakg.org/artworks/19224-portrait-lincoln)
 
 ## Rosa Bonheur
-[$$ The Horse Fair](https://buffaloakg.org/artworks/192716-le-march%C3%A9-aux-chevaux-horse-fair)
+[# The Horse Fair](https://buffaloakg.org/artworks/192716-le-march%C3%A9-aux-chevaux-horse-fair)
 
 ## Charles Le Claire
 [The Collector](https://buffaloakg.org/artworks/19443-collector)
 
 ## Joaquín Sorolla y Bastida
 [Portrait of Charles M. Kurtz](https://buffaloakg.org/artworks/19913-portrait-charles-m-kurtz-founding-director-albright-art-gallery-1905-1909)
+[Mrs. William H. Gratwick](https://buffaloakg.org/artworks/201915-mrs-william-h-gratwick)
 
 ## Edwin Walter Dickinson
-[$$ An Anniversary](https://buffaloakg.org/artworks/192729-anniversary)
+[An Anniversary](https://buffaloakg.org/artworks/192729-anniversary)
