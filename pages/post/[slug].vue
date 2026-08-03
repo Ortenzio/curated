@@ -2,13 +2,15 @@
   <main class="post">
 
     <div class="post__canvas">
-      <nuxt-img 
-        :src="post.image" 
-        :preload="{ fetchPriority: 'high' }"
-        :style="{ 'view-transition-name': post.slug }"
-        class="post__image"
-        preset="full"
-      />
+      <curated-image>
+        <nuxt-img 
+          :src="post.image" 
+          :preload="{ fetchPriority: 'high' }"
+          :style="{ 'view-transition-name': post.slug }"
+          class="post__image"
+          preset="full"
+        />
+      </curated-image>
     </div>
 
     <div id="post__info" class="post__info">
