@@ -37,10 +37,10 @@
 [# Worker](https://cyfrowe.mnw.art.pl/en/catalog/440457)
 
 ## Sientje Mesdag-van Houten
+[# Portrait of J. Tonkes](https://www.demesdagcollectie.nl/en/collection/hwm0241)
 [$$ Portrait of Lotte Bisdom-Croiset van der Kop](https://www.demesdagcollectie.nl/en/collection/hwm0239)
-[Still Life with Apples](https://www.demesdagcollectie.nl/en/collection/hwm0235)
 [$$ Portrait of Colonel del Campo, called Camp](https://www.demesdagcollectie.nl/en/collection/hwm0240)
-[$$ Portrait of J. Tonkes](https://www.demesdagcollectie.nl/en/collection/hwm0241)
+[Still Life with Apples](https://www.demesdagcollectie.nl/en/collection/hwm0235)
 
 ## Kazimierz Alchimowicz
 [# Study of an Old Man's Head](https://cyfrowe.mnw.art.pl/en/catalog/453029)
@@ -162,7 +162,7 @@
 [$ Portrait of a woman](https://en.mng.hu/artworks/113207/)
 
 ## Ede Balló
-[Portrait of József Müller](https://en.mng.hu/artworks/51533/)
+[# Portrait of József Müller](https://en.mng.hu/artworks/51533/)
 
 ## Andor Basch
 [# Self Portrait](https://en.mng.hu/artworks/50406/)
@@ -171,8 +171,8 @@
 [$ Self Portrait](https://en.mng.hu/artworks/53916/)
 
 ## László Bencze
-[$$ Farewell Ceremony for Scholarship Holders Leaving for the Soviet Union](https://en.mng.hu/artworks/49637/)
-[$$ Mother with Child](https://en.mng.hu/artworks/53896/)
+[# Farewell Ceremony for Scholarship Holders Leaving for the Soviet Union](https://en.mng.hu/artworks/49637/)
+[# Mother with Child](https://en.mng.hu/artworks/53896/)
 [$ Ponderer](https://en.mng.hu/artworks/53897/)
 [Vacationers in the Dining Car](https://en.mng.hu/artworks/49495/)
 
@@ -183,7 +183,7 @@
 [Woman with basket](https://en.mng.hu/artworks/51163/)
 
 ## Ágost Benkhard
-[$$ Self Portrait](https://en.mng.hu/artworks/50803/)
+[Self Portrait](https://en.mng.hu/artworks/50803/)
 
 ## Ernő Béli Vörös
 [Woman with clay jug](https://en.mng.hu/artworks/53912/)
@@ -560,7 +560,7 @@
 [Deuxième esquisse pour le tableau "Tireurs d'arbalète"](https://www.musee-orsay.fr/en/artworks/deuxieme-esquisse-pour-le-tableau-tireurs-darbalete-78045)
 
 ## Adolf von Meckel
-[$$ Algerian Woman](https://www.demesdagcollectie.nl/en/collection/hwm0221)
+[Algerian Woman](https://www.demesdagcollectie.nl/en/collection/hwm0221)
 
 ## Hendrik Willem Mesdag
 [$$ Evening](https://www.demesdagcollectie.nl/en/collection/hwm0229)
@@ -635,7 +635,7 @@
 [# Amazon Woman](https://cyfrowe.mnw.art.pl/en/catalog/447436)
 
 ## Stanisław Rostworowski
-[Portrait of Wacław Szymanowski](https://cyfrowe.mnw.art.pl/en/catalog/447412)
+[# Portrait of Wacław Szymanowski](https://cyfrowe.mnw.art.pl/en/catalog/447412)
 
 ## William Willard
 [Rufus Choate](https://hoodmuseum.dartmouth.edu/objects/p.947.15)
@@ -704,9 +704,6 @@
 ## Two Women Visiting
 [# Edward Antoon Portielje](https://collections.artsmia.org/art/23057/two-women-visiting-edward-antoon-portielje)
 
-## Adolph von Menzel
-[Wohnzimmer mit Menzels Schwester](https://www.sammlung.pinakothek.de/en/artwork/bwx03yZ4m8/adolph-von-menzel-1815/wohnzimmer-mit-menzels-schwester-8499)
-
 ## Raphael Soyer
 [# Self-Portrait](https://www.metmuseum.org/art/collection/search/486772)
 [Portrait of Mr. and Mrs. John Rewald](https://collections.artsmia.org/art/20204/portrait-of-mr-and-mrs-john-rewald-raphael-soyer)
@@ -724,16 +721,13 @@
 ## William Stanley Haseltine
 [$ Marina Piccola, Capri](https://www.nga.gov/artworks/42853-marina-piccola-capri)
 
-## Dora Wheeler
-[Fairy in Irises](https://www.metmuseum.org/art/collection/search/17468)
-
 ## János Vaszary
-[$$ old peasant woman](https://en.mng.hu/artworks/53398/)
-[$$ Study for the “Elders”](https://en.mng.hu/artworks/54258/)
-[$$ Little Girl in Yellow Hat](https://en.mng.hu/artworks/53378/)
-[Toilette](https://en.mng.hu/artworks/54224/)
+[Little Girl in Yellow Hat](https://en.mng.hu/artworks/53378/)
 [Mourning Woman](https://en.mng.hu/artworks/53038/)
-[reclining nude](https://en.mng.hu/artworks/53397/)
+[Old peasant woman](https://en.mng.hu/artworks/53398/)
+[Reclining nude](https://en.mng.hu/artworks/53397/)
+[Study for the “Elders”](https://en.mng.hu/artworks/54258/)
+[Toilette](https://en.mng.hu/artworks/54224/)
 
 ## William Merritt Chase
 [# Portrait of Dora Wheeler](https://www.clevelandart.org/art/1921.1239)
@@ -820,7 +814,7 @@
 [Still Life](https://en.mng.hu/artworks/46214/)
 
 ## Gyula Rudnay
-[# self portrait in painter cap](https://en.mng.hu/artworks/49964/)
+[# Self Portrait in painter cap](https://en.mng.hu/artworks/49964/)
 [$ Self Portrait](https://en.mng.hu/artworks/49749/)
 [$ Front: Portrait of a Man, Back: Portrait of a Gipsy Boy](https://en.mng.hu/artworks/49750/)
 [Riders](https://en.mng.hu/artworks/45245/)
@@ -853,14 +847,6 @@
 [The Singer Frieda Halbe](https://sammlung.belvedere.at/objects/2631/die-sangerin-frieda-halbe?)
 [Vor dem Spiegel (At the Mirror)](https://worcester.emuseum.com/objects/2688/vor-dem-spiegel-at-the-mirror)
 
-## Otto Friedrich
-[$ Die Lesende](https://sammlungenonline.albertina.at/en/objects/426401/die-lesende)
-[Bildnis einer Geigenspielerin](https://sammlungenonline.albertina.at/en/objects/426723/bildnis-einer-geigenspielerin)
-
-## Michaël Borremans
-[# The Hare](https://www.sfmoma.org/artwork/2006.75/)
-[One at the Time](https://www.artic.edu/artworks/185070/one-at-the-time)
-
 ## Nora Neilson Gray
 [# Golden Eyes](https://collection.mam.org/details.php?id=40803)
 
@@ -874,14 +860,8 @@
 ## Nicolas de Largillière
 [# Self Portrait](https://www.artic.edu/artworks/69003/self-portrait)
 
-## Clara Peeters
-[Still Life with Fish](https://www.kmska.be/en/masterpiece/still-life-with-fish)
-
 ## Xavier Mellery
 [$ The Sculptor](https://www.kmska.be/en/masterpiece/the-sculptor-paul-de-vigne)
-
-## Jacopo Vignali
-[David with the Head of Goliath](https://www.mfab.hu/artworks/200599/)
 
 ## Eduard von Grützner
 [Monk Pouring Wine](https://collection.mam.org/details.php?id=10279)
@@ -889,18 +869,18 @@
 
 ## Wilhelm Leibl
 [# Kopf eines Blinden](https://www.lenbachhaus.de/en/digital/collection-online/detail/kopf-eines-blinden-30019094)
-[$$ Johann Sperl Landscapist](https://en.mng.hu/artworks/519/)
-[$ Bildnisstudie eines jungen bärtigen Mannes](https://www.sammlung.pinakothek.de/en/artwork/2mxqB1mL8b/wilhelm-leibl-1844/bildnisstudie-eines-jungen-baertigen-mannes-9269)
-[$ Portrait of a Peasant](https://collection.mam.org/details.php?id=11496)
+[Johann Sperl Landscapist](https://en.mng.hu/artworks/519/)
+[Bildnisstudie eines jungen bärtigen Mannes](https://www.sammlung.pinakothek.de/en/artwork/2mxqB1mL8b/wilhelm-leibl-1844/bildnisstudie-eines-jungen-baertigen-mannes-9269)
+[Portrait of a Peasant](https://collection.mam.org/details.php?id=11496)
 [Portrait of Pál Szinyei Merse](https://en.mng.hu/artworks/518/)
 [Lina Kirchdorffer](https://www.sammlung.pinakothek.de/en/artwork/Znxw9kjGXg/wilhelm-leibl-1844/lina-kirchdorffer-8446)
 [Frau Anna Gentz](https://www.lenbachhaus.de/en/digital/collection-online/detail/frau-anna-gentz-30036180)
 
 ## Pál Szinyei Merse
-[$$ Two friends](https://en.mng.hu/artworks/50322/)
+[# Two friends](https://en.mng.hu/artworks/50322/)
 
 ## Péter Szüle
-[$$ In front of the Mirror](https://en.mng.hu/artworks/45681/)
+[In front of the Mirror](https://en.mng.hu/artworks/45681/)
 [Study of a Young Woman’s Head](https://en.mng.hu/artworks/45688/)
 [Young Wayfarer](https://en.mng.hu/artworks/45680/)
 
@@ -1100,7 +1080,7 @@
 
 ## Bernardo Bellotto
 [# New Market-Place](https://www.hermitagemuseum.org/digital-collection/32286?lng=en)
-[$ Reiterbildnis eines Husarenoffiziers](https://www.khm.at/en/artworks/reiterbildnis-eines-husarenoffiziers-218)
+[Reiterbildnis eines Husarenoffiziers](https://www.khm.at/en/artworks/reiterbildnis-eines-husarenoffiziers-218)
 
 ## Johann Baptist Reiter
 [# The Young Postillion](https://www.domquartier.at/en/residenzgalerie-collection-online/paintings/the-young-postillion/)
@@ -1110,11 +1090,11 @@
 
 ## Maria Wiik
 [# Elsa](https://kokoelma.kansallisgalleria.fi/fi/object/625366)
-[$ Portrait of the Artist´s sister Miss Hilda Wiik](https://kokoelma.kansallisgalleria.fi/en/object/468654)
+[# Portrait of the Artist´s sister Miss Hilda Wiik](https://kokoelma.kansallisgalleria.fi/en/object/468654)
 [Self Portrait](https://collection.nationalmuseum.se/en/collection/item/239280/)
 
 ## Wilhelm Bernatzik
-[$ Winter](https://sammlung.belvedere.at/objects/6563/winter?)
+[Winter](https://sammlung.belvedere.at/objects/6563/winter?)
 
 ## Irving Ramsay Wiles
 [# The Student](https://www.nga.gov/artworks/195008-student)
@@ -1127,7 +1107,7 @@
 [The Storm](https://www.metmuseum.org/art/collection/search/435997)
 
 ## Pierre-Narcisserre PieGuérin
-[$ Morpheus and Iris](https://www.hermitagemuseum.org/digital-collection/37648?lng=en)
+[Morpheus and Iris](https://www.hermitagemuseum.org/digital-collection/37648?lng=en)
 
 ## Pieter Claesz
 [Still Life with a Skull and a Writing Quill](https://www.metmuseum.org/art/collection/search/435904)
@@ -1167,10 +1147,10 @@
 [Wrestlers](https://collections.lacma.org/object/134153)
 
 ## Susan Macdowell Eakins
+[# Self-Portrait](https://www.pafa.org/museum/collection/item/self-portrait-59)
 [# Portrait of Charles Bregler](https://www.pafa.org/museum/collection/item/portrait-charles-bregler)
-[$ Portrait of Charles Bregler](https://www.pafa.org/museum/collection/item/portrait-charles-bregler-1)
+[Portrait of Charles Bregler](https://www.pafa.org/museum/collection/item/portrait-charles-bregler-1)
 [Self-Portrait](https://www.pafa.org/museum/collection/item/self-portrait-38)
-[Self-Portrait](https://www.pafa.org/museum/collection/item/self-portrait-59)
 
 ## Henry Muhrman
 [Dockside the Thames](https://artmuseum.princeton.edu/art/collections/objects/144889)
@@ -1180,14 +1160,12 @@
 [Portrait of the Marquis of Lorne](https://www.gallery.ca/collection/artwork/portrait-of-the-marquis-of-lorne)
 [Portrait of Homer Watson](https://www.gallery.ca/collection/artwork/portrait-of-homer-watson)
 
-## George Frederick Watts
-[The Coquette](https://collections.manchesterartgallery.org/collections/item/a83bfb5f-f81f-382c-a997-b37ef5d104e9/)
-
-## George Fiddes Watt
-[The Artists Monther](https://www.tate.org.uk/art/artworks/watt-the-artists-mother-n04541)
+## George Frederick (Fiddes?) Watts
+[# Coquette](https://collections.manchesterartgallery.org/collections/item/a83bfb5f-f81f-382c-a997-b37ef5d104e9/)
+[The Artists Mother](https://www.tate.org.uk/art/artworks/watt-the-artists-mother-n04541)
 
 ## Adolphe-Joseph Monticelli
-[$$ Portrait of Madame Rosenthal](https://buffaloakg.org/artworks/1932122-portrait-madame-rosenthal)
+[# Portrait of Madame Rosenthal](https://buffaloakg.org/artworks/1932122-portrait-madame-rosenthal)
 [$ Poultry near the Ruins of a Mill](https://www.krollermuller.nl/en/collection/adolphe-joseph-monticelli-poultry-near-the-ruins-of-a-mill-km-111-272)
 [Garden Party](https://artmuseum.princeton.edu/art/collections/objects/24041)
 
@@ -1207,7 +1185,7 @@
 [$ Forge](https://www.hermitagemuseum.org/digital-collection/32464?lng=en)
 
 ## Max Klinger
-[$ WEIBLICHER STUDIENKOPF](https://sammlung.belvedere.at/objects/2657/weiblicher-studienkopf?)
+[Weiblicher Studienkopf](https://sammlung.belvedere.at/objects/2657/weiblicher-studienkopf?)
 [Portrait of a man](https://sammlung.belvedere.at/objects/2656/herrenbildnis?)
 
 ## Karl Köpping
@@ -1256,7 +1234,7 @@
 [Shop Girls](https://www.artic.edu/artworks/68517/shop-girls)
 
 ## László Paál
-[$$ Inside the Forst](https://en.mng.hu/artworks/52573/)
+[$$ Inside the Forest](https://en.mng.hu/artworks/52573/)
 [Confines of the Village](https://en.mng.hu/artworks/44654/)
 [Dawn in the Forest](https://en.mng.hu/artworks/50203/)
 [Forest Detail](https://en.mng.hu/artworks/50411/)
@@ -1555,7 +1533,7 @@
 [$@ Wojciech Pułaski (the artists brother)](https://cyfrowe.mnw.art.pl/en/catalog/446514)
 
 ## Zygmunt Sidorowicz
-[$@ Self Portrait](https://cyfrowe.mnw.art.pl/en/catalog/446547)
+[# Self Portrait](https://cyfrowe.mnw.art.pl/en/catalog/446547)
 
 ## Tom Churchyard
 [$ Windmills](https://www.tate.org.uk/art/artworks/churchyard-windmills-t03618)
@@ -4016,7 +3994,6 @@
 ## Alois Erdtelt
 [$$ Portrait of a Woman](https://en.mng.hu/artworks/238/)
 [$$ Woman Slave](https://en.mng.hu/artworks/237/)
-
 
 ## Vincent Van Gogh
 [$ Head of a Skeleton with a Burning Cigarette](https://www.vangoghmuseum.nl/en/collection/s0083V1962)

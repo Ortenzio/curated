@@ -537,6 +537,21 @@
     "copyright": "Public Domain | Manchester Art Gallery"
   },
   {
+    "slug": "coquette",
+    "title": "The Coquette",
+    "image": "/collection/watts__coquette.png",
+    "artist": "George Frederick Watts",
+    "date": "1878-1882",
+    "height": 66.2,
+    "width": 53.4,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "1947.129",
+    "location": "Manchester Art Gallery",
+    "source": "https://collections.manchesterartgallery.org/collections/item/a83bfb5f-f81f-382c-a997-b37ef5d104e9/",
+    "copyright": "Public Domain | Manchester Art Gallery"
+  },
+  {
     "slug": "one-of-our-conquerors",
     "title": "One of Our Conquerors",
     "image": "/collection/dicksee__one-of-our-conquerors.jpg",
@@ -637,6 +652,21 @@
     "accession": "A I 229",
     "location": "Finnish National Gallery",
     "source": "https://kokoelma.kansallisgalleria.fi/fi/object/625366",
+    "copyright": "Public Domain"
+  },
+  {
+    "slug": "hilda-wiik",
+    "title": "Portrait of the Artist's sister Miss Hilda Wiik",
+    "image": "/collection/wiik__hilda-wiik.jpg",
+    "artist": "Maria Wiik",
+    "date": "1880",
+    "height": 23,
+    "width": 19.5,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "A III 2737",
+    "location": "Finnish National Gallery",
+    "source": "https://kokoelma.kansallisgalleria.fi/en/object/468654",
     "copyright": "Public Domain"
   },
   {
@@ -2341,6 +2371,21 @@
     "copyright": "Open Access"
   },
   {
+    "slug": "madame-rosenthal",
+    "title": "Portrait of Madame Rosenthal",
+    "image": "/collection/monticelli__madame-rosenthal.jpg",
+    "artist": "Adolphe-Joseph Monticelli",
+    "date": "1870-1899",
+    "height": 73.6,
+    "width": 59.6,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "1932:122",
+    "location": "Buffalo AKG Art Museum",
+    "source": "https://buffaloakg.org/artworks/1932122-portrait-madame-rosenthal",
+    "copyright": "Public Domain"
+  },
+  {
     "slug": "wounded-man",
     "title": "The Wounded Man",
     "image": "/collection/courbet__wounded-man.jpg",
@@ -2734,6 +2779,21 @@
     "copyright": "Open Access"
   },
   {
+    "slug": "zygmunt-sidorowicz",
+    "title": "Portrait of Zygmunt Sidorowicz",
+    "image": "/collection/sidorowicz__zygmunt-sidorowicz.jpg",
+    "artist": "Zygmunt Sidorowicz",
+    "date": "ok. 1880",
+    "height": 23.7,
+    "width": 18.3,
+    "medium": "Oil",
+    "support": "Oakwood Board",
+    "accession": "MP 4110 MNW",
+    "location": "National Museum in Warsaw",
+    "source": "https://cyfrowe.mnw.art.pl/en/catalog/446547",
+    "copyright": "Public Domain"
+  },
+  {
     "slug": "portrait-of-charles-bregler",
     "title": "Portrait of Charles Bregler",
     "image": "/collection/sm-eakins__portrait-of-charles-bregler.jpg",
@@ -2746,6 +2806,20 @@
     "accession": "1985.68.39.17",
     "location": "Pennsylvania Academy of the Fine Arts",
     "source": "https://www.pafa.org/museum/collection/item/portrait-charles-bregler"
+  },
+  {
+    "slug": "susan-macdowell-eakins",
+    "title": "Self-Portrait of Susan Macdowell Eakins",
+    "image": "/collection/sm-eakins__susan-macdowell-eakins.jpg",
+    "artist": "Susan Macdowell Eakins",
+    "date": "ca 1925",
+    "height": 76.2,
+    "width": 63.5,
+    "medium": "Oil",
+    "support": "Canvas on Panel",
+    "accession": "1985.68.39.1",
+    "location": "Pennsylvania Academy of the Fine Arts",
+    "source": "https://www.pafa.org/museum/collection/item/self-portrait-59"
   },
   {
     "slug": "woman-sewing",
@@ -2836,7 +2910,7 @@
     "source": "https://en.mng.hu/artworks/53689/",
     "copyright": "Museum of Fine Arts - Hungarian National Gallery"
   },
-    {
+  {
     "slug": "jozsef-koszta",
     "title": "Self-Portrait of József Koszta",
     "image": "/collection/koszta__jozsef-koszta.jpg",
@@ -2849,6 +2923,66 @@
     "accession": "65.20T",
     "location": "Museum of Fine Arts - Hungarian National Gallery",
     "source": "https://en.mng.hu/artworks/53699/",
+    "copyright": "Museum of Fine Arts - Hungarian National Gallery"
+  },
+  {
+    "slug": "jozsef-muller",
+    "title": "Portrait of József Müller",
+    "image": "/collection/ballo_jozsef-muller.jpg",
+    "artist": "Ede Balló",
+    "date": "1887",
+    "height": 68,
+    "width": 55,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "83.3T",
+    "location": "Museum of Fine Arts - Hungarian National Gallery",
+    "source": "https://en.mng.hu/artworks/51533/",
+    "copyright": "Museum of Fine Arts - Hungarian National Gallery"
+  },
+  {
+    "slug": "farewell-ceremony",
+    "title": "Farewell Ceremony for Scholarship Holders Leaving for the Soviet Union",
+    "image": "/collection/bencze__farewell-ceremony.jpg",
+    "artist": "László Bencze",
+    "date": "1955",
+    "height": 70,
+    "width": 62,
+    "medium": "Oil",
+    "support": "Wood",
+    "accession": "56.203T",
+    "location": "Museum of Fine Arts - Hungarian National Gallery",
+    "source": "https://en.mng.hu/artworks/49637/",
+    "copyright": "Museum of Fine Arts - Hungarian National Gallery"
+  },
+  {
+    "slug": "mother-with-her-child",
+    "title": "Mother with her Child",
+    "image": "/collection/bencze__mother-with-her-child.jpg",
+    "artist": "László Bencze",
+    "date": "1954",
+    "height": 80.5,
+    "width": 66,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "55.141",
+    "location": "Museum of Fine Arts - Hungarian National Gallery",
+    "source": "https://en.mng.hu/artworks/53896/",
+    "copyright": "Museum of Fine Arts - Hungarian National Gallery"
+  },
+  {
+    "slug": "two-friends",
+    "title": "Two Friends",
+    "image": "/collection/merse__two-friends.jpg",
+    "artist": "Pál Szinyei Merse",
+    "date": "1867",
+    "height": 30.2,
+    "width": 24.6,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "56.166T",
+    "location": "Museum of Fine Arts - Hungarian National Gallery",
+    "source": "https://en.mng.hu/artworks/50322/",
     "copyright": "Museum of Fine Arts - Hungarian National Gallery"
   },
   {
@@ -3137,6 +3271,20 @@
     "accession": "MP 1461 MNW",
     "location": "National Museum in Warsaw",
     "source": "https://cyfrowe.mnw.art.pl/en/catalog/453329"
+  },
+  {
+    "slug": "waclaw-szymanowski",
+    "title": "Portrait of Wacław Szymanowski",
+    "image": "/collection/rostworowski__waclaw-szymanowski.jpg",
+    "artist": "Stanisław Rostworowski",
+    "date": "1880s",
+    "height": 67.5,
+    "width": 55.5,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "MP 5017 MNW",
+    "location": "National Museum in Warsaw",
+    "source": "https://cyfrowe.mnw.art.pl/en/catalog/447412"
   },
   {
     "slug": "artiste-a-son-chevalet",
@@ -3577,6 +3725,20 @@
     "location": "Minneapolis Institute of Art",
     "source": "https://collections.artsmia.org/art/18347/saint-augustine-and-saint-monica-gioacchino-assereto",
     "copyright": "Public Domain"
+  },
+  {
+    "slug": "j-tonkes",
+    "title": "Portrait of J. Tonkes",
+    "image": "/collection/houten__j-tonkes.webp",
+    "artist": "Sientje Mesdag-van Houten",
+    "date": "1887",
+    "height": 50.8,
+    "width": 39.8,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "hwm0241",
+    "location": "De Mesdag Collectie",
+    "source": "https://www.demesdagcollectie.nl/en/collection/hwm0241"
   },
   {
     "slug": "female-semi-nude-dancer",

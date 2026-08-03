@@ -17,7 +17,7 @@ export default defineNuxtConfig({
       script: [
         { innerHTML: `document.documentElement.style.colorScheme = localStorage.getItem('curated:theme') || "light"` },
         { src: '/scripts/curated-theme-toggle.js', type: 'module' },
-        { src: '/scripts/curated-image.js', type: 'module' }
+        // { src: '/scripts/curated-image.js', type: 'module' }
       ],
       link: [
         { rel: 'icon', type: 'image/x-icon', href: '/favicon.svg' }
