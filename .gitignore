@@ -21,6 +21,7 @@ docs/grid-view.csv
 assets/collection
 .output
 .nuxt
+.local_image_cache
 
 # Editor directories and files
 .vscode/*

@@ -1,6 +1,9 @@
 # Museums
 
 - [List of Art Museums](https://en.wikipedia.org/wiki/List_of_art_museums)
+- [Art Net](https://www.artnet.com/)
+- [Gallery pages of painters](https://commons.wikimedia.org/wiki/Category:Gallery_pages_of_painters)
+
 
 - [Albertina](https://sammlungenonline.albertina.at/s)
 - [Arc Museum](https://www.artrenewal.org/Museum/Search)
@@ -123,12 +126,17 @@
 - [Worcester Art Museum](https://worcester.emuseum.com/collections)
 - [Brooklyn Museum](https://www.brooklynmuseum.org/)
 - [Los Angeles County Museum of Art](https://collections.lacma.org/search)
+- [Buffalo AKG Art Museum](https://buffaloakg.org/search-collection)
+- [Isabela Stewart Gardner Museum](https://www.gardnermuseum.org/experience/collection)
+- [Hugh Lane Gallery](https://onlinecollection.hughlane.ie/search/)
+- [Amgueddfa Cymru](https://museum.wales/collections/online/?field0=string&value0=mancini&field1=with_images&value1=1)
 
+https://artuk.org/discover/artists/mancini-antonio-18521930/view_as/grid/search/2026--keyword:mancini/page/1
+https://www.ngv.vic.gov.au/explore/collection
+https://collectie.groningermuseum.nl/collectie-items
+https://catalogo.museidigenova.it/cerca?filtro=common%7C52%7COpere%20d%27arte%7C%2FAltre%20tipologie%2FOpere%20d%27arte
 
 [National Trust Collections](https://www.nationaltrustcollections.org.uk/)
 [Gibbes Museum of Art](https://www.gibbesmuseum.org/)
 [Walters Art Museum](https://art.thewalters.org/)
-
-[Art Net](https://www.artnet.com/)
-[Gallery pages of painters](https://commons.wikimedia.org/wiki/Category:Gallery_pages_of_painters)
 

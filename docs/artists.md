@@ -216,6 +216,9 @@
 ## Matland Armstrong
 [The Bar, Bar Harbor, Mt. Desert](https://collection.mam.org/details.php?id=18392)
 
+## Sir John Lavery
+[$ Mother and Child](https://onlinecollection.hughlane.ie/objects/1053/mother-and-child?ctx=3b1213f5a15eceb8285a048b922f3cb3fff16c4f&idx=43)
+
 ## Gioacchino Assereto
 [# Saint Augustine and Saint Monica](https://collections.artsmia.org/art/18347/saint-augustine-and-saint-monica-gioacchino-assereto)
 [$ The Angel appears to Hagar and Ishmael](https://www.nationalgallery.org.uk/paintings/gioacchino-assereto-the-angel-appears-to-hagar-and-ishmael)
@@ -384,6 +387,7 @@
 [View of the Island of San Giorgio Maggiore](https://www.hermitagemuseum.org/digital-collection/32452?lng=en)
 [The Island S. Cristoforo di Murano](https://www.mfab.hu/artworks/10361/)
 [Venice: San Giorgio Maggiore with the Giudecca](https://wallacelive.wallacecollection.org/eMP/eMuseumPlus?service=direct/1/ResultListView/result.t1.collection_list.$TspTitleImageLink.link&sp=10&sp=Scollection&sp=SfieldValue&sp=0&sp=0&sp=2&sp=SdetailList&sp=420&sp=Sdetail&sp=0&sp=F&sp=T&sp=431)
+[View of the Riva degli Schiavoni and the Piazzetta from the Bacino di San Marco](https://www.gardnermuseum.org/experience/collection/12074)
 
 ## Pierre Van Havermaet
 [Street Sweeper](https://www.kmska.be/en/masterpiece/antwerp-street-sweeper)
@@ -406,28 +410,66 @@
 [$ Portrait d'homme](https://www.musee-orsay.fr/en/artworks/portrait-dhomme-16951)
 
 ## Antonio Mancini
-[@ Model](https://www.demesdagcollectie.nl/en/collection/hwm0177)
-[@ On A journey](https://www.nationalgallery.org.uk/paintings/antonio-mancini-on-a-journey)
-[@ Sick Child](https://www.demesdagcollectie.nl/en/collection/hwm0174)
-[@ Sister](https://www.demesdagcollectie.nl/en/collection/hwm0175)
-[@ Choirboy](https://www.demesdagcollectie.nl/en/collection/hwm0183)
-[@ View of Rome](https://www.demesdagcollectie.nl/en/collection/hwm0179)
 [# Old Woman Drinking Tea](https://www.philamuseum.org/objects/283511)
 [# Self Portrait](https://collections.artsmia.org/art/1865/self-portrait-antonio-mancini)
-[$ Il Saltimbanco](https://www.philamuseum.org/objects/283509)
-[$ L'Homme au perroquet](https://www.musee-orsay.fr/en/artworks/lhomme-au-perroquet-recto-homme-levant-son-chapeau-verso-3644)
-[$@ Lost in Thought](https://www.demesdagcollectie.nl/en/collection/hwm0180)
-[$@ Woman with a green vase](https://www.demesdagcollectie.nl/en/collection/s0488S1998)
-[Aurelia](https://www.nationalgallery.org.uk/paintings/antonio-mancini-aurelia)
-[Gardens at the Villa Borghese](https://emuseum.mfah.org/objects/165064/gardens-at-the-villa-borghese)
-[Het arme kind](https://www.rijksmuseum.nl/en/collection/object/Het-arme-kind--78c75f2759b38fb7c08383c531fe7561)
-[Le Petit Ecolier](https://www.musee-orsay.fr/en/artworks/le-petit-ecolier-3066)
-[On the Eve of Her Wedding](https://collection.mam.org/details.php?id=11478)
-[The Marquis Del Grillo](https://www.nationalgallery.org.uk/paintings/antonio-mancini-the-marquis-del-grillo)
-[@ Brothers](https://www.demesdagcollectie.nl/en/collection/hwm0184r)
+[# Lost in Thought](https://www.demesdagcollectie.nl/en/collection/hwm0180)
+[# Woman with a green vase](https://www.demesdagcollectie.nl/en/collection/s0488S1998)
+[# Il Saltimbanco](https://www.philamuseum.org/objects/283509)
+[@ Adieu Paris](https://www.nationalgallery.org.uk/paintings/antonio-mancini-adieu-paris-the-customs)
 [@ After the Grape Harvest](https://www.demesdagcollectie.nl/en/collection/hwm0178)
+[@ Aurelia](https://www.nationalgallery.org.uk/paintings/antonio-mancini-aurelia)
 [@ Birthday](https://www.demesdagcollectie.nl/en/collection/hwm0185)
+[@ Bolero Bullfighter](https://commons.wikimedia.org/wiki/File:ANTONIO_MANCINI_BOLERO.jpg)
+[@ Brothers](https://www.demesdagcollectie.nl/en/collection/hwm0184r)
+[@ Choirboy](https://www.demesdagcollectie.nl/en/collection/hwm0183)
+[@ Convalescent](https://buffaloakg.org/artworks/192410-convalescent)
+[@ Coquetterie](https://www.demesdagcollectie.nl/en/collection/hwm0186)
+[@ Girl with flowers](https://www.demesdagcollectie.nl/en/collection/hwm0181)
+[@ Italian Peasant boy](https://collections.mfa.org/objects/31919/italian-peasant-boy?ctx=8c9beb47-9ae3-497e-a596-82ca0a9a466c&idx=4)
+[@ John Lowell Gardner](https://www.gardnermuseum.org/experience/collection/10946)
+[@ Lady Gregory](https://onlinecollection.hughlane.ie/objects/1215/lady-gregory?ctx=eea2734ecf0d859e5833e99c59f86c2ea95f40a7&idx=9)
+[@ Man holding a mandolin](https://www.ngv.vic.gov.au/explore/collection/work/4159/)
+[@ Model](https://www.demesdagcollectie.nl/en/collection/hwm0177)
+[@ Neapolitan Boy](https://www.demesdagcollectie.nl/en/collection/hwm0176)
+[@ On A journey](https://www.nationalgallery.org.uk/paintings/antonio-mancini-on-a-journey)
+[@ On the Eve of Her Wedding](https://collection.mam.org/details.php?id=11478)
+[@ Pastorello in ciocie](https://catalogo.museidigenova.it/oggetti/195879-pastorello-in-ciocie?i=0)
+[@ Portrait of a girl](https://museum.wales/collections/online/object/bdd0978f-c654-35fc-a92f-f514c046b0d3/Portrait-of-a-girl/?field0=string&value0=mancini&field1=with_images&value1=1&index=1)
+[@ Portrait of a man](https://onlinecollection.hughlane.ie/objects/1222/portrait-of-a-man?ctx=eea2734ecf0d859e5833e99c59f86c2ea95f40a7&idx=8)
+[@ Portrait of Hugh Lane](https://onlinecollection.hughlane.ie/objects/1223/portrait-of-hugh-lane?ctx=e5d76b08899eaefc0ba5339025a0858ad8c859a5&idx=17)
+[@ Portrait of Mrs Shine](https://onlinecollection.hughlane.ie/objects/1220/portrait-of-mrs-shine?ctx=eea2734ecf0d859e5833e99c59f86c2ea95f40a7&idx=10)
+[@ Resting](https://www.artic.edu/artworks/15705/resting)
 [@ Ritratto di Giovanni Nicolini](https://accademiasanluca.it/collezioni/opere/ritratto-di-giovanni-nicolini)
+[@ Saint John the Baptist](https://collections.mfa.org/download/31840)
+[@ Self portrait 1907](https://onlinecollection.hughlane.ie/objects/1216/selfportrait?ctx=eea2734ecf0d859e5833e99c59f86c2ea95f40a7&idx=1)
+[@ Self portrait 1909](https://onlinecollection.hughlane.ie/objects/1225/portrait-of-the-artist?ctx=eea2734ecf0d859e5833e99c59f86c2ea95f40a7&idx=5)
+[@ Servetta](https://commons.wikimedia.org/wiki/File:Antonio_mancini,_servetta.jpg)
+[@ Sick Child](https://www.demesdagcollectie.nl/en/collection/hwm0174)
+[@ Signor Valero, opera singer](https://onlinecollection.hughlane.ie/objects/1228/signor-valero-opera-singer?ctx=e5d76b08899eaefc0ba5339025a0858ad8c859a5&idx=16)
+[@ Sister](https://www.demesdagcollectie.nl/en/collection/hwm0175)
+[@ Smelling flowers](https://www.demesdagcollectie.nl/en/collection/hwm0187)
+[@ Smiling italian woman](https://www.demesdagcollectie.nl/en/collection/hwm0188)
+[@ Study of a nude girl](https://collections.mfa.org/objects/176199/study-of-a-nude-girl?ctx=8c9beb47-9ae3-497e-a596-82ca0a9a466c&idx=7)
+[@ Study of my sister](https://www.demesdagcollectie.nl/en/collection/hwm0175)
+[@ Sylvia Hunter](https://onlinecollection.hughlane.ie/objects/1221/portrait-of-a-lady-sylvia-daughter-of-charles-hunter-esq?ctx=eea2734ecf0d859e5833e99c59f86c2ea95f40a7&idx=11)
+[@ The Fortune Teller](https://museum.wales/collections/online/object/3396df8a-5f13-3eee-84bb-0781c5605a8c/The-fortune-teller/?field0=string&value0=mancini&field1=with_images&value1=1&index=0)
+[@ The Little Groom](https://www.gardnermuseum.org/experience/collection/10947)
+[@ The Maker of figures](https://onlinecollection.hughlane.ie/objects/1227/the-maker-of-figures?ctx=eea2734ecf0d859e5833e99c59f86c2ea95f40a7&idx=0)
+[@ The Mantilla](https://onlinecollection.hughlane.ie/objects/1226/the-mantilla?ctx=eea2734ecf0d859e5833e99c59f86c2ea95f40a7&idx=6)
+[@ The Marquis Del Grillo](https://www.nationalgallery.org.uk/paintings/antonio-mancini-the-marquis-del-grillo)
+[@ The Poor Child](https://www.rijksmuseum.nl/en/collection/object/Het-arme-kind--78c75f2759b38fb7c08383c531fe7561)
+[@ The Standard Bearer of the Harvest Festival](https://www.gardnermuseum.org/experience/collection/10948)
+[@ View of Rome](https://www.demesdagcollectie.nl/en/collection/hwm0179)
+[Ambito romano](https://www.archiviodellacomunicazione.it/sicap/OpereArte/6184/?WEB=MuseiVE)
+[Autoritratto - olio su tela](https://www.archiviodellacomunicazione.it/sicap/OpereArte/375258/?WEB=MuseiVE)
+[Bacchus](https://www.stedelijk.nl/nl/collectie/4597-antonio-mancini-bacchus)
+[Gardens at the Villa Borghese](https://emuseum.mfah.org/objects/165064/gardens-at-the-villa-borghese)
+[Homme levant son chapeau](https://www.musee-orsay.fr/fr/oeuvres/lhomme-au-perroquet-recto-homme-levant-son-chapeau-verso-3644)
+[L'Homme au perroquet](https://www.musee-orsay.fr/en/artworks/lhomme-au-perroquet-recto-homme-levant-son-chapeau-verso-3644)
+[Le Petit Ecolier](https://www.musee-orsay.fr/en/artworks/le-petit-ecolier-3066)
+[Portrait of the artists Father](https://www.tate.org.uk/art/artists/antonio-mancini-1564)
+[Portrait of the father with a tray and flowers](https://www.archiviodellacomunicazione.it/sicap/OpereArte/5029/?WEB=MuseiVE)
+[Woman Sculpting](https://collectie.groningermuseum.nl/collectie-items/highlight/1063)
 
 ## John Singer Sargent
 [# Drapery Study for Luxemburg](https://www.artsbma.org/collection/drapery-study-for-luxemburg/)
@@ -475,6 +517,14 @@
 [Study for "Spanish Dance"](https://art.nelson-atkins.org/objects/5539/study-for-spanish-dance)
 [Fisherwomen Returning](https://art.nelson-atkins.org/objects/15845/fisherwomen-returning)
 [Elvira Hazard Bullock](https://worcester.emuseum.com/objects/9763/elvira-hazard-bullock-mrs-alexander-h-bullock)
+[Venetian Bead Stringers](https://buffaloakg.org/artworks/19162-venetian-bead-stringers)
+[Madame Gautreau Drinking a Toast](https://www.gardnermuseum.org/experience/collection/10979)
+[Santa Maria della Salute](https://www.gardnermuseum.org/experience/collection/10880)
+[Ponte della Canonica](https://www.gardnermuseum.org/experience/collection/10878)
+[San Giuseppe di Castello](https://www.gardnermuseum.org/experience/collection/10877)
+[Miss Violet Sargent](https://www.gardnermuseum.org/experience/collection/10868)
+[$$@ El Jaleo](https://www.gardnermuseum.org/experience/collection/13259)
+
 
 ## Maurice Chabas
 [Portrait du père de l'artiste](https://www.musee-orsay.fr/en/artworks/portrait-du-pere-de-lartiste-78063)
@@ -697,6 +747,7 @@
 [$$ Bessie Potter](https://www.metmuseum.org/art/collection/search/10472)
 [$$ For the Little One](https://www.metmuseum.org/art/collection/search/10468)
 [$$ Alice Gerson in Prospect Park](https://www.metmuseum.org/art/collection/search/10471)
+[$$ Portrait of a Man](https://buffaloakg.org/artworks/192610-portrait-man)
 [$ Female Figure Study (side view)](https://www.pafa.org/museum/collection/item/female-figure-study-side-view)
 [$ James Abbott McNeill Whistler](https://www.metmuseum.org/art/collection/search/10469)
 [$ Portrait of a man](https://www.clarkart.edu/ArtPiece/Detail/Portrait-of-a-Man-(1))
@@ -948,6 +999,7 @@
 [Venetian Girl 2](https://www.clevelandart.org/art/1922.173)
 [Mary E. Goddard](https://collection.ncartmuseum.org/objects/273/mary-e-goddard)
 [Antique Shop](https://artmuseum.princeton.edu/art/collections/objects/144876)
+[Portrait of a Young Man](https://buffaloakg.org/artworks/19181a-portrait-young-man)
 
 ## Karel van Mander III
 [A Man Wearing a Turban and Armour](https://open.smk.dk/en/artwork/image/KMS7956)
@@ -1014,9 +1066,17 @@
 [Self Portrait](https://collection.nationalmuseum.se/en/collection/item/18513/)
 [Study of a nude](https://collection.nationalmuseum.se/en/collection/item/23725/)
 [Young Girl from Dalarna](https://collection.nationalmuseum.se/en/collection/item/20428/)
+[Mrs. Grover Cleveland](https://www.gardnermuseum.org/experience/collection/10972)
+[Isabella Stewart Gardner in Venice](https://www.gardnermuseum.org/experience/collection/10973)
 
 ## Mimmi Zetterström
 [# Self Portrait](https://collection.nationalmuseum.se/en/collection/item/20397/)
+
+## Childe Hassam
+[A New York Blizzard](https://www.gardnermuseum.org/experience/collection/10824)
+
+## Ignaz Marcel Gaugengigl
+[Self-Portrait](https://www.gardnermuseum.org/experience/collection/10820)
 
 ## Ellen Emmet Rand
 [Woman Before the Mirror](https://www.artic.edu/artworks/249427/woman-before-the-mirror)
@@ -1036,6 +1096,7 @@
 [Seated Nude](https://www.famsf.org/artworks/seated-nude-60375)
 [Frankie, the Organ Boy](https://art.nelson-atkins.org/objects/11742/frankie-the-organ-boy)
 [Newsboy](https://www.brooklynmuseum.org/objects/1266)
+[Elinor, Jean and Anna](https://buffaloakg.org/artworks/192332-elinor-jean-and-anna)
 
 ## Count Albert De Belleroche
 [# Olympia de la Fontaine](https://www.tate.org.uk/art/artworks/de-belleroche-olympia-de-la-fontaine-t00003)
@@ -1129,6 +1190,7 @@
 [The Artists Monther](https://www.tate.org.uk/art/artworks/watt-the-artists-mother-n04541)
 
 ## Adolphe-Joseph Monticelli
+[$$ Portrait of Madame Rosenthal](https://buffaloakg.org/artworks/1932122-portrait-madame-rosenthal)
 [$ Poultry near the Ruins of a Mill](https://www.krollermuller.nl/en/collection/adolphe-joseph-monticelli-poultry-near-the-ruins-of-a-mill-km-111-272)
 [Garden Party](https://artmuseum.princeton.edu/art/collections/objects/24041)
 
@@ -2002,6 +2064,7 @@
 
 ## John Francis Murphy
 [# After the Storm](https://collections.artsmia.org/art/10520/after-the-storm-john-francis-murphy)
+[$$ Neglected Lands](https://buffaloakg.org/artworks/19059-neglected-lands)
 [Landscape](https://artmuseum.princeton.edu/art/collections/objects/32656)
 
 ## Sidney Starr
@@ -2194,6 +2257,8 @@
 [Victoria Dubourg](https://www.musee-orsay.fr/en/artworks/victoria-dubourg-20356)
 [White Roses](https://www.bellasartes.gob.ar/en/collection/work/8601/)
 [Vase of Flowers](https://artmuseum.princeton.edu/art/collections/objects/33164)
+[$$ Venus and Cupid](https://onlinecollection.hughlane.ie/objects/516/venus-and-cupid?ctx=e2031ad738cb44864dc666dde9457de60c2a4524&idx=14)
+[$$ Portrait of the Artist](https://onlinecollection.hughlane.ie/objects/515/portrait-of-the-artist?ctx=e2031ad738cb44864dc666dde9457de60c2a4524&idx=13)
 
 ## Jean-Alexandre-Joseph Falguière
 [Eventail et poignard](https://www.musee-orsay.fr/en/artworks/eventail-et-poignard-20506)
@@ -2779,6 +2844,8 @@
 [$ Evening](https://www.musee-orsay.fr/en/artworks/evening-9160)
 [Self Portrait](https://www.famsf.org/artworks/self-portrait-61083)
 [Seaside](https://www.clevelandart.org/art/1980.288)
+[Political Woman](https://buffaloakg.org/artworks/190910-lambitieuse-political-woman)
+
 
 ## Jules Dupré
 [Autumn](https://www.demesdagcollectie.nl/en/collection/hwm0122)
@@ -2881,6 +2948,7 @@
 [The Artists Daughter](https://www.famsf.org/artworks/the-artists-daughter)
 [Figure de Pifferaro](https://www.musee-orsay.fr/en/artworks/figure-de-pifferaro-16704)
 [Homme tirant un canon](https://www.musee-orsay.fr/en/artworks/homme-tirant-un-canon-128824)
+[Head of a Woman](https://buffaloakg.org/artworks/19301-head-woman)
 
 ## Hans Canon
 [$ Self Portrait](https://sammlung.belvedere.at/objects/3460/selbstportrat?)
@@ -2923,6 +2991,7 @@
 [The Blue Dress](https://asia.si.edu/explore-art-culture/collections/search/edanmdm:fsg_F1913.8a-b/)
 [The Letter](https://www.metmuseum.org/art/collection/search/10746)
 [Lady in Gold](https://www.brooklynmuseum.org/objects/70)
+[Lady in Yellow](https://www.gardnermuseum.org/experience/collection/10819)
 
 ## John Singleton Copley
 [Self Portrait](https://collections.si.edu/search/detail/edanmdm:npg_NPG.77.22?fq=data_source%3A%22National+Portrait+Gallery%22&fq=online_media_type%3A%22Images%22&fq=object_type%3A%22Paintings%22&record=8&hlterm=&inline=true)
@@ -3195,6 +3264,9 @@
 [Elizabeth Putnam](https://www.gallery.ca/collection/artwork/elizabeth-putnam)
 [Young Canada](https://www.gallery.ca/collection/artwork/young-canada)
 
+## Sarah Cecilia Harrison
+[$$ Portrait of the Painter](https://onlinecollection.hughlane.ie/objects/717/portrait-of-the-painter?ctx=e2031ad738cb44864dc666dde9457de60c2a4524&idx=16)
+
 ## Gabi Hamm
 [Ohne Titel 374](https://www.mmk.art/en/mmk_collection/collection/2001-374-ohne-titel)
 [Ohne Titel 87](https://www.mmk.art/en/mmk_collection/collection/2001-87-ohne-titel)
@@ -3305,6 +3377,9 @@
 ## Frank Bramley
 [$ Primrose Day](https://www.tate.org.uk/art/artworks/bramley-primrose-day-t03962)
 [De twist tussen Ajax en Odysseus](https://www.museumprinsenhofdelft.nl/en/collection/104493)
+
+## Frank Brooks
+[Portrait of Hugh Lane's Mother, Adelaide Lane, nee Persse](https://onlinecollection.hughlane.ie/objects/159/portrait-of-hugh-lanes-mother-adelaide-lane-nee-persse?ctx=6417f55c186305d4ff7df479c6616b34694d4a3d&idx=1)
 
 ## Hendrik Leys
 [Farmhouse](https://collection.nationalmuseum.se/en/collection/item/18464/)
@@ -3881,6 +3956,9 @@
 
 ## Charles Cottet
 [Nature morte: pommes et bouteille](https://www.musee-orsay.fr/en/artworks/nature-morte-pommes-et-bouteille-16688)
+
+## Charles Condor
+[Stormy Day, Brighton](https://onlinecollection.hughlane.ie/objects/304/stormy-day-brighton?ctx=6417f55c186305d4ff7df479c6616b34694d4a3d&idx=2)
 
 ## Claude Monet
 [The Gare St-Lazare](https://www.nationalgallery.org.uk/paintings/claude-monet-the-gare-st-lazare )
@@ -4672,7 +4750,7 @@ old woman reading](https://kokoelma.kansallisgalleria.fi/en/object/498050)
 [Landscape with Travelers](https://worcester.emuseum.com/objects/29721/landscape-with-travelers)
 
 ## Anna Chamberlain Freeland
-[$$@ William the Conqueror](https://worcester.emuseum.com/objects/7479/william-the-conqueror)
+[# William the Conqueror](https://worcester.emuseum.com/objects/7479/william-the-conqueror)
 
 ## Emil Fuchs
 [Lady in Black](https://www.brooklynmuseum.org/objects/405)
@@ -4701,3 +4779,30 @@ old woman reading](https://kokoelma.kansallisgalleria.fi/en/object/498050)
 
 ## Louis-Edouard Dubufe
 [$ Portrait of Princess Brancaccio-Massimo](https://collections.lacma.org/object/103898)
+
+## Gregory Manchess
+[$$ Above the Horizon](https://www.manchess.com/images/a38lt2z8qu35c1ene5w6gcawtawhwi)
+
+## Enoch Wood Perry
+[$ Young Franklin at the Press](https://buffaloakg.org/artworks/18773-young-franklin-press)
+
+## Edward Dufner
+[In the Studio](https://buffaloakg.org/artworks/19017-studio)
+
+## Warren Sheppard
+[$$ The Restless Sea](https://buffaloakg.org/artworks/19086-restless-sea)
+
+## Douglas Volk
+[Portrait of Lincoln](https://buffaloakg.org/artworks/19224-portrait-lincoln)
+
+## Rosa Bonheur
+[$$ The Horse Fair](https://buffaloakg.org/artworks/192716-le-march%C3%A9-aux-chevaux-horse-fair)
+
+## Charles Le Claire
+[The Collector](https://buffaloakg.org/artworks/19443-collector)
+
+## Joaquín Sorolla y Bastida
+[Portrait of Charles M. Kurtz](https://buffaloakg.org/artworks/19913-portrait-charles-m-kurtz-founding-director-albright-art-gallery-1905-1909)
+
+## Edwin Walter Dickinson
+[$$ An Anniversary](https://buffaloakg.org/artworks/192729-anniversary)

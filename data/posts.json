@@ -2412,6 +2412,48 @@
     "source": "https://www.philamuseum.org/objects/283511"
   },
   {
+    "slug": "lost-in-thought",
+    "title": "Lost in Thought",
+    "image": "/collection/mancini__lost-in-thought.webp",
+    "artist": "Antonio Mancini",
+    "date": "c. 1895-1898",
+    "height": 100,
+    "width": 60,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "hwm0180",
+    "location": "De Mesdag Collectie",
+    "source": "https://www.demesdagcollectie.nl/en/collection/hwm0180"
+  },
+  {
+    "slug": "woman-with-a-green-vase",
+    "title": "Woman with a Green Vase",
+    "image": "/collection/mancini__woman-with-a-green-vase.webp",
+    "artist": "Antonio Mancini",
+    "date": "c. 1895",
+    "height": 88,
+    "width": 63,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "s0488S1998",
+    "location": "De Mesdag Collectie",
+    "source": "https://www.demesdagcollectie.nl/en/collection/s0488S1998"
+  },
+  {
+    "slug": "il-saltimbanco",
+    "title": "Il Saltimbanco",
+    "image": "/collection/mancini__il-saltimbanco.jpg",
+    "artist": "Antonio Mancini",
+    "date": "1879",
+    "height": 203.8,
+    "width": 110.8,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "2004-108-4",
+    "location": "Philadelphia Museum of Art",
+    "source": "https://www.philamuseum.org/objects/283509"
+  },
+  {
     "slug": "portrait-of-kazimierz-alchimowicz",
     "title": "Portrait of Kazimierz Alchimowicz, painter",
     "image": "/collection/ajdukiewicz__portrait-of-kazimierz-alchimowicz.jpg",
@@ -3809,6 +3851,20 @@
     "accession": "18.44",
     "location": "Brooklyn Museum",
     "source": "https://www.brooklynmuseum.org/objects/112"
+  },
+  {
+    "slug": "william-the-conqueror",
+    "title": "William the Conqueror",
+    "image": "/collection/freeland__william-the-conqueror.jpg",
+    "artist": "Anna Chamberlain Freeland",
+    "date": "1886",
+    "height": 94,
+    "width": 74.9,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "1903.17",
+    "location": "Worcester Art Museum",
+    "source": "https://worcester.emuseum.com/objects/7479/william-the-conqueror"
   },
   {
     "slug": "madame-plevitzskaia",

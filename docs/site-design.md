@@ -29,6 +29,23 @@ property P373, the Commons category;
 optionally P1472, the Commons Creator page.
 
 
+### Copy canvas
+
+```
+setTimeout(() => {
+document.querySelector('canvas').toBlob(async (blob) => {
+    try {
+      const item = new ClipboardItem({ [blob.type]: blob });
+      await navigator.clipboard.write([item]);
+      console.log('Canvas image copied to clipboard!');
+    } catch (err) {
+      console.error('Failed to copy: ', err);
+    }
+  }, 'image/png')
+}, 1000)
+```
+
+
 ## CSS Transitions
 
 ```

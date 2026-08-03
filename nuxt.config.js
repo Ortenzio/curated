@@ -31,6 +31,7 @@ export default defineNuxtConfig({
     enabled: false 
   },
   image: {
+    provider: 'ipx',
     dir: 'assets',
     inject: true,
     presets: {
@@ -52,7 +53,7 @@ export default defineNuxtConfig({
     }
   },
   features: {
-    inlineStyles: false
+    // inlineStyles: false
   },
   routeRules: {
     '/**': {
@@ -113,9 +114,6 @@ export default defineNuxtConfig({
         }
       }
     }
-  },
-  experimental: {
-    buildCache: true
   },
   compatibilityDate: '2024-04-03'
 })
