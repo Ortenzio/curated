@@ -1281,6 +1281,21 @@
     "copyright": "Public Domain"
   },
   {
+    "slug": "bjorn-ahlgrensson",
+    "title": "Björn Ahlgrensson, Artist",
+    "image": "/collection/gerle__bjorn-ahlgrensson.jpg",
+    "artist": "Aron Gerle",
+    "date": "Signed 1899",
+    "height": 81.0,
+    "width": 59.0,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "NM 2056",
+    "location": "National Gallery of Sweeden",
+    "source": "https://collection.nationalmuseum.se/en/collection/item/19115/",
+    "copyright": "Public Domain"
+  },
+  {
     "slug": "hans-heyerdahl",
     "title": "Hans Heyerdahl",
     "image": "/collection/peterssen__hans-heyerdahl.jpg",
@@ -2294,6 +2309,36 @@
     "accession": "MP 1978 MNW",
     "location": "National Museum in Warsaw",
     "source": "https://cyfrowe.mnw.art.pl/en/catalog/445028"
+  },
+  {
+    "slug": "portrait-head-of-a-young-woman",
+    "title": "Profile Head of a Young Woman",
+    "image": "/collection/muller__portrait-head-of-a-young-woman.jpg",
+    "artist": "Leopold Carl Müller",
+    "date": "19th century",
+    "height": 26.3,
+    "width": 16.3,
+    "medium": "Oil",
+    "support": "Panel",
+    "accession": "37.1284",
+    "location": "The Walters Art Museum",
+    "source": "https://art.thewalters.org/object/37.1013/",
+    "copyright": "CC0 1.0 Universal"
+  },
+  {
+    "slug": "figure-kneeling-before-shrine",
+    "title": "Figure Kneeling Before Shrine",
+    "image": "/collection/biermann__figure-kneeling-before-shrine.jpg",
+    "artist": "Eduard Karl Biermann",
+    "date": "1803-1892",
+    "height": 17.8,
+    "width": 12.6,
+    "medium": "Sepia",
+    "support": "Paper",
+    "accession": "37.1284",
+    "location": "The Walters Art Museum",
+    "source": "https://art.thewalters.org/object/37.1284/",
+    "copyright": "CC0 1.0 Universal"
   },
   {
     "slug": "antoine-vollon",
@@ -3889,6 +3934,20 @@
     "copyright": "Delaware Art Museum / Artists Rights Society (ARS), New York"
   },
   {
+    "slug": "head-of-a-woman-3",
+    "title": "Head of a Woman",
+    "image": "/collection/anshutz__head-of-a-woman.jpg",
+    "artist": "Thomas Pollock Anshutz",
+    "date": "c. 1900",
+    "height": 54.6,
+    "width": 41.9,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "1975-28",
+    "location": "Delaware Art Museum",
+    "source": "https://emuseum.delart.org/objects/9090/head-of-a-woman"
+  },
+  {
     "slug": "jo-painting",
     "title": "Jo Painting",
     "image": "/collection/hopper__jo-painting.jpg",
@@ -4291,6 +4350,20 @@
     "source": "https://collections.lacma.org/object/38539"
   },
   {
+    "slug": "priscilla-2",
+    "title": "Priscilla",
+    "image": "/collection/walton__priscilla.jpg",
+    "artist": "George Walton",
+    "date": "1886",
+    "height": 48.5,
+    "width": 41.0,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "1673-5",
+    "location": "National Gallery of Victoria",
+    "source": "https://www.ngv.vic.gov.au/explore/collection/work/3178/"
+  },
+  {
     "slug": "pablo-de-sarasate",
     "title": "Pablo de Sarasate: Portrait of a Violinist",
     "image": "/collection/chase__pablo-de-sarasate.jpg",
@@ -4401,6 +4474,21 @@
     "accession": "4737",
     "location": "Österreichische Galerie Belvedere",
     "source": "https://sammlung.belvedere.at/objects/3492/judith",
+    "copyright": "Public Domain"
+  },
+  {
+    "slug": "jean-francois-millet",
+    "title": "Self-Portrait of Jean-François Millet",
+    "image": "/collection/millet__jean-francois-millet.jpg",
+    "artist": "Jean-François Millet",
+    "date": "c. 1850",
+    "height": 45,
+    "width": 40,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "7948",
+    "location": "Österreichische Galerie Belvedere",
+    "source": "https://sammlung.belvedere.at/objects/7736/selbstbildnis",
     "copyright": "Public Domain"
   },
   {
@@ -4592,7 +4680,22 @@
     "accession": "RF 1977 39",
     "location": "Musée d'Orsay",
     "source": "https://www.musee-orsay.fr/en/artworks/paul-gachet-16609",
-    "copyright": "© RMN-Grand Palais (Musée d’Orsay) / Hervé Lewandowski"
+    "copyright": "© RMN-Grand Palais (Musée d'Orsay) / Hervé Lewandowski"
+  },
+  {
+    "slug": "perroquet",
+    "title": "Le Perroquet",
+    "image": "/collection/grun__perroquet.jpg",
+    "artist": "Jules Alexandre Grün",
+    "date": "Between 1868 and 1938",
+    "height": 59,
+    "width": 49,
+    "medium": "Oil",
+    "support": "Cardboard",
+    "accession": "LUX 1491",
+    "location": "Musée d'Orsay",
+    "source": "https://www.musee-orsay.fr/en/artworks/le-perroquet-80058",
+    "copyright": "© RMN-Grand Palais (Musée d'Orsay) / Sylvie Chan-Liat"
   },
   {
     "slug": "kentucky-mountaineer",

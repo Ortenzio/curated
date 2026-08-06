@@ -94,6 +94,7 @@
 - [National Gallery of Art](https://www.nga.gov)
 - [National Gallery of Canada](https://www.gallery.ca/)
 - [National Gallery of Ireland](https://onlinecollection.nationalgallery.ie/)
+- [National Gallery of Victoria](https://www.ngv.vic.gov.au/explore/collection)
 - [National Museum Finland](https://www.kansallismuseo.fi/en/kansallismuseo)
 - [National Museum of Fine Arts of Algiers](http://www.musee-beauxarts.dz/)
 - [National Museum of Korea](https://www.museum.go.kr/)
@@ -138,6 +139,5 @@
 
 
 https://artuk.org/discover/artists/mancini-antonio-18521930/view_as/grid/search/2026--keyword:mancini/page/1
-https://www.ngv.vic.gov.au/explore/collection
 
 
