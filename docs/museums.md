@@ -53,7 +53,7 @@
 - [KMSKA](https://www.kmska.be/en/overview/the-collection?type=1445&page=100)
 - [Kroller-Muller](https://www.krollermuller.nl/)
 - [Kumu Art Museum](https://kumu.ekm.ee/en/)
-- [Kunst­historisches Museum](https://www.khm.at/)
+- [Kunsthistorisches Museum](https://www.khm.at/)
 - [Le Gallerie Degli Uffizi](https://www.uffizi.it/)
 - [Lenbachhaus](https://www.lenbachhaus.de/)
 - [Los Angeles County Museum of Art](https://collections.lacma.org/search)
@@ -126,6 +126,7 @@
 - [The Holburne Museum](https://holburne.org/)
 - [The National Gallery of Denmark](https://www.smk.dk/en/)
 - [Thiel Gallery](https://thielska.zetcom.net/en/)
+- [Toledo Art Museum](https://toledomuseum.org/)
 - [Utah Museum of Contemporary Art](https://utahmoca.org/)
 - [Van Gogh Museum](https://www.vangoghmuseum.nl/en)
 - [Victoria and Albert Museum](https://www.vam.ac.uk/)
@@ -136,8 +137,14 @@
 - [Wikiart](https://www.wikiart.org/)
 - [Wolfsonian - Florida International University](https://wolfsonian.org/)
 - [Worcester Art Museum](https://worcester.emuseum.com/collections)
+- [Paris Museum Collections](https://www.parismuseescollections.paris.fr/)
+- [York Museums Trust](https://www.yorkartgallery.org.uk/)
+- [Royal Albert Memorial Museum](https://rammuseum.org.uk/)
+- [The Box](https://www.theboxplymouth.com/)
+- [Museum Gouda](https://www.museumgouda.nl/)
+- [Musée Carnavalet](https://www.carnavalet.paris.fr/en)
+- [Thyssen-Bornemisza National Museum](https://www.museothyssen.org/en)
 
-
-https://artuk.org/discover/artists/mancini-antonio-18521930/view_as/grid/search/2026--keyword:mancini/page/1
-
-
+https://www.musee-gassendi.org/en/home-2/
+https://www.nationalmuseumsni.org/
+https://www.museunacional.cat/en

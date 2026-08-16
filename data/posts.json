@@ -715,6 +715,21 @@
     "copyright": "Public Domain"
   },
   {
+    "slug": "girl-eating-grapes",
+    "title": "Girl Eating Grapes (Singer Suoma Konkola)",
+    "image": "/collection/faven__girl-eating-grapes.webp",
+    "artist": "Antti Favén",
+    "date": "1905",
+    "height": 91,
+    "width": 81,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "A II 1702",
+    "location": "Finnish National Gallery",
+    "source": "https://kokoelma.kansallisgalleria.fi/en/object/394044",
+    "copyright": "Public Domain"
+  },
+  {
     "slug": "on-the-beach",
     "title": "On The Beach",
     "image": "/collection/verwee__on-the-beach.webp",
@@ -939,6 +954,20 @@
     "copyright": "Public Domain"
   },
   {
+    "slug": "tryst",
+    "title": "Tryst",
+    "image": "/collection/swynnerton__tryst.jpg",
+    "artist": "Annie Louisa Swynnerton A.R.A.",
+    "date": "Before 1880",
+    "height": 114,
+    "width": 78.5,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "1880-2",
+    "location": "Salford Museum & Art Gallery",
+    "source": "https://artuk.org/discover/artworks/tryst-165619"
+  },
+  {
     "slug": "s-isabel-dacre",
     "title": "S. Isabel Dacre",
     "image": "/collection/swynnerton__s-isabel-dacre.jpg",
@@ -1086,6 +1115,20 @@
     "location": "National Museum in Warsaw",
     "source": "https://cyfrowe.mnw.art.pl/en/catalog/446367",
     "copyright": "Public Domain"
+  },
+  {
+    "slug": "portrait-of-a-lady",
+    "title": "Portrait of a Lady (Ritratto di signora)",
+    "image": "/collection/schiaffino__ritratto-di-signora.jpg",
+    "artist": "Antonio Schiaffino",
+    "date": "1915",
+    "height": 0,
+    "width": 0,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "GAM0246",
+    "location": "Musei Di Genova",
+    "source": "https://catalogo.museidigenova.it/oggetti/195293-ritratto-di-signora"
   },
   {
     "slug": "meditation",
@@ -2339,6 +2382,21 @@
     "location": "The Walters Art Museum",
     "source": "https://art.thewalters.org/object/37.1284/",
     "copyright": "CC0 1.0 Universal"
+  },
+  {
+    "slug": "mound-of-butter",
+    "title": "Mound of Butter",
+    "image": "/collection/vollon__mound-of-butter.jpg",
+    "artist": "Antoine Vollon",
+    "date": "1875/1885",
+    "height": 50.2,
+    "width": 60.1,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "1992.95.1",
+    "location": "National Gallery of Art",
+    "source": "https://www.nga.gov/artworks/75030-mound-butter",
+    "copyright": "Open Access"
   },
   {
     "slug": "antoine-vollon",
@@ -4020,6 +4078,20 @@
     "copyright": "Public Domain"
   },
   {
+    "slug": "study-of-a-womans-head-looking-up",
+    "title": "Study of a Woman's Head Looking Up",
+    "image": "/collection/van-dyck__study-of-a-womans-head-looking-up.jpg",
+    "artist": "Anthony Van Dyck",
+    "date": "1618/20",
+    "height": 49.2,
+    "width": 45.8,
+    "medium": "Oil",
+    "support": "Paper on oak wood",
+    "accession": "Gemäldegalerie, 514",
+    "location": "Kunsthistorisches Museum",
+    "source": "https://www.khm.at/en/artworks/study-of-a-woman-s-head-looking-up-633"
+  },
+  {
     "slug": "amalie-makart",
     "title": "Amalie Makart, née Roithmayr (The Artist's First Wife)" ,
     "image": "/collection/makart__amalie-makart.jpg",
@@ -4136,6 +4208,20 @@
     "accession": "1935.433",
     "location": "Art Institute of Chicago",
     "source": "https://www.artic.edu/artworks/22121/mrs-martin-a-ryerson"
+  },
+  {
+    "slug": "george-peter-alexander-healy",
+    "title": "Self-Portrait of George Peter Alexander Healy",
+    "image": "/collection/healy__george-peter-alexander-healy.jpg",
+    "artist": "George Peter Alexander Healy",
+    "date": "1873",
+    "height": 78.2,
+    "width": 65.4,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "1913.134",
+    "location": "Art Institute of Chicago",
+    "source": "https://www.artic.edu/artworks/136190/self-portrait"
   },
   {
     "slug": "joseph-pennell",
@@ -4350,6 +4436,20 @@
     "source": "https://collections.lacma.org/object/38539"
   },
   {
+    "slug": "embroiderer",
+    "title": "Embroiderer (Brodeuse)",
+    "image": "/collection/capon__embroiderer.jpg",
+    "artist": "Georges Louis Emile Capon",
+    "date": "1890",
+    "height": 73,
+    "width": 60,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "AM 1995 P",
+    "location": "Centre Pompidou",
+    "source": "https://www.centrepompidou.fr/en/ressources/oeuvre/cgzX5yo"
+  },  
+  {
     "slug": "priscilla-2",
     "title": "Priscilla",
     "image": "/collection/walton__priscilla.jpg",
@@ -4534,6 +4634,35 @@
     "location": "Museo Del Prado",
     "source": "https://www.museodelprado.es/en/the-collection/art-work/self-portrait/6fcc9147-2674-4880-a308-094a4cbc4115",
     "copyright": "Museo Nacional del Prado"
+  },
+  {
+    "slug": "antonia-de-banuelos-thorndike.jpg",
+    "title": "Self-Portrait of Antonia de Bañuelos Thorndike",
+    "image": "/collection/banuelos__antonia-de-banuelos-thorndike.jpg",
+    "artist": "Antonia de Bañuelos Thorndike",
+    "date": "1885",
+    "height": 65.3,
+    "width": 54,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "P008456",
+    "location": "Museo Del Prado",
+    "source": "https://www.museodelprado.es/en/the-collection/art-work/self-portrait/7e4c27ae-a3ba-4a35-b817-7325445cab6f",
+    "copyright": "Museo Nacional del Prado"
+  },
+  {
+    "slug": "karol-larisch",
+    "title": "Self-Portrait of Karol Larisch",
+    "image": "/collection/larisch__karol-larisch.jpg",
+    "artist": "Karol Larisch",
+    "date": "1935",
+    "height": 37,
+    "width": 27,
+    "medium": "Oil",
+    "support": "Plywood",
+    "accession": "MPW 2895 MNW",
+    "location": "National Museum in Warsaw",
+    "source": "https://cyfrowe.mnw.art.pl/en/catalog/450312"
   },
   {
     "slug": "portrait-of-a-young-girl",
@@ -4984,6 +5113,21 @@
     "accession": "2004.166.24",
     "location": "National Gallery of Art",
     "source": "https://www.nga.gov/artworks/130890-church-san-trovaso-venice"
+  },
+  {
+    "slug": "angel-carrier",
+    "title": "Angel Carrier",
+    "image": "/collection/szoldatics__angel-carrier.jpg",
+    "artist": "Giorgio Szoldatics",
+    "date": "ca. 1890",
+    "height": 76,
+    "width": 55.5,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "FK9700",
+    "location": "Museum of Fine Arts - Hungarian National Gallery",
+    "source": "https://en.mng.hu/artworks/45787/",
+    "copyright": "Museum of Fine Arts - Hungarian National Gallery"
   },
   {
     "slug": "gypsies",
