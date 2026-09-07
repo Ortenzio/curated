@@ -3057,10 +3057,12 @@
 ## Léon Cogniet
 [The Artist in His Room at the Villa Medici, Rome](https://www.clevelandart.org/art/1978.51)
 
-## Ignacio Pinazo Camarlench
+## Ignacio Pinazo Camarlench (València)
 [# Self-portrait](https://www.museodelprado.es/en/the-collection/art-work/self-portrait/c2b5ef3d-d3fc-45b3-9a95-cbce43b9704a)
 [# An altar boy practices his singing](https://www.museodelprado.es/en/the-collection/art-work/an-altar-boy-practices-his-singing/5fbfa4c9-8095-4527-8467-0a0a36945fbf)
 [# Female Nude](https://www.museodelprado.es/en/the-collection/art-work/female-nude/b973fa09-682f-4033-9a7b-1637a9be79d0)
+[@ Self Portrait](https://www.museunacional.cat/ca/colleccio/autoretrat/ignasi-pinazo/010025-000)
+[Seated Woman](https://commons.wikimedia.org/wiki/File:Ignacio_Pinazo_Camarlench_Figura_femenina_sentada.jpg)
 
 ## Eugène Boudin
 [Beach Scene, Trouville](https://www.nationalgallery.org.uk/paintings/eugene-boudin-beach-scene-trouville-2)
@@ -4863,5 +4865,57 @@
 
 ## Antoni Vila Arrufat Sabadell
 [Rest](https://www.museunacional.cat/en/colleccio/rest/antoni-vila-arrufat/039203-000)
+
+## Antoni Fabrés
+[$$ El bòer](https://www.museunacional.cat/ca/colleccio/el-boer/antoni-fabres/011903-000)
+[Camperol romà](https://www.museunacional.cat/ca/colleccio/camperol-roma/antoni-fabres/011874-000)
+
+## Antoni Caba
+[Esbós per a composició històrica](https://www.museunacional.cat/ca/colleccio/esbos-composicio-historica/antoni-caba/145581-000)
+
+## Georges Clairin
+[@ Sarah Bernhardt](https://commons.wikimedia.org/wiki/File:Sarah_Bernhardt_Clairin_Henderson.jpg)
+
+## Francesc Miralles
+[$$ Arreglant un gerro de flors](https://www.museunacional.cat/ca/colleccio/arreglant-un-gerro-de-flors/francesc-miralles/010778-000)
+
+## Paola Vetri
+[Retrat de Letterina Cacacce, dona de Baldomer Galofre](https://www.museunacional.cat/ca/colleccio/retrat-de-letterina-cacacce-dona-de-baldomer-galofre/paolo-vetri/011364-000)
+
+## Francesc Galofre Oller Valls
+[Tipus oriental (zíngara)](https://www.museunacional.cat/ca/colleccio/tipus-oriental-zingara/francesc-galofre-oller/010832-000)
+
+## José García Ramos
+[¡Fue un artista!](https://www.museunacional.cat/ca/colleccio/fue-un-artista/jose-garcia-ramos/011018-000)
+
+## Francesc Sans Cabot
+[Figura al·legòrica. L'Arquitectura](https://www.museunacional.cat/ca/colleccio/figura-allegrica-larquitectura/francesc-sans-cabot/145118-000)
+
+## Aleix Clapés
+[Retrat d'home](https://www.museunacional.cat/ca/colleccio/retrat-dhome/aleix-clapes/011303-000)
+
+## Joan Serra
+[Autoretrat](https://www.museunacional.cat/ca/colleccio/autoretrat/joan-serra/108249-000)
+
+## Benet Mercadé
+[Autoretrat](https://www.museunacional.cat/ca/colleccio/autoretrat/benet-mercade/010496-000)
+
+## Francesc Serra Castellet
+[En Semison de Tossa](https://www.museunacional.cat/ca/colleccio/en-semison-de-tossa/francesc-serra-castellet/040474-000)
+
+## Aleix Clapés Vilassar de Dalt
+[Retrat d'home](https://www.museunacional.cat/ca/colleccio/retrat-dhome/aleix-clapes/011204-000)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
