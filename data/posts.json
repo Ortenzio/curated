@@ -610,6 +610,21 @@
     "source": "https://worcester.emuseum.com/objects/32615/indian-woman"
   },
   {
+    "slug": "malliharjoitelma",
+    "title": "Malliharjoitelma",
+    "image": "/collection/gallen-kallela__malliharjoitelma.jpg",
+    "artist": "Akseli Gallen-Kallela",
+    "date": "1880 - 1889",
+    "height": 42,
+    "width": 39.5,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "A IV 4220",
+    "location": "Finnish National Gallery",
+    "source": "https://kokoelma.kansallisgalleria.fi/en/object/468379",
+    "copyright": "Public Domain"
+  },
+  {
     "slug": "colonel-volbert",
     "title": "Colonel Volbert",
     "image": "/collection/dacre__colonel-volbert.jpg",
@@ -1232,6 +1247,21 @@
     "accession": "2019.61.2",
     "location": "Pennsylvania Academy of the Fine Arts",
     "source": "https://www.pafa.org/museum/collection/item/self-portrait-74"
+  },
+  {
+    "slug": "an-egyptian-pot-seller-at-gizeh",
+    "title": "An Egyptian Pot Seller at Gizeh",
+    "image": "/collection/baumann__an-egyptian-pot-seller-at-gizeh.jpg",
+    "artist": "Elisabeth Jerichau Baumann",
+    "date": "1876 - 1878",
+    "height": 92,
+    "width": 114,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "KMS8791",
+    "location": "Statens Museum for Kunst",
+    "source": "https://open.smk.dk/en/artwork/image/KMS8791",
+    "copyright": "Public Domain"
   },
   {
     "slug": "a-doubtful-customer",
@@ -1886,6 +1916,21 @@
     "copyright": "CC0 - Public domain"
   },
   {
+    "slug": "therese-noire",
+    "title": "Lady in Black, Thérèse noire",
+    "image": "/collection/edelfelt__therese-noire.jpg",
+    "artist": "Albert Edelfelt",
+    "date": "1886",
+    "height": 55,
+    "width": 43,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "A I 537",
+    "location": "Finnish National Gallery",
+    "source": "https://kokoelma.kansallisgalleria.fi/en/object/391137",
+    "copyright": "Public Domain"
+  },
+  {
     "slug": "gammel-mann",
     "title": "Gammel mann",
     "image": "/collection/heyerdahl__gammel-mann.jpg",
@@ -2412,6 +2457,36 @@
     "location": "Musée d'Orsay",
     "source": "https://www.musee-orsay.fr/en/artworks/portrait-de-lartiste-21242",
     "copyright": "Open Access"
+  },
+  {
+    "slug": "gadolin-lagervall",
+    "title": "Portrait of Mrs E. Gadolin-Lagervall",
+    "image": "/collection/enckell__gadolin-lagervall.jpg",
+    "artist": "Magnus Enckell",
+    "date": "1901",
+    "height": 65.5,
+    "width": 54,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "A I 747",
+    "location": "Finnish National Gallery",
+    "source": "https://kokoelma.kansallisgalleria.fi/en/object/388798",
+    "copyright": "Public Domain"
+  },
+  {
+    "slug": "mies-marrakechista",
+    "title": "Mies Marrakechista",
+    "image": "/collection/backmansson__mies-marrakechista.jpg",
+    "artist": "Hugo Backmansson",
+    "date": "1909",
+    "height": 38,
+    "width": 31.5,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "A-2010-154",
+    "location": "Finnish National Gallery",
+    "source": "https://kokoelma.kansallisgalleria.fi/en/object/403019",
+    "copyright": "Public Domain"
   },
   {
     "slug": "portrait-d-homme",
@@ -3842,6 +3917,21 @@
     "accession": "hwm0241",
     "location": "De Mesdag Collectie",
     "source": "https://www.demesdagcollectie.nl/en/collection/hwm0241"
+  },
+  {
+    "slug": "julius-paulsen",
+    "title": "Portrait of Julius Paulsen",
+    "image": "/collection/paulsen__julius-paulsen.jpg",
+    "artist": "Julius Paulsen",
+    "date": "",
+    "height": 63.5,
+    "width": 63.5,
+    "medium": "Oil",
+    "support": "Canvas",
+    "accession": "A II 1606",
+    "location": "Finnish National Gallery",
+    "source": "https://kokoelma.kansallisgalleria.fi/en/object/410492",
+    "copyright": "Public Domain"
   },
   {
     "slug": "female-semi-nude-dancer",

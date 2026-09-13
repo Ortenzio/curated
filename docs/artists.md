@@ -1412,7 +1412,7 @@
 [Kammerherreinde Caroline Amalie Meldahl](https://open.smk.dk/en/artwork/image/KMS2047)
 
 ## Julius Paulsen
-[$$ Self potrait](https://kokoelma.kansallisgalleria.fi/en/object/410492)
+[# Self potrait](https://kokoelma.kansallisgalleria.fi/en/object/410492)
 [$@ Agnes Paulsen, the Artist's Sister](https://open.smk.dk/en/artwork/image/KMS3763)
 [$@ Adam and Eve](https://open.smk.dk/en/artwork/image/KMS1319)
 [$@ Unge kvinder](https://open.smk.dk/en/artwork/image/KMS1813)
@@ -1420,7 +1420,7 @@
 [Portrait of the Danish Artist Lorens Frölich](https://kokoelma.kansallisgalleria.fi/en/object/391162)
 
 ## Elisabeth Jerichau Baumann
-[$$@ An Egyptian Pot Seller at Gizeh](https://open.smk.dk/en/artwork/image/KMS8791)
+[# An Egyptian Pot Seller at Gizeh](https://open.smk.dk/en/artwork/image/KMS8791)
 
 ## Vilhelm Hammershøi
 [Nude Female Model](https://open.smk.dk/en/artwork/image/KMS8612)
@@ -1672,7 +1672,7 @@
 [A Blue Hyacinth in Paris](https://www.artrenewal.org/artworks/gerda-roosval-kallstenius/a-blue-hyacinth-in-paris/88159)
 
 ## Akseli Gallen-Kallela
-[$$ Malliharjoitelma](https://kokoelma.kansallisgalleria.fi/en/object/468379)
+[# Malliharjoitelma](https://kokoelma.kansallisgalleria.fi/en/object/468379)
 [$$ Model Study](https://kokoelma.kansallisgalleria.fi/en/object/471738)
 [$ Nude Study](https://collection.nationalmuseum.se/en/collection/item/231852/)
 [$ Démasquée](https://kokoelma.kansallisgalleria.fi/en/object/390885)
@@ -4282,8 +4282,8 @@
 [# Self-Portrait](https://www.pafa.org/museum/collection/item/self-portrait-64)
 
 ## Albert Edelfelt
+[# Lady in Black, Thérèse noire](https://kokoelma.kansallisgalleria.fi/en/object/391137)
 [$$ Egyptiläinen kuningatar, akatemiaharjoitelma](https://kokoelma.kansallisgalleria.fi/en/object/423449)
-[$$ Lady in Black, Thérèse noire](https://kokoelma.kansallisgalleria.fi/en/object/391137)
 [$$ Miesmalli, akatemiaharjoitelma](https://kokoelma.kansallisgalleria.fi/en/object/626231)
 [$ Female Nude, academy study](https://kokoelma.kansallisgalleria.fi/en/object/400012)
 [$ Lady writing a letter](https://collection.nationalmuseum.se/en/collection/item/19713/)
@@ -4431,10 +4431,10 @@
 [Assumption of the Blessed Virgin](https://www.domquartier.at/en/residenzgalerie-collection-online/paintings/assumption-of-the-blessed-virgin/)
 
 ## Hugo Backmansson
-[$$ Mies Marrakechista](https://kokoelma.kansallisgalleria.fi/en/object/403019)
+[# Mies Marrakechista](https://kokoelma.kansallisgalleria.fi/en/object/403019)
 
 ## Hanna Bergh
-[Model](https://kokoelma.kansallisgalleria.fi/en/object/386006)
+[$$ Model](https://kokoelma.kansallisgalleria.fi/en/object/386006)
 
 ## Gunnar Berndtson
 [Portrait of Journalist August Schauman](https://kokoelma.kansallisgalleria.fi/en/object/398952)
@@ -4449,7 +4449,7 @@
 [Old Provençal Woman](https://kokoelma.kansallisgalleria.fi/en/object/494896)
 
 ## Magnus Enckell
-[$$ Portrait of Mrs E. Gadolin-Lagervall](https://kokoelma.kansallisgalleria.fi/en/object/388798)
+[# Portrait of Mrs E. Gadolin-Lagervall](https://kokoelma.kansallisgalleria.fi/en/object/388798)
 [Girl reading](https://kokoelma.kansallisgalleria.fi/en/object/412032)
 
 ## Juho Forsell
@@ -4481,7 +4481,7 @@
 
 ## Helene Schjerfbeck
 [# Spaniard](https://kokoelma.kansallisgalleria.fi/en/object/523245)
-[$$ Portrait of Pope Innocent X](https://kokoelma.kansallisgalleria.fi/en/object/389744)
+[Portrait of Pope Innocent X](https://kokoelma.kansallisgalleria.fi/en/object/389744)
 
 ## Eero Snellman
 [Portrait of the Artist's Mother](https://kokoelma.kansallisgalleria.fi/en/object/395163)
@@ -4493,7 +4493,7 @@
 [Portrait of the Artist’s Mother](https://kokoelma.kansallisgalleria.fi/en/object/473684)
 
 ## Verner Thomé
-[$ Portrait of the Author Emil Elenius](https://kokoelma.kansallisgalleria.fi/en/object/460605)
+[Portrait of the Author Emil Elenius](https://kokoelma.kansallisgalleria.fi/en/object/460605)
 [Portrait of a Woman, Martha Neiglick](https://kokoelma.kansallisgalleria.fi/en/object/449439)
 
 ## Carl Christian Vogel von Vogelstein
