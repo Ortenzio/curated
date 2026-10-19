@@ -510,6 +510,7 @@
 [A Miracle of Saint Francis of Paola](https://www.nga.gov/artworks/212-miracle-saint-francis-paola)
 
 ## Roderic O'Conor
+[$$ Self-Portrait](https://collections.nationalmuseumsni.org/object-belum-u5037)
 [Flowers](https://www.artsbma.org/collection/flowers/)
 
 ## Wojciech Gerson
@@ -740,6 +741,7 @@
 ## Arthur Ambrose McEvoy
 [$ Rue Winterbotham Carpenter](https://www.artic.edu/artworks/104280/rue-winterbotham-carpenter)
 [$ Mrs Claude Johnson](https://www.tate.org.uk/art/artworks/mcevoy-mrs-claude-johnson-n04200)
+[Miss Mary Clare](https://collections.nationalmuseumsni.org/object-belum-u370)
 
 ## Rudolf von Alt
 [Gmunden Town Hall](https://sammlung.belvedere.at/objects/6770/das-rathaus-in-gmunden?)
@@ -4906,16 +4908,28 @@
 ## Aleix Clapés Vilassar de Dalt
 [Retrat d'home](https://www.museunacional.cat/ca/colleccio/retrat-dhome/aleix-clapes/011204-000)
 
+## George Joseph Collie
+[Blighted Hopes](https://collections.nationalmuseumsni.org/object-belum-u279)
 
+## Frederick Sandys
+[Cassandra](https://collections.nationalmuseumsni.org/object-belum-u168)
 
+## William Conor
+[Edna Helen](https://collections.nationalmuseumsni.org/object-hoyfm-104-2000)
+[Portrait of a Woman](https://collections.nationalmuseumsni.org/object-hoyfm-422-2000)
+[Portrait of the Artist as a Young Man](https://collections.nationalmuseumsni.org/object-belum-u264)
 
+## David Bond Walker
+[F. A. C. Mills](https://collections.nationalmuseumsni.org/object-belum-u4486)
 
+## Julie Muntz
+[Miss Iza Munce](https://collections.nationalmuseumsni.org/object-belum-u100)
 
+## Paul Nietsche
+[Portrait of Mr. F.W.H.](https://collections.nationalmuseumsni.org/object-belum-u110)
 
+## Sidney Smith
+[Self-Portrait](https://collections.nationalmuseumsni.org/object-belum-u2650)
 
-
-
-
-
-
-
+## Henry Marriot Paget
+[W.B. Yeats](https://collections.nationalmuseumsni.org/object-belum-u613)

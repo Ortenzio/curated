@@ -104,6 +104,7 @@
 - [National Museum Of Krakow](https://zbiory.mnk.pl/en/search-result/)
 - [National Museum of Poland](https://cyfrowe.mnw.art.pl/en/home)
 - [National Museum Sweden](https://www.nationalmuseum.se/)
+- [National Museums NI](https://www.nationalmuseumsni.org/)
 - [National Portrait Gallery](https://collections.si.edu/)
 - [National Trust Collections](https://www.nationaltrustcollections.org.uk/)
 - [Nelson Atkins](https://art.nelson-atkins.org/objects/images)
@@ -147,5 +148,3 @@
 - [Worcester Art Museum](https://worcester.emuseum.com/collections)
 - [York Museums Trust](https://www.yorkartgallery.org.uk/)
 
-https://www.musee-gassendi.org/en/home-2/
-https://www.nationalmuseumsni.org/
